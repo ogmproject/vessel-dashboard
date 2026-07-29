@@ -1,14 +1,102 @@
 {
-  "generated_at": "2026-07-29T00:00:00+00:00",
+  "generated_at": "2026-07-29T23:36:02+00:00",
   "tps": {
     "alongside": [],
     "schedule": [],
-    "note": "Placeholder — will be replaced automatically after the first GitHub Actions run."
+    "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [],
+    "alongside": [
+      {
+        "name": "2629S",
+        "code": "2629N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "atb": "30/07/2026 03:55",
+        "etd": "30/07/2026 22:00"
+      }
+    ],
+    "schedule": [
+      {
+        "name": "46S",
+        "code": "46N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "atb": "31/07/2026 09:00",
+        "etd": "01/08/2026 17:00",
+        "openstack": "26/07/2026 09:00",
+        "closeC": ""
+      },
+      {
+        "name": "E184",
+        "code": "W185",
+        "type": "INTERNATIONAL",
+        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
+        "atb": "31/07/2026 20:00",
+        "etd": "01/08/2026 13:30",
+        "openstack": "26/07/2026 20:00",
+        "closeC": ""
+      },
+      {
+        "name": "010S",
+        "code": "010N",
+        "type": "INTERNATIONAL",
+        "atb": "01/08/2026 10:00",
+        "etd": "02/08/2026 10:00",
+        "openstack": "27/07/2026 10:00",
+        "closeC": ""
+      },
+      {
+        "name": "0001S",
+        "code": "0001N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "01/08/2026 18:00",
+        "etd": "02/08/2026 18:30",
+        "openstack": "27/07/2026 18:00",
+        "closeC": ""
+      },
+      {
+        "name": "032E",
+        "code": "033W",
+        "type": "INTERNATIONAL",
+        "atb": "02/08/2026 08:00",
+        "etd": "03/08/2026 09:30",
+        "openstack": "28/07/2026 08:00",
+        "closeC": ""
+      },
+      {
+        "name": "2607S",
+        "code": "2607N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "03/08/2026 06:00",
+        "etd": "03/08/2026 20:30",
+        "openstack": "29/07/2026 06:00",
+        "closeC": ""
+      },
+      {
+        "name": "MARINA AURORA",
+        "code": "MAAU010",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "03/08/2026 20:00",
+        "etd": "04/08/2026 20:30",
+        "openstack": "29/07/2026 20:00",
+        "closeC": ""
+      },
+      {
+        "name": "S092",
+        "code": "N092",
+        "type": "INTERNATIONAL",
+        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
+        "atb": "04/08/2026 09:00",
+        "etd": "05/08/2026 09:30",
+        "openstack": "30/07/2026 09:00",
+        "closeC": ""
+      }
+    ],
     "departed": [],
-    "note": "Placeholder — will be replaced automatically after the first GitHub Actions run."
+    "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
