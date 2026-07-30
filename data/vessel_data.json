@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T18:05:20+00:00",
+  "generated_at": "2026-07-30T21:54:29+00:00",
   "tps": {
     "alongside": [],
     "schedule": [],
@@ -124,7 +124,17 @@
         "closeC": "04/08/2026 11:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "WANTAI",
+        "code": "WANT004",
+        "voyage": "2629S        / 2629N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "atb": "30/07/2026 03:55",
+        "etd": "30/07/2026 19:51"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
