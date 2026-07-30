@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T07:44:37+00:00",
+  "generated_at": "2026-07-30T13:17:27+00:00",
   "tps": {
     "alongside": [],
     "schedule": [],
@@ -112,6 +112,16 @@
         "etd": "05/08/2026 12:00",
         "openstack": "30/07/2026 12:00",
         "closeC": "04/08/2026 07:00"
+      },
+      {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM010",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "04/08/2026 16:00",
+        "etd": "04/08/2026 16:30",
+        "openstack": "30/07/2026 16:00",
+        "closeC": "04/08/2026 11:00"
       }
     ],
     "departed": [],
