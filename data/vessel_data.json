@@ -1,22 +1,12 @@
 {
-  "generated_at": "2026-07-30T00:17:31+00:00",
+  "generated_at": "2026-07-30T07:44:37+00:00",
   "tps": {
     "alongside": [],
     "schedule": [],
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "WANTAI",
-        "code": "WANT004",
-        "voyage": "2629S        / 2629N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "30/07/2026 03:55",
-        "etd": "30/07/2026 22:00"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "SEASPAN EMERALD",
@@ -28,6 +18,15 @@
         "etd": "01/08/2026 17:00",
         "openstack": "26/07/2026 09:00",
         "closeC": "31/07/2026 04:00"
+      },
+      {
+        "name": "AFRICAN PHEASANT",
+        "code": "AFAN001",
+        "voyage": "49           / 49",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. SAHA MITRA SAMUDERA",
+        "etb": "31/07/2026 16:00",
+        "etd": "31/07/2026 16:30"
       },
       {
         "name": "INTERASIA FORWARD",
@@ -102,6 +101,17 @@
         "etd": "05/08/2026 09:30",
         "openstack": "30/07/2026 09:00",
         "closeC": "04/08/2026 04:00"
+      },
+      {
+        "name": "CHENNAI VOYAGER",
+        "code": "CHVO009",
+        "voyage": "2607S        / 2607N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "etb": "04/08/2026 12:00",
+        "etd": "05/08/2026 12:00",
+        "openstack": "30/07/2026 12:00",
+        "closeC": "04/08/2026 07:00"
       }
     ],
     "departed": [],
