@@ -1,8 +1,211 @@
 {
-  "generated_at": "2026-07-30T21:54:29+00:00",
+  "generated_at": "2026-07-31T04:04:08+00:00",
   "tps": {
-    "alongside": [],
-    "schedule": [],
+    "alongside": [
+      {
+        "name": "I4 - JOANNA",
+        "code": "088S / 088N",
+        "atb": "30/07/2026 08:15",
+        "etd": "31/07/2026 11:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - INTERASIA ENGAGE",
+        "code": "S042 / N042",
+        "atb": "30/07/2026 10:35",
+        "etd": "31/07/2026 20:00",
+        "verified": false
+      },
+      {
+        "name": "I2 - KOTA MANIS",
+        "code": "0627S / 0627N",
+        "atb": "31/07/2026 10:10",
+        "etd": "01/08/2026 14:00",
+        "verified": false
+      }
+    ],
+    "schedule": [
+      {
+        "name": "EVER BOOMY",
+        "code": "1199-092B / 1199-092B",
+        "eta": "31/07/2026 10:00",
+        "etd": "01/08/2026 05:00",
+        "openstack": "26/07/2026 08:00",
+        "closeC": "31/07/2026 02:00",
+        "closeD": "31/07/2026 05:00",
+        "verified": false
+      },
+      {
+        "name": "MSC IDA II",
+        "code": "XI630R / XI631R",
+        "eta": "31/07/2026 13:00",
+        "etd": "01/08/2026 22:00",
+        "openstack": "25/07/2026 00:00",
+        "closeC": "29/07/2026 18:00",
+        "closeD": "29/07/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "SINAR SULAWESI",
+        "code": "090S / 090N",
+        "eta": "31/07/2026 13:00",
+        "etd": "02/08/2026 02:00",
+        "openstack": "27/07/2026 00:00",
+        "closeC": "31/07/2026 18:00",
+        "closeD": "31/07/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "EVER CONSIST",
+        "code": "0546-067S / 0546-067N",
+        "eta": "01/08/2026 04:00",
+        "etd": "01/08/2026 18:00",
+        "openstack": "26/07/2026 18:00",
+        "closeC": "31/07/2026 12:00",
+        "closeD": "31/07/2026 15:00",
+        "verified": false
+      },
+      {
+        "name": "YM INTERACTION",
+        "code": "293E / 293W",
+        "eta": "01/08/2026 08:00",
+        "etd": "02/08/2026 08:00",
+        "openstack": "25/07/2026 22:00",
+        "closeC": "30/07/2026 16:00",
+        "closeD": "30/07/2026 19:00",
+        "verified": false
+      },
+      {
+        "name": "MARSA PRIDE",
+        "code": "628S / 631N",
+        "eta": "01/08/2026 22:00",
+        "etd": "02/08/2026 14:00",
+        "openstack": "27/07/2026 23:00",
+        "closeC": "01/08/2026 18:00",
+        "closeD": "01/08/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "CMA CGM POINTE PERCEE",
+        "code": "0XLC5S / 0XLC6N",
+        "eta": "02/08/2026 00:01",
+        "etd": "03/08/2026 10:00",
+        "openstack": "24/07/2026 20:00",
+        "closeC": "29/07/2026 14:00",
+        "closeD": "29/07/2026 17:00",
+        "verified": false
+      },
+      {
+        "name": "OEL RUDRA",
+        "code": "629S / 629S",
+        "eta": "02/08/2026 10:00",
+        "etd": "03/08/2026 08:00",
+        "openstack": "27/07/2026 18:00",
+        "closeC": "30/07/2026 12:00",
+        "closeD": "30/07/2026 15:00",
+        "verified": false
+      },
+      {
+        "name": "BRIGHT COSMOS",
+        "code": "029S / 029N",
+        "eta": "02/08/2026 13:00",
+        "etd": "02/08/2026 23:00",
+        "openstack": "27/07/2026 12:00",
+        "closeC": "01/08/2026 06:00",
+        "closeD": "01/08/2026 09:00",
+        "verified": false
+      },
+      {
+        "name": "EVER ORIENT",
+        "code": "0485-111S / 0485-111N",
+        "eta": "02/08/2026 16:00",
+        "etd": "03/08/2026 06:00",
+        "openstack": "28/07/2026 16:00",
+        "closeC": "02/08/2026 10:00",
+        "closeD": "02/08/2026 13:00",
+        "verified": false
+      },
+      {
+        "name": "APL JEDDAH",
+        "code": "0AUFRS / 0AUFSN",
+        "eta": "03/08/2026 10:00",
+        "etd": "04/08/2026 18:00",
+        "openstack": "28/07/2026 00:00",
+        "closeC": "01/08/2026 18:00",
+        "closeD": "01/08/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "MSC AMEERA III",
+        "code": "HV631R / HV631R",
+        "eta": "03/08/2026 12:00",
+        "etd": "04/08/2026 10:00",
+        "openstack": "29/07/2026 02:00",
+        "closeC": "02/08/2026 20:00",
+        "closeD": "02/08/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "KOTA HIDAYAH",
+        "code": "2624S / 2624S",
+        "eta": "04/08/2026 12:00",
+        "etd": "05/08/2026 18:30",
+        "openstack": "30/07/2026 12:00",
+        "closeC": "04/08/2026 06:00",
+        "closeD": "04/08/2026 09:00",
+        "verified": false
+      },
+      {
+        "name": "EVER BEFIT",
+        "code": "1203-081A / 1203-081A",
+        "eta": "04/08/2026 18:00",
+        "etd": "05/08/2026 14:30",
+        "openstack": "30/07/2026 18:00",
+        "closeC": "04/08/2026 12:00",
+        "closeD": "04/08/2026 15:00",
+        "verified": false
+      },
+      {
+        "name": "ZHONG GU JI NAN",
+        "code": "0QAHUS / 0QAHVN",
+        "eta": "04/08/2026 22:00",
+        "etd": "06/08/2026 13:30",
+        "openstack": "30/07/2026 22:00",
+        "closeC": "04/08/2026 16:00",
+        "closeD": "04/08/2026 19:00",
+        "verified": false
+      },
+      {
+        "name": "AS CASPRIA",
+        "code": "379S / 379N",
+        "eta": "05/08/2026 07:00",
+        "etd": "06/08/2026 11:30",
+        "openstack": "31/07/2026 07:00",
+        "closeC": "05/08/2026 01:00",
+        "closeD": "05/08/2026 04:00",
+        "verified": false
+      },
+      {
+        "name": "OEL RUDRA",
+        "code": "630N / 630N",
+        "eta": "05/08/2026 10:00",
+        "etd": "07/08/2026 18:30",
+        "openstack": "31/07/2026 10:00",
+        "closeC": "05/08/2026 04:00",
+        "closeD": "05/08/2026 07:00",
+        "verified": false
+      },
+      {
+        "name": "KMTC INCHEON",
+        "code": "2607S / 2607N",
+        "eta": "08/08/2026 00:30",
+        "etd": "08/08/2026 13:00",
+        "openstack": "03/08/2026 00:00",
+        "closeC": "07/08/2026 18:00",
+        "closeD": "07/08/2026 21:00",
+        "verified": false
+      }
+    ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
