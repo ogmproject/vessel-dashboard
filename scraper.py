@@ -50,39 +50,78 @@ def clean_lines(html: str):
 # Every vessel gets verified:false so the dashboard can flag it clearly.
 # ---------------------------------------------------------------------------
 def parse_tps(html: str):
-    lines = clean_lines(html)
-    alongside, schedule = [], []
-    current = {}
-    section = None
+    """
+    TPS's page text doesn't reliably break onto separate lines per field the
+    way Teluk Lamong's does — sometimes a whole vessel record (name, code,
+    dates) comes through as one long run of text. So instead of reading
+    line-by-line, we normalize everything into one whitespace-collapsed
+    string and pull out each vessel record with a single regex, anchored on
+    the labels ("ETA :", "ETD :", etc.) that are always present.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    text = soup.get_text(" ", strip=True)
+    text = re.sub(r"\s+", " ", text)
 
-    for line in lines:
-        if "Vessel Alongside" in line:
-            section = "alongside"
-            continue
-        if "Vessel Schedule" in line:
-            section = "schedule"
-            continue
+    def slice_section(full_text: str, start_marker: str, end_markers: list) -> str:
+        start = full_text.find(start_marker)
+        if start == -1:
+            return ""
+        start += len(start_marker)
+        end = len(full_text)
+        for marker in end_markers:
+            idx = full_text.find(marker, start)
+            if idx != -1:
+                end = min(end, idx)
+        return full_text[start:end]
 
-        m = re.match(r"^([A-Z0-9 .\-–]+?)\s+([A-Z0-9\-]+\s*/\s*[A-Z0-9\-]+)$", line)
-        if m and "ETA" not in line and "ETD" not in line and "ATB" not in line:
-            if current.get("name"):
-                (alongside if section == "alongside" else schedule).append(current)
-            current = {"name": m.group(1).strip(), "code": m.group(2).strip(), "verified": False}
-        elif "ATB :" in line:
-            current["atb"] = line.split(":", 1)[1].strip()
-        elif "ETA :" in line:
-            current["eta"] = line.split(":", 1)[1].strip()
-        elif "ETD :" in line:
-            current["etd"] = line.split(":", 1)[1].strip()
-        elif "Open Stack :" in line:
-            current["openstack"] = line.split(":", 1)[1].strip()
-        elif "Closing Time Container" in line:
-            current["closeC"] = line.split(":", 1)[1].strip()
-        elif "Closing Time Document" in line:
-            current["closeD"] = line.split(":", 1)[1].strip()
+    date_re = r"\d{2}/\d{2}/\d{4}\s*\d{2}:\d{2}"
 
-    if current.get("name"):
-        (alongside if section == "alongside" else schedule).append(current)
+    alongside_section = slice_section(text, "Vessel Alongside", ["Vessel Schedule", "Container / Cargo"])
+    schedule_section = slice_section(text, "Vessel Schedule", ["Container / Cargo", "Quarantine"])
+
+    alongside_pattern = re.compile(
+        r"([A-Z][A-Z0-9 .\-]{2,40}?)\s+([A-Z0-9\-]+\s*/\s*[A-Z0-9\-]+)\s+"
+        r"ATB\s*:\s*(" + date_re + r")\s+ETD\s*:\s*(" + date_re + r")"
+    )
+    schedule_pattern = re.compile(
+        r"([A-Z][A-Z0-9 .\-]{2,40}?)\s+([A-Z0-9\-]+\s*/\s*[A-Z0-9\-]+)\s+"
+        r"ETA\s*:\s*(" + date_re + r")\s+ETD\s*:\s*(" + date_re + r")\s+"
+        r"Open Stack\s*:\s*(" + date_re + r")\s+"
+        r"Closing Time Container\s*:\s*(" + date_re + r")\s+"
+        r"Closing Time Document\s*:\s*(" + date_re + r")"
+    )
+
+    alongside = []
+    for m in alongside_pattern.finditer(alongside_section):
+        alongside.append({
+            "name": m.group(1).strip(" -–"),
+            "code": m.group(2).strip(),
+            "atb": m.group(3).strip(),
+            "etd": m.group(4).strip(),
+            "verified": False,
+        })
+
+    schedule = []
+    for m in schedule_pattern.finditer(schedule_section):
+        schedule.append({
+            "name": m.group(1).strip(" -–"),
+            "code": m.group(2).strip(),
+            "eta": m.group(3).strip(),
+            "etd": m.group(4).strip(),
+            "openstack": m.group(5).strip(),
+            "closeC": m.group(6).strip(),
+            "closeD": m.group(7).strip(),
+            "verified": False,
+        })
+
+    # Diagnostics: if either section came back empty, print a snippet so the
+    # GitHub Actions log shows us what the page actually looked like this time.
+    if not alongside:
+        print("[warn] TPS alongside: 0 vessels parsed. Section snippet:")
+        print(alongside_section[:500])
+    if not schedule:
+        print("[warn] TPS schedule: 0 vessels parsed. Section snippet:")
+        print(schedule_section[:500])
 
     return alongside, schedule
 
