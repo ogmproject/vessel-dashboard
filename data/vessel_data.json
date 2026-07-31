@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:02:56+00:00",
+  "generated_at": "2026-07-31T23:14:19+00:00",
   "tps": {
     "alongside": [
       {
@@ -213,6 +213,41 @@
         "closeC": "07/08/2026 07:30",
         "closeD": "07/08/2026 10:30",
         "verified": false
+      }
+    ],
+    "movement": [
+      {
+        "name": "s Process Flow WebAccess INTERASIA ENGAGE",
+        "berth": "30/07/2026 10:35",
+        "dep": "31/07/2026 23:59"
+      },
+      {
+        "name": "JOANNA",
+        "berth": "30/07/2026 08:15",
+        "dep": "31/07/2026 11:18",
+        "mmsi": "636016118",
+        "imo": "9204477"
+      },
+      {
+        "name": "CONTSHIP YEN",
+        "berth": "30/07/2026 20:10",
+        "dep": "31/07/2026 10:50",
+        "mmsi": "209692000",
+        "imo": "9664263"
+      },
+      {
+        "name": "KMTC HAIPHONG",
+        "berth": "30/07/2026 15:15",
+        "dep": "31/07/2026 07:15",
+        "mmsi": "538007503",
+        "imo": "9793806"
+      },
+      {
+        "name": "HYUNDAI UNITY",
+        "berth": "29/07/2026 17:30",
+        "dep": "30/07/2026 13:31",
+        "mmsi": "538007483",
+        "imo": "9330719"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
