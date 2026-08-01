@@ -1,50 +1,30 @@
 {
-  "generated_at": "2026-08-01T11:48:35+00:00",
+  "generated_at": "2026-08-01T15:42:10+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - MSC IDA II",
         "code": "XI630R / XI631R",
         "atb": "31/07/2026 15:25",
-        "etd": "01/08/2026 03:00",
+        "etd": "02/08/2026 08:00",
         "verified": false
       },
       {
-        "name": "I3 - EVER CONSIST",
-        "code": "0546-067S / 0546-067N",
-        "atb": "01/08/2026 02:40",
-        "etd": "01/08/2026 19:30",
+        "name": "I2 - SINAR SULAWESI",
+        "code": "090S / 090N",
+        "atb": "01/08/2026 21:55",
+        "etd": "03/08/2026 06:30",
         "verified": false
       },
       {
-        "name": "I2 - KOTA MANIS",
-        "code": "0627S / 0627N",
-        "atb": "31/07/2026 10:10",
-        "etd": "01/08/2026 17:00",
+        "name": "I1 - MARSA PRIDE",
+        "code": "628S / 631N",
+        "atb": "01/08/2026 22:32",
+        "etd": "02/08/2026 14:30",
         "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "MARSA PRIDE",
-        "code": "628S / 631N",
-        "eta": "01/08/2026 18:00",
-        "etd": "02/08/2026 07:00",
-        "openstack": "27/07/2026 23:00",
-        "closeC": "01/08/2026 18:00",
-        "closeD": "01/08/2026 21:00",
-        "verified": false
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "code": "090S / 090N",
-        "eta": "01/08/2026 18:00",
-        "etd": "03/08/2026 03:00",
-        "openstack": "27/07/2026 00:00",
-        "closeC": "31/07/2026 18:00",
-        "closeD": "31/07/2026 21:00",
-        "verified": false
-      },
       {
         "name": "EVER ORIENT",
         "code": "0485-111S / 0485-111N",
@@ -209,6 +189,18 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER CONSIST",
+        "berth": "01/08/2026 02:40",
+        "dep": "01/08/2026 19:43"
+      },
+      {
+        "name": "KOTA MANIS",
+        "berth": "31/07/2026 10:10",
+        "dep": "01/08/2026 18:44",
+        "mmsi": "566773000",
+        "imo": "9632741"
+      },
       {
         "name": "EVER BOOMY",
         "berth": "31/07/2026 14:35",
