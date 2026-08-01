@@ -1,72 +1,55 @@
 {
-  "generated_at": "2026-08-01T07:39:06+00:00",
+  "generated_at": "2026-08-01T11:48:35+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - MSC IDA II",
         "code": "XI630R / XI631R",
         "atb": "31/07/2026 15:25",
-        "etd": "01/08/2026 23:00",
+        "etd": "01/08/2026 03:00",
         "verified": false
       },
       {
         "name": "I3 - EVER CONSIST",
         "code": "0546-067S / 0546-067N",
         "atb": "01/08/2026 02:40",
-        "etd": "01/08/2026 14:30",
+        "etd": "01/08/2026 19:30",
         "verified": false
       },
       {
         "name": "I2 - KOTA MANIS",
         "code": "0627S / 0627N",
         "atb": "31/07/2026 10:10",
-        "etd": "01/08/2026 12:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - EVER BOOMY",
-        "code": "1199-092B / 1199-092B",
-        "atb": "31/07/2026 14:35",
-        "etd": "01/08/2026 12:00",
+        "etd": "01/08/2026 17:00",
         "verified": false
       }
     ],
     "schedule": [
       {
-        "name": "SINAR SULAWESI",
-        "code": "090S / 090N",
-        "eta": "01/08/2026 08:00",
-        "etd": "02/08/2026 23:59",
-        "openstack": "27/07/2026 00:00",
-        "closeC": "31/07/2026 18:00",
-        "closeD": "31/07/2026 21:00",
-        "verified": false
-      },
-      {
         "name": "MARSA PRIDE",
         "code": "628S / 631N",
-        "eta": "01/08/2026 22:00",
-        "etd": "02/08/2026 14:00",
+        "eta": "01/08/2026 18:00",
+        "etd": "02/08/2026 07:00",
         "openstack": "27/07/2026 23:00",
         "closeC": "01/08/2026 18:00",
         "closeD": "01/08/2026 21:00",
         "verified": false
       },
       {
-        "name": "OEL RUDRA",
-        "code": "629S / 629S",
-        "eta": "02/08/2026 01:00",
-        "etd": "03/08/2026 00:01",
-        "openstack": "27/07/2026 18:00",
-        "closeC": "30/07/2026 12:00",
-        "closeD": "30/07/2026 15:00",
+        "name": "SINAR SULAWESI",
+        "code": "090S / 090N",
+        "eta": "01/08/2026 18:00",
+        "etd": "03/08/2026 03:00",
+        "openstack": "27/07/2026 00:00",
+        "closeC": "31/07/2026 18:00",
+        "closeD": "31/07/2026 21:00",
         "verified": false
       },
       {
         "name": "EVER ORIENT",
         "code": "0485-111S / 0485-111N",
-        "eta": "02/08/2026 02:00",
-        "etd": "02/08/2026 16:00",
+        "eta": "02/08/2026 01:30",
+        "etd": "02/08/2026 15:00",
         "openstack": "28/07/2026 16:00",
         "closeC": "02/08/2026 10:00",
         "closeD": "02/08/2026 13:00",
@@ -75,11 +58,31 @@
       {
         "name": "YM INTERACTION",
         "code": "293E / 293W",
-        "eta": "02/08/2026 16:00",
-        "etd": "03/08/2026 14:00",
+        "eta": "02/08/2026 08:00",
+        "etd": "03/08/2026 06:00",
         "openstack": "25/07/2026 22:00",
         "closeC": "30/07/2026 16:00",
         "closeD": "30/07/2026 19:00",
+        "verified": false
+      },
+      {
+        "name": "OEL RUDRA",
+        "code": "629S / 629S",
+        "eta": "02/08/2026 09:00",
+        "etd": "03/08/2026 01:00",
+        "openstack": "27/07/2026 18:00",
+        "closeC": "30/07/2026 12:00",
+        "closeD": "30/07/2026 15:00",
+        "verified": false
+      },
+      {
+        "name": "BRIGHT COSMOS",
+        "code": "029S / 029N",
+        "eta": "02/08/2026 17:00",
+        "etd": "03/08/2026 06:00",
+        "openstack": "27/07/2026 12:00",
+        "closeC": "01/08/2026 06:00",
+        "closeD": "01/08/2026 09:00",
         "verified": false
       },
       {
@@ -90,16 +93,6 @@
         "openstack": "24/07/2026 20:00",
         "closeC": "29/07/2026 14:00",
         "closeD": "29/07/2026 17:00",
-        "verified": false
-      },
-      {
-        "name": "BRIGHT COSMOS",
-        "code": "029S / 029N",
-        "eta": "03/08/2026 02:00",
-        "etd": "03/08/2026 13:00",
-        "openstack": "27/07/2026 12:00",
-        "closeC": "01/08/2026 06:00",
-        "closeD": "01/08/2026 09:00",
         "verified": false
       },
       {
@@ -217,6 +210,13 @@
     ],
     "movement": [
       {
+        "name": "EVER BOOMY",
+        "berth": "31/07/2026 14:35",
+        "dep": "01/08/2026 17:37",
+        "mmsi": "370700000",
+        "imo": "9787015"
+      },
+      {
         "name": "INTERASIA ENGAGE",
         "berth": "30/07/2026 10:35",
         "dep": "31/07/2026 23:59",
@@ -257,6 +257,17 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "SEABREEZE",
+        "code": "SEZE001",
+        "voyage": "0001S        / 0001N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "01/08/2026 17:08",
+        "etd": "02/08/2026 10:00",
+        "mmsi": "636021108",
+        "imo": "9472579"
+      },
+      {
         "name": "SEASPAN EMERALD",
         "code": "SEEM009",
         "voyage": "46S          / 46N",
@@ -266,17 +277,6 @@
         "etd": "02/08/2026 14:00",
         "mmsi": "563279800",
         "imo": "9407134"
-      },
-      {
-        "name": "INTERASIA FORWARD",
-        "code": "INFO001",
-        "voyage": "E184         / W185",
-        "type": "INTERNATIONAL",
-        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
-        "atb": "31/07/2026 23:44",
-        "etd": "01/08/2026 14:00",
-        "mmsi": "563049100",
-        "imo": "9444998"
       }
     ],
     "schedule": [
@@ -290,25 +290,12 @@
         "etd": "31/07/2026 16:30"
       },
       {
-        "name": "SEABREEZE",
-        "code": "SEZE001",
-        "voyage": "0001S        / 0001N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "etb": "01/08/2026 16:00",
-        "etd": "02/08/2026 07:00",
-        "openstack": "27/07/2026 18:00",
-        "closeC": "01/08/2026 13:00",
-        "mmsi": "636021108",
-        "imo": "9472579"
-      },
-      {
         "name": "CELSIUS EINDHOVEN",
         "code": "CEUS010",
         "voyage": "032E         / 033W",
         "type": "INTERNATIONAL",
-        "etb": "02/08/2026 08:00",
-        "etd": "03/08/2026 09:30",
+        "etb": "02/08/2026 12:00",
+        "etd": "03/08/2026 17:00",
         "openstack": "28/07/2026 08:00",
         "closeC": "01/08/2026 20:00",
         "mmsi": "538011074",
