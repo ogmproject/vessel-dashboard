@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T15:42:10+00:00",
+  "generated_at": "2026-08-01T20:02:24+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,14 +13,14 @@
         "name": "I2 - SINAR SULAWESI",
         "code": "090S / 090N",
         "atb": "01/08/2026 21:55",
-        "etd": "03/08/2026 06:30",
+        "etd": "03/08/2026 10:00",
         "verified": false
       },
       {
         "name": "I1 - MARSA PRIDE",
         "code": "628S / 631N",
         "atb": "01/08/2026 22:32",
-        "etd": "02/08/2026 14:30",
+        "etd": "02/08/2026 10:00",
         "verified": false
       }
     ],
@@ -29,7 +29,7 @@
         "name": "EVER ORIENT",
         "code": "0485-111S / 0485-111N",
         "eta": "02/08/2026 01:30",
-        "etd": "02/08/2026 15:00",
+        "etd": "02/08/2026 19:00",
         "openstack": "28/07/2026 16:00",
         "closeC": "02/08/2026 10:00",
         "closeD": "02/08/2026 13:00",
@@ -235,13 +235,6 @@
         "dep": "31/07/2026 07:15",
         "mmsi": "538007503",
         "imo": "9793806"
-      },
-      {
-        "name": "HYUNDAI UNITY",
-        "berth": "29/07/2026 17:30",
-        "dep": "30/07/2026 13:31",
-        "mmsi": "538007483",
-        "imo": "9330719"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
