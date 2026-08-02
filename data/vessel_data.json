@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T07:53:38+00:00",
+  "generated_at": "2026-08-02T11:45:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,7 +13,7 @@
         "name": "I3 - EVER ORIENT",
         "code": "0485-111S / 0485-111N",
         "atb": "02/08/2026 12:02",
-        "etd": "02/08/2026 19:00",
+        "etd": "03/08/2026 19:00",
         "verified": false
       },
       {
@@ -22,19 +22,16 @@
         "atb": "01/08/2026 21:55",
         "etd": "03/08/2026 10:00",
         "verified": false
+      },
+      {
+        "name": "I1 - OEL RUDRA",
+        "code": "629S / 629S",
+        "atb": "02/08/2026 14:55",
+        "etd": "03/08/2026 08:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "OEL RUDRA",
-        "code": "629S / 629S",
-        "eta": "02/08/2026 09:00",
-        "etd": "03/08/2026 01:00",
-        "openstack": "27/07/2026 18:00",
-        "closeC": "30/07/2026 12:00",
-        "closeD": "30/07/2026 15:00",
-        "verified": false
-      },
       {
         "name": "BRIGHT COSMOS",
         "code": "029S / 029N",
@@ -234,50 +231,26 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "SEABREEZE",
-        "code": "SEZE001",
-        "voyage": "0001S        / 0001N",
+        "name": "CELSIUS EINDHOVEN",
+        "code": "CEUS010",
+        "voyage": "032E         / 033W",
         "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "01/08/2026 17:08",
-        "etd": "02/08/2026 16:00",
-        "mmsi": "636021108",
-        "imo": "9472579"
+        "atb": "02/08/2026 17:05",
+        "etd": "03/08/2026 23:00",
+        "mmsi": "538011074",
+        "imo": "9969948"
       },
-      {
-        "name": "SEASPAN EMERALD",
-        "code": "SEEM009",
-        "voyage": "46S          / 46N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "atb": "01/08/2026 05:10",
-        "etd": "02/08/2026 16:00",
-        "mmsi": "563279800",
-        "imo": "9407134"
-      }
-    ],
-    "schedule": [
       {
         "name": "AFRICAN PHEASANT",
         "code": "AFAN001",
         "voyage": "49           / 49",
         "type": "INTERNATIONAL",
         "carrier": "PT. SAHA MITRA SAMUDERA",
-        "etb": "31/07/2026 16:00",
+        "atb": "02/08/2026 11:12",
         "etd": "31/07/2026 16:30"
-      },
-      {
-        "name": "CELSIUS EINDHOVEN",
-        "code": "CEUS010",
-        "voyage": "032E         / 033W",
-        "type": "INTERNATIONAL",
-        "etb": "02/08/2026 18:00",
-        "etd": "03/08/2026 23:00",
-        "openstack": "28/07/2026 08:00",
-        "closeC": "01/08/2026 08:00",
-        "mmsi": "538011074",
-        "imo": "9969948"
-      },
+      }
+    ],
+    "schedule": [
       {
         "name": "BELAWAN",
         "code": "BEAN012",
@@ -399,7 +372,19 @@
         "closeC": "08/08/2026 04:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "SEASPAN EMERALD",
+        "code": "SEEM009",
+        "voyage": "46S          / 46N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "atb": "01/08/2026 05:10",
+        "etd": "02/08/2026 17:28",
+        "mmsi": "563279800",
+        "imo": "9407134"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
