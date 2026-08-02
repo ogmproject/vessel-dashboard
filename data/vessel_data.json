@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T11:45:47+00:00",
+  "generated_at": "2026-08-02T15:47:16+00:00",
   "tps": {
     "alongside": [
       {
@@ -155,6 +155,16 @@
         "imo": "9204477"
       },
       {
+        "name": "EVER OBEY",
+        "code": "0487-056S / 0487-056N",
+        "eta": "06/08/2026 18:00",
+        "etd": "07/08/2026 13:30",
+        "openstack": "01/08/2026 18:00",
+        "closeC": "06/08/2026 12:00",
+        "closeD": "06/08/2026 15:00",
+        "verified": false
+      },
+      {
         "name": "KMTC INCHEON",
         "code": "2607S / 2607N",
         "eta": "07/08/2026 13:30",
@@ -163,6 +173,18 @@
         "closeC": "07/08/2026 07:30",
         "closeD": "07/08/2026 10:30",
         "verified": false
+      },
+      {
+        "name": "MSC IDA II",
+        "code": "XI631R / XI632R",
+        "eta": "08/08/2026 16:00",
+        "etd": "10/08/2026 02:30",
+        "openstack": "03/08/2026 16:00",
+        "closeC": "08/08/2026 10:00",
+        "closeD": "08/08/2026 13:00",
+        "verified": false,
+        "mmsi": "636019861",
+        "imo": "9224946"
       }
     ],
     "movement": [
@@ -239,15 +261,6 @@
         "etd": "03/08/2026 23:00",
         "mmsi": "538011074",
         "imo": "9969948"
-      },
-      {
-        "name": "AFRICAN PHEASANT",
-        "code": "AFAN001",
-        "voyage": "49           / 49",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. SAHA MITRA SAMUDERA",
-        "atb": "02/08/2026 11:12",
-        "etd": "31/07/2026 16:30"
       }
     ],
     "schedule": [
@@ -257,8 +270,8 @@
         "voyage": "2607S        / 2607N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "03/08/2026 07:00",
-        "etd": "04/08/2026 00:00",
+        "etb": "03/08/2026 08:00",
+        "etd": "04/08/2026 01:00",
         "openstack": "29/07/2026 06:00",
         "closeC": "02/08/2026 19:00",
         "mmsi": "477883500",
@@ -373,6 +386,17 @@
       }
     ],
     "departed": [
+      {
+        "name": "SEABREEZE",
+        "code": "SEZE001",
+        "voyage": "0001S        / 0001N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "01/08/2026 17:08",
+        "etd": "02/08/2026 15:48",
+        "mmsi": "636021108",
+        "imo": "9472579"
+      },
       {
         "name": "SEASPAN EMERALD",
         "code": "SEEM009",
