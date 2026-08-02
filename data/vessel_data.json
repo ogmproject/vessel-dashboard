@@ -1,26 +1,19 @@
 {
-  "generated_at": "2026-08-02T20:01:21+00:00",
+  "generated_at": "2026-08-02T23:42:09+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - YM INTERACTION",
         "code": "293E / 293W",
         "atb": "02/08/2026 12:16",
-        "etd": "03/08/2026 08:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - EVER ORIENT",
-        "code": "0485-111S / 0485-111N",
-        "atb": "02/08/2026 12:02",
-        "etd": "03/08/2026 05:00",
+        "etd": "03/08/2026 06:30",
         "verified": false
       },
       {
         "name": "I2 - SINAR SULAWESI",
         "code": "090S / 090N",
         "atb": "01/08/2026 21:55",
-        "etd": "03/08/2026 06:00",
+        "etd": "03/08/2026 05:30",
         "verified": false
       },
       {
@@ -188,6 +181,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER ORIENT",
+        "berth": "02/08/2026 12:02",
+        "dep": "03/08/2026 05:39"
+      },
       {
         "name": "MARSA PRIDE",
         "berth": "01/08/2026 22:32",
