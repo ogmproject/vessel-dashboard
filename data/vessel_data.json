@@ -1,12 +1,19 @@
 {
-  "generated_at": "2026-08-01T23:42:42+00:00",
+  "generated_at": "2026-08-02T07:53:38+00:00",
   "tps": {
     "alongside": [
       {
-        "name": "I4 - MSC IDA II",
-        "code": "XI630R / XI631R",
-        "atb": "31/07/2026 15:25",
-        "etd": "02/08/2026 08:00",
+        "name": "I4 - YM INTERACTION",
+        "code": "293E / 293W",
+        "atb": "02/08/2026 12:16",
+        "etd": "03/08/2026 06:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - EVER ORIENT",
+        "code": "0485-111S / 0485-111N",
+        "atb": "02/08/2026 12:02",
+        "etd": "02/08/2026 19:00",
         "verified": false
       },
       {
@@ -15,36 +22,9 @@
         "atb": "01/08/2026 21:55",
         "etd": "03/08/2026 10:00",
         "verified": false
-      },
-      {
-        "name": "I1 - MARSA PRIDE",
-        "code": "628S / 631N",
-        "atb": "01/08/2026 22:32",
-        "etd": "02/08/2026 07:00",
-        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "EVER ORIENT",
-        "code": "0485-111S / 0485-111N",
-        "eta": "02/08/2026 01:30",
-        "etd": "02/08/2026 19:00",
-        "openstack": "28/07/2026 16:00",
-        "closeC": "02/08/2026 10:00",
-        "closeD": "02/08/2026 13:00",
-        "verified": false
-      },
-      {
-        "name": "YM INTERACTION",
-        "code": "293E / 293W",
-        "eta": "02/08/2026 08:00",
-        "etd": "03/08/2026 06:00",
-        "openstack": "25/07/2026 22:00",
-        "closeC": "30/07/2026 16:00",
-        "closeD": "30/07/2026 19:00",
-        "verified": false
-      },
       {
         "name": "OEL RUDRA",
         "code": "629S / 629S",
@@ -190,6 +170,18 @@
     ],
     "movement": [
       {
+        "name": "MARSA PRIDE",
+        "berth": "01/08/2026 22:32",
+        "dep": "02/08/2026 13:15"
+      },
+      {
+        "name": "MSC IDA II",
+        "berth": "31/07/2026 15:25",
+        "dep": "02/08/2026 08:54",
+        "mmsi": "636019861",
+        "imo": "9224946"
+      },
+      {
         "name": "EVER CONSIST",
         "berth": "01/08/2026 02:40",
         "dep": "01/08/2026 19:43"
@@ -248,7 +240,7 @@
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
         "atb": "01/08/2026 17:08",
-        "etd": "02/08/2026 14:00",
+        "etd": "02/08/2026 16:00",
         "mmsi": "636021108",
         "imo": "9472579"
       },
@@ -259,7 +251,7 @@
         "type": "INTERNATIONAL",
         "carrier": "GOLD STAR LINE LTD",
         "atb": "01/08/2026 05:10",
-        "etd": "02/08/2026 14:00",
+        "etd": "02/08/2026 16:00",
         "mmsi": "563279800",
         "imo": "9407134"
       }
@@ -279,8 +271,8 @@
         "code": "CEUS010",
         "voyage": "032E         / 033W",
         "type": "INTERNATIONAL",
-        "etb": "02/08/2026 16:00",
-        "etd": "03/08/2026 21:00",
+        "etb": "02/08/2026 18:00",
+        "etd": "03/08/2026 23:00",
         "openstack": "28/07/2026 08:00",
         "closeC": "01/08/2026 08:00",
         "mmsi": "538011074",
@@ -292,8 +284,8 @@
         "voyage": "2607S        / 2607N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "03/08/2026 06:00",
-        "etd": "03/08/2026 20:30",
+        "etb": "03/08/2026 07:00",
+        "etd": "04/08/2026 00:00",
         "openstack": "29/07/2026 06:00",
         "closeC": "02/08/2026 19:00",
         "mmsi": "477883500",
@@ -304,8 +296,8 @@
         "code": "WAAN004",
         "voyage": "010S         / 010N",
         "type": "INTERNATIONAL",
-        "etb": "03/08/2026 18:00",
-        "etd": "04/08/2026 13:00",
+        "etb": "03/08/2026 11:00",
+        "etd": "04/08/2026 00:00",
         "openstack": "29/07/2026 18:00",
         "closeC": "01/08/2026 05:00",
         "mmsi": "352006269",
@@ -384,6 +376,27 @@
         "etd": "07/08/2026 08:30",
         "openstack": "01/08/2026 08:00",
         "closeC": "06/08/2026 03:00"
+      },
+      {
+        "name": "XIN HANG ZHOU",
+        "code": "XIZO002",
+        "voyage": "215E         / 216W",
+        "type": "INTERNATIONAL",
+        "etb": "07/08/2026 12:00",
+        "etd": "08/08/2026 12:00",
+        "openstack": "02/08/2026 12:00",
+        "closeC": "07/08/2026 07:00"
+      },
+      {
+        "name": "KMTC SHIMIZU",
+        "code": "KMZU027",
+        "voyage": "2607S        / 2607N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "etb": "08/08/2026 09:00",
+        "etd": "09/08/2026 09:00",
+        "openstack": "03/08/2026 09:00",
+        "closeC": "08/08/2026 04:00"
       }
     ],
     "departed": [],
