@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T17:15:50+00:00",
+  "generated_at": "2026-08-03T17:32:04+00:00",
   "tps": {
     "alongside": [
       {
@@ -69,7 +69,7 @@
         "verified": false,
         "mmsi": "538009605",
         "imo": "9315343",
-        "location": "Singapore Strait"
+        "location": "South China Sea"
       },
       {
         "name": "OEL RUDRA",
@@ -238,7 +238,17 @@
         "verified": false,
         "mmsi": "538009605",
         "imo": "9315343",
-        "location": "Singapore Strait"
+        "location": "South China Sea"
+      },
+      {
+        "name": "MSC CHERYL 3",
+        "code": "HC629A / HC631R",
+        "eta": "10/08/2026 00:00",
+        "etd": "11/08/2026 06:30",
+        "openstack": "05/08/2026 00:00",
+        "closeC": "09/08/2026 18:00",
+        "closeD": "09/08/2026 21:00",
+        "verified": false
       }
     ],
     "movement": [
