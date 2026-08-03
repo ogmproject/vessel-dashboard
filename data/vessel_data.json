@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T10:15:33+00:00",
+  "generated_at": "2026-08-03T10:30:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -301,17 +301,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "SEASPAN EMERALD",
-        "code": "SEEM009",
-        "voyage": "46S          / 46N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "atb": "01/08/2026 05:10",
-        "etd": "02/08/2026 17:28",
-        "mmsi": "563279800",
-        "imo": "9407134"
-      },
       {
         "name": "BELAWAN",
         "code": "BEAN012",
