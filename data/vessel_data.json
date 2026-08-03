@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:01:04+00:00",
+  "generated_at": "2026-08-03T09:16:18+00:00",
   "tps": {
     "alongside": [
       {
@@ -305,6 +305,17 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "SEASPAN EMERALD",
+        "code": "SEEM009",
+        "voyage": "46S          / 46N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "atb": "01/08/2026 05:10",
+        "etd": "02/08/2026 17:28",
+        "mmsi": "563279800",
+        "imo": "9407134"
+      },
+      {
         "name": "BELAWAN",
         "code": "BEAN012",
         "voyage": "2607S        / 2607N",
@@ -359,7 +370,7 @@
         "etb": "04/08/2026 12:00",
         "etd": "05/08/2026 12:00",
         "openstack": "30/07/2026 12:00",
-        "closeC": "04/08/2026 07:00"
+        "closeC": "05/08/2026 02:00"
       },
       {
         "name": "YONG SHENG",
@@ -434,19 +445,7 @@
         "closeC": "08/08/2026 04:00"
       }
     ],
-    "departed": [
-      {
-        "name": "SEASPAN EMERALD",
-        "code": "SEEM009",
-        "voyage": "46S          / 46N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "atb": "01/08/2026 05:10",
-        "etd": "02/08/2026 17:28",
-        "mmsi": "563279800",
-        "imo": "9407134"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
