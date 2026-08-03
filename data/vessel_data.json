@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T08:45:41+00:00",
+  "generated_at": "2026-08-03T09:01:04+00:00",
   "tps": {
     "alongside": [
       {
@@ -225,6 +225,16 @@
         "verified": false
       },
       {
+        "name": "STARSHIP VENUS",
+        "code": "2606S / 2606N",
+        "eta": "09/08/2026 01:00",
+        "etd": "10/08/2026 01:30",
+        "openstack": "04/08/2026 01:00",
+        "closeC": "08/08/2026 19:00",
+        "closeD": "08/08/2026 22:00",
+        "verified": false
+      },
+      {
         "name": "BRICKELL",
         "code": "631N / 631N",
         "eta": "09/08/2026 06:00",
@@ -235,16 +245,6 @@
         "verified": false,
         "mmsi": "538009605",
         "imo": "9315343"
-      },
-      {
-        "name": "STARSHIP VENUS",
-        "code": "2606S / 2606N",
-        "eta": "09/08/2026 19:00",
-        "etd": "10/08/2026 19:30",
-        "openstack": "04/08/2026 19:00",
-        "closeC": "09/08/2026 13:00",
-        "closeD": "09/08/2026 16:00",
-        "verified": false
       }
     ],
     "movement": [
@@ -435,17 +435,6 @@
       }
     ],
     "departed": [
-      {
-        "name": "SEABREEZE",
-        "code": "SEZE001",
-        "voyage": "0001S        / 0001N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "01/08/2026 17:08",
-        "etd": "02/08/2026 15:48",
-        "mmsi": "636021108",
-        "imo": "9472579"
-      },
       {
         "name": "SEASPAN EMERALD",
         "code": "SEEM009",
