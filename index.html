@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Shipping Smart Vessel Traffic — TPS Surabaya × Teluk Lamong</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap');
+
+:root{
+  --bg: #08141f;
+  --panel: #0f2436;
+  --panel-2: #122a3e;
+  --line: #1e3a52;
+  --text: #e8f0f5;
+  --muted: #6f8aa0;
+  --tps: #22c1b8;
+  --tps-dim: rgba(34,193,184,0.12);
+  --tl: #ff9142;
+  --tl-dim: rgba(255,145,66,0.12);
+  --alert: #ff5d6c;
+  --good: #4ade80;
+}
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:'IBM Plex Sans',sans-serif;height:100%;overflow-x:hidden;}
+.mono{font-family:'IBM Plex Mono',monospace;}
+
+/* ---------- topbar ---------- */
+.topbar{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:14px 22px;border-bottom:1px solid var(--line);
+  background:linear-gradient(180deg, #0c1e2e 0%, #08141f 100%);
+}
+.brand{display:flex;align-items:center;gap:12px;}
+.brand-mark{
+  width:38px;height:38px;border-radius:9px;
+  background:linear-gradient(135deg, var(--tps), var(--tl));
+  position:relative;flex-shrink:0;
+  display:flex;align-items:center;justify-content:center;
+}
+.brand-mark::after{
+  content:"";position:absolute;bottom:-2px;right:-2px;width:9px;height:9px;
+  border-radius:50%;background:var(--good);border:2px solid var(--bg);
+  box-shadow:0 0 0 0 rgba(74,222,128,0.6);
+  animation:radar 2.2s infinite;
+}
+@keyframes radar{
+  0%{box-shadow:0 0 0 0 rgba(74,222,128,0.55);}
+  70%{box-shadow:0 0 0 10px rgba(74,222,128,0);}
+  100%{box-shadow:0 0 0 0 rgba(74,222,128,0);}
+}
+.brand h1{font-size:16px;margin:0;font-weight:600;letter-spacing:.2px;}
+.brand p{margin:1px 0 0;font-size:11.5px;color:var(--muted);}
+.status{display:flex;align-items:center;gap:22px;}
+
+.search-wrap{
+  display:flex;align-items:center;gap:8px;background:var(--panel-2);
+  border:1px solid var(--line);border-radius:8px;padding:7px 12px;flex:1;max-width:340px;margin:0 20px;
+  color:var(--muted);transition:border-color .15s;
+}
+.search-wrap:focus-within{border-color:var(--tps);color:var(--text);}
+.search-wrap input{
+  background:none;border:none;outline:none;color:var(--text);font-family:'IBM Plex Sans',sans-serif;
+  font-size:13px;flex:1;min-width:0;
+}
+.search-wrap input::placeholder{color:var(--muted);}
+.search-count{font-size:11px;color:var(--muted);white-space:nowrap;}
+.card.no-match{display:none;}
+mark{background:rgba(255,193,7,0.35);color:inherit;border-radius:2px;padding:0 1px;}
+.empty-state{padding:16px 4px;font-size:12px;color:var(--muted);text-align:center;font-style:italic;}
+
+.pos-row{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap;}
+.location-tag{
+  font-size:11px;color:#7cc4ff;margin-top:6px;font-style:italic;
+  display:flex;align-items:center;gap:4px;
+}
+.location-tag b{color:#a8d8ff;font-style:normal;}
+.card.compact .location-tag{font-size:10px;margin-top:4px;}
+.pos-link{
+  display:inline-flex;align-items:center;gap:5px;
+  font-size:10.5px;font-weight:600;color:var(--good);text-decoration:none;
+  border:1px solid rgba(74,222,128,0.35);background:rgba(74,222,128,0.08);
+  padding:4px 8px;border-radius:6px;transition:.15s;white-space:nowrap;
+}
+.pos-link:hover{background:rgba(74,222,128,0.18);border-color:var(--good);}
+.pos-link.mt{color:#7cc4ff;border-color:rgba(124,196,255,0.35);background:rgba(124,196,255,0.08);}
+.pos-link.mt:hover{background:rgba(124,196,255,0.18);border-color:#7cc4ff;}
+.pos-link.search{color:var(--muted);border-color:var(--line);background:transparent;}
+.pos-link.search:hover{color:var(--text);border-color:var(--muted);}
+.pos-link.disabled{
+  color:var(--muted);border-color:var(--line);background:transparent;cursor:default;
+}
+
+.clock{font-size:20px;font-weight:600;letter-spacing:1px;}
+.clock span{color:var(--muted);font-size:11px;display:block;font-weight:400;letter-spacing:.5px;margin-top:1px;}
+.sync{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--muted);}
+.data-badge{font-size:10px;font-weight:700;padding:2px 7px;border-radius:5px;letter-spacing:.3px;display:inline-flex;align-items:center;}
+.data-badge.live{background:rgba(74,222,128,0.12);color:var(--good);}
+.data-badge.static{background:rgba(255,193,7,0.12);color:#ffc107;}
+.data-badge.stale{background:rgba(255,93,108,0.15);color:var(--alert);animation:pulse 1.6s infinite;}
+.dot{width:7px;height:7px;border-radius:50%;background:var(--good);animation:pulse 1.6s infinite;}
+@keyframes pulse{0%,100%{opacity:1;}50%{opacity:.35;}}
+.refresh-btn{
+  background:var(--panel-2);border:1px solid var(--line);color:var(--text);
+  padding:7px 14px;border-radius:7px;font-size:12px;cursor:pointer;font-family:inherit;
+  display:flex;align-items:center;gap:6px;transition:.15s;
+}
+.refresh-btn:hover{border-color:var(--tps);color:var(--tps);}
+.refresh-btn svg{transition:transform .5s;}
+.refresh-btn.spin svg{transform:rotate(360deg);}
+
+/* ---------- ticker ---------- */
+.ticker-wrap{
+  background:var(--panel);border-bottom:1px solid var(--line);
+  overflow:hidden;white-space:nowrap;position:relative;height:34px;display:flex;align-items:center;
+}
+.ticker-label{
+  background:var(--alert);color:#1a0505;font-size:11px;font-weight:700;
+  padding:5px 12px;height:100%;display:flex;align-items:center;letter-spacing:.5px;z-index:2;flex-shrink:0;
+}
+.ticker-track{display:inline-flex;animation:scroll 90s linear infinite;padding-left:100%;}
+.ticker-track span{margin-right:48px;font-size:12.5px;color:var(--text);}
+.ticker-track b{color:var(--tl);}
+@keyframes scroll{from{transform:translateX(0);}to{transform:translateX(-100%);}}
+
+/* ---------- layout ---------- */
+.grid{
+  display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--line);
+}
+@media(max-width:980px){.grid{grid-template-columns:1fr;}}
+
+.terminal{background:var(--bg);display:flex;flex-direction:column;}
+.terminal-head{
+  padding:16px 20px 12px;display:flex;align-items:center;justify-content:space-between;
+}
+.terminal-head h2{margin:0;font-size:15px;font-weight:600;display:flex;align-items:center;gap:9px;}
+.badge{
+  font-size:10px;font-weight:700;padding:3px 8px;border-radius:5px;letter-spacing:.5px;
+}
+.tps-badge{background:var(--tps-dim);color:var(--tps);}
+.tl-badge{background:var(--tl-dim);color:var(--tl);}
+.terminal-head .src{font-size:11px;color:var(--muted);}
+
+.section-label{
+  padding:8px 20px;font-size:11px;font-weight:700;letter-spacing:1px;
+  text-transform:uppercase;border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+}
+.section-label.lbl-alongside{background:rgba(34,193,184,0.14);color:#5eead4;}
+.section-label.lbl-schedule{background:rgba(255,145,66,0.14);color:#ffb37a;}
+.section-label.lbl-extra{background:rgba(148,163,184,0.14);color:#b8c4d0;}
+
+.cards{padding:12px 20px;display:flex;flex-direction:column;gap:10px;}
+.cards.sec-alongside{background:#0f2e2b;border-top:2px solid #22c1b8;border-bottom:1px solid rgba(34,193,184,0.3);}
+.cards.sec-schedule{background:#2e2210;border-top:2px solid #ff9142;border-bottom:1px solid rgba(255,145,66,0.3);}
+.cards.sec-extra{background:#20242c;border-top:2px solid #6f8aa0;border-bottom:1px solid rgba(148,163,184,0.3);}
+.cards::-webkit-scrollbar{width:6px;}
+.cards::-webkit-scrollbar-thumb{background:var(--line);border-radius:3px;}
+
+.card{
+  background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:12px 14px;
+  border-left:3px solid var(--tps);
+}
+.card.compact{padding:8px 12px;border-radius:7px;}
+.card.compact .card-top{margin-bottom:3px;}
+.card.compact .vessel-name{font-size:12.5px;}
+.card.compact .vcode{font-size:10px;margin-bottom:3px!important;}
+.card.compact .card-rows{gap:2px 12px;font-size:11px;}
+.card.compact .pos-row{margin-top:5px;gap:5px;}
+.card.compact .pos-link{padding:3px 7px;font-size:10px;}
+.tl .card{border-left-color:var(--tl);}
+
+.card.departed{
+  border-left-color:var(--muted);
+  background:repeating-linear-gradient(135deg, var(--panel), var(--panel) 10px, rgba(111,138,160,0.06) 10px, rgba(111,138,160,0.06) 20px);
+  opacity:0.82;
+}
+.card.departed .vessel-name{color:var(--muted);text-decoration:line-through;text-decoration-color:rgba(111,138,160,0.5);}
+.departed-tag{
+  font-size:9px;font-weight:700;letter-spacing:.5px;color:var(--muted);
+  background:rgba(111,138,160,0.15);padding:2px 6px;border-radius:4px;margin-left:6px;
+  text-decoration:none;display:inline-block;vertical-align:middle;
+}
+.card-top{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:6px;}
+.vessel-name{font-weight:600;font-size:13.5px;}
+.vcode{font-size:11px;color:var(--muted);}
+.card-rows{display:grid;grid-template-columns:1fr 1fr;gap:3px 14px;font-size:12px;color:var(--muted);}
+.card-rows b{color:var(--text);font-weight:500;}
+.closing{color:var(--alert)!important;font-weight:600;}
+.openstack{color:var(--good)!important;font-weight:600;}
+
+footer{
+  padding:12px 22px;border-top:1px solid var(--line);
+  font-size:11px;color:var(--muted);
+  display:flex;flex-direction:column;gap:8px;
+}
+.footer-row{display:flex;justify-content:space-between;}
+.footer-credit{
+  text-align:center;font-size:11px;color:var(--muted);
+  padding-top:8px;border-top:1px dashed var(--line);
+}
+.footer-credit b{color:var(--text);}
+footer a{color:var(--tps);text-decoration:none;}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="brand">
+    <div class="brand-mark">
+      <svg viewBox="0 0 48 48" width="26" height="26" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M8 27h32l-3.5 10c-.5 1.5-2 2.5-3.6 2.5H15.1c-1.6 0-3.1-1-3.6-2.5L8 27Z" fill="#e8f0f5"/>
+        <path d="M13 27V13a2 2 0 0 1 2-2h5v-4h8v4h5a2 2 0 0 1 2 2v14" stroke="#e8f0f5" stroke-width="2" stroke-linejoin="round"/>
+        <path d="M4 33c2.5 2 5.5 2 8 0s5.5-2 8 0 5.5 2 8 0 5.5-2 8 0 5.5 2 8 0" stroke="#22c1b8" stroke-width="2.2" stroke-linecap="round"/>
+      </svg>
+    </div>
+    <div>
+      <h1>Shipping Smart Vessel Traffic</h1>
+      <p>TPS Surabaya + Teluk Lamong — one screen, one picture</p>
+    </div>
+  </div>
+  <div class="search-wrap">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+    <input id="vesselSearch" type="text" placeholder="Search vessel name…" autocomplete="off" oninput="filterVessels()">
+    <span id="searchCount" class="search-count"></span>
+  </div>
+  <div class="status">
+    <div class="sync">
+      <span class="dot"></span>
+      <span id="syncText">Data as of <span id="fetchTimeLabel"></span></span>
+      <span id="liveBadge" class="data-badge live" style="display:none;">🟢 LIVE (auto-refreshing)</span>
+      <span id="staleBadge" class="data-badge stale" style="display:none;"></span>
+      <span id="staticBadge" class="data-badge static" style="display:none;">🟡 STATIC SNAPSHOT</span>
+    </div>
+    <button class="refresh-btn" id="refreshBtn" onclick="doRefresh()">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M21 12a9 9 0 1 1-2.6-6.4"/><path d="M21 4v6h-6"/></svg>
+      Refresh
+    </button>
+    <div class="clock mono" id="clockTime">--:--:--<span id="clockDate">-- --- ----</span></div>
+  </div>
+</div>
+
+<div class="ticker-wrap">
+  <div class="ticker-label">CLOSING TIME</div>
+  <div class="ticker-track" id="tickerTrack"></div>
+</div>
+
+<div class="grid">
+  <!-- TPS SURABAYA -->
+  <div class="terminal tps">
+    <div class="terminal-head">
+      <h2><span class="badge tps-badge">TPS</span> TPS Surabaya (Pelindo)</h2>
+      <span class="src">webaccess.tps.co.id</span>
+    </div>
+    <div style="margin:0 20px 8px;padding:8px 12px;background:rgba(255,93,108,0.1);border:1px solid rgba(255,93,108,0.3);border-radius:7px;font-size:11.5px;color:#ffb3ba;">
+      ⚠ TPS's public site does not label routes as Domestic/International. The data below is <b>unverified for route type</b> — please double-check manually before using it for operational decisions.
+    </div>
+
+    <div class="section-label lbl-alongside">Vessel Alongside</div>
+    <div class="cards sec-alongside" id="tpsAlongside"></div>
+
+    <div class="section-label lbl-schedule">Vessel Schedule</div>
+    <div class="cards sec-schedule" id="tpsSchedule"></div>
+
+    <div class="section-label lbl-extra">Recent Movement (Berthing / Departure)</div>
+    <div class="cards sec-extra" id="tpsMovement"></div>
+  </div>
+
+  <!-- TELUK LAMONG -->
+  <div class="terminal tl">
+    <div class="terminal-head">
+      <h2><span class="badge tl-badge">TL</span> Teluk Lamong <span style="font-size:10px;background:var(--good);color:#04240f;padding:2px 7px;border-radius:5px;margin-left:4px;">FILTER: INTERNATIONAL</span></h2>
+      <span class="src">app.teluklamong.co.id</span>
+    </div>
+
+    <div class="section-label lbl-alongside">Vessel Alongside</div>
+    <div class="cards sec-alongside" id="tlAlongside"></div>
+
+    <div class="section-label lbl-schedule">Vessel Schedule</div>
+    <div class="cards sec-schedule" id="tlSchedule"></div>
+
+    <div class="section-label lbl-extra">Vessel Has Been Departed (24 Hours)</div>
+    <div class="cards sec-extra" id="tlDeparted"></div>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-row">
+    <span>Original data pulled directly from webaccess.tps.co.id &amp; app.teluklamong.co.id (public schedule pages, no login required).</span>
+    <span id="lastUpdated"></span>
+  </div>
+  <div class="footer-credit">
+    🚢 Built by <b>Hary Priyanto</b> × Claude (Anthropic) — a collaboration, not a solo effort.
+  </div>
+</footer>
+
+<script>
+// These must be declared first, at the very top — several functions below
+// (loadLiveData, tick, updateStaleness) reference them, and a previous bug
+// here (declaring them further down the file) caused the whole script to
+// crash immediately on page load with "Cannot access before initialization".
+let lastGeneratedAt = null;   // set by loadLiveData() on a successful live pull
+const STALE_WARN_MINUTES = 45;   // expect a fresh pull every ~15 min; warn well before it looks "normal"
+const STALE_CRITICAL_MINUTES = 120;
+
+// ---------------- ORIGINAL DATA — FILTERED: INTERNATIONAL VESSEL DEPARTURES ONLY ----------------
+const FETCH_TIME = "July 29, 2026 (corrected & refreshed)";
+
+// TPS Surabaya: the public site does NOT label domestic/international.
+// The data below is shown AS-IS with an "unverified" flag —
+// do NOT assume it is automatically international.
+const tpsAlongside = [
+  {name:"I4 – WAN HAI 327", code:"S066 / N066", atb:"27/07/2026 15:25", etd:"28/07/2026 10:00", mmsi:"563124300", imo:"9871490"},
+  {name:"I3 – BRICKELL", code:"628S / 629N", atb:"26/07/2026 12:40", etd:"28/07/2026 16:00", mmsi:"538009605", imo:"9315343"},
+  {name:"I2 – XIN YAN TAI", code:"272S / 272N", atb:"28/07/2026 01:15", etd:"29/07/2026 06:00", mmsi:"413125000", imo:"9304801"},
+];
+const tpsSchedule = [
+  {name:"EVER BUILD", code:"1201-087A / 1201-087A", eta:"28/07/2026 18:00", etd:"29/07/2026 14:00", openstack:"23/07/2026 08:00", closeC:"28/07/2026 02:00", closeD:"28/07/2026 05:00", mmsi:"370616000", imo:"9790062"},
+  {name:"MSC MALENA III", code:"HC627A / HC629R", eta:"28/07/2026 22:00", etd:"29/07/2026 14:00", openstack:"23/07/2026 00:00", closeC:"27/07/2026 18:00", closeD:"27/07/2026 21:00", mmsi:"636020360", imo:"9203538"},
+  {name:"HYUNDAI UNITY", code:"0183S / 0183N", eta:"29/07/2026 16:00", etd:"30/07/2026 16:00", openstack:"23/07/2026 16:00", closeC:"28/07/2026 10:00", closeD:"28/07/2026 13:00", mmsi:"538007483", imo:"9330719"},
+  {name:"JOANNA", code:"088S / 088N", eta:"30/07/2026 06:00", etd:"31/07/2026 10:00", openstack:"24/07/2026 08:00", closeC:"29/07/2026 02:00", closeD:"29/07/2026 05:00", mmsi:"636016118", imo:"9204477"},
+  {name:"KMTC HAIPHONG", code:"2606S / 2606N", eta:"30/07/2026 07:00", etd:"30/07/2026 23:00", openstack:"25/07/2026 06:00", closeC:"30/07/2026 00:00", closeD:"30/07/2026 03:00", mmsi:"538007503", imo:"9793806"},
+  {name:"INTERASIA ENGAGE", code:"S042 / N042", eta:"30/07/2026 10:00", etd:"31/07/2026 10:00", openstack:"24/07/2026 18:00", closeC:"29/07/2026 12:00", closeD:"29/07/2026 15:00", mmsi:"563169200", imo:"9771664"},
+  {name:"MSC IDA II", code:"XI630R / XI631R", eta:"30/07/2026 18:00", etd:"01/08/2026 06:00", openstack:"25/07/2026 00:00", closeC:"29/07/2026 18:00", closeD:"29/07/2026 21:00", mmsi:"636019861", imo:"9224946"},
+  {name:"EVER BOOMY", code:"1199-092B / 1199-092B", eta:"31/07/2026 01:00", etd:"31/07/2026 17:00", openstack:"26/07/2026 08:00", closeC:"31/07/2026 02:00", closeD:"31/07/2026 05:00", mmsi:"370700000", imo:"9787015"},
+  {name:"CONTSHIP YEN", code:"1926S / 1926S", eta:"31/07/2026 12:00", etd:"01/08/2026 00:01", openstack:"25/07/2026 20:00", closeC:"30/07/2026 14:00", closeD:"30/07/2026 17:00", mmsi:"209692000", imo:"9664263"},
+  {name:"KOTA MANIS", code:"0627S / 0627N", eta:"31/07/2026 12:00", etd:"01/08/2026 14:00", openstack:"25/07/2026 12:00", closeC:"30/07/2026 06:00", closeD:"30/07/2026 09:00", mmsi:"566773000", imo:"9632741"},
+];
+
+const tpsMovement = [
+  {name:"SITC BATANGAS", berth:"27/07/2026 08:40", dep:"28/07/2026 00:10", mmsi:"477401900", imo:"9845738"},
+  {name:"WAN HAI 375", berth:"26/07/2026 10:48", dep:"27/07/2026 05:04", mmsi:"563232800", imo:"9958121"},
+];
+
+// Teluk Lamong: ONLY vessels labeled INTERNATIONAL on the original site are included.
+// There are currently NO international vessels alongside — every vessel currently
+// berthed is labeled DOMESTIC, so the list below is intentionally empty (not a bug).
+const tlAlongside = [];
+
+const tlSchedule = [
+  {name:"WANTAI", code:"WANT004 · 2629S/2629N · SCJX", carrier:"SEA CONSORTIUM PTE LTD", etb:"30/07/2026 03:00", etd:"30/07/2026 23:30", openstack:"25/07/2026 03:00", closeC:"29/07/2026 18:00", mmsi:"636024258", imo:"9168207"},
+  {name:"SEASPAN EMERALD", code:"SEEM009 · 46S/46N · CTI", carrier:"GOLD STAR LINE LTD", etb:"31/07/2026 09:00", etd:"01/08/2026 17:00", openstack:"26/07/2026 09:00", closeC:"31/07/2026 04:00", mmsi:"563279800", imo:"9407134"},
+  {name:"INTERASIA FORWARD", code:"INFO001 · E184/W185 · SI8", carrier:"INTERASIA LINES SINGAPORE PTE.LTD", etb:"31/07/2026 20:00", etd:"01/08/2026 13:30", openstack:"26/07/2026 20:00", closeC:"31/07/2026 13:00", mmsi:"563049100", imo:"9444998"},
+  {name:"WAN HANG HENG YUAN", code:"WAAN004 · 010S/010N · CSE", carrier:"COSCO SHIPPING LINES", etb:"01/08/2026 10:00", etd:"02/08/2026 10:00", openstack:"27/07/2026 10:00", closeC:"01/08/2026 05:00", mmsi:"352006269", imo:"1115565"},
+  {name:"SEABREEZE", code:"SEZE001 · 0001S/0001N · KIS", carrier:"HMM CO.,LTD", etb:"01/08/2026 18:00", etd:"02/08/2026 18:30", openstack:"27/07/2026 18:00", closeC:"01/08/2026 13:00", mmsi:"636021108", imo:"9472579"},
+  {name:"CELSIUS EINDHOVEN", code:"CEUS010 · 032E/033W · SEI1", carrier:"UNIFEEDER FZCO", etb:"02/08/2026 08:00", etd:"03/08/2026 09:30", openstack:"28/07/2026 08:00", closeC:"02/08/2026 08:00", mmsi:"538011074", imo:"9969948"},
+  {name:"BELAWAN", code:"BEAN012 · 2607S/2607N · KIS1", carrier:"BUT. KOREA MARINE TRANSPORT CO., LTD.", etb:"03/08/2026 06:00", etd:"03/08/2026 20:30", openstack:"29/07/2026 06:00", closeC:"02/08/2026 19:00", mmsi:"477883500", imo:"9412828"},
+];
+
+// TL: international vessels that just departed (last 24 hours)
+const tlDeparted = [
+  {name:"YM CENTENNIAL", code:"YMAL005 · 069S/069N · CIM", carrier:"PT.YANG MING SHIPPING INDONESIA", berth:"27/07/2026 23:22", dep:"28/07/2026 20:13", mmsi:"636019895", imo:"9864538"},
+  {name:"KMTC HOCHIMINH", code:"KMHO009 · 2607S/2607N · KIS1", carrier:"BUT. KOREA MARINE TRANSPORT CO., LTD.", berth:"27/07/2026 16:05", dep:"28/07/2026 18:00", mmsi:"440147000", imo:"9314923"},
+];
+
+// ---------------- LIVE POSITION (VesselFinder + MarineTraffic) ----------------
+function positionLinkHTML(v){
+  const q = encodeURIComponent(v.name);
+  const locationHTML = v.location
+    ? `<div class="location-tag">📍 Currently in <b>${v.location}</b></div>`
+    : '';
+  if(v.mmsi){
+    const vf = `https://www.vesselfinder.com/?imo=${v.imo||''}&mmsi=${v.mmsi}`;
+    const mt = `https://www.marinetraffic.com/en/ais/index/search/all?keyword=${v.imo||v.mmsi}`;
+    return `${locationHTML}<div class="pos-row">
+      <a class="pos-link" href="${vf}" target="_blank" rel="noopener">📍 VesselFinder ↗</a>
+      <a class="pos-link mt" href="${mt}" target="_blank" rel="noopener">🛰️ MarineTraffic ↗</a>
+    </div>`;
+  }
+  // MMSI not yet known — provide a SEARCH link by vessel name to both sites (not a direct position link)
+  const vfSearch = `https://www.vesselfinder.com/vessels?name=${q}`;
+  const mtSearch = `https://www.marinetraffic.com/en/ais/index/search/all?keyword=${q}`;
+  return `${locationHTML}<div class="pos-row">
+    <a class="pos-link search" href="${vfSearch}" target="_blank" rel="noopener">🔎 Search VesselFinder</a>
+    <a class="pos-link search" href="${mtSearch}" target="_blank" rel="noopener">🔎 Search MarineTraffic</a>
+
+  </div>`;
+}
+
+// ---------------- RENDER ----------------
+function renderAlongsideTPS(){
+  document.getElementById('tpsAlongside').innerHTML = tpsAlongside.map(v=>`
+    <div class="card" data-name="${v.name.toLowerCase()}">
+      <div class="card-top"><span class="vessel-name">${v.name}</span><span class="vcode mono">${v.code}</span></div>
+      <div class="card-rows mono">
+        <div>ATB <b>${v.atb}</b></div>
+        <div>ETD <b>${v.etd}</b></div>
+      </div>
+      ${positionLinkHTML(v)}
+    </div>`).join('');
+}
+function renderScheduleTPS(){
+  document.getElementById('tpsSchedule').innerHTML = tpsSchedule.map(v=>`
+    <div class="card compact" data-name="${v.name.toLowerCase()}">
+      <div class="card-top"><span class="vessel-name">${v.name}</span><span class="vcode mono">${v.code}</span></div>
+      <div class="card-rows mono">
+        <div>ETA <b>${v.eta}</b></div>
+        <div>ETD <b>${v.etd}</b></div>
+        <div>Open Stack <b class="openstack">${v.openstack}</b></div>
+        <div></div>
+        <div>Closing Container <b class="closing">${v.closeC}</b></div>
+        <div>Closing Document <b>${v.closeD}</b></div>
+      </div>
+      ${positionLinkHTML(v)}
+    </div>`).join('');
+}
+function renderAlongsideTL(){
+  if(tlAlongside.length === 0){
+    document.getElementById('tlAlongside').innerHTML = `<div class="empty-state">There are currently no international vessels alongside at Teluk Lamong.</div>`;
+    return;
+  }
+  document.getElementById('tlAlongside').innerHTML = tlAlongside.map(v=>`
+    <div class="card" data-name="${v.name.toLowerCase()}">
+      <div class="card-top"><span class="vessel-name">${v.name}</span></div>
+      <div class="vcode mono" style="margin-bottom:6px;">${v.code}${v.carrier?' · '+v.carrier:''}</div>
+      <div class="card-rows mono">
+        <div>ATB <b>${v.atb}</b></div>
+        <div>ETD <b>${v.etd}</b></div>
+        <div>Remain D/L/R <b>${v.remain}</b></div>
+      </div>
+      ${positionLinkHTML(v)}
+    </div>`).join('');
+}
+function renderScheduleTL(){
+  document.getElementById('tlSchedule').innerHTML = tlSchedule.map(v=>`
+    <div class="card compact" data-name="${v.name.toLowerCase()}">
+      <div class="card-top"><span class="vessel-name">${v.name}</span></div>
+      <div class="vcode mono" style="margin-bottom:3px;">${v.code}${v.carrier?' · '+v.carrier:''}</div>
+      <div class="card-rows mono">
+        <div>ETB <b>${v.etb}</b></div>
+        <div>ETD <b>${v.etd}</b></div>
+        <div>Open Stack <b class="openstack">${v.openstack}</b></div>
+        <div>Closing Container <b class="closing">${v.closeC || '—'}</b></div>
+      </div>
+      ${positionLinkHTML(v)}
+    </div>`).join('');
+}
+
+function renderTicker(){
+  const items = [
+    ...tpsSchedule.map(v=>`<span><b>[TPS]</b> ${v.name} — Closing Container ${v.closeC}</span>`),
+    ...tlSchedule.map(v=>`<span><b>[TL]</b> ${v.name} — Closing Container ${v.closeC}</span>`),
+  ];
+  document.getElementById('tickerTrack').innerHTML = items.join('');
+}
+
+function renderMovementTPS(){
+  document.getElementById('tpsMovement').innerHTML = tpsMovement.map(v=>`
+    <div class="card departed" data-name="${v.name.toLowerCase()}">
+      <div class="card-top"><span class="vessel-name">${v.name}</span><span class="departed-tag">✓ DEPARTED</span></div>
+      <div class="card-rows mono">
+        <div>Berth <b>${v.berth}</b></div>
+        <div>Departure <b>${v.dep}</b></div>
+      </div>
+      ${positionLinkHTML(v)}
+    </div>`).join('');
+}
+function renderDepartedTL(){
+  document.getElementById('tlDeparted').innerHTML = tlDeparted.map(v=>`
+    <div class="card departed" data-name="${v.name.toLowerCase()}">
+      <div class="card-top"><span class="vessel-name">${v.name}</span><span class="departed-tag">✓ DEPARTED</span></div>
+      <div class="vcode mono" style="margin-bottom:4px;">${v.code||''}${v.carrier?' · '+v.carrier:''}</div>
+      <div class="card-rows mono">
+        <div>ATB <b>${v.berth}</b></div>
+        <div>ATD <b>${v.dep}</b></div>
+      </div>
+      ${positionLinkHTML(v)}
+    </div>`).join('');
+}
+
+// ---------------- LIVE DATA LOADING (from GitHub Actions output) ----------------
+// This tries to fetch data/vessel_data.json, generated automatically every 15 minutes
+// by the GitHub Actions workflow. If it's not available yet (e.g. first deploy, before
+// GitHub Pages is set up, or the file hasn't been generated), the dashboard falls back
+// to the static snapshot embedded above, and says so clearly in the status bar.
+let usingLiveData = false;
+
+async function loadLiveData(){
+  try{
+    const res = await fetch('./data/vessel_data.json', { cache: 'no-store' });
+    if(!res.ok) throw new Error('HTTP ' + res.status);
+    const json = await res.json();
+
+    let filled = 0;
+    if(json.tps){
+      if(Array.isArray(json.tps.alongside) && json.tps.alongside.length){ tpsAlongside.splice(0, tpsAlongside.length, ...json.tps.alongside); filled++; }
+      if(Array.isArray(json.tps.schedule) && json.tps.schedule.length){ tpsSchedule.splice(0, tpsSchedule.length, ...json.tps.schedule); filled++; }
+      if(Array.isArray(json.tps.movement) && json.tps.movement.length){ tpsMovement.splice(0, tpsMovement.length, ...json.tps.movement); filled++; }
+    }
+    if(json.teluk_lamong){
+      if(Array.isArray(json.teluk_lamong.alongside)){ tlAlongside.splice(0, tlAlongside.length, ...json.teluk_lamong.alongside); }
+      if(Array.isArray(json.teluk_lamong.schedule) && json.teluk_lamong.schedule.length){ tlSchedule.splice(0, tlSchedule.length, ...json.teluk_lamong.schedule); filled++; }
+      if(Array.isArray(json.teluk_lamong.departed) && json.teluk_lamong.departed.length){ tlDeparted.splice(0, tlDeparted.length, ...json.teluk_lamong.departed); filled++; }
+    }
+
+    // Only count it as "live" once the workflow has actually produced real data —
+    // an empty placeholder JSON (before the first successful run) doesn't count.
+    usingLiveData = filled > 0;
+    if(usingLiveData){
+      lastGeneratedAt = new Date(json.generated_at);
+      document.getElementById('fetchTimeLabel').textContent =
+        lastGeneratedAt.toLocaleString('en-GB', { dateStyle: 'medium', timeStyle: 'short' }) + ' (auto, GitHub Actions)';
+    }
+  } catch(err){
+    console.warn('Refresh attempt failed:', err.message);
+    // Only fall back to "static" if we've NEVER had a successful live pull.
+    // If we already loaded real data earlier, one failed refresh shouldn't
+    // relabel perfectly good (if slightly older) data as a "static snapshot" —
+    // the staleness watchdog (based on lastGeneratedAt) already handles
+    // warning about data that's actually old.
+    if(!lastGeneratedAt) usingLiveData = false;
+  }
+  renderAll();
+}
+
+function renderAll(){
+  renderAlongsideTPS(); renderScheduleTPS(); renderAlongsideTL(); renderScheduleTL(); renderTicker();
+  renderMovementTPS(); renderDepartedTL();
+  document.getElementById('staticBadge').style.display = usingLiveData ? 'none' : 'inline-flex';
+  updateStaleness();  // decides whether liveBadge or staleBadge shows, based on data age
+  filterVessels();    // re-apply whatever search term is active to the freshly-rendered cards
+}
+
+loadLiveData();
+
+// ---------------- SEARCH ----------------
+function filterVessels(){
+  const q = document.getElementById('vesselSearch').value.trim().toLowerCase();
+  const cards = document.querySelectorAll('.cards .card');
+  let matchCount = 0;
+
+  cards.forEach(card=>{
+    const name = card.getAttribute('data-name') || '';
+    const isMatch = q === '' || name.includes(q);
+    card.classList.toggle('no-match', !isMatch);
+    if(isMatch) matchCount++;
+
+    // highlight the matching portion
+    const nameEl = card.querySelector('.vessel-name');
+    if(nameEl){
+      const original = card.getAttribute('data-original-name') || nameEl.textContent;
+      card.setAttribute('data-original-name', original);
+      if(q === ''){
+        nameEl.innerHTML = original;
+      } else {
+        const idx = original.toLowerCase().indexOf(q);
+        if(idx >= 0){
+          nameEl.innerHTML = original.slice(0, idx) + '<mark>' + original.slice(idx, idx+q.length) + '</mark>' + original.slice(idx+q.length);
+        } else {
+          nameEl.innerHTML = original;
+        }
+      }
+    }
+  });
+
+  // "no results" message per panel
+  document.querySelectorAll('.cards').forEach(container=>{
+    let empty = container.querySelector('.empty-state');
+    const visible = container.querySelectorAll('.card:not(.no-match)').length;
+    if(visible === 0 && q !== ''){
+      if(!empty){
+        empty = document.createElement('div');
+        empty.className = 'empty-state';
+        container.appendChild(empty);
+      }
+      empty.textContent = `No vessels match "${q}"`;
+    } else if(empty){
+      empty.remove();
+    }
+  });
+
+  const countEl = document.getElementById('searchCount');
+  countEl.textContent = q === '' ? '' : `${matchCount} vessel(s)`;
+}
+
+// ---------------- CLOCK ----------------
+function tick(){
+  const now = new Date();
+  const hh = String(now.getHours()).padStart(2,'0');
+  const mm = String(now.getMinutes()).padStart(2,'0');
+  const ss = String(now.getSeconds()).padStart(2,'0');
+  document.getElementById('clockTime').innerHTML = `${hh}:${mm}:${ss}<span>${now.toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'numeric'})}</span>`;
+  updateStaleness();
+}
+setInterval(tick,1000); tick();
+
+// ---------------- STALENESS WATCHDOG ----------------
+// Computed from the actual clock, independent of whether GitHub Actions is
+// still running on schedule. If the last successful data pull is older than
+// this, something's wrong upstream (cron didn't fire, workflow failing
+// silently, etc.) — better to say so loudly than show old numbers quietly.
+// (moved to the top of the script — see near FETCH_TIME declaration)
+
+function updateStaleness(){
+  const liveBadge = document.getElementById('liveBadge');
+  const staleBadge = document.getElementById('staleBadge');
+  if(!lastGeneratedAt){
+    staleBadge.style.display = 'none';
+    return;
+  }
+  const ageMinutes = (Date.now() - lastGeneratedAt.getTime()) / 60000;
+  if(ageMinutes < STALE_WARN_MINUTES){
+    staleBadge.style.display = 'none';
+    if(usingLiveData) liveBadge.style.display = 'inline-flex';
+    return;
+  }
+  liveBadge.style.display = 'none';
+  staleBadge.style.display = 'inline-flex';
+  const hrs = ageMinutes / 60;
+  const ageText = hrs >= 1 ? `${hrs.toFixed(1)}h old` : `${Math.round(ageMinutes)}m old`;
+  if(ageMinutes >= STALE_CRITICAL_MINUTES){
+    staleBadge.textContent = `🔴 STALE — data is ${ageText}, check GitHub Actions`;
+  } else {
+    staleBadge.textContent = `🟠 AGING — data is ${ageText}`;
+  }
+}
+
+// Auto-refresh the live data feed every 5 minutes, no click needed.
+setInterval(loadLiveData, 5 * 60 * 1000);
+
+// ---------------- REFRESH (manual, since there is no live API) ----------------
+function updateLastUpdated(){
+  const now = new Date();
+  document.getElementById('lastUpdated').textContent = 'Last refreshed: ' + now.toLocaleTimeString('en-GB');
+}
+async function doRefresh(){
+  // NOTE: we no longer try to fetch TPS/Teluk Lamong directly from the browser —
+  // that always gets blocked by CORS (see previous version of this dashboard).
+  // Instead we re-fetch data/vessel_data.json, which is regenerated automatically
+  // every ~15 minutes by a GitHub Actions workflow running server-side (no CORS
+  // issue there, since it's a plain server-to-server request).
+  const btn = document.getElementById('refreshBtn');
+  btn.classList.add('spin');
+  btn.disabled = true;
+
+  await loadLiveData();
+
+  btn.classList.remove('spin');
+  btn.disabled = false;
+  updateLastUpdated();
+
+  if(!usingLiveData){
+    showRefreshNotice();
+  }
+}
+
+function showRefreshNotice(){
+  let el = document.getElementById('refreshNotice');
+  if (!el) {
+    el = document.createElement('div');
+    el.id = 'refreshNotice';
+    el.style.cssText = 'position:fixed;bottom:16px;right:16px;max-width:340px;background:#1a2230;'
+      + 'border:1px solid rgba(255,93,108,0.4);color:#e8f0f5;padding:12px 14px;border-radius:10px;'
+      + 'font-size:12px;line-height:1.5;box-shadow:0 8px 24px rgba(0,0,0,0.4);z-index:999;';
+    document.body.appendChild(el);
+  }
+  el.innerHTML = '<b style="color:#ff5d6c;">Live data not available yet</b><br>'
+    + 'This dashboard is set up to auto-refresh from <code>data/vessel_data.json</code>, '
+    + 'which the GitHub Actions workflow regenerates every ~15 minutes. That file isn\'t reachable yet — '
+    + 'either the workflow hasn\'t run for the first time, GitHub Pages isn\'t enabled, or this file is '
+    + 'being opened locally instead of from its published URL. Showing the last static snapshot instead.'
+    + '<div style="text-align:right;margin-top:6px;"><button onclick="this.closest(\'#refreshNotice\').remove()" '
+    + 'style="background:none;border:1px solid #3a4a5c;color:#9fb3c0;padding:4px 10px;border-radius:6px;'
+    + 'font-size:11px;cursor:pointer;">Dismiss</button></div>';
+  clearTimeout(window._refreshNoticeTimer);
+  window._refreshNoticeTimer = setTimeout(()=>{ if(el) el.remove(); }, 12000);
+}
+
+document.getElementById('fetchTimeLabel').textContent = FETCH_TIME;
+updateLastUpdated();
+</script>
+</body>
+</html>
