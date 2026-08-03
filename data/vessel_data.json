@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T13:45:50+00:00",
+  "generated_at": "2026-08-03T14:01:09+00:00",
   "tps": {
     "alongside": [
       {
@@ -340,8 +340,7 @@
         "openstack": "29/07/2026 18:00",
         "closeC": "01/08/2026 05:00",
         "mmsi": "352006269",
-        "imo": "1115565",
-        "location": "Java Sea"
+        "imo": "1115565"
       },
       {
         "name": "EVER BURLY",
