@@ -1,19 +1,12 @@
 {
-  "generated_at": "2026-08-03T06:05:13+00:00",
+  "generated_at": "2026-08-03T06:15:35+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - YM INTERACTION",
-        "code": "293E / 293W",
-        "atb": "02/08/2026 12:16",
-        "etd": "03/08/2026 06:30",
-        "verified": false
-      },
       {
         "name": "I3 - BRIGHT COSMOS",
         "code": "029S / 029N",
         "atb": "03/08/2026 08:25",
-        "etd": "04/08/2026 16:42",
+        "etd": "03/08/2026 18:00",
         "verified": false
       }
     ],
@@ -248,6 +241,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "YM INTERACTION",
+        "berth": "02/08/2026 12:16",
+        "dep": "03/08/2026 13:09"
+      },
       {
         "name": "OEL RUDRA",
         "berth": "02/08/2026 14:55",
