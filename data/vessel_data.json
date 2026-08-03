@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-03T10:00:39+00:00",
+  "generated_at": "2026-08-03T10:15:33+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - MSC AMEERA III",
+        "code": "HV631R / HV631R",
+        "atb": "03/08/2026 17:05",
+        "etd": "04/08/2026 16:00",
+        "verified": false
+      },
       {
         "name": "I3 - BRIGHT COSMOS",
         "code": "029S / 029N",
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MSC AMEERA III",
-        "code": "HV631R / HV631R",
-        "eta": "03/08/2026 15:00",
-        "etd": "04/08/2026 16:00",
-        "openstack": "29/07/2026 02:00",
-        "closeC": "02/08/2026 20:00",
-        "closeD": "02/08/2026 23:00",
-        "verified": false
-      },
       {
         "name": "KOTA HIDAYAH",
         "code": "2624S / 2624S",
