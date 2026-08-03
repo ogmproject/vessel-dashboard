@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:30:33+00:00",
+  "generated_at": "2026-08-03T09:45:30+00:00",
   "tps": {
     "alongside": [
       {
@@ -362,17 +362,6 @@
         "closeC": "04/08/2026 04:00"
       },
       {
-        "name": "CHENNAI VOYAGER",
-        "code": "CHVO009",
-        "voyage": "2607S        / 2607N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "04/08/2026 12:00",
-        "etd": "05/08/2026 12:00",
-        "openstack": "30/07/2026 12:00",
-        "closeC": "05/08/2026 02:00"
-      },
-      {
         "name": "YONG SHENG",
         "code": "YONG001",
         "voyage": "194          / 194",
@@ -401,6 +390,17 @@
         "carrier": "PT. DALIAN PUTRA MARITIM",
         "etb": "04/08/2026 16:00",
         "etd": "04/08/2026 16:30"
+      },
+      {
+        "name": "CHENNAI VOYAGER",
+        "code": "CHVO009",
+        "voyage": "2607S        / 2607N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "etb": "05/08/2026 08:00",
+        "etd": "06/08/2026 06:00",
+        "openstack": "31/07/2026 08:00",
+        "closeC": "05/08/2026 02:00"
       },
       {
         "name": "HMM HERITAGE",
