@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T21:45:43+00:00",
+  "generated_at": "2026-08-03T22:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -425,7 +425,19 @@
         "closeC": "08/08/2026 04:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "CELSIUS EINDHOVEN",
+        "code": "CEUS010",
+        "voyage": "032E         / 033W",
+        "type": "INTERNATIONAL",
+        "atb": "02/08/2026 17:05",
+        "etd": "04/08/2026 00:07",
+        "mmsi": "538011074",
+        "imo": "9969948",
+        "location": "Java Sea"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
