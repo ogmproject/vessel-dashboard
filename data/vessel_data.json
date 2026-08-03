@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T10:45:30+00:00",
+  "generated_at": "2026-08-03T10:58:21+00:00",
   "tps": {
     "alongside": [
       {
@@ -75,7 +75,8 @@
         "closeD": "06/08/2026 15:00",
         "verified": false,
         "mmsi": "538009605",
-        "imo": "9315343"
+        "imo": "9315343",
+        "location": "Singapore Strait"
       },
       {
         "name": "OEL RUDRA",
@@ -127,7 +128,8 @@
         "closeD": "06/08/2026 05:00",
         "verified": false,
         "mmsi": "636016118",
-        "imo": "9204477"
+        "imo": "9204477",
+        "location": "Singapore Strait"
       },
       {
         "name": "EVER OBEY",
@@ -209,7 +211,8 @@
         "closeD": "08/08/2026 13:00",
         "verified": false,
         "mmsi": "636019861",
-        "imo": "9224946"
+        "imo": "9224946",
+        "location": "Java Sea"
       },
       {
         "name": "SPIL NIKEN",
@@ -241,7 +244,8 @@
         "closeD": "08/08/2026 17:00",
         "verified": false,
         "mmsi": "538009605",
-        "imo": "9315343"
+        "imo": "9315343",
+        "location": "Singapore Strait"
       }
     ],
     "movement": [
@@ -275,7 +279,8 @@
         "berth": "31/07/2026 15:25",
         "dep": "02/08/2026 08:54",
         "mmsi": "636019861",
-        "imo": "9224946"
+        "imo": "9224946",
+        "location": "Java Sea"
       },
       {
         "name": "EVER CONSIST",
@@ -287,14 +292,16 @@
         "berth": "31/07/2026 10:10",
         "dep": "01/08/2026 18:44",
         "mmsi": "566773000",
-        "imo": "9632741"
+        "imo": "9632741",
+        "location": "South China Sea"
       },
       {
         "name": "EVER BOOMY",
         "berth": "31/07/2026 14:35",
         "dep": "01/08/2026 17:37",
         "mmsi": "370700000",
-        "imo": "9787015"
+        "imo": "9787015",
+        "location": "Java Sea"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
@@ -310,7 +317,8 @@
         "atb": "03/08/2026 08:21",
         "etd": "04/08/2026 01:00",
         "mmsi": "477883500",
-        "imo": "9412828"
+        "imo": "9412828",
+        "location": "Java Sea"
       }
     ],
     "schedule": [
@@ -334,7 +342,8 @@
         "openstack": "29/07/2026 18:00",
         "closeC": "01/08/2026 05:00",
         "mmsi": "352006269",
-        "imo": "1115565"
+        "imo": "1115565",
+        "location": "Java Sea"
       },
       {
         "name": "EVER BURLY",
