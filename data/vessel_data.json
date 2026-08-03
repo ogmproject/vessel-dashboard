@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T20:15:42+00:00",
+  "generated_at": "2026-08-03T20:30:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -313,7 +313,7 @@
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
         "atb": "03/08/2026 08:21",
-        "etd": "04/08/2026 05:00",
+        "etd": "04/08/2026 06:00",
         "mmsi": "477883500",
         "imo": "9412828",
         "location": "Java Sea"
