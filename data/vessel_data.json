@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T23:42:09+00:00",
+  "generated_at": "2026-08-03T06:01:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -10,31 +10,14 @@
         "verified": false
       },
       {
-        "name": "I2 - SINAR SULAWESI",
-        "code": "090S / 090N",
-        "atb": "01/08/2026 21:55",
-        "etd": "03/08/2026 05:30",
-        "verified": false
-      },
-      {
-        "name": "I1 - OEL RUDRA",
-        "code": "629S / 629S",
-        "atb": "02/08/2026 14:55",
-        "etd": "03/08/2026 09:30",
+        "name": "I3 - BRIGHT COSMOS",
+        "code": "029S / 029N",
+        "atb": "03/08/2026 08:25",
+        "etd": "04/08/2026 16:42",
         "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "BRIGHT COSMOS",
-        "code": "029S / 029N",
-        "eta": "02/08/2026 17:00",
-        "etd": "03/08/2026 06:00",
-        "openstack": "27/07/2026 12:00",
-        "closeC": "01/08/2026 06:00",
-        "closeD": "01/08/2026 09:00",
-        "verified": false
-      },
       {
         "name": "CMA CGM POINTE PERCEE",
         "code": "0XLC5S / 0XLC6N",
@@ -116,6 +99,18 @@
         "verified": false
       },
       {
+        "name": "BRICKELL",
+        "code": "630S / 630S",
+        "eta": "05/08/2026 13:00",
+        "etd": "05/08/2026 14:30",
+        "openstack": "03/08/2026 18:00",
+        "closeC": "06/08/2026 12:00",
+        "closeD": "06/08/2026 15:00",
+        "verified": false,
+        "mmsi": "538009605",
+        "imo": "9315343"
+      },
+      {
         "name": "ANL KOKODA",
         "code": "1326S / 1326S",
         "eta": "05/08/2026 18:00",
@@ -158,6 +153,16 @@
         "verified": false
       },
       {
+        "name": "EVER BLINK",
+        "code": "1200-083B / 1200-083B",
+        "eta": "07/08/2026 08:00",
+        "etd": "08/08/2026 15:30",
+        "openstack": "02/08/2026 08:00",
+        "closeC": "07/08/2026 02:00",
+        "closeD": "07/08/2026 05:00",
+        "verified": false
+      },
+      {
         "name": "KMTC INCHEON",
         "code": "2607S / 2607N",
         "eta": "07/08/2026 13:30",
@@ -165,6 +170,26 @@
         "openstack": "02/08/2026 13:30",
         "closeC": "07/08/2026 07:30",
         "closeD": "07/08/2026 10:30",
+        "verified": false
+      },
+      {
+        "name": "WAN HAI 309",
+        "code": "S040 / N041",
+        "eta": "07/08/2026 21:00",
+        "etd": "08/08/2026 17:30",
+        "openstack": "02/08/2026 21:00",
+        "closeC": "07/08/2026 15:00",
+        "closeD": "07/08/2026 18:00",
+        "verified": false
+      },
+      {
+        "name": "AS CHRISTIANA",
+        "code": "26006S / 26006N",
+        "eta": "08/08/2026 08:00",
+        "etd": "09/08/2026 13:00",
+        "openstack": "03/08/2026 00:00",
+        "closeC": "07/08/2026 18:00",
+        "closeD": "07/08/2026 21:00",
         "verified": false
       },
       {
@@ -178,9 +203,61 @@
         "verified": false,
         "mmsi": "636019861",
         "imo": "9224946"
+      },
+      {
+        "name": "SINAR SULAWESI",
+        "code": "091S / 091N",
+        "eta": "08/08/2026 18:00",
+        "etd": "10/08/2026 12:30",
+        "openstack": "03/08/2026 18:00",
+        "closeC": "08/08/2026 12:00",
+        "closeD": "08/08/2026 15:00",
+        "verified": false
+      },
+      {
+        "name": "BRICKELL",
+        "code": "631N / 631N",
+        "eta": "08/08/2026 20:00",
+        "etd": "11/08/2026 04:30",
+        "openstack": "03/08/2026 20:00",
+        "closeC": "08/08/2026 14:00",
+        "closeD": "08/08/2026 17:00",
+        "verified": false,
+        "mmsi": "538009605",
+        "imo": "9315343"
+      },
+      {
+        "name": "SPIL NIKEN",
+        "code": "629S / 632N",
+        "eta": "08/08/2026 23:00",
+        "etd": "10/08/2026 04:30",
+        "openstack": "03/08/2026 23:00",
+        "closeC": "08/08/2026 17:00",
+        "closeD": "08/08/2026 20:00",
+        "verified": false
+      },
+      {
+        "name": "STARSHIP VENUS",
+        "code": "2606S / 2606N",
+        "eta": "09/08/2026 19:00",
+        "etd": "10/08/2026 19:30",
+        "openstack": "04/08/2026 19:00",
+        "closeC": "09/08/2026 13:00",
+        "closeD": "09/08/2026 16:00",
+        "verified": false
       }
     ],
     "movement": [
+      {
+        "name": "OEL RUDRA",
+        "berth": "02/08/2026 14:55",
+        "dep": "03/08/2026 10:45"
+      },
+      {
+        "name": "SINAR SULAWESI",
+        "berth": "01/08/2026 21:55",
+        "dep": "03/08/2026 06:34"
+      },
       {
         "name": "EVER ORIENT",
         "berth": "02/08/2026 12:02",
@@ -223,42 +300,28 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "CELSIUS EINDHOVEN",
-        "code": "CEUS010",
-        "voyage": "032E         / 033W",
-        "type": "INTERNATIONAL",
-        "atb": "02/08/2026 17:05",
-        "etd": "03/08/2026 23:00",
-        "mmsi": "538011074",
-        "imo": "9969948"
-      }
-    ],
-    "schedule": [
-      {
         "name": "BELAWAN",
         "code": "BEAN012",
         "voyage": "2607S        / 2607N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "03/08/2026 08:00",
+        "atb": "03/08/2026 08:21",
         "etd": "04/08/2026 01:00",
-        "openstack": "29/07/2026 06:00",
-        "closeC": "02/08/2026 19:00",
         "mmsi": "477883500",
         "imo": "9412828"
       },
       {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN004",
-        "voyage": "010S         / 010N",
+        "name": "CELSIUS EINDHOVEN",
+        "code": "CEUS010",
+        "voyage": "032E         / 033W",
         "type": "INTERNATIONAL",
-        "etb": "03/08/2026 11:00",
-        "etd": "04/08/2026 00:00",
-        "openstack": "29/07/2026 18:00",
-        "closeC": "01/08/2026 05:00",
-        "mmsi": "352006269",
-        "imo": "1115565"
-      },
+        "atb": "02/08/2026 17:05",
+        "etd": "03/08/2026 20:00",
+        "mmsi": "538011074",
+        "imo": "9969948"
+      }
+    ],
+    "schedule": [
       {
         "name": "MARINA AURORA",
         "code": "MAAU010",
@@ -267,18 +330,19 @@
         "etb": "03/08/2026 20:00",
         "etd": "04/08/2026 20:30",
         "openstack": "29/07/2026 20:00",
-        "closeC": "03/08/2026 15:00"
+        "closeC": "06/08/2026 12:00"
       },
       {
-        "name": "YONG SHENG",
-        "code": "YONG001",
-        "voyage": "194          / 194",
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN004",
+        "voyage": "010S         / 010N",
         "type": "INTERNATIONAL",
-        "carrier": "PT.LAUTAN LUAS MARITIM",
-        "etb": "04/08/2026 08:00",
-        "etd": "04/08/2026 16:01",
-        "openstack": "30/07/2026 08:00",
-        "closeC": "04/08/2026 03:00"
+        "etb": "03/08/2026 22:00",
+        "etd": "04/08/2026 11:00",
+        "openstack": "29/07/2026 18:00",
+        "closeC": "01/08/2026 05:00",
+        "mmsi": "352006269",
+        "imo": "1115565"
       },
       {
         "name": "EVER BURLY",
@@ -286,8 +350,8 @@
         "voyage": "S092         / N092",
         "type": "INTERNATIONAL",
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "etb": "04/08/2026 09:00",
-        "etd": "05/08/2026 09:30",
+        "etb": "04/08/2026 08:30",
+        "etd": "05/08/2026 09:00",
         "openstack": "30/07/2026 09:00",
         "closeC": "04/08/2026 04:00"
       },
@@ -303,14 +367,34 @@
         "closeC": "04/08/2026 07:00"
       },
       {
+        "name": "YONG SHENG",
+        "code": "YONG001",
+        "voyage": "194          / 194",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.LAUTAN LUAS MARITIM",
+        "etb": "04/08/2026 13:00",
+        "etd": "04/08/2026 21:00",
+        "openstack": "30/07/2026 08:00",
+        "closeC": "04/08/2026 03:00"
+      },
+      {
         "name": "MERATUS KUMAI",
         "code": "MEKM010",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "etb": "04/08/2026 16:00",
-        "etd": "04/08/2026 16:30",
+        "etd": "05/08/2026 22:00",
         "openstack": "30/07/2026 16:00",
         "closeC": "04/08/2026 11:00"
+      },
+      {
+        "name": "ZEYNEP C",
+        "code": "ZEEP001",
+        "voyage": "042026       / 042026",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. DALIAN PUTRA MARITIM",
+        "etb": "04/08/2026 16:00",
+        "etd": "04/08/2026 16:30"
       },
       {
         "name": "HMM HERITAGE",
