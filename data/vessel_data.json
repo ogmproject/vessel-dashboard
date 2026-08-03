@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T13:01:06+00:00",
+  "generated_at": "2026-08-03T13:15:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -366,6 +366,15 @@
         "closeC": "04/08/2026 03:00"
       },
       {
+        "name": "ZEYNEP C",
+        "code": "ZEEP001",
+        "voyage": "042026       / 042026",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. DALIAN PUTRA MARITIM",
+        "etb": "04/08/2026 16:00",
+        "etd": "04/08/2026 16:30"
+      },
+      {
         "name": "MERATUS KUMAI",
         "code": "MEKM010",
         "type": "INTERNATIONAL",
@@ -374,15 +383,6 @@
         "etd": "05/08/2026 22:00",
         "openstack": "30/07/2026 16:00",
         "closeC": "04/08/2026 11:00"
-      },
-      {
-        "name": "ZEYNEP C",
-        "code": "ZEEP001",
-        "voyage": "042026       / 042026",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. DALIAN PUTRA MARITIM",
-        "etb": "04/08/2026 16:00",
-        "etd": "04/08/2026 16:30"
       },
       {
         "name": "CHENNAI VOYAGER",
