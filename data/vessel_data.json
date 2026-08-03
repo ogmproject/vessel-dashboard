@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T12:01:14+00:00",
+  "generated_at": "2026-08-03T12:15:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "HV631R / HV631R",
         "atb": "03/08/2026 17:05",
         "etd": "04/08/2026 16:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - BRIGHT COSMOS",
-        "code": "029S / 029N",
-        "atb": "03/08/2026 08:25",
-        "etd": "03/08/2026 18:00",
         "verified": false
       },
       {
@@ -128,7 +121,8 @@
         "closeD": "06/08/2026 05:00",
         "verified": false,
         "mmsi": "636016118",
-        "imo": "9204477"
+        "imo": "9204477",
+        "location": "Singapore Strait"
       },
       {
         "name": "EVER OBEY",
@@ -248,6 +242,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "BRIGHT COSMOS",
+        "berth": "03/08/2026 08:25",
+        "dep": "03/08/2026 19:00"
+      },
       {
         "name": "YM INTERACTION",
         "berth": "02/08/2026 12:16",
