@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T07:00:38+00:00",
+  "generated_at": "2026-08-03T07:15:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -307,16 +307,6 @@
         "etd": "04/08/2026 01:00",
         "mmsi": "477883500",
         "imo": "9412828"
-      },
-      {
-        "name": "CELSIUS EINDHOVEN",
-        "code": "CEUS010",
-        "voyage": "032E         / 033W",
-        "type": "INTERNATIONAL",
-        "atb": "02/08/2026 17:05",
-        "etd": "03/08/2026 20:00",
-        "mmsi": "538011074",
-        "imo": "9969948"
       }
     ],
     "schedule": [
