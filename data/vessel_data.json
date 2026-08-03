@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T16:45:52+00:00",
+  "generated_at": "2026-08-03T17:00:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -278,27 +278,6 @@
         "dep": "02/08/2026 08:54",
         "mmsi": "636019861",
         "imo": "9224946",
-        "location": "Java Sea"
-      },
-      {
-        "name": "EVER CONSIST",
-        "berth": "01/08/2026 02:40",
-        "dep": "01/08/2026 19:43"
-      },
-      {
-        "name": "KOTA MANIS",
-        "berth": "31/07/2026 10:10",
-        "dep": "01/08/2026 18:44",
-        "mmsi": "566773000",
-        "imo": "9632741",
-        "location": "Singapore Strait"
-      },
-      {
-        "name": "EVER BOOMY",
-        "berth": "31/07/2026 14:35",
-        "dep": "01/08/2026 17:37",
-        "mmsi": "370700000",
-        "imo": "9787015",
         "location": "Java Sea"
       }
     ],
