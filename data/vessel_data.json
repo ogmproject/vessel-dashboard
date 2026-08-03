@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T19:15:51+00:00",
+  "generated_at": "2026-08-03T19:30:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -205,7 +205,7 @@
         "verified": false,
         "mmsi": "636019861",
         "imo": "9224946",
-        "location": "Java Sea"
+        "location": "South China Sea"
       },
       {
         "name": "SPIL NIKEN",
@@ -288,13 +288,24 @@
         "dep": "02/08/2026 08:54",
         "mmsi": "636019861",
         "imo": "9224946",
-        "location": "Java Sea"
+        "location": "South China Sea"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
     "alongside": [
+      {
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN004",
+        "voyage": "010S         / 010N",
+        "type": "INTERNATIONAL",
+        "atb": "04/08/2026 02:15",
+        "etd": "04/08/2026 16:00",
+        "mmsi": "352006269",
+        "imo": "1115565",
+        "location": "Java Sea"
+      },
       {
         "name": "BELAWAN",
         "code": "BEAN012",
@@ -320,19 +331,6 @@
         "closeC": "06/08/2026 12:00"
       },
       {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN004",
-        "voyage": "010S         / 010N",
-        "type": "INTERNATIONAL",
-        "etb": "04/08/2026 02:00",
-        "etd": "04/08/2026 16:00",
-        "openstack": "30/07/2026 02:00",
-        "closeC": "01/08/2026 05:00",
-        "mmsi": "352006269",
-        "imo": "1115565",
-        "location": "Java Sea"
-      },
-      {
         "name": "EVER BURLY",
         "code": "EVLY005",
         "voyage": "S092         / N092",
@@ -344,15 +342,6 @@
         "closeC": "04/08/2026 04:00"
       },
       {
-        "name": "ZEYNEP C",
-        "code": "ZEEP001",
-        "voyage": "042026       / 042026",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. DALIAN PUTRA MARITIM",
-        "etb": "04/08/2026 16:00",
-        "etd": "04/08/2026 16:30"
-      },
-      {
         "name": "MERATUS KUMAI",
         "code": "MEKM010",
         "type": "INTERNATIONAL",
@@ -361,6 +350,15 @@
         "etd": "05/08/2026 22:00",
         "openstack": "30/07/2026 16:00",
         "closeC": "04/08/2026 11:00"
+      },
+      {
+        "name": "ZEYNEP C",
+        "code": "ZEEP001",
+        "voyage": "042026       / 042026",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. DALIAN PUTRA MARITIM",
+        "etb": "04/08/2026 16:00",
+        "etd": "04/08/2026 16:30"
       },
       {
         "name": "YONG SHENG",
