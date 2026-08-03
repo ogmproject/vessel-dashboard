@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T08:30:49+00:00",
+  "generated_at": "2026-08-03T08:45:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -8,19 +8,16 @@
         "atb": "03/08/2026 08:25",
         "etd": "03/08/2026 18:00",
         "verified": false
+      },
+      {
+        "name": "I2 - CMA CGM POINTE PERCEE",
+        "code": "0XLC5S / 0XLC6N",
+        "atb": "03/08/2026 15:40",
+        "etd": "04/08/2026 21:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "CMA CGM POINTE PERCEE",
-        "code": "0XLC5S / 0XLC6N",
-        "eta": "03/08/2026 15:00",
-        "etd": "04/08/2026 21:00",
-        "openstack": "24/07/2026 20:00",
-        "closeC": "29/07/2026 14:00",
-        "closeD": "29/07/2026 17:00",
-        "verified": false
-      },
       {
         "name": "MSC AMEERA III",
         "code": "HV631R / HV631R",
@@ -173,6 +170,16 @@
         "openstack": "02/08/2026 13:30",
         "closeC": "07/08/2026 07:30",
         "closeD": "07/08/2026 10:30",
+        "verified": false
+      },
+      {
+        "name": "EVER CANDID",
+        "code": "0547-088S / 0547-088N",
+        "eta": "08/08/2026 08:00",
+        "etd": "09/08/2026 04:30",
+        "openstack": "03/08/2026 08:00",
+        "closeC": "08/08/2026 02:00",
+        "closeD": "08/08/2026 05:00",
         "verified": false
       },
       {
