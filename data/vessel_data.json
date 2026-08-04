@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:01:01+00:00",
+  "generated_at": "2026-08-04T15:46:01+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "HV631R / HV631R",
         "atb": "03/08/2026 17:05",
         "etd": "04/08/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "I2 - EVER BEFIT",
+        "code": "1203-081A / 1203-081A",
+        "atb": "04/08/2026 22:24",
+        "etd": "05/08/2026 12:00",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER BEFIT",
-        "code": "1203-081A / 1203-081A",
-        "eta": "04/08/2026 20:00",
-        "etd": "05/08/2026 12:00",
-        "openstack": "30/07/2026 18:00",
-        "closeC": "04/08/2026 12:00",
-        "closeD": "04/08/2026 15:00",
-        "verified": false
-      },
       {
         "name": "APL JEDDAH",
         "code": "0AUFRS / 0AUFSN",
@@ -49,7 +46,7 @@
         "verified": false,
         "mmsi": "538009605",
         "imo": "9315343",
-        "location": "South China Sea"
+        "location": "Java Sea"
       },
       {
         "name": "ZHONG GU JI NAN",
@@ -228,7 +225,7 @@
         "verified": false,
         "mmsi": "538009605",
         "imo": "9315343",
-        "location": "South China Sea"
+        "location": "Java Sea"
       },
       {
         "name": "MSC CHERYL 3",
