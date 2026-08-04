@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T02:30:54+00:00",
+  "generated_at": "2026-08-04T02:45:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -112,6 +112,16 @@
         "verified": false
       },
       {
+        "name": "KMTC INCHEON",
+        "code": "2607S / 2607N",
+        "eta": "06/08/2026 20:00",
+        "etd": "07/08/2026 20:00",
+        "openstack": "02/08/2026 13:30",
+        "closeC": "06/08/2026 14:00",
+        "closeD": "06/08/2026 17:00",
+        "verified": false
+      },
+      {
         "name": "JOANNA",
         "code": "089S / 089N",
         "eta": "06/08/2026 20:00",
@@ -152,16 +162,6 @@
         "openstack": "02/08/2026 21:00",
         "closeC": "07/08/2026 15:00",
         "closeD": "07/08/2026 18:00",
-        "verified": false
-      },
-      {
-        "name": "KMTC INCHEON",
-        "code": "2607S / 2607N",
-        "eta": "08/08/2026 01:00",
-        "etd": "08/08/2026 16:00",
-        "openstack": "02/08/2026 13:30",
-        "closeC": "06/08/2026 14:00",
-        "closeD": "06/08/2026 17:00",
         "verified": false
       },
       {
@@ -301,7 +301,7 @@
         "voyage": "010S         / 010N",
         "type": "INTERNATIONAL",
         "atb": "04/08/2026 02:15",
-        "etd": "04/08/2026 15:00",
+        "etd": "04/08/2026 16:00",
         "mmsi": "352006269",
         "imo": "1115565",
         "location": "Java Sea"
@@ -355,21 +355,10 @@
         "voyage": "2607S        / 2607N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "05/08/2026 08:00",
-        "etd": "06/08/2026 06:00",
+        "etb": "05/08/2026 12:00",
+        "etd": "06/08/2026 10:00",
         "openstack": "31/07/2026 08:00",
         "closeC": "05/08/2026 02:00"
-      },
-      {
-        "name": "HMM HERITAGE",
-        "code": "HMHE004",
-        "voyage": "0011S        / 0011N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "etb": "05/08/2026 20:00",
-        "etd": "06/08/2026 20:30",
-        "openstack": "31/07/2026 20:00",
-        "closeC": "05/08/2026 15:00"
       },
       {
         "name": "MARINA AURORA",
@@ -390,6 +379,17 @@
         "etd": "07/08/2026 08:30",
         "openstack": "01/08/2026 08:00",
         "closeC": "06/08/2026 03:00"
+      },
+      {
+        "name": "HMM HERITAGE",
+        "code": "HMHE004",
+        "voyage": "0011S        / 0011N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "etb": "06/08/2026 08:00",
+        "etd": "06/08/2026 21:30",
+        "openstack": "01/08/2026 08:00",
+        "closeC": "05/08/2026 15:00"
       },
       {
         "name": "XIN HANG ZHOU",
