@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T12:01:05+00:00",
+  "generated_at": "2026-08-04T12:15:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "HV631R / HV631R",
         "atb": "03/08/2026 17:05",
         "etd": "04/08/2026 21:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - CMA CGM POINTE PERCEE",
-        "code": "0XLC5S / 0XLC6N",
-        "atb": "03/08/2026 15:40",
-        "etd": "04/08/2026 18:00",
         "verified": false
       },
       {
@@ -250,6 +243,11 @@
     ],
     "movement": [
       {
+        "name": "CMA CGM POINTE PERCEE",
+        "berth": "03/08/2026 15:40",
+        "dep": "04/08/2026 18:45"
+      },
+      {
         "name": "BRIGHT COSMOS",
         "berth": "03/08/2026 08:25",
         "dep": "03/08/2026 19:00"
@@ -304,6 +302,14 @@
         "location": "Java Sea"
       },
       {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM010",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "04/08/2026 19:00",
+        "etd": "06/08/2026 00:00"
+      },
+      {
         "name": "EVER BURLY",
         "code": "EVLY005",
         "voyage": "S092         / N092",
@@ -322,16 +328,6 @@
         "carrier": "PT. DALIAN PUTRA MARITIM",
         "etb": "04/08/2026 16:00",
         "etd": "04/08/2026 16:30"
-      },
-      {
-        "name": "MERATUS KUMAI",
-        "code": "MEKM010",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "04/08/2026 17:00",
-        "etd": "06/08/2026 00:00",
-        "openstack": "30/07/2026 16:00",
-        "closeC": "04/08/2026 20:00"
       },
       {
         "name": "YONG SHENG",
@@ -356,6 +352,16 @@
         "closeC": "05/08/2026 02:00"
       },
       {
+        "name": "MARINA AURORA",
+        "code": "MAAU010",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "06/08/2026 08:00",
+        "etd": "07/08/2026 05:30",
+        "openstack": "01/08/2026 08:00",
+        "closeC": "06/08/2026 12:00"
+      },
+      {
         "name": "HMM HERITAGE",
         "code": "HMHE004",
         "voyage": "0011S        / 0011N",
@@ -365,16 +371,6 @@
         "etd": "06/08/2026 21:30",
         "openstack": "01/08/2026 08:00",
         "closeC": "05/08/2026 15:00"
-      },
-      {
-        "name": "MARINA AURORA",
-        "code": "MAAU010",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "06/08/2026 08:00",
-        "etd": "07/08/2026 05:30",
-        "openstack": "01/08/2026 08:00",
-        "closeC": "06/08/2026 12:00"
       },
       {
         "name": "2630S",
