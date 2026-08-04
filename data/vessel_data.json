@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T06:30:50+00:00",
+  "generated_at": "2026-08-04T06:45:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -296,6 +296,17 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "CELSIUS EINDHOVEN",
+        "code": "CEUS010",
+        "voyage": "032E         / 033W",
+        "type": "INTERNATIONAL",
+        "atb": "02/08/2026 17:05",
+        "etd": "04/08/2026 00:07",
+        "mmsi": "538011074",
+        "imo": "9969948",
+        "location": "Java Sea"
+      },
+      {
         "name": "EVER BURLY",
         "code": "EVLY005",
         "voyage": "S092         / N092",
@@ -411,19 +422,7 @@
         "closeC": "08/08/2026 04:00"
       }
     ],
-    "departed": [
-      {
-        "name": "CELSIUS EINDHOVEN",
-        "code": "CEUS010",
-        "voyage": "032E         / 033W",
-        "type": "INTERNATIONAL",
-        "atb": "02/08/2026 17:05",
-        "etd": "04/08/2026 00:07",
-        "mmsi": "538011074",
-        "imo": "9969948",
-        "location": "Java Sea"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
