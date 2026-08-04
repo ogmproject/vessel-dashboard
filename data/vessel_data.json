@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T17:00:58+00:00",
+  "generated_at": "2026-08-04T17:15:55+00:00",
   "tps": {
     "alongside": [
       {
@@ -272,17 +272,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "CELSIUS EINDHOVEN",
-        "code": "CEUS010",
-        "voyage": "032E         / 033W",
-        "type": "INTERNATIONAL",
-        "atb": "02/08/2026 17:05",
-        "etd": "04/08/2026 00:07",
-        "mmsi": "538011074",
-        "imo": "9969948",
-        "location": "Java Sea"
-      },
       {
         "name": "YONG SHENG",
         "code": "YONG001",
