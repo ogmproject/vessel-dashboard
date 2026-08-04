@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T05:00:51+00:00",
+  "generated_at": "2026-08-04T05:15:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -205,7 +205,7 @@
         "verified": false,
         "mmsi": "636019861",
         "imo": "9224946",
-        "location": "South China Sea"
+        "location": "Singapore Strait"
       },
       {
         "name": "SPIL NIKEN",
@@ -288,7 +288,7 @@
         "dep": "02/08/2026 08:54",
         "mmsi": "636019861",
         "imo": "9224946",
-        "location": "South China Sea"
+        "location": "Singapore Strait"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
