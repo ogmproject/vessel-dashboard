@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T17:15:55+00:00",
+  "generated_at": "2026-08-04T17:30:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "1203-081A / 1203-081A",
         "atb": "04/08/2026 22:24",
         "etd": "05/08/2026 12:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - KOTA HIDAYAH",
-        "code": "2624S / 2624S",
-        "atb": "04/08/2026 16:50",
-        "etd": "05/08/2026 01:00",
         "verified": false
       }
     ],
@@ -229,9 +222,24 @@
         "closeC": "09/08/2026 18:00",
         "closeD": "09/08/2026 21:00",
         "verified": false
+      },
+      {
+        "name": "MSC SPARKLE III",
+        "code": "HV632R / HV632R",
+        "eta": "10/08/2026 02:00",
+        "etd": "11/08/2026 08:30",
+        "openstack": "05/08/2026 02:00",
+        "closeC": "09/08/2026 20:00",
+        "closeD": "09/08/2026 23:00",
+        "verified": false
       }
     ],
     "movement": [
+      {
+        "name": "KOTA HIDAYAH",
+        "berth": "04/08/2026 16:50",
+        "dep": "05/08/2026 00:14"
+      },
       {
         "name": "MSC AMEERA III",
         "berth": "03/08/2026 17:05",
