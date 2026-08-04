@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-08-04T16:45:53+00:00",
+  "generated_at": "2026-08-04T17:00:58+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - MSC AMEERA III",
-        "code": "HV631R / HV631R",
-        "atb": "03/08/2026 17:05",
-        "etd": "04/08/2026 21:00",
-        "verified": false
-      },
       {
         "name": "I2 - EVER BEFIT",
         "code": "1203-081A / 1203-081A",
@@ -240,6 +233,11 @@
     ],
     "movement": [
       {
+        "name": "MSC AMEERA III",
+        "berth": "03/08/2026 17:05",
+        "dep": "04/08/2026 23:50"
+      },
+      {
         "name": "CMA CGM POINTE PERCEE",
         "berth": "03/08/2026 15:40",
         "dep": "04/08/2026 18:45"
@@ -268,19 +266,6 @@
         "name": "EVER ORIENT",
         "berth": "02/08/2026 12:02",
         "dep": "03/08/2026 05:39"
-      },
-      {
-        "name": "MARSA PRIDE",
-        "berth": "01/08/2026 22:32",
-        "dep": "02/08/2026 13:15"
-      },
-      {
-        "name": "MSC IDA II",
-        "berth": "31/07/2026 15:25",
-        "dep": "02/08/2026 08:54",
-        "mmsi": "636019861",
-        "imo": "9224946",
-        "location": "Singapore Strait"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
