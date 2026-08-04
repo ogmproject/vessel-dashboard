@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T02:45:40+00:00",
+  "generated_at": "2026-08-04T03:00:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -296,6 +296,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "EVER BURLY",
+        "code": "EVLY005",
+        "voyage": "S092         / N092",
+        "type": "INTERNATIONAL",
+        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
+        "atb": "04/08/2026 09:45",
+        "etd": "05/08/2026 10:00"
+      },
+      {
         "name": "WAN HANG HENG YUAN",
         "code": "WAAN004",
         "voyage": "010S         / 010N",
@@ -308,17 +317,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER BURLY",
-        "code": "EVLY005",
-        "voyage": "S092         / N092",
-        "type": "INTERNATIONAL",
-        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "etb": "04/08/2026 10:00",
-        "etd": "05/08/2026 10:00",
-        "openstack": "30/07/2026 09:00",
-        "closeC": "04/08/2026 04:00"
-      },
       {
         "name": "ZEYNEP C",
         "code": "ZEEP001",
@@ -371,16 +369,6 @@
         "closeC": "06/08/2026 12:00"
       },
       {
-        "name": "2630S",
-        "code": "2630N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "06/08/2026 08:00",
-        "etd": "07/08/2026 08:30",
-        "openstack": "01/08/2026 08:00",
-        "closeC": "06/08/2026 03:00"
-      },
-      {
         "name": "HMM HERITAGE",
         "code": "HMHE004",
         "voyage": "0011S        / 0011N",
@@ -390,6 +378,16 @@
         "etd": "06/08/2026 21:30",
         "openstack": "01/08/2026 08:00",
         "closeC": "05/08/2026 15:00"
+      },
+      {
+        "name": "2630S",
+        "code": "2630N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "06/08/2026 17:00",
+        "etd": "07/08/2026 14:30",
+        "openstack": "01/08/2026 17:00",
+        "closeC": "06/08/2026 03:00"
       },
       {
         "name": "XIN HANG ZHOU",
