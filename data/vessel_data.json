@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T11:15:39+00:00",
+  "generated_at": "2026-08-04T11:31:13+00:00",
   "tps": {
     "alongside": [
       {
@@ -201,8 +201,7 @@
         "closeD": "08/08/2026 13:00",
         "verified": false,
         "mmsi": "636019861",
-        "imo": "9224946",
-        "location": "Singapore Strait"
+        "imo": "9224946"
       },
       {
         "name": "SPIL NIKEN",
