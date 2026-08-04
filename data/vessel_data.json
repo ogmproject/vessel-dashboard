@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T10:01:04+00:00",
+  "generated_at": "2026-08-04T10:15:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -15,19 +15,16 @@
         "atb": "03/08/2026 15:40",
         "etd": "04/08/2026 18:00",
         "verified": false
+      },
+      {
+        "name": "I1 - KOTA HIDAYAH",
+        "code": "2624S / 2624S",
+        "atb": "04/08/2026 16:50",
+        "etd": "05/08/2026 01:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "KOTA HIDAYAH",
-        "code": "2624S / 2624S",
-        "eta": "04/08/2026 15:59",
-        "etd": "05/08/2026 01:00",
-        "openstack": "30/07/2026 12:00",
-        "closeC": "04/08/2026 06:00",
-        "closeD": "04/08/2026 09:00",
-        "verified": false
-      },
       {
         "name": "EVER BEFIT",
         "code": "1203-081A / 1203-081A",
