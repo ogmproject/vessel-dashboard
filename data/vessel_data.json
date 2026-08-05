@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T02:01:02+00:00",
+  "generated_at": "2026-08-05T02:30:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -313,15 +313,6 @@
         "carrier": "PT. MERATUS LINE",
         "atb": "04/08/2026 19:00",
         "etd": "06/08/2026 01:00"
-      },
-      {
-        "name": "EVER BURLY",
-        "code": "EVLY005",
-        "voyage": "S092         / N092",
-        "type": "INTERNATIONAL",
-        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "atb": "04/08/2026 09:45",
-        "etd": "05/08/2026 12:00"
       }
     ],
     "schedule": [
@@ -398,7 +389,19 @@
         "closeC": "08/08/2026 04:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN004",
+        "voyage": "010S         / 010N",
+        "type": "INTERNATIONAL",
+        "atb": "04/08/2026 02:15",
+        "etd": "04/08/2026 17:46",
+        "mmsi": "352006269",
+        "imo": "1115565",
+        "location": "Java Sea"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
