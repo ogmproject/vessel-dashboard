@@ -1,36 +1,23 @@
 {
-  "generated_at": "2026-08-05T04:00:58+00:00",
+  "generated_at": "2026-08-05T10:00:51+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I3 - APL JEDDAH",
         "code": "0AUFRS / 0AUFSN",
         "atb": "05/08/2026 06:12",
-        "etd": "06/08/2026 01:00",
+        "etd": "06/08/2026 10:00",
         "verified": false
       },
       {
-        "name": "I2 - EVER BEFIT",
-        "code": "1203-081A / 1203-081A",
-        "atb": "04/08/2026 22:24",
-        "etd": "05/08/2026 13:00",
+        "name": "I1 - BRICKELL",
+        "code": "630S / 630S",
+        "atb": "05/08/2026 14:10",
+        "etd": "06/08/2026 07:00",
         "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "BRICKELL",
-        "code": "630S / 630S",
-        "eta": "05/08/2026 14:00",
-        "etd": "06/08/2026 07:00",
-        "openstack": "03/08/2026 18:00",
-        "closeC": "06/08/2026 12:00",
-        "closeD": "06/08/2026 15:00",
-        "verified": false,
-        "mmsi": "538009605",
-        "imo": "9315343",
-        "location": "Java Sea"
-      },
       {
         "name": "ZHONG GU JI NAN",
         "code": "0QAHUS / 0QAHVN",
@@ -42,33 +29,23 @@
         "verified": false
       },
       {
-        "name": "OEL RUDRA",
-        "code": "630N / 630N",
-        "eta": "05/08/2026 21:00",
-        "etd": "07/08/2026 09:00",
-        "openstack": "31/07/2026 10:00",
-        "closeC": "05/08/2026 04:00",
-        "closeD": "05/08/2026 07:00",
-        "verified": false
-      },
-      {
         "name": "SITC DECHENG",
         "code": "2616S / 2617N",
-        "eta": "06/08/2026 05:00",
-        "etd": "06/08/2026 18:00",
+        "eta": "06/08/2026 01:00",
+        "etd": "06/08/2026 16:00",
         "openstack": "31/07/2026 08:00",
         "closeC": "05/08/2026 02:00",
         "closeD": "05/08/2026 05:00",
         "verified": false
       },
       {
-        "name": "AS CASPRIA",
-        "code": "379S / 379N",
-        "eta": "06/08/2026 13:00",
-        "etd": "07/08/2026 11:00",
-        "openstack": "31/07/2026 07:00",
-        "closeC": "05/08/2026 01:00",
-        "closeD": "05/08/2026 04:00",
+        "name": "OEL RUDRA",
+        "code": "630N / 630N",
+        "eta": "06/08/2026 08:00",
+        "etd": "07/08/2026 18:00",
+        "openstack": "31/07/2026 10:00",
+        "closeC": "05/08/2026 04:00",
+        "closeD": "05/08/2026 07:00",
         "verified": false
       },
       {
@@ -82,10 +59,20 @@
         "verified": false
       },
       {
+        "name": "AS CASPRIA",
+        "code": "379S / 379N",
+        "eta": "06/08/2026 15:00",
+        "etd": "07/08/2026 16:00",
+        "openstack": "31/07/2026 07:00",
+        "closeC": "05/08/2026 01:00",
+        "closeD": "05/08/2026 04:00",
+        "verified": false
+      },
+      {
         "name": "KMTC INCHEON",
         "code": "2607S / 2607N",
-        "eta": "06/08/2026 20:00",
-        "etd": "07/08/2026 20:00",
+        "eta": "06/08/2026 18:00",
+        "etd": "07/08/2026 06:00",
         "openstack": "02/08/2026 13:30",
         "closeC": "06/08/2026 14:00",
         "closeD": "06/08/2026 17:00",
@@ -249,9 +236,34 @@
         "closeC": "10/08/2026 02:00",
         "closeD": "10/08/2026 05:00",
         "verified": false
+      },
+      {
+        "name": "CMA CGM FORT JAMES",
+        "code": "0XLC7S / 0XLC8N",
+        "eta": "10/08/2026 20:00",
+        "etd": "13/08/2026 03:30",
+        "openstack": "05/08/2026 20:00",
+        "closeC": "10/08/2026 14:00",
+        "closeD": "10/08/2026 17:00",
+        "verified": false
+      },
+      {
+        "name": "SKY WIND",
+        "code": "083S / 083N",
+        "eta": "11/08/2026 03:00",
+        "etd": "12/08/2026 08:30",
+        "openstack": "06/08/2026 03:00",
+        "closeC": "10/08/2026 21:00",
+        "closeD": "11/08/2026 00:00",
+        "verified": false
       }
     ],
     "movement": [
+      {
+        "name": "EVER BEFIT",
+        "berth": "04/08/2026 22:24",
+        "dep": "05/08/2026 14:17"
+      },
       {
         "name": "KOTA HIDAYAH",
         "berth": "04/08/2026 16:50",
@@ -298,13 +310,22 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "YONG SHENG",
-        "code": "YONG001",
-        "voyage": "194          / 194",
+        "name": "CHENNAI VOYAGER",
+        "code": "CHVO009",
+        "voyage": "2607S        / 2607N",
         "type": "INTERNATIONAL",
-        "carrier": "PT.LAUTAN LUAS MARITIM",
-        "atb": "04/08/2026 23:32",
-        "etd": "05/08/2026 13:00"
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "atb": "05/08/2026 15:09",
+        "etd": "06/08/2026 13:00"
+      },
+      {
+        "name": "ZEYNEP C",
+        "code": "ZEEP001",
+        "voyage": "042026       / 042026",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. DALIAN PUTRA MARITIM",
+        "atb": "05/08/2026 13:45",
+        "etd": "07/08/2026 23:59"
       },
       {
         "name": "MERATUS KUMAI",
@@ -312,29 +333,19 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "04/08/2026 19:00",
-        "etd": "06/08/2026 01:00"
+        "etd": "06/08/2026 04:00"
       }
     ],
     "schedule": [
       {
-        "name": "ZEYNEP C",
-        "code": "ZEEP001",
-        "voyage": "042026       / 042026",
+        "name": "MARINA AURORA",
+        "code": "MAAU010",
         "type": "INTERNATIONAL",
-        "carrier": "PT. DALIAN PUTRA MARITIM",
-        "etb": "04/08/2026 16:00",
-        "etd": "04/08/2026 16:30"
-      },
-      {
-        "name": "CHENNAI VOYAGER",
-        "code": "CHVO009",
-        "voyage": "2607S        / 2607N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "05/08/2026 12:00",
-        "etd": "06/08/2026 10:00",
-        "openstack": "31/07/2026 08:00",
-        "closeC": "05/08/2026 07:00"
+        "carrier": "PT. MERATUS LINE",
+        "etb": "06/08/2026 08:00",
+        "etd": "07/08/2026 00:00",
+        "openstack": "01/08/2026 08:00",
+        "closeC": "06/08/2026 12:00"
       },
       {
         "name": "HMM HERITAGE",
@@ -342,20 +353,10 @@
         "voyage": "0011S        / 0011N",
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
-        "etb": "06/08/2026 08:00",
-        "etd": "06/08/2026 21:30",
+        "etb": "06/08/2026 15:00",
+        "etd": "07/08/2026 04:00",
         "openstack": "01/08/2026 08:00",
         "closeC": "05/08/2026 15:00"
-      },
-      {
-        "name": "MARINA AURORA",
-        "code": "MAAU010",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "06/08/2026 08:00",
-        "etd": "07/08/2026 05:30",
-        "openstack": "01/08/2026 08:00",
-        "closeC": "06/08/2026 12:00"
       },
       {
         "name": "2630S",
@@ -390,6 +391,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "EVER BURLY",
+        "code": "EVLY005",
+        "voyage": "S092         / N092",
+        "type": "INTERNATIONAL",
+        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
+        "atb": "04/08/2026 09:45",
+        "etd": "05/08/2026 12:55"
+      },
       {
         "name": "WAN HANG HENG YUAN",
         "code": "WAAN004",
