@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T00:45:47+00:00",
+  "generated_at": "2026-08-05T01:00:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -221,6 +221,16 @@
         "verified": false
       },
       {
+        "name": "THE WHALE SHARK",
+        "code": "2026S / 2026S",
+        "eta": "10/08/2026 01:00",
+        "etd": "10/08/2026 09:30",
+        "openstack": "05/08/2026 01:00",
+        "closeC": "09/08/2026 19:00",
+        "closeD": "09/08/2026 22:00",
+        "verified": false
+      },
+      {
         "name": "MSC SPARKLE III",
         "code": "HV632R / HV632R",
         "eta": "10/08/2026 02:00",
@@ -228,6 +238,16 @@
         "openstack": "05/08/2026 02:00",
         "closeC": "09/08/2026 20:00",
         "closeD": "09/08/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "XIN YAN TIAN",
+        "code": "119S / 119N",
+        "eta": "10/08/2026 08:00",
+        "etd": "11/08/2026 22:30",
+        "openstack": "05/08/2026 08:00",
+        "closeC": "10/08/2026 02:00",
+        "closeD": "10/08/2026 05:00",
         "verified": false
       }
     ],
@@ -378,20 +398,7 @@
         "closeC": "08/08/2026 04:00"
       }
     ],
-    "departed": [
-      {
-        "name": "BELAWAN",
-        "code": "BEAN012",
-        "voyage": "2607S        / 2607N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "03/08/2026 08:21",
-        "etd": "04/08/2026 07:46",
-        "mmsi": "477883500",
-        "imo": "9412828",
-        "location": "Java Sea"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
