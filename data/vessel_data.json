@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T10:15:33+00:00",
+  "generated_at": "2026-08-05T10:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -388,6 +388,16 @@
         "etd": "09/08/2026 09:00",
         "openstack": "03/08/2026 09:00",
         "closeC": "08/08/2026 04:00"
+      },
+      {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU005",
+        "voyage": "011S         / 011N",
+        "type": "INTERNATIONAL",
+        "etb": "10/08/2026 12:00",
+        "etd": "11/08/2026 08:30",
+        "openstack": "05/08/2026 12:00",
+        "closeC": "10/08/2026 07:00"
       }
     ],
     "departed": [
