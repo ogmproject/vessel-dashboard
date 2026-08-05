@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-05T14:45:35+00:00",
+  "generated_at": "2026-08-05T15:00:54+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - ZHONG GU JI NAN",
+        "code": "0QAHUS / 0QAHVN",
+        "atb": "05/08/2026 21:35",
+        "etd": "07/08/2026 02:00",
+        "verified": false
+      },
       {
         "name": "I3 - APL JEDDAH",
         "code": "0AUFRS / 0AUFSN",
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "ZHONG GU JI NAN",
-        "code": "0QAHUS / 0QAHVN",
-        "eta": "05/08/2026 21:00",
-        "etd": "07/08/2026 02:00",
-        "openstack": "30/07/2026 22:00",
-        "closeC": "04/08/2026 16:00",
-        "closeD": "04/08/2026 19:00",
-        "verified": false
-      },
       {
         "name": "SITC DECHENG",
         "code": "2616S / 2617N",
@@ -316,7 +313,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "05/08/2026 15:09",
-        "etd": "06/08/2026 13:00"
+        "etd": "06/08/2026 11:00"
       },
       {
         "name": "ZEYNEP C",
@@ -333,7 +330,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "04/08/2026 19:00",
-        "etd": "06/08/2026 04:00"
+        "etd": "06/08/2026 12:00"
       }
     ],
     "schedule": [
@@ -342,8 +339,8 @@
         "code": "MAAU010",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "06/08/2026 08:00",
-        "etd": "07/08/2026 00:00",
+        "etb": "06/08/2026 14:00",
+        "etd": "07/08/2026 06:00",
         "openstack": "01/08/2026 08:00",
         "closeC": "06/08/2026 12:00"
       },
@@ -354,7 +351,7 @@
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
         "etb": "06/08/2026 15:00",
-        "etd": "07/08/2026 04:00",
+        "etd": "07/08/2026 00:00",
         "openstack": "01/08/2026 08:00",
         "closeC": "05/08/2026 15:00"
       },
