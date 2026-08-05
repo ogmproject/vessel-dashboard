@@ -53,7 +53,7 @@ jobs:
         run: |
           git config user.name "vessel-data-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/vessel_data.json data/mmsi_cache.json data/health_status.json data/vessel_history.json
+          git add data/*.json
           git diff --quiet --cached || git commit -m "Auto-update vessel data"
           git push
 
