@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T19:00:43+00:00",
+  "generated_at": "2026-08-05T19:15:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -288,7 +288,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "05/08/2026 15:09",
-        "etd": "06/08/2026 13:00"
+        "etd": "06/08/2026 11:00"
       },
       {
         "name": "ZEYNEP C",
