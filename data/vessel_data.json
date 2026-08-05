@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T10:45:37+00:00",
+  "generated_at": "2026-08-05T11:00:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -409,17 +409,6 @@
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
         "atb": "04/08/2026 09:45",
         "etd": "05/08/2026 12:55"
-      },
-      {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN004",
-        "voyage": "010S         / 010N",
-        "type": "INTERNATIONAL",
-        "atb": "04/08/2026 02:15",
-        "etd": "04/08/2026 17:46",
-        "mmsi": "352006269",
-        "imo": "1115565",
-        "location": "Java Sea"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
