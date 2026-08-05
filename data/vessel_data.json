@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T00:01:02+00:00",
+  "generated_at": "2026-08-05T00:15:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -284,7 +284,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT.LAUTAN LUAS MARITIM",
         "atb": "04/08/2026 23:32",
-        "etd": "05/08/2026 09:00"
+        "etd": "05/08/2026 11:00"
       },
       {
         "name": "MERATUS KUMAI",
