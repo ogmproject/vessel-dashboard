@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T16:45:32+00:00",
+  "generated_at": "2026-08-05T17:00:57+00:00",
   "tps": {
     "alongside": [
       {
@@ -275,31 +275,6 @@
         "name": "CMA CGM POINTE PERCEE",
         "berth": "03/08/2026 15:40",
         "dep": "04/08/2026 18:45"
-      },
-      {
-        "name": "BRIGHT COSMOS",
-        "berth": "03/08/2026 08:25",
-        "dep": "03/08/2026 19:00"
-      },
-      {
-        "name": "YM INTERACTION",
-        "berth": "02/08/2026 12:16",
-        "dep": "03/08/2026 13:09"
-      },
-      {
-        "name": "OEL RUDRA",
-        "berth": "02/08/2026 14:55",
-        "dep": "03/08/2026 10:45"
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "berth": "01/08/2026 21:55",
-        "dep": "03/08/2026 06:34"
-      },
-      {
-        "name": "EVER ORIENT",
-        "berth": "02/08/2026 12:02",
-        "dep": "03/08/2026 05:39"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
