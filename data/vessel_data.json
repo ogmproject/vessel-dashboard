@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T07:15:44+00:00",
+  "generated_at": "2026-08-06T07:30:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -289,15 +289,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "YONG SHENG",
-        "code": "YONG001",
-        "voyage": "194          / 194",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.LAUTAN LUAS MARITIM",
-        "atb": "04/08/2026 23:32",
-        "etd": "05/08/2026 14:18"
-      },
       {
         "name": "MARINA AURORA",
         "code": "MAAU010",
