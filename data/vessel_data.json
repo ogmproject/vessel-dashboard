@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T08:15:35+00:00",
+  "generated_at": "2026-08-06T08:30:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -148,8 +148,7 @@
         "closeD": "08/08/2026 13:00",
         "verified": false,
         "mmsi": "636019861",
-        "imo": "9224946",
-        "location": "Singapore Strait"
+        "imo": "9224946"
       },
       {
         "name": "SPIL NIKEN",
@@ -329,6 +328,15 @@
         "etd": "08/08/2026 12:00",
         "openstack": "02/08/2026 12:00",
         "closeC": "07/08/2026 07:00"
+      },
+      {
+        "name": "BAOSHAN GLORY",
+        "code": "BARY001",
+        "voyage": "2602         / 2602",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. DALIAN PUTRA MARITIM",
+        "etb": "07/08/2026 23:00",
+        "etd": "07/08/2026 23:30"
       },
       {
         "name": "KMTC SHIMIZU",
