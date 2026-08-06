@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T13:15:35+00:00",
+  "generated_at": "2026-08-06T13:30:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "630N / 630N",
         "atb": "06/08/2026 17:20",
         "etd": "07/08/2026 20:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - SITC DECHENG",
-        "code": "2616S / 2617N",
-        "atb": "06/08/2026 02:30",
-        "etd": "06/08/2026 16:00",
         "verified": false
       },
       {
@@ -212,6 +205,16 @@
         "verified": false
       },
       {
+        "name": "BACH",
+        "code": "0AUFVS / 0AUFWN",
+        "eta": "10/08/2026 16:00",
+        "etd": "11/08/2026 16:30",
+        "openstack": "05/08/2026 16:00",
+        "closeC": "10/08/2026 10:00",
+        "closeD": "10/08/2026 13:00",
+        "verified": false
+      },
+      {
         "name": "CMA CGM FORT JAMES",
         "code": "0XLC7S / 0XLC8N",
         "eta": "10/08/2026 20:00",
@@ -253,6 +256,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SITC DECHENG",
+        "berth": "06/08/2026 02:30",
+        "dep": "06/08/2026 18:45"
+      },
       {
         "name": "APL JEDDAH",
         "berth": "05/08/2026 06:12",
