@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T15:48:20+00:00",
+  "generated_at": "2026-08-06T23:03:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -126,7 +126,7 @@
         "verified": false,
         "mmsi": "636019861",
         "imo": "9224946",
-        "location": "Singapore Strait"
+        "location": "South China Sea"
       },
       {
         "name": "SPIL NIKEN",
@@ -280,40 +280,12 @@
         "name": "KOTA HIDAYAH",
         "berth": "04/08/2026 16:50",
         "dep": "05/08/2026 00:14"
-      },
-      {
-        "name": "MSC AMEERA III",
-        "berth": "03/08/2026 17:05",
-        "dep": "04/08/2026 23:50"
-      },
-      {
-        "name": "CMA CGM POINTE PERCEE",
-        "berth": "03/08/2026 15:40",
-        "dep": "04/08/2026 18:45"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "HMM HERITAGE",
-        "code": "HMHE004",
-        "voyage": "0011S        / 0011N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "06/08/2026 17:04",
-        "etd": "07/08/2026 01:00"
-      },
-      {
-        "name": "MARINA AURORA",
-        "code": "MAAU010",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "06/08/2026 13:45",
-        "etd": "07/08/2026 06:00"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "2630S",
@@ -398,6 +370,23 @@
       }
     ],
     "departed": [
+      {
+        "name": "MARINA AURORA",
+        "code": "MAAU010",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "06/08/2026 13:45",
+        "etd": "07/08/2026 05:06"
+      },
+      {
+        "name": "CHENNAI VOYAGER",
+        "code": "CHVO009",
+        "voyage": "2607S        / 2607N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "atb": "05/08/2026 15:09",
+        "etd": "06/08/2026 10:46"
+      },
       {
         "name": "MERATUS KUMAI",
         "code": "MEKM010",
