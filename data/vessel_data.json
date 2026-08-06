@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-08-06T23:30:45+00:00",
+  "generated_at": "2026-08-06T23:45:36+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - ZHONG GU JI NAN",
-        "code": "0QAHUS / 0QAHVN",
-        "atb": "05/08/2026 21:35",
-        "etd": "07/08/2026 03:00",
-        "verified": false
-      },
       {
         "name": "I3 - OEL RUDRA",
         "code": "630N / 630N",
@@ -253,6 +246,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "ZHONG GU JI NAN",
+        "berth": "05/08/2026 21:35",
+        "dep": "07/08/2026 06:32"
+      },
       {
         "name": "SITC DECHENG",
         "berth": "06/08/2026 02:30",
