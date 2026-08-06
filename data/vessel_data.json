@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T14:45:42+00:00",
+  "generated_at": "2026-08-06T15:00:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -303,7 +303,7 @@
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
         "atb": "06/08/2026 17:04",
-        "etd": "07/08/2026 02:00"
+        "etd": "07/08/2026 01:00"
       },
       {
         "name": "MARINA AURORA",
@@ -311,7 +311,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "06/08/2026 13:45",
-        "etd": "07/08/2026 10:00"
+        "etd": "07/08/2026 06:00"
       }
     ],
     "schedule": [
