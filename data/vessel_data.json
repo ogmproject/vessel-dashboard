@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:00:47+00:00",
+  "generated_at": "2026-08-06T09:15:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,19 +22,16 @@
         "atb": "06/08/2026 02:30",
         "etd": "06/08/2026 16:00",
         "verified": false
+      },
+      {
+        "name": "I1 - AS CASPRIA",
+        "code": "379S / 379N",
+        "atb": "06/08/2026 15:50",
+        "etd": "07/08/2026 14:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "AS CASPRIA",
-        "code": "379S / 379N",
-        "eta": "06/08/2026 14:00",
-        "etd": "07/08/2026 14:00",
-        "openstack": "31/07/2026 07:00",
-        "closeC": "05/08/2026 01:00",
-        "closeD": "05/08/2026 04:00",
-        "verified": false
-      },
       {
         "name": "OEL RUDRA",
         "code": "630N / 630N",
