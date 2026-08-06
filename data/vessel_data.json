@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T05:45:36+00:00",
+  "generated_at": "2026-08-06T06:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -290,13 +290,13 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "EVER BURLY",
-        "code": "EVLY005",
-        "voyage": "S092         / N092",
+        "name": "YONG SHENG",
+        "code": "YONG001",
+        "voyage": "194          / 194",
         "type": "INTERNATIONAL",
-        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "atb": "04/08/2026 09:45",
-        "etd": "05/08/2026 12:55"
+        "carrier": "PT.LAUTAN LUAS MARITIM",
+        "atb": "04/08/2026 23:32",
+        "etd": "05/08/2026 14:18"
       },
       {
         "name": "MERATUS KUMAI",
@@ -392,17 +392,7 @@
         "closeC": "10/08/2026 18:00"
       }
     ],
-    "departed": [
-      {
-        "name": "YONG SHENG",
-        "code": "YONG001",
-        "voyage": "194          / 194",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.LAUTAN LUAS MARITIM",
-        "atb": "04/08/2026 23:32",
-        "etd": "05/08/2026 14:18"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
