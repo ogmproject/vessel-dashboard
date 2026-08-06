@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T01:30:43+00:00",
+  "generated_at": "2026-08-06T01:45:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -289,6 +289,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "AFRICAN PHEASANT",
+        "code": "AFAN001",
+        "voyage": "49           / 49",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. SAHA MITRA SAMUDERA",
+        "atb": "02/08/2026 11:12",
+        "etd": "05/08/2026 12:38"
+      },
+      {
         "name": "CHENNAI VOYAGER",
         "code": "CHVO009",
         "voyage": "2607S        / 2607N",
@@ -296,15 +305,6 @@
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "05/08/2026 15:09",
         "etd": "06/08/2026 09:00"
-      },
-      {
-        "name": "ZEYNEP C",
-        "code": "ZEEP001",
-        "voyage": "042026       / 042026",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. DALIAN PUTRA MARITIM",
-        "atb": "05/08/2026 13:45",
-        "etd": "07/08/2026 23:59"
       },
       {
         "name": "MERATUS KUMAI",
