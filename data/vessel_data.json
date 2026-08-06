@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T03:45:40+00:00",
+  "generated_at": "2026-08-06T04:00:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -298,15 +298,6 @@
         "etd": "05/08/2026 12:55"
       },
       {
-        "name": "CHENNAI VOYAGER",
-        "code": "CHVO009",
-        "voyage": "2607S        / 2607N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "atb": "05/08/2026 15:09",
-        "etd": "06/08/2026 09:00"
-      },
-      {
         "name": "MERATUS KUMAI",
         "code": "MEKM010",
         "type": "INTERNATIONAL",
@@ -335,7 +326,7 @@
         "etb": "06/08/2026 15:00",
         "etd": "07/08/2026 00:00",
         "openstack": "01/08/2026 08:00",
-        "closeC": "05/08/2026 15:00"
+        "closeC": "06/08/2026 15:00"
       },
       {
         "name": "2630S",
