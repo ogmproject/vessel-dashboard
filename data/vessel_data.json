@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:15:46+00:00",
+  "generated_at": "2026-08-06T09:30:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "0QAHUS / 0QAHVN",
         "atb": "05/08/2026 21:35",
         "etd": "07/08/2026 05:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - APL JEDDAH",
-        "code": "0AUFRS / 0AUFSN",
-        "atb": "05/08/2026 06:12",
-        "etd": "06/08/2026 13:00",
         "verified": false
       },
       {
@@ -253,6 +246,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "APL JEDDAH",
+        "berth": "05/08/2026 06:12",
+        "dep": "06/08/2026 16:15"
+      },
       {
         "name": "BRICKELL",
         "berth": "05/08/2026 14:10",
