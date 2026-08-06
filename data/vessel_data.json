@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T01:00:48+00:00",
+  "generated_at": "2026-08-06T01:15:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -380,6 +380,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "YONG SHENG",
+        "code": "YONG001",
+        "voyage": "194          / 194",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.LAUTAN LUAS MARITIM",
+        "atb": "04/08/2026 23:32",
+        "etd": "05/08/2026 14:18"
+      },
       {
         "name": "EVER BURLY",
         "code": "EVLY005",
