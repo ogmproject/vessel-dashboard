@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T04:30:38+00:00",
+  "generated_at": "2026-08-06T04:45:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -21,13 +21,6 @@
         "code": "2616S / 2617N",
         "atb": "06/08/2026 02:30",
         "etd": "06/08/2026 16:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - BRICKELL",
-        "code": "630S / 630S",
-        "atb": "05/08/2026 14:10",
-        "etd": "06/08/2026 07:00",
         "verified": false
       }
     ],
@@ -263,6 +256,14 @@
       }
     ],
     "movement": [
+      {
+        "name": "BRICKELL",
+        "berth": "05/08/2026 14:10",
+        "dep": "06/08/2026 10:50",
+        "mmsi": "538009605",
+        "imo": "9315343",
+        "location": "Java Sea"
+      },
       {
         "name": "EVER BEFIT",
         "berth": "04/08/2026 22:24",
