@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T06:45:41+00:00",
+  "generated_at": "2026-08-06T07:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -26,16 +26,6 @@
     ],
     "schedule": [
       {
-        "name": "OEL RUDRA",
-        "code": "630N / 630N",
-        "eta": "06/08/2026 08:00",
-        "etd": "07/08/2026 18:00",
-        "openstack": "31/07/2026 10:00",
-        "closeC": "05/08/2026 04:00",
-        "closeD": "05/08/2026 07:00",
-        "verified": false
-      },
-      {
         "name": "AS CASPRIA",
         "code": "379S / 379N",
         "eta": "06/08/2026 14:00",
@@ -46,13 +36,13 @@
         "verified": false
       },
       {
-        "name": "ANL KOKODA",
-        "code": "1326S / 1326S",
-        "eta": "06/08/2026 15:00",
-        "etd": "07/08/2026 05:00",
-        "openstack": "31/07/2026 18:00",
-        "closeC": "05/08/2026 12:00",
-        "closeD": "05/08/2026 15:00",
+        "name": "OEL RUDRA",
+        "code": "630N / 630N",
+        "eta": "06/08/2026 16:00",
+        "etd": "07/08/2026 20:00",
+        "openstack": "31/07/2026 10:00",
+        "closeC": "05/08/2026 04:00",
+        "closeD": "05/08/2026 07:00",
         "verified": false
       },
       {
@@ -66,17 +56,14 @@
         "verified": false
       },
       {
-        "name": "JOANNA",
-        "code": "089S / 089N",
-        "eta": "06/08/2026 20:00",
-        "etd": "08/08/2026 09:00",
-        "openstack": "01/08/2026 08:00",
-        "closeC": "06/08/2026 02:00",
-        "closeD": "06/08/2026 05:00",
-        "verified": false,
-        "mmsi": "636016118",
-        "imo": "9204477",
-        "location": "Java Sea"
+        "name": "ANL KOKODA",
+        "code": "1326S / 1326S",
+        "eta": "07/08/2026 04:00",
+        "etd": "07/08/2026 18:00",
+        "openstack": "31/07/2026 18:00",
+        "closeC": "05/08/2026 12:00",
+        "closeD": "05/08/2026 15:00",
+        "verified": false
       },
       {
         "name": "EVER OBEY",
@@ -89,20 +76,10 @@
         "verified": false
       },
       {
-        "name": "EVER BLINK",
-        "code": "1200-083B / 1200-083B",
-        "eta": "07/08/2026 11:00",
-        "etd": "08/08/2026 06:00",
-        "openstack": "02/08/2026 08:00",
-        "closeC": "07/08/2026 02:00",
-        "closeD": "07/08/2026 05:00",
-        "verified": false
-      },
-      {
         "name": "WAN HAI 309",
         "code": "S040 / N041",
-        "eta": "07/08/2026 13:00",
-        "etd": "08/08/2026 09:00",
+        "eta": "07/08/2026 20:00",
+        "etd": "08/08/2026 16:00",
         "openstack": "02/08/2026 21:00",
         "closeC": "07/08/2026 15:00",
         "closeD": "07/08/2026 18:00",
@@ -111,12 +88,25 @@
       {
         "name": "EVER CANDID",
         "code": "0547-088S / 0547-088N",
-        "eta": "08/08/2026 08:00",
-        "etd": "09/08/2026 04:30",
+        "eta": "07/08/2026 22:00",
+        "etd": "08/08/2026 14:00",
         "openstack": "03/08/2026 08:00",
         "closeC": "08/08/2026 02:00",
         "closeD": "08/08/2026 05:00",
         "verified": false
+      },
+      {
+        "name": "JOANNA",
+        "code": "089S / 089N",
+        "eta": "07/08/2026 22:00",
+        "etd": "09/08/2026 08:00",
+        "openstack": "01/08/2026 08:00",
+        "closeC": "06/08/2026 02:00",
+        "closeD": "06/08/2026 05:00",
+        "verified": false,
+        "mmsi": "636016118",
+        "imo": "9204477",
+        "location": "Java Sea"
       },
       {
         "name": "AS CHRISTIANA",
@@ -126,6 +116,16 @@
         "openstack": "03/08/2026 00:00",
         "closeC": "07/08/2026 18:00",
         "closeD": "07/08/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "EVER BLINK",
+        "code": "1200-083B / 1200-083B",
+        "eta": "08/08/2026 10:00",
+        "etd": "09/08/2026 04:00",
+        "openstack": "02/08/2026 08:00",
+        "closeC": "07/08/2026 02:00",
+        "closeD": "07/08/2026 05:00",
         "verified": false
       },
       {
@@ -299,6 +299,14 @@
         "etd": "05/08/2026 14:18"
       },
       {
+        "name": "MARINA AURORA",
+        "code": "MAAU010",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "06/08/2026 13:45",
+        "etd": "07/08/2026 10:00"
+      },
+      {
         "name": "MERATUS KUMAI",
         "code": "MEKM010",
         "type": "INTERNATIONAL",
@@ -309,22 +317,12 @@
     ],
     "schedule": [
       {
-        "name": "MARINA AURORA",
-        "code": "MAAU010",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "06/08/2026 14:00",
-        "etd": "07/08/2026 10:00",
-        "openstack": "01/08/2026 08:00",
-        "closeC": "06/08/2026 12:00"
-      },
-      {
         "name": "HMM HERITAGE",
         "code": "HMHE004",
         "voyage": "0011S        / 0011N",
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
-        "etb": "06/08/2026 15:00",
+        "etb": "06/08/2026 16:00",
         "etd": "07/08/2026 00:00",
         "openstack": "01/08/2026 08:00",
         "closeC": "05/08/2026 15:00"
