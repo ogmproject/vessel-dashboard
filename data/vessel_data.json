@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T02:00:41+00:00",
+  "generated_at": "2026-08-06T02:15:33+00:00",
   "tps": {
     "alongside": [
       {
@@ -289,6 +289,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "EVER BURLY",
+        "code": "EVLY005",
+        "voyage": "S092         / N092",
+        "type": "INTERNATIONAL",
+        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
+        "atb": "04/08/2026 09:45",
+        "etd": "05/08/2026 12:55"
+      },
+      {
         "name": "CHENNAI VOYAGER",
         "code": "CHVO009",
         "voyage": "2607S        / 2607N",
@@ -379,15 +388,6 @@
         "carrier": "PT.LAUTAN LUAS MARITIM",
         "atb": "04/08/2026 23:32",
         "etd": "05/08/2026 14:18"
-      },
-      {
-        "name": "EVER BURLY",
-        "code": "EVLY005",
-        "voyage": "S092         / N092",
-        "type": "INTERNATIONAL",
-        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "atb": "04/08/2026 09:45",
-        "etd": "05/08/2026 12:55"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
