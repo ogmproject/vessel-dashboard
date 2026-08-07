@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T09:45:36+00:00",
+  "generated_at": "2026-08-07T10:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -389,6 +389,27 @@
         "etd": "12/08/2026 16:00",
         "openstack": "06/08/2026 16:00",
         "closeC": "11/08/2026 11:00"
+      },
+      {
+        "name": "MARINA ATHENA",
+        "code": "MAAT009",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "12/08/2026 20:00",
+        "etd": "13/08/2026 20:00",
+        "openstack": "07/08/2026 20:00",
+        "closeC": "12/08/2026 15:00"
+      },
+      {
+        "name": "AS CAROLINA",
+        "code": "ASRO004",
+        "voyage": "346S         / 346N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "etb": "13/08/2026 08:00",
+        "etd": "14/08/2026 08:00",
+        "openstack": "08/08/2026 08:00",
+        "closeC": "13/08/2026 03:00"
       }
     ],
     "departed": [
