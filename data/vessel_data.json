@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-07T08:00:55+00:00",
+  "generated_at": "2026-08-07T08:15:37+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - ANL KOKODA",
         "code": "1326S / 1326S",
         "atb": "07/08/2026 10:35",
-        "etd": "07/08/2026 20:00",
+        "etd": "07/08/2026 22:00",
         "verified": false
       },
       {
@@ -27,7 +27,7 @@
         "name": "I1 - AS CASPRIA",
         "code": "379S / 379N",
         "atb": "06/08/2026 15:50",
-        "etd": "07/08/2026 15:00",
+        "etd": "07/08/2026 16:00",
         "verified": false
       }
     ],
@@ -290,7 +290,16 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
+    "alongside": [
+      {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM010",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "04/08/2026 19:00",
+        "etd": "06/08/2026 15:52"
+      }
+    ],
     "schedule": [
       {
         "name": "BAOSHAN GLORY",
@@ -391,14 +400,6 @@
         "carrier": "PT. MERATUS LINE",
         "atb": "06/08/2026 13:45",
         "etd": "07/08/2026 05:06"
-      },
-      {
-        "name": "MERATUS KUMAI",
-        "code": "MEKM010",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "04/08/2026 19:00",
-        "etd": "06/08/2026 15:52"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
