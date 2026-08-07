@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T17:15:33+00:00",
+  "generated_at": "2026-08-07T17:30:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -102,7 +102,8 @@
         "closeD": "08/08/2026 13:00",
         "verified": false,
         "mmsi": "636019861",
-        "imo": "9224946"
+        "imo": "9224946",
+        "location": "Java Sea"
       },
       {
         "name": "STARSHIP VENUS",
