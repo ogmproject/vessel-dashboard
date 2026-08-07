@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T03:30:39+00:00",
+  "generated_at": "2026-08-07T03:45:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -321,7 +321,7 @@
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
         "etb": "08/08/2026 20:00",
-        "etd": "09/08/2026 23:00",
+        "etd": "10/08/2026 02:00",
         "openstack": "03/08/2026 09:00",
         "closeC": "08/08/2026 14:00"
       },
