@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:15:42+00:00",
+  "generated_at": "2026-08-07T07:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -293,16 +293,6 @@
     "alongside": [],
     "schedule": [
       {
-        "name": "2630S",
-        "code": "2630N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "07/08/2026 22:00",
-        "etd": "08/08/2026 15:00",
-        "openstack": "01/08/2026 17:00",
-        "closeC": "06/08/2026 09:00"
-      },
-      {
         "name": "BAOSHAN GLORY",
         "code": "BARY001",
         "voyage": "2602         / 2602",
@@ -310,6 +300,16 @@
         "carrier": "PT. DALIAN PUTRA MARITIM",
         "etb": "07/08/2026 23:00",
         "etd": "07/08/2026 23:30"
+      },
+      {
+        "name": "2630S",
+        "code": "2630N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "08/08/2026 02:00",
+        "etd": "08/08/2026 20:00",
+        "openstack": "01/08/2026 17:00",
+        "closeC": "06/08/2026 09:00"
       },
       {
         "name": "XIN HANG ZHOU",
@@ -327,8 +327,8 @@
         "voyage": "2607S        / 2607N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "08/08/2026 20:00",
-        "etd": "10/08/2026 02:00",
+        "etb": "08/08/2026 22:00",
+        "etd": "10/08/2026 04:00",
         "openstack": "03/08/2026 09:00",
         "closeC": "08/08/2026 14:00"
       },
