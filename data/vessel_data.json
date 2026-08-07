@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:00:43+00:00",
+  "generated_at": "2026-08-07T23:15:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "S040 / N041",
         "atb": "08/08/2026 05:30",
         "etd": "09/08/2026 05:31",
+        "verified": false
+      },
+      {
+        "name": "I3 - EVER CANDID",
+        "code": "0547-088S / 0547-088N",
+        "atb": "08/08/2026 06:10",
+        "etd": "08/08/2026 16:00",
         "verified": false
       },
       {
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER CANDID",
-        "code": "0547-088S / 0547-088N",
-        "eta": "08/08/2026 00:01",
-        "etd": "08/08/2026 16:00",
-        "openstack": "03/08/2026 08:00",
-        "closeC": "08/08/2026 02:00",
-        "closeD": "08/08/2026 05:00",
-        "verified": false
-      },
       {
         "name": "AS CHRISTIANA",
         "code": "26006S / 26006N",
