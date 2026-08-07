@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-08-07T20:30:39+00:00",
+  "generated_at": "2026-08-07T20:45:34+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - ANL KOKODA",
-        "code": "1326S / 1326S",
-        "atb": "07/08/2026 10:35",
-        "etd": "08/08/2026 02:00",
-        "verified": false
-      },
       {
         "name": "I3 - OEL RUDRA",
         "code": "630N / 630N",
@@ -240,6 +233,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "ANL KOKODA",
+        "berth": "07/08/2026 10:35",
+        "dep": "08/08/2026 03:26"
+      },
       {
         "name": "AS CASPRIA",
         "berth": "06/08/2026 15:50",
