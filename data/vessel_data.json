@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T18:30:42+00:00",
+  "generated_at": "2026-08-07T18:45:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -277,7 +277,16 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
+    "alongside": [
+      {
+        "name": "2630S",
+        "code": "2630N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "atb": "08/08/2026 01:38",
+        "etd": "08/08/2026 20:00"
+      }
+    ],
     "schedule": [
       {
         "name": "BAOSHAN GLORY",
@@ -287,16 +296,6 @@
         "carrier": "PT. DALIAN PUTRA MARITIM",
         "etb": "07/08/2026 23:00",
         "etd": "07/08/2026 23:30"
-      },
-      {
-        "name": "2630S",
-        "code": "2630N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "08/08/2026 02:00",
-        "etd": "08/08/2026 20:00",
-        "openstack": "01/08/2026 17:00",
-        "closeC": "06/08/2026 09:00"
       },
       {
         "name": "XIN HANG ZHOU",
