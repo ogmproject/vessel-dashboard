@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:45:37+00:00",
+  "generated_at": "2026-08-07T08:00:55+00:00",
   "tps": {
     "alongside": [
       {
@@ -331,6 +331,15 @@
         "etd": "10/08/2026 04:00",
         "openstack": "03/08/2026 09:00",
         "closeC": "08/08/2026 14:00"
+      },
+      {
+        "name": "LIVITA",
+        "code": "LITA001",
+        "voyage": "59L          / 59L",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. PELAYARAN KARANA LINE",
+        "etb": "09/08/2026 23:30",
+        "etd": "10/08/2026 00:00"
       },
       {
         "name": "XIN BEI LUN",
