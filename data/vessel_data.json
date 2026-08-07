@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-07T15:00:48+00:00",
+  "generated_at": "2026-08-07T15:45:37+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - ANL KOKODA",
         "code": "1326S / 1326S",
         "atb": "07/08/2026 10:35",
-        "etd": "07/08/2026 22:00",
+        "etd": "08/08/2026 02:00",
         "verified": false
       },
       {
         "name": "I3 - OEL RUDRA",
         "code": "630N / 630N",
         "atb": "06/08/2026 17:20",
-        "etd": "07/08/2026 22:00",
+        "etd": "08/08/2026 01:30",
         "verified": false
       },
       {
