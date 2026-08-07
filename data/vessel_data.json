@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T16:45:40+00:00",
+  "generated_at": "2026-08-07T17:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -272,16 +272,6 @@
         "mmsi": "538009605",
         "imo": "9315343",
         "location": "Java Sea"
-      },
-      {
-        "name": "EVER BEFIT",
-        "berth": "04/08/2026 22:24",
-        "dep": "05/08/2026 14:17"
-      },
-      {
-        "name": "KOTA HIDAYAH",
-        "berth": "04/08/2026 16:50",
-        "dep": "05/08/2026 00:14"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
