@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T13:45:41+00:00",
+  "generated_at": "2026-08-07T14:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -410,6 +410,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "HMM HERITAGE",
+        "code": "HMHE004",
+        "voyage": "0011S        / 0011N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "06/08/2026 17:04",
+        "etd": "07/08/2026 02:08"
+      },
       {
         "name": "MARINA AURORA",
         "code": "MAAU010",
