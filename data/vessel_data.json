@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-08-07T21:15:43+00:00",
+  "generated_at": "2026-08-07T21:30:39+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I3 - OEL RUDRA",
-        "code": "630N / 630N",
-        "atb": "06/08/2026 17:20",
-        "etd": "08/08/2026 01:30",
-        "verified": false
-      },
       {
         "name": "I2 - EVER OBEY",
         "code": "0487-056S / 0487-056N",
@@ -233,6 +226,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "OEL RUDRA",
+        "berth": "06/08/2026 17:20",
+        "dep": "08/08/2026 03:47"
+      },
       {
         "name": "ANL KOKODA",
         "berth": "07/08/2026 10:35",
