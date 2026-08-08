@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T12:03:18+00:00",
+  "generated_at": "2026-08-08T12:15:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -275,15 +275,6 @@
         "type": "INTERNATIONAL",
         "atb": "08/08/2026 16:52",
         "etd": "10/08/2026 10:00"
-      },
-      {
-        "name": "BAOSHAN GLORY",
-        "code": "BARY001",
-        "voyage": "2602         / 2602",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. DALIAN PUTRA MARITIM",
-        "atb": "08/08/2026 03:42",
-        "etd": "09/08/2026 14:00"
       }
     ],
     "schedule": [
