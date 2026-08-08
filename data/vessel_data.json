@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:45:38+00:00",
+  "generated_at": "2026-08-08T08:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -283,7 +283,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "atb": "08/08/2026 01:38",
-        "etd": "08/08/2026 16:00"
+        "etd": "08/08/2026 17:00"
       }
     ],
     "schedule": [
@@ -292,8 +292,8 @@
         "code": "XIZO002",
         "voyage": "215E         / 216W",
         "type": "INTERNATIONAL",
-        "etb": "08/08/2026 16:00",
-        "etd": "10/08/2026 18:00",
+        "etb": "08/08/2026 15:00",
+        "etd": "10/08/2026 10:00",
         "openstack": "03/08/2026 16:00",
         "closeC": "07/08/2026 13:00"
       },
