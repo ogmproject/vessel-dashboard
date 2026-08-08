@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-08T20:00:45+00:00",
+  "generated_at": "2026-08-08T20:15:34+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I3 - SINAR SULAWESI",
+        "code": "091S / 091N",
+        "atb": "09/08/2026 03:00",
+        "etd": "10/08/2026 19:00",
+        "verified": false
+      },
       {
         "name": "I2 - EVER BLINK",
         "code": "1200-083B / 1200-083B",
@@ -50,16 +57,6 @@
         "mmsi": "636019861",
         "imo": "9224946",
         "location": "Java Sea"
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "code": "091S / 091N",
-        "eta": "09/08/2026 02:00",
-        "etd": "10/08/2026 19:00",
-        "openstack": "03/08/2026 16:00",
-        "closeC": "08/08/2026 10:00",
-        "closeD": "08/08/2026 13:00",
-        "verified": false
       },
       {
         "name": "STARSHIP VENUS",
