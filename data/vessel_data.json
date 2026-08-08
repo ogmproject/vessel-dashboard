@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T05:01:05+00:00",
+  "generated_at": "2026-08-08T05:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -260,7 +260,8 @@
         "berth": "05/08/2026 14:10",
         "dep": "06/08/2026 10:50",
         "mmsi": "538009605",
-        "imo": "9315343"
+        "imo": "9315343",
+        "location": "Java Sea"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
