@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-08T22:15:39+00:00",
+  "generated_at": "2026-08-08T22:30:35+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - MSC IDA II",
+        "code": "XI631R / XI632R",
+        "atb": "09/08/2026 05:10",
+        "etd": "10/08/2026 12:00",
+        "verified": false
+      },
       {
         "name": "I3 - SINAR SULAWESI",
         "code": "091S / 091N",
@@ -44,19 +51,6 @@
         "closeC": "08/08/2026 17:00",
         "closeD": "08/08/2026 20:00",
         "verified": false
-      },
-      {
-        "name": "MSC IDA II",
-        "code": "XI631R / XI632R",
-        "eta": "09/08/2026 02:00",
-        "etd": "10/08/2026 12:00",
-        "openstack": "03/08/2026 16:00",
-        "closeC": "08/08/2026 10:00",
-        "closeD": "08/08/2026 13:00",
-        "verified": false,
-        "mmsi": "636019861",
-        "imo": "9224946",
-        "location": "Java Sea"
       },
       {
         "name": "STARSHIP VENUS",
