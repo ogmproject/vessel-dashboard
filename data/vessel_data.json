@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T02:00:42+00:00",
+  "generated_at": "2026-08-08T02:15:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,7 +13,7 @@
         "name": "I3 - EVER CANDID",
         "code": "0547-088S / 0547-088N",
         "atb": "08/08/2026 06:10",
-        "etd": "08/08/2026 16:00",
+        "etd": "09/08/2026 16:00",
         "verified": false
       },
       {
@@ -283,7 +283,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "atb": "08/08/2026 01:38",
-        "etd": "08/08/2026 20:00"
+        "etd": "08/08/2026 16:00"
       }
     ],
     "schedule": [
