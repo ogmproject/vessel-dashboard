@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-08-08T19:45:32+00:00",
+  "generated_at": "2026-08-08T20:00:45+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - WAN HAI 309",
-        "code": "S040 / N041",
-        "atb": "08/08/2026 05:30",
-        "etd": "09/08/2026 00:01",
-        "verified": false
-      },
       {
         "name": "I2 - EVER BLINK",
         "code": "1200-083B / 1200-083B",
@@ -203,6 +196,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "WAN HAI 309",
+        "berth": "08/08/2026 05:30",
+        "dep": "09/08/2026 00:40"
+      },
       {
         "name": "EVER CANDID",
         "berth": "08/08/2026 06:10",
