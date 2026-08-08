@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:15:34+00:00",
+  "generated_at": "2026-08-08T07:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -283,7 +283,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "atb": "08/08/2026 01:38",
-        "etd": "08/08/2026 17:00"
+        "etd": "08/08/2026 16:00"
       }
     ],
     "schedule": [
@@ -293,7 +293,7 @@
         "voyage": "215E         / 216W",
         "type": "INTERNATIONAL",
         "etb": "08/08/2026 15:00",
-        "etd": "10/08/2026 17:00",
+        "etd": "10/08/2026 10:00",
         "openstack": "02/08/2026 12:00",
         "closeC": "07/08/2026 13:00"
       },
