@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:00:42+00:00",
+  "generated_at": "2026-08-08T07:15:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -367,6 +367,17 @@
         "etd": "13/08/2026 20:00",
         "openstack": "07/08/2026 20:00",
         "closeC": "12/08/2026 15:00"
+      },
+      {
+        "name": "WAN HAI 351",
+        "code": "WA51017",
+        "voyage": "E046         / W047",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "etb": "13/08/2026 04:00",
+        "etd": "14/08/2026 04:00",
+        "openstack": "08/08/2026 04:00",
+        "closeC": "12/08/2026 23:00"
       },
       {
         "name": "AS CAROLINA",
