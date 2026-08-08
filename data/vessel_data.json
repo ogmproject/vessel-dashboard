@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T10:45:39+00:00",
+  "generated_at": "2026-08-08T11:00:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -284,14 +284,6 @@
         "carrier": "PT. DALIAN PUTRA MARITIM",
         "atb": "08/08/2026 03:42",
         "etd": "09/08/2026 14:00"
-      },
-      {
-        "name": "2630S",
-        "code": "2630N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "08/08/2026 01:38",
-        "etd": "08/08/2026 19:00"
       }
     ],
     "schedule": [
