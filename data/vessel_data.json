@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:45:38+00:00",
+  "generated_at": "2026-08-08T14:01:01+00:00",
   "tps": {
     "alongside": [
       {
@@ -105,8 +105,7 @@
         "closeD": "08/08/2026 17:00",
         "verified": false,
         "mmsi": "538009605",
-        "imo": "9315343",
-        "location": "Java Sea"
+        "imo": "9315343"
       },
       {
         "name": "MSC CHERYL 3",
