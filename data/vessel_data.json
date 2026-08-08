@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T16:45:37+00:00",
+  "generated_at": "2026-08-08T17:00:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,6 +14,13 @@
         "code": "0547-088S / 0547-088N",
         "atb": "08/08/2026 06:10",
         "etd": "09/08/2026 00:01",
+        "verified": false
+      },
+      {
+        "name": "I2 - EVER BLINK",
+        "code": "1200-083B / 1200-083B",
+        "atb": "08/08/2026 23:25",
+        "etd": "09/08/2026 15:30",
         "verified": false
       },
       {
@@ -43,16 +50,6 @@
         "openstack": "03/08/2026 23:00",
         "closeC": "08/08/2026 17:00",
         "closeD": "08/08/2026 20:00",
-        "verified": false
-      },
-      {
-        "name": "EVER BLINK",
-        "code": "1200-083B / 1200-083B",
-        "eta": "08/08/2026 23:00",
-        "etd": "09/08/2026 15:30",
-        "openstack": "02/08/2026 08:00",
-        "closeC": "07/08/2026 02:00",
-        "closeD": "07/08/2026 05:00",
         "verified": false
       },
       {
@@ -242,24 +239,6 @@
         "name": "ZHONG GU JI NAN",
         "berth": "05/08/2026 21:35",
         "dep": "07/08/2026 06:32"
-      },
-      {
-        "name": "SITC DECHENG",
-        "berth": "06/08/2026 02:30",
-        "dep": "06/08/2026 18:45"
-      },
-      {
-        "name": "APL JEDDAH",
-        "berth": "05/08/2026 06:12",
-        "dep": "06/08/2026 16:15"
-      },
-      {
-        "name": "BRICKELL",
-        "berth": "05/08/2026 14:10",
-        "dep": "06/08/2026 10:50",
-        "mmsi": "538009605",
-        "imo": "9315343",
-        "location": "Java Sea"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
