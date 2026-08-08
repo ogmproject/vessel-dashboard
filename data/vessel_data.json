@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T10:00:49+00:00",
+  "generated_at": "2026-08-08T10:15:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -269,6 +269,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "XIN HANG ZHOU",
+        "code": "XIZO002",
+        "voyage": "215E         / 216W",
+        "type": "INTERNATIONAL",
+        "atb": "08/08/2026 16:52",
+        "etd": "10/08/2026 10:00"
+      },
+      {
         "name": "BAOSHAN GLORY",
         "code": "BARY001",
         "voyage": "2602         / 2602",
@@ -287,16 +295,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "XIN HANG ZHOU",
-        "code": "XIZO002",
-        "voyage": "215E         / 216W",
-        "type": "INTERNATIONAL",
-        "etb": "08/08/2026 15:00",
-        "etd": "10/08/2026 10:00",
-        "openstack": "03/08/2026 16:00",
-        "closeC": "07/08/2026 13:00"
-      },
       {
         "name": "KMTC SHIMIZU",
         "code": "KMZU027",
