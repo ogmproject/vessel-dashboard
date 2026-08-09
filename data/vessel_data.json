@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T13:30:36+00:00",
+  "generated_at": "2026-08-09T13:45:30+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,6 +14,13 @@
         "code": "091S / 091N",
         "atb": "09/08/2026 03:00",
         "etd": "10/08/2026 16:00",
+        "verified": false
+      },
+      {
+        "name": "I2 - BRICKELL",
+        "code": "631N / 631N",
+        "atb": "09/08/2026 20:35",
+        "etd": "10/08/2026 19:00",
         "verified": false
       },
       {
@@ -44,19 +51,6 @@
         "closeC": "08/08/2026 17:00",
         "closeD": "08/08/2026 20:00",
         "verified": false
-      },
-      {
-        "name": "BRICKELL",
-        "code": "631N / 631N",
-        "eta": "09/08/2026 17:00",
-        "etd": "10/08/2026 19:00",
-        "openstack": "03/08/2026 20:00",
-        "closeC": "08/08/2026 14:00",
-        "closeD": "08/08/2026 17:00",
-        "verified": false,
-        "mmsi": "538009605",
-        "imo": "9315343",
-        "location": "Java Sea"
       },
       {
         "name": "MSC CHERYL 3",
