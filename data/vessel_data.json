@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T01:30:35+00:00",
+  "generated_at": "2026-08-09T01:45:28+00:00",
   "tps": {
     "alongside": [
       {
@@ -233,6 +233,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "KMTC SHIMIZU",
+        "code": "KMZU027",
+        "voyage": "2607S        / 2607N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "09/08/2026 08:36",
+        "etd": "10/08/2026 14:00"
+      },
+      {
         "name": "XIN HANG ZHOU",
         "code": "XIZO002",
         "voyage": "215E         / 216W",
@@ -242,17 +251,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU027",
-        "voyage": "2607S        / 2607N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "09/08/2026 07:00",
-        "etd": "10/08/2026 14:00",
-        "openstack": "03/08/2026 09:00",
-        "closeC": "08/08/2026 14:00"
-      },
       {
         "name": "LIVITA",
         "code": "LITA001",
