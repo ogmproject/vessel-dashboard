@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T12:45:33+00:00",
+  "generated_at": "2026-08-09T13:00:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,6 +14,13 @@
         "code": "091S / 091N",
         "atb": "09/08/2026 03:00",
         "etd": "10/08/2026 16:00",
+        "verified": false
+      },
+      {
+        "name": "I1 - STARSHIP VENUS",
+        "code": "2606S / 2606N",
+        "atb": "09/08/2026 19:45",
+        "etd": "10/08/2026 20:00",
         "verified": false
       }
     ],
@@ -36,16 +43,6 @@
         "openstack": "03/08/2026 23:00",
         "closeC": "08/08/2026 17:00",
         "closeD": "08/08/2026 20:00",
-        "verified": false
-      },
-      {
-        "name": "STARSHIP VENUS",
-        "code": "2606S / 2606N",
-        "eta": "09/08/2026 13:00",
-        "etd": "10/08/2026 20:00",
-        "openstack": "04/08/2026 01:00",
-        "closeC": "08/08/2026 19:00",
-        "closeD": "08/08/2026 22:00",
         "verified": false
       },
       {
