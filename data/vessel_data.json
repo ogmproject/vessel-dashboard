@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-09T15:45:30+00:00",
+  "generated_at": "2026-08-09T16:00:36+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - MSC IDA II",
         "code": "XI631R / XI632R",
         "atb": "09/08/2026 05:10",
-        "etd": "10/08/2026 12:00",
+        "etd": "10/08/2026 10:00",
         "verified": false
       },
       {
@@ -27,7 +27,7 @@
         "name": "I1 - STARSHIP VENUS",
         "code": "2606S / 2606N",
         "atb": "09/08/2026 19:45",
-        "etd": "10/08/2026 16:00",
+        "etd": "10/08/2026 15:00",
         "verified": false
       }
     ],
