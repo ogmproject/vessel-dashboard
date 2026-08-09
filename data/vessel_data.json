@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T15:30:55+00:00",
+  "generated_at": "2026-08-09T15:45:30+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,21 +13,21 @@
         "name": "I3 - SINAR SULAWESI",
         "code": "091S / 091N",
         "atb": "09/08/2026 03:00",
-        "etd": "10/08/2026 16:00",
+        "etd": "10/08/2026 18:00",
         "verified": false
       },
       {
         "name": "I2 - BRICKELL",
         "code": "631N / 631N",
         "atb": "09/08/2026 20:35",
-        "etd": "10/08/2026 19:00",
+        "etd": "11/08/2026 02:00",
         "verified": false
       },
       {
         "name": "I1 - STARSHIP VENUS",
         "code": "2606S / 2606N",
         "atb": "09/08/2026 19:45",
-        "etd": "10/08/2026 20:00",
+        "etd": "10/08/2026 16:00",
         "verified": false
       }
     ],
