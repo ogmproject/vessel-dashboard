@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T21:45:32+00:00",
+  "generated_at": "2026-08-09T22:00:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -225,15 +225,6 @@
         "carrier": "PT. DALIAN PUTRA MARITIM",
         "atb": "08/08/2026 03:42",
         "etd": "10/08/2026 04:12"
-      },
-      {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU027",
-        "voyage": "2607S        / 2607N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "09/08/2026 08:36",
-        "etd": "10/08/2026 15:00"
       }
     ],
     "schedule": [
@@ -320,7 +311,16 @@
         "closeC": "13/08/2026 03:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "XIN HANG ZHOU",
+        "code": "XIZO002",
+        "voyage": "215E         / 216W",
+        "type": "INTERNATIONAL",
+        "atb": "08/08/2026 16:52",
+        "etd": "10/08/2026 04:44"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
