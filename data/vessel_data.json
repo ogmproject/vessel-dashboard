@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T21:30:38+00:00",
+  "generated_at": "2026-08-09T21:45:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -218,6 +218,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "BAOSHAN GLORY",
+        "code": "BARY001",
+        "voyage": "2602         / 2602",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. DALIAN PUTRA MARITIM",
+        "atb": "08/08/2026 03:42",
+        "etd": "10/08/2026 04:12"
+      },
+      {
         "name": "KMTC SHIMIZU",
         "code": "KMZU027",
         "voyage": "2607S        / 2607N",
@@ -225,14 +234,6 @@
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
         "atb": "09/08/2026 08:36",
         "etd": "10/08/2026 15:00"
-      },
-      {
-        "name": "XIN HANG ZHOU",
-        "code": "XIZO002",
-        "voyage": "215E         / 216W",
-        "type": "INTERNATIONAL",
-        "atb": "08/08/2026 16:52",
-        "etd": "10/08/2026 04:00"
       }
     ],
     "schedule": [
@@ -242,8 +243,8 @@
         "voyage": "59L          / 59L",
         "type": "INTERNATIONAL",
         "carrier": "PT. PELAYARAN KARANA LINE",
-        "etb": "09/08/2026 23:30",
-        "etd": "10/08/2026 00:00"
+        "etb": "10/08/2026 08:00",
+        "etd": "11/08/2026 16:00"
       },
       {
         "name": "XIN BEI LUN",
