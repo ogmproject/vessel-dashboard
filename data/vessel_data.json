@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T02:15:33+00:00",
+  "generated_at": "2026-08-09T02:30:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -239,7 +239,7 @@
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
         "atb": "09/08/2026 08:36",
-        "etd": "10/08/2026 14:00"
+        "etd": "10/08/2026 15:00"
       },
       {
         "name": "XIN HANG ZHOU",
@@ -247,7 +247,7 @@
         "voyage": "215E         / 216W",
         "type": "INTERNATIONAL",
         "atb": "08/08/2026 16:52",
-        "etd": "10/08/2026 11:00"
+        "etd": "10/08/2026 08:00"
       }
     ],
     "schedule": [
