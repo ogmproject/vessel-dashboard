@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-10T07:00:44+00:00",
+  "generated_at": "2026-08-10T07:15:36+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - MSC CHERYL 3",
+        "code": "HC629A / HC631R",
+        "atb": "10/08/2026 14:05",
+        "etd": "11/08/2026 06:30",
+        "verified": false
+      },
       {
         "name": "I3 - SINAR SULAWESI",
         "code": "091S / 091N",
@@ -43,16 +50,6 @@
         "openstack": "03/08/2026 23:00",
         "closeC": "08/08/2026 17:00",
         "closeD": "08/08/2026 20:00",
-        "verified": false
-      },
-      {
-        "name": "MSC CHERYL 3",
-        "code": "HC629A / HC631R",
-        "eta": "10/08/2026 00:00",
-        "etd": "11/08/2026 06:30",
-        "openstack": "05/08/2026 00:00",
-        "closeC": "09/08/2026 18:00",
-        "closeD": "09/08/2026 21:00",
         "verified": false
       },
       {
@@ -200,7 +197,7 @@
       },
       {
         "name": "SEASPAN CALICANTO",
-        "code": "630S / 630N",
+        "code": "630S / 633N",
         "eta": "15/08/2026 23:00",
         "etd": "17/08/2026 08:30",
         "openstack": "10/08/2026 23:00",
