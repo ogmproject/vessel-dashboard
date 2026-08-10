@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T05:15:32+00:00",
+  "generated_at": "2026-08-10T05:30:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -187,6 +187,26 @@
         "mmsi": "636016118",
         "imo": "9204477",
         "location": "Java Sea"
+      },
+      {
+        "name": "OEL RUDRA",
+        "code": "631S / 632N",
+        "eta": "15/08/2026 07:00",
+        "etd": "17/08/2026 17:30",
+        "openstack": "10/08/2026 07:00",
+        "closeC": "15/08/2026 01:00",
+        "closeD": "15/08/2026 04:00",
+        "verified": false
+      },
+      {
+        "name": "SEASPAN CALICANTO",
+        "code": "630S / 630N",
+        "eta": "15/08/2026 23:00",
+        "etd": "17/08/2026 08:30",
+        "openstack": "10/08/2026 23:00",
+        "closeC": "15/08/2026 17:00",
+        "closeD": "15/08/2026 20:00",
+        "verified": false
       },
       {
         "name": "GSL MAMITSA",
