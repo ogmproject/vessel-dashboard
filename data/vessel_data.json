@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T15:00:53+00:00",
+  "generated_at": "2026-08-10T15:45:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -179,7 +179,7 @@
         "verified": false,
         "mmsi": "636016118",
         "imo": "9204477",
-        "location": "Java Sea"
+        "location": "South China Sea"
       },
       {
         "name": "OEL RUDRA",
@@ -242,7 +242,7 @@
         "dep": "09/08/2026 18:14",
         "mmsi": "636016118",
         "imo": "9204477",
-        "location": "Java Sea"
+        "location": "South China Sea"
       },
       {
         "name": "WAN HAI 309",
