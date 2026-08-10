@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T19:30:38+00:00",
+  "generated_at": "2026-08-10T19:45:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -10,10 +10,17 @@
         "verified": false
       },
       {
+        "name": "I3 - MSC SPARKLE III",
+        "code": "HV632R / HV632R",
+        "atb": "11/08/2026 02:35",
+        "etd": "11/08/2026 20:00",
+        "verified": false
+      },
+      {
         "name": "I2 - BRICKELL",
         "code": "631N / 631N",
         "atb": "09/08/2026 20:35",
-        "etd": "11/08/2026 14:00",
+        "etd": "11/08/2026 12:00",
         "verified": false
       }
     ],
@@ -56,16 +63,6 @@
         "openstack": "03/08/2026 23:00",
         "closeC": "08/08/2026 17:00",
         "closeD": "08/08/2026 20:00",
-        "verified": false
-      },
-      {
-        "name": "MSC SPARKLE III",
-        "code": "HV632R / HV632R",
-        "eta": "10/08/2026 22:00",
-        "etd": "11/08/2026 20:00",
-        "openstack": "05/08/2026 02:00",
-        "closeC": "09/08/2026 20:00",
-        "closeD": "09/08/2026 23:00",
         "verified": false
       },
       {
@@ -189,6 +186,16 @@
         "openstack": "10/08/2026 07:00",
         "closeC": "15/08/2026 01:00",
         "closeD": "15/08/2026 04:00",
+        "verified": false
+      },
+      {
+        "name": "ZHONG GU FU ZHOU",
+        "code": "0QAHYS / 0QAHZN",
+        "eta": "15/08/2026 22:00",
+        "etd": "17/08/2026 09:30",
+        "openstack": "10/08/2026 22:00",
+        "closeC": "15/08/2026 16:00",
+        "closeD": "15/08/2026 19:00",
         "verified": false
       },
       {
