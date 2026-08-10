@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-08-10T20:30:39+00:00",
+  "generated_at": "2026-08-10T23:00:45+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - MSC CHERYL 3",
-        "code": "HC629A / HC631R",
-        "atb": "10/08/2026 14:05",
-        "etd": "11/08/2026 04:00",
-        "verified": false
-      },
       {
         "name": "I3 - MSC SPARKLE III",
         "code": "HV632R / HV632R",
@@ -21,6 +14,13 @@
         "code": "631N / 631N",
         "atb": "09/08/2026 20:35",
         "etd": "11/08/2026 12:00",
+        "verified": false
+      },
+      {
+        "name": "I1 - SPIL NIKEN",
+        "code": "629S / 632N",
+        "atb": "11/08/2026 03:45",
+        "etd": "11/08/2026 23:00",
         "verified": false
       }
     ],
@@ -53,16 +53,6 @@
         "openstack": "05/08/2026 20:00",
         "closeC": "10/08/2026 14:00",
         "closeD": "10/08/2026 17:00",
-        "verified": false
-      },
-      {
-        "name": "SPIL NIKEN",
-        "code": "629S / 632N",
-        "eta": "10/08/2026 22:00",
-        "etd": "11/08/2026 23:00",
-        "openstack": "03/08/2026 23:00",
-        "closeC": "08/08/2026 17:00",
-        "closeD": "08/08/2026 20:00",
         "verified": false
       },
       {
@@ -221,6 +211,11 @@
     ],
     "movement": [
       {
+        "name": "MSC CHERYL 3",
+        "berth": "10/08/2026 14:05",
+        "dep": "11/08/2026 04:25"
+      },
+      {
         "name": "SINAR SULAWESI",
         "berth": "09/08/2026 03:00",
         "dep": "10/08/2026 21:49"
@@ -262,25 +257,24 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "XIN HANG ZHOU",
-        "code": "XIZO002",
-        "voyage": "215E         / 216W",
+        "name": "KMTC SHIMIZU",
+        "code": "KMZU027",
+        "voyage": "2607S        / 2607N",
         "type": "INTERNATIONAL",
-        "atb": "08/08/2026 16:52",
-        "etd": "10/08/2026 04:44"
-      }
-    ],
-    "schedule": [
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "09/08/2026 08:36",
+        "etd": "10/08/2026 14:44"
+      },
       {
         "name": "ITAL BONUS",
         "code": "ITBO008",
         "voyage": "S124         / N124",
         "type": "INTERNATIONAL",
-        "etb": "11/08/2026 01:00",
-        "etd": "12/08/2026 03:00",
-        "openstack": "06/08/2026 12:00",
-        "closeC": "10/08/2026 20:00"
-      },
+        "atb": "11/08/2026 05:25",
+        "etd": "12/08/2026 03:00"
+      }
+    ],
+    "schedule": [
       {
         "name": "MERATUS KUTAI",
         "code": "MEKI005",
@@ -374,17 +368,7 @@
         "closeC": "14/08/2026 07:00"
       }
     ],
-    "departed": [
-      {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU027",
-        "voyage": "2607S        / 2607N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "09/08/2026 08:36",
-        "etd": "10/08/2026 14:44"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
