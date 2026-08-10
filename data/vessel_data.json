@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T08:30:50+00:00",
+  "generated_at": "2026-08-10T08:45:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -150,6 +150,16 @@
         "openstack": "05/08/2026 08:00",
         "closeC": "10/08/2026 02:00",
         "closeD": "10/08/2026 05:00",
+        "verified": false
+      },
+      {
+        "name": "EVER CHASTE",
+        "code": "0548-094S / 0548-094N",
+        "eta": "13/08/2026 18:00",
+        "etd": "14/08/2026 19:30",
+        "openstack": "08/08/2026 18:00",
+        "closeC": "13/08/2026 12:00",
+        "closeD": "13/08/2026 15:00",
         "verified": false
       },
       {
@@ -318,6 +328,14 @@
         "etd": "12/08/2026 16:00",
         "openstack": "06/08/2026 16:00",
         "closeC": "11/08/2026 11:00"
+      },
+      {
+        "name": "CORAL",
+        "code": "COAL006",
+        "type": "INTERNATIONAL",
+        "carrier": "PT ARUNIKA BAHARI MARITIM",
+        "etb": "12/08/2026 12:00",
+        "etd": "12/08/2026 12:30"
       },
       {
         "name": "MARINA ATHENA",
