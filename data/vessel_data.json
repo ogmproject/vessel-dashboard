@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T08:45:39+00:00",
+  "generated_at": "2026-08-10T09:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -27,7 +27,7 @@
         "name": "I1 - STARSHIP VENUS",
         "code": "2606S / 2606N",
         "atb": "09/08/2026 19:45",
-        "etd": "10/08/2026 15:00",
+        "etd": "10/08/2026 19:30",
         "verified": false
       }
     ],
@@ -289,27 +289,6 @@
     ],
     "schedule": [
       {
-        "name": "XIN BEI LUN",
-        "code": "XIBE038",
-        "voyage": "287S         / 287N",
-        "type": "INTERNATIONAL",
-        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "etb": "10/08/2026 08:00",
-        "etd": "11/08/2026 04:30",
-        "openstack": "05/08/2026 08:00",
-        "closeC": "10/08/2026 09:00"
-      },
-      {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU005",
-        "voyage": "011S         / 011N",
-        "type": "INTERNATIONAL",
-        "etb": "10/08/2026 12:00",
-        "etd": "11/08/2026 08:30",
-        "openstack": "05/08/2026 12:00",
-        "closeC": "10/08/2026 07:00"
-      },
-      {
         "name": "ITAL BONUS",
         "code": "ITBO008",
         "voyage": "S124         / N124",
@@ -328,6 +307,27 @@
         "etd": "12/08/2026 16:00",
         "openstack": "06/08/2026 16:00",
         "closeC": "11/08/2026 11:00"
+      },
+      {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU005",
+        "voyage": "011S         / 011N",
+        "type": "INTERNATIONAL",
+        "etb": "12/08/2026 01:00",
+        "etd": "12/08/2026 10:06",
+        "openstack": "05/08/2026 12:00",
+        "closeC": "10/08/2026 07:00"
+      },
+      {
+        "name": "XIN BEI LUN",
+        "code": "XIBE038",
+        "voyage": "287S         / 287N",
+        "type": "INTERNATIONAL",
+        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
+        "etb": "12/08/2026 05:00",
+        "etd": "13/08/2026 07:00",
+        "openstack": "05/08/2026 08:00",
+        "closeC": "10/08/2026 09:00"
       },
       {
         "name": "CORAL",
