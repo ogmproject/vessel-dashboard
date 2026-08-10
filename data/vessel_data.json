@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T14:45:41+00:00",
+  "generated_at": "2026-08-10T15:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "HC629A / HC631R",
         "atb": "10/08/2026 14:05",
         "etd": "11/08/2026 04:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - SINAR SULAWESI",
-        "code": "091S / 091N",
-        "atb": "09/08/2026 03:00",
-        "etd": "10/08/2026 21:00",
         "verified": false
       },
       {
@@ -220,6 +213,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SINAR SULAWESI",
+        "berth": "09/08/2026 03:00",
+        "dep": "10/08/2026 21:49"
+      },
       {
         "name": "STARSHIP VENUS",
         "berth": "09/08/2026 19:45",
