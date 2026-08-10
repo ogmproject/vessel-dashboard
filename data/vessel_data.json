@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T01:30:34+00:00",
+  "generated_at": "2026-08-10T01:45:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -163,6 +163,16 @@
         "verified": false
       },
       {
+        "name": "MTT SIBU",
+        "code": "256E / 256W",
+        "eta": "14/08/2026 02:00",
+        "etd": "14/08/2026 12:30",
+        "openstack": "06/08/2026 06:00",
+        "closeC": "11/08/2026 00:00",
+        "closeD": "11/08/2026 03:00",
+        "verified": false
+      },
+      {
         "name": "WAN HAI 376",
         "code": "S032 / N033",
         "eta": "14/08/2026 12:00",
@@ -309,6 +319,17 @@
         "etd": "14/08/2026 08:00",
         "openstack": "08/08/2026 08:00",
         "closeC": "13/08/2026 03:00"
+      },
+      {
+        "name": "SURABAYA VOYAGER",
+        "code": "SUER007",
+        "voyage": "2611S        / 2611N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "etb": "15/08/2026 12:00",
+        "etd": "15/08/2026 12:30",
+        "openstack": "10/08/2026 12:00",
+        "closeC": "15/08/2026 07:00"
       }
     ],
     "departed": [
