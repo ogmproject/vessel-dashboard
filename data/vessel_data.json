@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T07:45:35+00:00",
+  "generated_at": "2026-08-10T08:00:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -83,16 +83,6 @@
         "verified": false
       },
       {
-        "name": "SKY WIND",
-        "code": "083S / 083N",
-        "eta": "11/08/2026 03:00",
-        "etd": "12/08/2026 08:30",
-        "openstack": "06/08/2026 03:00",
-        "closeC": "10/08/2026 21:00",
-        "closeD": "11/08/2026 00:00",
-        "verified": false
-      },
-      {
         "name": "AS CHRISTIANA",
         "code": "26006S / 26006N",
         "eta": "11/08/2026 04:00",
@@ -110,6 +100,16 @@
         "openstack": "06/08/2026 05:00",
         "closeC": "10/08/2026 23:00",
         "closeD": "11/08/2026 02:00",
+        "verified": false
+      },
+      {
+        "name": "SKY WIND",
+        "code": "083S / 083N",
+        "eta": "11/08/2026 14:00",
+        "etd": "12/08/2026 08:00",
+        "openstack": "06/08/2026 03:00",
+        "closeC": "10/08/2026 21:00",
+        "closeD": "11/08/2026 00:00",
         "verified": false
       },
       {
@@ -363,7 +363,17 @@
         "closeC": "15/08/2026 07:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "KMTC SHIMIZU",
+        "code": "KMZU027",
+        "voyage": "2607S        / 2607N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "09/08/2026 08:36",
+        "etd": "10/08/2026 14:44"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
