@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T16:45:44+00:00",
+  "generated_at": "2026-08-11T17:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,7 +13,7 @@
         "name": "I3 - MSC SPARKLE III",
         "code": "HV632R / HV632R",
         "atb": "11/08/2026 02:35",
-        "etd": "11/08/2026 23:30",
+        "etd": "12/08/2026 01:30",
         "verified": false
       }
     ],
@@ -251,24 +251,6 @@
         "mmsi": "636019861",
         "imo": "9224946",
         "location": "Java Sea"
-      },
-      {
-        "name": "EVER BLINK",
-        "berth": "08/08/2026 23:25",
-        "dep": "09/08/2026 19:05"
-      },
-      {
-        "name": "JOANNA",
-        "berth": "07/08/2026 21:55",
-        "dep": "09/08/2026 18:14",
-        "mmsi": "636016118",
-        "imo": "9204477",
-        "location": "South China Sea"
-      },
-      {
-        "name": "WAN HAI 309",
-        "berth": "08/08/2026 05:30",
-        "dep": "09/08/2026 00:40"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
