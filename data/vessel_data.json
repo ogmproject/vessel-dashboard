@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T01:15:33+00:00",
+  "generated_at": "2026-08-11T01:30:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -268,20 +268,10 @@
         "voyage": "S124         / N124",
         "type": "INTERNATIONAL",
         "atb": "11/08/2026 05:25",
-        "etd": "12/08/2026 03:00"
+        "etd": "12/08/2026 07:00"
       }
     ],
     "schedule": [
-      {
-        "name": "MERATUS KUTAI",
-        "code": "MEKI005",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "11/08/2026 16:00",
-        "etd": "12/08/2026 16:00",
-        "openstack": "06/08/2026 16:00",
-        "closeC": "11/08/2026 11:00"
-      },
       {
         "name": "ERASMUS JUSTICE",
         "code": "ERJU005",
@@ -342,6 +332,16 @@
         "etd": "14/08/2026 08:00",
         "openstack": "08/08/2026 08:00",
         "closeC": "13/08/2026 03:00"
+      },
+      {
+        "name": "MERATUS KUTAI",
+        "code": "MEKI005",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "14/08/2026 04:00",
+        "etd": "15/08/2026 07:00",
+        "openstack": "06/08/2026 16:00",
+        "closeC": "11/08/2026 11:00"
       },
       {
         "name": "SURABAYA VOYAGER",
