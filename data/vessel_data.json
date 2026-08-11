@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T17:00:46+00:00",
+  "generated_at": "2026-08-11T17:15:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,6 +14,13 @@
         "code": "HV632R / HV632R",
         "atb": "11/08/2026 02:35",
         "etd": "12/08/2026 01:30",
+        "verified": false
+      },
+      {
+        "name": "I2 - XIN YAN TIAN",
+        "code": "119S / 119N",
+        "atb": "11/08/2026 23:30",
+        "etd": "12/08/2026 22:00",
         "verified": false
       }
     ],
@@ -76,16 +83,6 @@
         "openstack": "06/08/2026 18:00",
         "closeC": "11/08/2026 12:00",
         "closeD": "11/08/2026 15:00",
-        "verified": false
-      },
-      {
-        "name": "XIN YAN TIAN",
-        "code": "119S / 119N",
-        "eta": "12/08/2026 22:00",
-        "etd": "12/08/2026 22:00",
-        "openstack": "05/08/2026 08:00",
-        "closeC": "10/08/2026 02:00",
-        "closeD": "10/08/2026 05:00",
         "verified": false
       },
       {
