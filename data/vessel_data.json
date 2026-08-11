@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T17:15:44+00:00",
+  "generated_at": "2026-08-11T17:30:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,19 +22,16 @@
         "atb": "11/08/2026 23:30",
         "etd": "12/08/2026 22:00",
         "verified": false
+      },
+      {
+        "name": "I1 - SKY WIND",
+        "code": "083S / 083N",
+        "atb": "12/08/2026 00:15",
+        "etd": "12/08/2026 12:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "SKY WIND",
-        "code": "083S / 083N",
-        "eta": "11/08/2026 22:00",
-        "etd": "12/08/2026 12:00",
-        "openstack": "06/08/2026 03:00",
-        "closeC": "10/08/2026 21:00",
-        "closeD": "11/08/2026 00:00",
-        "verified": false
-      },
       {
         "name": "BACH",
         "code": "0AUFVS / 0AUFWN",
