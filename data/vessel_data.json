@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:30:52+00:00",
+  "generated_at": "2026-08-11T07:45:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -32,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "CMA CGM FORT JAMES",
-        "code": "0XLC7S / 0XLC8N",
-        "eta": "10/08/2026 20:00",
-        "etd": "13/08/2026 03:30",
-        "openstack": "05/08/2026 20:00",
-        "closeC": "10/08/2026 14:00",
-        "closeD": "10/08/2026 17:00",
-        "verified": false
-      },
       {
         "name": "SKY WIND",
         "code": "083S / 083N",
@@ -133,6 +123,16 @@
         "verified": false
       },
       {
+        "name": "CMA CGM FORT JAMES",
+        "code": "0XLC7S / 0XLC8N",
+        "eta": "13/08/2026 22:00",
+        "etd": "15/08/2026 02:00",
+        "openstack": "05/08/2026 20:00",
+        "closeC": "10/08/2026 14:00",
+        "closeD": "10/08/2026 17:00",
+        "verified": false
+      },
+      {
         "name": "MTT SIBU",
         "code": "256E / 256W",
         "eta": "14/08/2026 02:00",
@@ -176,20 +176,10 @@
         "verified": false
       },
       {
-        "name": "ZHONG GU FU ZHOU",
-        "code": "0QAHYS / 0QAHZN",
-        "eta": "15/08/2026 22:00",
-        "etd": "17/08/2026 09:30",
-        "openstack": "10/08/2026 22:00",
-        "closeC": "15/08/2026 16:00",
-        "closeD": "15/08/2026 19:00",
-        "verified": false
-      },
-      {
         "name": "SEASPAN CALICANTO",
         "code": "630S / 633N",
-        "eta": "15/08/2026 23:00",
-        "etd": "17/08/2026 08:30",
+        "eta": "15/08/2026 22:00",
+        "etd": "16/08/2026 12:00",
         "openstack": "10/08/2026 23:00",
         "closeC": "15/08/2026 17:00",
         "closeD": "15/08/2026 20:00",
@@ -198,11 +188,21 @@
       {
         "name": "GSL MAMITSA",
         "code": "018S / 018N",
-        "eta": "16/08/2026 11:00",
-        "etd": "17/08/2026 06:30",
+        "eta": "16/08/2026 20:00",
+        "etd": "17/08/2026 14:00",
         "openstack": "11/08/2026 11:00",
         "closeC": "16/08/2026 05:00",
         "closeD": "16/08/2026 08:00",
+        "verified": false
+      },
+      {
+        "name": "ZHONG GU FU ZHOU",
+        "code": "0QAHYS / 0QAHZN",
+        "eta": "16/08/2026 21:00",
+        "etd": "18/08/2026 02:00",
+        "openstack": "10/08/2026 22:00",
+        "closeC": "15/08/2026 16:00",
+        "closeD": "15/08/2026 19:00",
         "verified": false
       },
       {
@@ -276,15 +276,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU027",
-        "voyage": "2607S        / 2607N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "09/08/2026 08:36",
-        "etd": "10/08/2026 14:44"
-      },
       {
         "name": "ITAL BONUS",
         "code": "ITBO008",
