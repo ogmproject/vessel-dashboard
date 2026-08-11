@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T03:00:44+00:00",
+  "generated_at": "2026-08-11T03:15:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -204,6 +204,19 @@
         "closeC": "16/08/2026 05:00",
         "closeD": "16/08/2026 08:00",
         "verified": false
+      },
+      {
+        "name": "MSC IDA II",
+        "code": "XI633A / XI634A",
+        "eta": "17/08/2026 16:00",
+        "etd": "19/08/2026 03:30",
+        "openstack": "12/08/2026 16:00",
+        "closeC": "17/08/2026 10:00",
+        "closeD": "17/08/2026 13:00",
+        "verified": false,
+        "mmsi": "636019861",
+        "imo": "9224946",
+        "location": "Java Sea"
       }
     ],
     "movement": [
