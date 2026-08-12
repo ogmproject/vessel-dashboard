@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:15:38+00:00",
+  "generated_at": "2026-08-12T07:30:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -269,14 +269,6 @@
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
         "atb": "12/08/2026 12:30",
         "etd": "13/08/2026 18:00"
-      },
-      {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU005",
-        "voyage": "011S         / 011N",
-        "type": "INTERNATIONAL",
-        "atb": "12/08/2026 03:10",
-        "etd": "12/08/2026 14:00"
       }
     ],
     "schedule": [
