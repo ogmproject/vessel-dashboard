@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T15:00:55+00:00",
+  "generated_at": "2026-08-12T15:45:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -17,6 +17,13 @@
         "verified": false
       },
       {
+        "name": "I2 - MTT SANDAKAN",
+        "code": "78E / 78W",
+        "atb": "12/08/2026 22:20",
+        "etd": "13/08/2026 18:00",
+        "verified": false
+      },
+      {
         "name": "I1 - SKY WIND",
         "code": "083S / 083N",
         "atb": "12/08/2026 00:15",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MTT SANDAKAN",
-        "code": "78E / 78W",
-        "eta": "12/08/2026 20:00",
-        "etd": "13/08/2026 18:00",
-        "openstack": "06/08/2026 05:00",
-        "closeC": "10/08/2026 23:00",
-        "closeD": "11/08/2026 02:00",
-        "verified": false
-      },
       {
         "name": "SIMAG SHANGHAI",
         "code": "2625S / 2625S",
