@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:30:39+00:00",
+  "generated_at": "2026-08-12T19:45:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,19 +22,16 @@
         "atb": "12/08/2026 22:20",
         "etd": "13/08/2026 19:00",
         "verified": false
+      },
+      {
+        "name": "I1 - SIMAG SHANGHAI",
+        "code": "2625S / 2625S",
+        "atb": "13/08/2026 02:35",
+        "etd": "13/08/2026 18:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "SIMAG SHANGHAI",
-        "code": "2625S / 2625S",
-        "eta": "13/08/2026 00:01",
-        "etd": "13/08/2026 18:00",
-        "openstack": "07/08/2026 08:00",
-        "closeC": "12/08/2026 02:00",
-        "closeD": "12/08/2026 05:00",
-        "verified": false
-      },
       {
         "name": "THE WHALE SHARK",
         "code": "2026S / 2026S",
