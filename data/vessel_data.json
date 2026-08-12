@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T08:15:34+00:00",
+  "generated_at": "2026-08-12T08:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -342,6 +342,16 @@
         "etd": "16/08/2026 03:30",
         "openstack": "10/08/2026 16:00",
         "closeC": "14/08/2026 07:00"
+      },
+      {
+        "name": "MERATUS KARIMUN",
+        "code": "MEIU021",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "18/08/2026 08:00",
+        "etd": "19/08/2026 17:30",
+        "openstack": "13/08/2026 08:00",
+        "closeC": "18/08/2026 03:00"
       }
     ],
     "departed": [],
