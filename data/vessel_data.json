@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-08-12T03:00:47+00:00",
+  "generated_at": "2026-08-12T03:15:38+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - AS CHRISTIANA",
-        "code": "26006S / 26006N",
-        "atb": "11/08/2026 07:15",
-        "etd": "12/08/2026 08:00",
-        "verified": false
-      },
       {
         "name": "I3 - BACH",
         "code": "0AUFVS / 0AUFWN",
@@ -220,6 +213,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "AS CHRISTIANA",
+        "berth": "11/08/2026 07:15",
+        "dep": "12/08/2026 09:54"
+      },
       {
         "name": "MSC SPARKLE III",
         "berth": "11/08/2026 02:35",
