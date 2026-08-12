@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-12T06:30:41+00:00",
+  "generated_at": "2026-08-12T06:45:37+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - EVER BEAMY",
+        "code": "1204-082A / 1204-082A",
+        "atb": "12/08/2026 13:15",
+        "etd": "13/08/2026 06:00",
+        "verified": false
+      },
       {
         "name": "I3 - BACH",
         "code": "0AUFVS / 0AUFWN",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER BEAMY",
-        "code": "1204-082A / 1204-082A",
-        "eta": "12/08/2026 10:00",
-        "etd": "13/08/2026 06:00",
-        "openstack": "07/08/2026 08:00",
-        "closeC": "12/08/2026 02:00",
-        "closeD": "12/08/2026 05:00",
-        "verified": false
-      },
       {
         "name": "MTT SANDAKAN",
         "code": "78E / 78W",
@@ -159,47 +156,34 @@
         "verified": false
       },
       {
-        "name": "INFERRO",
-        "code": "045E / 045W",
-        "eta": "16/08/2026 12:00",
-        "etd": "17/08/2026 11:30",
-        "openstack": "11/08/2026 12:00",
-        "closeC": "16/08/2026 06:00",
-        "closeD": "16/08/2026 09:00",
-        "verified": false
-      },
-      {
         "name": "ZHONG GU FU ZHOU",
         "code": "0QAHYS / 0QAHZN",
-        "eta": "16/08/2026 21:00",
-        "etd": "18/08/2026 02:00",
+        "eta": "16/08/2026 10:00",
+        "etd": "17/08/2026 14:00",
         "openstack": "10/08/2026 22:00",
         "closeC": "15/08/2026 16:00",
         "closeD": "15/08/2026 19:00",
         "verified": false
       },
       {
+        "name": "INFERRO",
+        "code": "045E / 045W",
+        "eta": "16/08/2026 14:00",
+        "etd": "17/08/2026 14:00",
+        "openstack": "11/08/2026 12:00",
+        "closeC": "16/08/2026 06:00",
+        "closeD": "16/08/2026 09:00",
+        "verified": false
+      },
+      {
         "name": "SINAR SULAWESI",
         "code": "092S / 092N",
-        "eta": "17/08/2026 00:00",
-        "etd": "18/08/2026 16:30",
+        "eta": "16/08/2026 23:00",
+        "etd": "18/08/2026 12:00",
         "openstack": "12/08/2026 00:00",
         "closeC": "16/08/2026 18:00",
         "closeD": "16/08/2026 21:00",
         "verified": false
-      },
-      {
-        "name": "MSC IDA II",
-        "code": "XI633A / XI634A",
-        "eta": "17/08/2026 02:00",
-        "etd": "18/08/2026 13:30",
-        "openstack": "12/08/2026 02:00",
-        "closeC": "16/08/2026 20:00",
-        "closeD": "16/08/2026 23:00",
-        "verified": false,
-        "mmsi": "636019861",
-        "imo": "9224946",
-        "location": "Java Sea"
       },
       {
         "name": "GSL MAMITSA",
@@ -210,6 +194,19 @@
         "closeC": "16/08/2026 05:00",
         "closeD": "16/08/2026 08:00",
         "verified": false
+      },
+      {
+        "name": "MSC IDA II",
+        "code": "XI633A / XI634A",
+        "eta": "17/08/2026 16:00",
+        "etd": "18/08/2026 02:00",
+        "openstack": "12/08/2026 02:00",
+        "closeC": "16/08/2026 20:00",
+        "closeD": "16/08/2026 23:00",
+        "verified": false,
+        "mmsi": "636019861",
+        "imo": "9224946",
+        "location": "Java Sea"
       }
     ],
     "movement": [
