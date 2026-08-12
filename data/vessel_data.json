@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T05:30:39+00:00",
+  "generated_at": "2026-08-12T05:45:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -265,6 +265,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "XIN BEI LUN",
+        "code": "XIBE038",
+        "voyage": "287S         / 287N",
+        "type": "INTERNATIONAL",
+        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
+        "atb": "12/08/2026 12:30",
+        "etd": "13/08/2026 18:00"
+      },
+      {
         "name": "ERASMUS JUSTICE",
         "code": "ERJU005",
         "voyage": "011S         / 011N",
@@ -274,17 +283,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "XIN BEI LUN",
-        "code": "XIBE038",
-        "voyage": "287S         / 287N",
-        "type": "INTERNATIONAL",
-        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "etb": "12/08/2026 12:00",
-        "etd": "13/08/2026 18:00",
-        "openstack": "05/08/2026 08:00",
-        "closeC": "11/08/2026 01:00"
-      },
       {
         "name": "MARINA ATHENA",
         "code": "MAAT009",
