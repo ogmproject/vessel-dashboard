@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T13:45:37+00:00",
+  "generated_at": "2026-08-12T14:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "0AUFVS / 0AUFWN",
         "atb": "12/08/2026 07:30",
         "etd": "13/08/2026 04:01",
-        "verified": false
-      },
-      {
-        "name": "I2 - XIN YAN TIAN",
-        "code": "119S / 119N",
-        "atb": "11/08/2026 23:30",
-        "etd": "12/08/2026 22:00",
         "verified": false
       },
       {
@@ -221,6 +214,11 @@
     ],
     "movement": [
       {
+        "name": "XIN YAN TIAN",
+        "berth": "11/08/2026 23:30",
+        "dep": "12/08/2026 20:50"
+      },
+      {
         "name": "AS CHRISTIANA",
         "berth": "11/08/2026 07:15",
         "dep": "12/08/2026 09:54"
@@ -278,15 +276,6 @@
         "type": "INTERNATIONAL",
         "atb": "11/08/2026 05:25",
         "etd": "12/08/2026 08:30"
-      },
-      {
-        "name": "XIN BEI LUN",
-        "code": "XIBE038",
-        "voyage": "287S         / 287N",
-        "type": "INTERNATIONAL",
-        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "atb": "12/08/2026 12:30",
-        "etd": "13/08/2026 18:00"
       }
     ],
     "schedule": [
