@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T00:30:45+00:00",
+  "generated_at": "2026-08-12T00:45:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "26006S / 26006N",
         "atb": "11/08/2026 07:15",
         "etd": "12/08/2026 08:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - BACH",
+        "code": "0AUFVS / 0AUFWN",
+        "atb": "12/08/2026 07:30",
+        "etd": "12/08/2026 20:00",
         "verified": false
       },
       {
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "BACH",
-        "code": "0AUFVS / 0AUFWN",
-        "eta": "12/08/2026 02:00",
-        "etd": "12/08/2026 20:00",
-        "openstack": "05/08/2026 16:00",
-        "closeC": "10/08/2026 10:00",
-        "closeD": "10/08/2026 13:00",
-        "verified": false
-      },
       {
         "name": "EVER BEAMY",
         "code": "1204-082A / 1204-082A",
