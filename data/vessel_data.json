@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T01:15:32+00:00",
+  "generated_at": "2026-08-13T01:30:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,7 +20,7 @@
         "name": "I1 - SIMAG SHANGHAI",
         "code": "2625S / 2625S",
         "atb": "13/08/2026 02:35",
-        "etd": "13/08/2026 18:00",
+        "etd": "13/08/2026 12:00",
         "verified": false
       }
     ],
@@ -39,7 +39,7 @@
         "name": "APL PUSAN",
         "code": "0AUFTS / 0AUFUN",
         "eta": "13/08/2026 12:00",
-        "etd": "14/08/2026 08:00",
+        "etd": "14/08/2026 23:00",
         "openstack": "06/08/2026 18:00",
         "closeC": "11/08/2026 12:00",
         "closeD": "11/08/2026 15:00",
@@ -240,16 +240,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "ITAL BONUS",
-        "code": "ITBO008",
-        "voyage": "S124         / N124",
-        "type": "INTERNATIONAL",
-        "atb": "11/08/2026 05:25",
-        "etd": "12/08/2026 08:30"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "MARINA ATHENA",
