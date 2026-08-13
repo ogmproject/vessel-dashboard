@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:00:44+00:00",
+  "generated_at": "2026-08-13T07:15:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -21,13 +21,6 @@
         "code": "78E / 78W",
         "atb": "12/08/2026 22:20",
         "etd": "13/08/2026 19:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - SIMAG SHANGHAI",
-        "code": "2625S / 2625S",
-        "atb": "13/08/2026 02:35",
-        "etd": "13/08/2026 12:30",
         "verified": false
       }
     ],
@@ -191,6 +184,11 @@
     ],
     "movement": [
       {
+        "name": "SIMAG SHANGHAI",
+        "berth": "13/08/2026 02:35",
+        "dep": "13/08/2026 14:02"
+      },
+      {
         "name": "EVER BEAMY",
         "berth": "12/08/2026 13:15",
         "dep": "13/08/2026 09:48"
@@ -255,16 +253,6 @@
     ],
     "schedule": [
       {
-        "name": "MARINA ATHENA",
-        "code": "MAAT009",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "12/08/2026 20:00",
-        "etd": "13/08/2026 20:00",
-        "openstack": "07/08/2026 20:00",
-        "closeC": "12/08/2026 15:00"
-      },
-      {
         "name": "WAN HAI 351",
         "code": "WA51017",
         "voyage": "E046         / W047",
@@ -280,10 +268,20 @@
         "code": "MEKI005",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "14/08/2026 04:00",
-        "etd": "15/08/2026 07:00",
+        "etb": "13/08/2026 16:00",
+        "etd": "13/08/2026 23:00",
         "openstack": "06/08/2026 16:00",
         "closeC": "14/08/2026 14:00"
+      },
+      {
+        "name": "MARINA ATHENA",
+        "code": "MAAT009",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "13/08/2026 20:00",
+        "etd": "14/08/2026 09:00",
+        "openstack": "07/08/2026 20:00",
+        "closeC": "12/08/2026 15:00"
       },
       {
         "name": "ALPHA DISCOVERY",
@@ -335,14 +333,6 @@
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
         "atb": "12/08/2026 12:30",
         "etd": "13/08/2026 12:56"
-      },
-      {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU005",
-        "voyage": "011S         / 011N",
-        "type": "INTERNATIONAL",
-        "atb": "12/08/2026 03:10",
-        "etd": "12/08/2026 14:14"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
