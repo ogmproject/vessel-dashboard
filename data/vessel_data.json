@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T05:00:48+00:00",
+  "generated_at": "2026-08-13T05:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -27,7 +27,7 @@
         "name": "I1 - SIMAG SHANGHAI",
         "code": "2625S / 2625S",
         "atb": "13/08/2026 02:35",
-        "etd": "13/08/2026 12:00",
+        "etd": "13/08/2026 12:30",
         "verified": false
       }
     ],
@@ -177,6 +177,16 @@
         "mmsi": "636019861",
         "imo": "9224946",
         "location": "Singapore Strait"
+      },
+      {
+        "name": "HONG TAI 656",
+        "code": "633N / 633N",
+        "eta": "18/08/2026 18:00",
+        "etd": "21/08/2026 02:30",
+        "openstack": "13/08/2026 18:00",
+        "closeC": "18/08/2026 12:00",
+        "closeD": "18/08/2026 15:00",
+        "verified": false
       }
     ],
     "movement": [
