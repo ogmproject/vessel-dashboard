@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T21:45:34+00:00",
+  "generated_at": "2026-08-13T22:00:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "0AUFTS / 0AUFUN",
         "atb": "13/08/2026 11:50",
         "etd": "14/08/2026 08:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - THE WHALE SHARK",
-        "code": "2026S / 2026S",
-        "atb": "13/08/2026 08:25",
-        "etd": "14/08/2026 01:30",
         "verified": false
       },
       {
@@ -183,6 +176,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "THE WHALE SHARK",
+        "berth": "13/08/2026 08:25",
+        "dep": "14/08/2026 02:10"
+      },
       {
         "name": "MTT SANDAKAN",
         "berth": "12/08/2026 22:20",
