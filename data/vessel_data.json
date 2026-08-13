@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T06:15:35+00:00",
+  "generated_at": "2026-08-13T06:30:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -284,6 +284,15 @@
         "etd": "15/08/2026 07:00",
         "openstack": "06/08/2026 16:00",
         "closeC": "14/08/2026 14:00"
+      },
+      {
+        "name": "ALPHA DISCOVERY",
+        "code": "ALDI001",
+        "voyage": "0001         / 0001",
+        "type": "INTERNATIONAL",
+        "carrier": "PT GESURI LLOYD",
+        "etb": "15/08/2026 08:00",
+        "etd": "15/08/2026 08:30"
       },
       {
         "name": "SURABAYA VOYAGER",
