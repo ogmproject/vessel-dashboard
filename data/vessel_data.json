@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-08-13T22:15:33+00:00",
+  "generated_at": "2026-08-13T22:30:36+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - APL PUSAN",
-        "code": "0AUFTS / 0AUFUN",
-        "atb": "13/08/2026 11:50",
-        "etd": "14/08/2026 08:00",
-        "verified": false
-      },
       {
         "name": "I2 - EVER CHASTE",
         "code": "0548-094S / 0548-094N",
@@ -177,6 +170,11 @@
     ],
     "movement": [
       {
+        "name": "APL PUSAN",
+        "berth": "13/08/2026 11:50",
+        "dep": "14/08/2026 05:07"
+      },
+      {
         "name": "THE WHALE SHARK",
         "berth": "13/08/2026 08:25",
         "dep": "14/08/2026 02:10"
@@ -243,8 +241,8 @@
         "voyage": "E046         / W047",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "13/08/2026 04:00",
-        "etd": "14/08/2026 04:00",
+        "etb": "15/08/2026 05:00",
+        "etd": "16/08/2026 10:00",
         "openstack": "08/08/2026 04:00",
         "closeC": "14/08/2026 23:00"
       },
