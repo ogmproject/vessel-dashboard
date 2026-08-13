@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T08:30:40+00:00",
+  "generated_at": "2026-08-13T08:45:34+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - APL PUSAN",
         "code": "0AUFTS / 0AUFUN",
         "atb": "13/08/2026 11:50",
-        "etd": "14/08/2026 23:00",
+        "etd": "14/08/2026 08:00",
         "verified": false
       },
       {
@@ -268,7 +268,7 @@
         "code": "MEKI005",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "13/08/2026 16:00",
+        "etb": "13/08/2026 18:00",
         "etd": "13/08/2026 23:00",
         "openstack": "06/08/2026 16:00",
         "closeC": "14/08/2026 14:00"
@@ -278,8 +278,8 @@
         "code": "MAAT009",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "13/08/2026 18:00",
-        "etd": "14/08/2026 07:00",
+        "etb": "13/08/2026 19:00",
+        "etd": "14/08/2026 08:00",
         "openstack": "07/08/2026 20:00",
         "closeC": "12/08/2026 15:00"
       },
