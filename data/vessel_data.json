@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T13:45:36+00:00",
+  "generated_at": "2026-08-13T14:00:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -252,6 +252,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "XIN BEI LUN",
+        "code": "XIBE038",
+        "voyage": "287S         / 287N",
+        "type": "INTERNATIONAL",
+        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
+        "atb": "12/08/2026 12:30",
+        "etd": "13/08/2026 12:56"
+      },
+      {
         "name": "MARINA ATHENA",
         "code": "MAAT009",
         "type": "INTERNATIONAL",
@@ -265,7 +274,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "13/08/2026 18:45",
-        "etd": "14/08/2026 00:00"
+        "etd": "13/08/2026 23:00"
       },
       {
         "name": "AS CAROLINA",
@@ -274,7 +283,7 @@
         "type": "INTERNATIONAL",
         "carrier": "GOLD STAR LINE LTD",
         "atb": "13/08/2026 09:25",
-        "etd": "14/08/2026 04:00"
+        "etd": "14/08/2026 02:00"
       }
     ],
     "schedule": [
@@ -341,17 +350,7 @@
         "closeC": "19/08/2026 09:00"
       }
     ],
-    "departed": [
-      {
-        "name": "XIN BEI LUN",
-        "code": "XIBE038",
-        "voyage": "287S         / 287N",
-        "type": "INTERNATIONAL",
-        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "atb": "12/08/2026 12:30",
-        "etd": "13/08/2026 12:56"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
