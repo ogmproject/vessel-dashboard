@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-08-13T03:00:45+00:00",
+  "generated_at": "2026-08-13T03:15:33+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - EVER BEAMY",
-        "code": "1204-082A / 1204-082A",
-        "atb": "12/08/2026 13:15",
-        "etd": "13/08/2026 08:00",
-        "verified": false
-      },
       {
         "name": "I3 - THE WHALE SHARK",
         "code": "2026S / 2026S",
@@ -190,6 +183,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER BEAMY",
+        "berth": "12/08/2026 13:15",
+        "dep": "13/08/2026 09:48"
+      },
       {
         "name": "BACH",
         "berth": "12/08/2026 07:30",
