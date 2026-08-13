@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T05:45:32+00:00",
+  "generated_at": "2026-08-13T06:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -318,6 +318,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "XIN BEI LUN",
+        "code": "XIBE038",
+        "voyage": "287S         / 287N",
+        "type": "INTERNATIONAL",
+        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
+        "atb": "12/08/2026 12:30",
+        "etd": "13/08/2026 12:56"
+      },
       {
         "name": "ERASMUS JUSTICE",
         "code": "ERJU005",
