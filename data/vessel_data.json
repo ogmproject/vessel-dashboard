@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T11:45:32+00:00",
+  "generated_at": "2026-08-13T12:00:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -242,6 +242,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "MERATUS KUTAI",
+        "code": "MEKI005",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "13/08/2026 18:45",
+        "etd": "13/08/2026 23:00"
+      },
+      {
         "name": "AS CAROLINA",
         "code": "ASRO004",
         "voyage": "346S         / 346N",
@@ -262,16 +270,6 @@
         "etd": "14/08/2026 04:00",
         "openstack": "08/08/2026 04:00",
         "closeC": "14/08/2026 23:00"
-      },
-      {
-        "name": "MERATUS KUTAI",
-        "code": "MEKI005",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "13/08/2026 18:00",
-        "etd": "13/08/2026 23:00",
-        "openstack": "06/08/2026 16:00",
-        "closeC": "14/08/2026 14:00"
       },
       {
         "name": "MARINA ATHENA",
