@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T14:45:42+00:00",
+  "generated_at": "2026-08-13T15:00:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "2026S / 2026S",
         "atb": "13/08/2026 08:25",
         "etd": "14/08/2026 01:30",
-        "verified": false
-      },
-      {
-        "name": "I2 - MTT SANDAKAN",
-        "code": "78E / 78W",
-        "atb": "12/08/2026 22:20",
-        "etd": "13/08/2026 19:00",
         "verified": false
       }
     ],
@@ -193,6 +186,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MTT SANDAKAN",
+        "berth": "12/08/2026 22:20",
+        "dep": "13/08/2026 21:25"
+      },
       {
         "name": "SIMAG SHANGHAI",
         "berth": "13/08/2026 02:35",
