@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T20:45:34+00:00",
+  "generated_at": "2026-08-13T21:00:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -239,14 +239,6 @@
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
         "atb": "12/08/2026 12:30",
         "etd": "13/08/2026 12:56"
-      },
-      {
-        "name": "MARINA ATHENA",
-        "code": "MAAT009",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "13/08/2026 18:55",
-        "etd": "14/08/2026 07:00"
       }
     ],
     "schedule": [
@@ -313,7 +305,17 @@
         "closeC": "19/08/2026 09:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "AS CAROLINA",
+        "code": "ASRO004",
+        "voyage": "346S         / 346N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "atb": "13/08/2026 09:25",
+        "etd": "14/08/2026 03:44"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
