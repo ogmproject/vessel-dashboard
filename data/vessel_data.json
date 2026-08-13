@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T17:15:32+00:00",
+  "generated_at": "2026-08-13T17:30:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -247,14 +247,6 @@
         "carrier": "PT. MERATUS LINE",
         "atb": "13/08/2026 18:55",
         "etd": "14/08/2026 08:00"
-      },
-      {
-        "name": "MERATUS KUTAI",
-        "code": "MEKI005",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "13/08/2026 18:45",
-        "etd": "13/08/2026 23:00"
       }
     ],
     "schedule": [
