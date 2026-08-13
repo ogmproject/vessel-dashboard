@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T13:30:39+00:00",
+  "generated_at": "2026-08-13T13:45:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -180,6 +180,16 @@
         "closeC": "18/08/2026 12:00",
         "closeD": "18/08/2026 15:00",
         "verified": false
+      },
+      {
+        "name": "KOTA GANDING",
+        "code": "0536S / 0536N",
+        "eta": "21/08/2026 00:00",
+        "etd": "23/08/2026 07:30",
+        "openstack": "16/08/2026 00:00",
+        "closeC": "20/08/2026 18:00",
+        "closeD": "20/08/2026 21:00",
+        "verified": false
       }
     ],
     "movement": [
@@ -255,7 +265,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "13/08/2026 18:45",
-        "etd": "13/08/2026 23:00"
+        "etd": "14/08/2026 00:00"
       },
       {
         "name": "AS CAROLINA",
