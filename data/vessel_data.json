@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T20:30:39+00:00",
+  "generated_at": "2026-08-13T20:45:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -246,7 +246,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "13/08/2026 18:55",
-        "etd": "14/08/2026 08:00"
+        "etd": "14/08/2026 07:00"
       }
     ],
     "schedule": [
