@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T16:45:35+00:00",
+  "generated_at": "2026-08-13T17:00:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -225,24 +225,6 @@
         "name": "MSC SPARKLE III",
         "berth": "11/08/2026 02:35",
         "dep": "12/08/2026 02:35"
-      },
-      {
-        "name": "SPIL NIKEN",
-        "berth": "11/08/2026 03:45",
-        "dep": "11/08/2026 21:17"
-      },
-      {
-        "name": "BRICKELL",
-        "berth": "09/08/2026 20:35",
-        "dep": "11/08/2026 18:35",
-        "mmsi": "538009605",
-        "imo": "9315343",
-        "location": "Java Sea"
-      },
-      {
-        "name": "MSC CHERYL 3",
-        "berth": "10/08/2026 14:05",
-        "dep": "11/08/2026 04:25"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
