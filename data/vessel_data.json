@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T08:15:50+00:00",
+  "generated_at": "2026-08-14T08:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -144,7 +144,8 @@
         "closeD": "16/08/2026 23:00",
         "verified": false,
         "mmsi": "636019861",
-        "imo": "9224946"
+        "imo": "9224946",
+        "location": "Singapore Strait"
       },
       {
         "name": "HONG TAI 656",
@@ -260,8 +261,8 @@
         "voyage": "2611S        / 2611N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "16/08/2026 00:00",
-        "etd": "16/08/2026 18:00",
+        "etb": "16/08/2026 02:00",
+        "etd": "16/08/2026 20:00",
         "openstack": "10/08/2026 12:00",
         "closeC": "15/08/2026 07:00"
       },
