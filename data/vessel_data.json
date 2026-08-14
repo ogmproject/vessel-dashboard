@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T08:01:15+00:00",
+  "generated_at": "2026-08-14T08:15:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -144,8 +144,7 @@
         "closeD": "16/08/2026 23:00",
         "verified": false,
         "mmsi": "636019861",
-        "imo": "9224946",
-        "location": "Singapore Strait"
+        "imo": "9224946"
       },
       {
         "name": "HONG TAI 656",
