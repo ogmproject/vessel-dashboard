@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T17:15:36+00:00",
+  "generated_at": "2026-08-14T17:30:41+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - WAN HAI 376",
         "code": "S032 / N033",
         "atb": "14/08/2026 16:00",
-        "etd": "15/08/2026 07:30",
+        "etd": "15/08/2026 10:00",
         "verified": false
       }
     ],
@@ -357,14 +357,6 @@
         "carrier": "PT. MERATUS LINE",
         "atb": "13/08/2026 18:55",
         "etd": "14/08/2026 08:01"
-      },
-      {
-        "name": "MERATUS KUTAI",
-        "code": "MEKI005",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "13/08/2026 18:45",
-        "etd": "14/08/2026 00:21"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
