@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T05:30:37+00:00",
+  "generated_at": "2026-08-14T05:45:31+00:00",
   "tps": {
     "alongside": [
       {
@@ -299,6 +299,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "MARINA ATHENA",
+        "code": "MAAT009",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "13/08/2026 18:55",
+        "etd": "14/08/2026 08:01"
+      },
       {
         "name": "MERATUS KUTAI",
         "code": "MEKI005",
