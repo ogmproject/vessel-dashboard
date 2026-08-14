@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T05:45:31+00:00",
+  "generated_at": "2026-08-14T06:00:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -223,17 +223,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "XIN BEI LUN",
-        "code": "XIBE038",
-        "voyage": "287S         / 287N",
-        "type": "INTERNATIONAL",
-        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "atb": "12/08/2026 12:30",
-        "etd": "13/08/2026 12:56"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "WAN HAI 351",
