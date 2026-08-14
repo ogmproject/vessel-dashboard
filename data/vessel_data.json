@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T16:48:54+00:00",
+  "generated_at": "2026-08-14T17:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -244,21 +244,6 @@
         "name": "SKY WIND",
         "berth": "12/08/2026 00:15",
         "dep": "13/08/2026 00:45"
-      },
-      {
-        "name": "XIN YAN TIAN",
-        "berth": "11/08/2026 23:30",
-        "dep": "12/08/2026 20:50"
-      },
-      {
-        "name": "AS CHRISTIANA",
-        "berth": "11/08/2026 07:15",
-        "dep": "12/08/2026 09:54"
-      },
-      {
-        "name": "MSC SPARKLE III",
-        "berth": "11/08/2026 02:35",
-        "dep": "12/08/2026 02:35"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
