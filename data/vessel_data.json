@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:15:35+00:00",
+  "generated_at": "2026-08-14T07:30:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -226,17 +226,6 @@
     "alongside": [],
     "schedule": [
       {
-        "name": "WAN HAI 351",
-        "code": "WA51017",
-        "voyage": "E046         / W047",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "15/08/2026 05:00",
-        "etd": "16/08/2026 10:00",
-        "openstack": "08/08/2026 04:00",
-        "closeC": "14/08/2026 23:00"
-      },
-      {
         "name": "ALPHA DISCOVERY",
         "code": "ALDI001",
         "voyage": "0001         / 0001",
@@ -244,17 +233,6 @@
         "carrier": "PT GESURI LLOYD",
         "etb": "15/08/2026 08:00",
         "etd": "15/08/2026 08:30"
-      },
-      {
-        "name": "SURABAYA VOYAGER",
-        "code": "SUER007",
-        "voyage": "2611S        / 2611N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "15/08/2026 12:00",
-        "etd": "15/08/2026 12:30",
-        "openstack": "10/08/2026 12:00",
-        "closeC": "15/08/2026 07:00"
       },
       {
         "name": "MERATUS KUMAI",
@@ -265,6 +243,28 @@
         "etd": "16/08/2026 03:30",
         "openstack": "10/08/2026 16:00",
         "closeC": "14/08/2026 15:00"
+      },
+      {
+        "name": "WAN HAI 351",
+        "code": "WA51017",
+        "voyage": "E046         / W047",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "etb": "15/08/2026 18:00",
+        "etd": "16/08/2026 22:00",
+        "openstack": "08/08/2026 04:00",
+        "closeC": "14/08/2026 23:00"
+      },
+      {
+        "name": "SURABAYA VOYAGER",
+        "code": "SUER007",
+        "voyage": "2611S        / 2611N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "etb": "16/08/2026 00:00",
+        "etd": "16/08/2026 18:00",
+        "openstack": "10/08/2026 12:00",
+        "closeC": "15/08/2026 07:00"
       },
       {
         "name": "MERATUS KARIMUN",
