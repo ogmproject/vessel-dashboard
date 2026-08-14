@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T13:45:37+00:00",
+  "generated_at": "2026-08-14T14:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -291,8 +291,8 @@
         "voyage": "E046         / W047",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "15/08/2026 18:00",
-        "etd": "16/08/2026 22:00",
+        "etb": "15/08/2026 23:00",
+        "etd": "17/08/2026 03:00",
         "openstack": "08/08/2026 04:00",
         "closeC": "14/08/2026 23:00"
       },
@@ -302,8 +302,8 @@
         "voyage": "2611S        / 2611N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "15/08/2026 18:00",
-        "etd": "16/08/2026 15:00",
+        "etb": "16/08/2026 02:00",
+        "etd": "16/08/2026 20:00",
         "openstack": "10/08/2026 18:00",
         "closeC": "15/08/2026 12:00"
       },
