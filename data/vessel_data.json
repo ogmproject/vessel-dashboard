@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:45:41+00:00",
+  "generated_at": "2026-08-14T12:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -159,6 +159,19 @@
         "mmsi": "209692000",
         "imo": "9664263",
         "location": "Java Sea"
+      },
+      {
+        "name": "WAN HAI 375",
+        "code": "S020 / N021",
+        "eta": "20/08/2026 21:00",
+        "etd": "21/08/2026 19:30",
+        "openstack": "15/08/2026 21:00",
+        "closeC": "20/08/2026 15:00",
+        "closeD": "20/08/2026 18:00",
+        "verified": false,
+        "mmsi": "563232800",
+        "imo": "9958121",
+        "location": "South China Sea"
       },
       {
         "name": "KOTA GANDING",
