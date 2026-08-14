@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T01:30:35+00:00",
+  "generated_at": "2026-08-14T01:45:34+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I2 - EVER CHASTE",
         "code": "0548-094S / 0548-094N",
         "atb": "14/08/2026 04:36",
-        "etd": "14/08/2026 20:00",
+        "etd": "14/08/2026 18:00",
         "verified": false
       }
     ],
@@ -299,6 +299,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "MERATUS KUTAI",
+        "code": "MEKI005",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "13/08/2026 18:45",
+        "etd": "14/08/2026 00:21"
+      },
       {
         "name": "AS CAROLINA",
         "code": "ASRO004",
