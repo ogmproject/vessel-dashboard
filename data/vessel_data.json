@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:57:10+00:00",
+  "generated_at": "2026-08-15T20:00:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -229,6 +229,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "SURABAYA VOYAGER",
+        "code": "SUER007",
+        "voyage": "2611S        / 2611N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "atb": "16/08/2026 02:52",
+        "etd": "16/08/2026 21:00"
+      },
+      {
         "name": "WAN HAI 351",
         "code": "WA51017",
         "voyage": "E046         / W047",
@@ -248,17 +257,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SURABAYA VOYAGER",
-        "code": "SUER007",
-        "voyage": "2611S        / 2611N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "16/08/2026 02:00",
-        "etd": "16/08/2026 21:00",
-        "openstack": "10/08/2026 18:00",
-        "closeC": "15/08/2026 12:00"
-      },
       {
         "name": "MERATUS KUMAI",
         "code": "MEKM011",

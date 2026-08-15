@@ -103,5 +103,12 @@
     "arrival": "2026-08-16T00:40:00",
     "departure": null,
     "recorded_at": "2026-08-15T18:00:43.783848"
+  },
+  {
+    "vessel_name": "SURABAYA VOYAGER",
+    "terminal": "TL",
+    "arrival": "2026-08-16T02:52:00",
+    "departure": null,
+    "recorded_at": "2026-08-15T20:00:42.179320"
   }
 ]
