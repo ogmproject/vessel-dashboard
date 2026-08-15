@@ -10,7 +10,9 @@ on:
 permissions:
   contents: write
   issues: write   # needed so the workflow can open an alert Issue on repeated failures
-
+concurrency:
+  group: update-vessel-data
+  cancel-in-progress: false
 jobs:
   scrape:
     runs-on: ubuntu-latest
