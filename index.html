@@ -718,5 +718,190 @@ function showRefreshNotice(){
 document.getElementById('fetchTimeLabel').textContent = FETCH_TIME;
 updateLastUpdated();
 </script>
+  <!--
+  PREDIKSI KEDATANGAN — drop-in section for index.html
+  ======================================================
+  Matches the existing dark dashboard theme (dark navy background,
+  cyan section headers, orange/amber accents seen in "CLOSING TIME"
+  and "VESSEL SCHEDULE").
+
+  WHERE TO PASTE:
+  Add this <section> wherever you want it to appear (e.g. below the
+  existing "VESSEL SCHEDULE" sections, or as a new top-level panel).
+
+  WHAT IT NEEDS:
+  It fetches data/predictions.json (written by predict.py each run)
+  and renders a card per vessel. No other JS dependencies required —
+  vanilla JS, works alongside whatever you already have.
+-->
+
+<style>
+  /* Scoped to avoid clashing with existing dashboard styles.
+     Adjust the CSS variable names below if your dashboard already
+     defines a shared palette (e.g. --accent-cyan, --bg-panel). */
+  .prediction-section {
+    margin-top: 24px;
+    border-top: 2px solid #2dd4bf; /* cyan, matches VESSEL ALONGSIDE header rule */
+  }
+  .prediction-section__title {
+    color: #2dd4bf;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    padding: 12px 0 8px;
+  }
+  .prediction-card {
+    background: #0f1c2e;
+    border: 1px solid #1e3a52;
+    border-left: 3px solid #f59e0b; /* amber accent, matches closing-time urgency style */
+    border-radius: 4px;
+    padding: 12px 16px;
+    margin-bottom: 10px;
+  }
+  .prediction-card__name {
+    color: #f1f5f9;
+    font-weight: 700;
+    font-size: 14px;
+  }
+  .prediction-card__terminal {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 1px 6px;
+    border-radius: 3px;
+    margin-left: 8px;
+    color: #0f1c2e;
+    background: #2dd4bf;
+  }
+  .prediction-card__row {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 6px;
+    font-size: 12px;
+    color: #94a3b8;
+  }
+  .prediction-card__predicted-date {
+    color: #f1f5f9;
+    font-weight: 600;
+  }
+  .prediction-card__confidence {
+    font-size: 10px;
+    font-weight: 700;
+    padding: 1px 6px;
+    border-radius: 3px;
+    text-transform: uppercase;
+  }
+  .prediction-card__confidence--high {
+    background: #14532d;
+    color: #4ade80;
+  }
+  .prediction-card__confidence--medium {
+    background: #78350f;
+    color: #fbbf24;
+  }
+  .prediction-card__confidence--low {
+    background: #3f1d1d;
+    color: #f87171;
+  }
+  .prediction-card__meta {
+    margin-top: 4px;
+    font-size: 11px;
+    color: #64748b;
+  }
+  .prediction-empty {
+    color: #64748b;
+    font-size: 12px;
+    padding: 12px 0;
+    font-style: italic;
+  }
+</style>
+
+<section class="prediction-section">
+  <div class="prediction-section__title">📅 Prediksi Kedatangan</div>
+  <div id="prediction-list">
+    <div class="prediction-empty">Memuat prediksi…</div>
+  </div>
+</section>
+
+<script>
+  (function () {
+    const CONFIDENCE_LABEL = {
+      high: "Yakin",
+      medium: "Cukup Yakin",
+      low: "Perkiraan Awal",
+    };
+
+    function formatDate(isoString) {
+      const d = new Date(isoString);
+      if (isNaN(d.getTime())) return isoString;
+      return d.toLocaleDateString("id-ID", {
+        day: "2-digit", month: "short", year: "numeric",
+      });
+    }
+
+    function daysFromNow(isoString) {
+      const target = new Date(isoString);
+      const now = new Date();
+      const diffDays = Math.round((target - now) / (1000 * 60 * 60 * 24));
+      if (diffDays < 0) return `${Math.abs(diffDays)} hari lalu (terlewat)`;
+      if (diffDays === 0) return "Hari ini";
+      if (diffDays === 1) return "Besok";
+      return `${diffDays} hari lagi`;
+    }
+
+    function renderPredictions(predictions) {
+      const container = document.getElementById("prediction-list");
+      if (!predictions || predictions.length === 0) {
+        container.innerHTML = `<div class="prediction-empty">
+          Belum ada prediksi — data historis masih dikumpulkan.
+          Prediksi muncul otomatis setelah kapal tercatat minimal 3 kali kunjungan.
+        </div>`;
+        return;
+      }
+
+      container.innerHTML = predictions.map((p) => `
+        <div class="prediction-card">
+          <div>
+            <span class="prediction-card__name">${p.vessel_name}</span>
+            <span class="prediction-card__terminal">${p.terminal}</span>
+            <span class="prediction-card__confidence prediction-card__confidence--${p.confidence}">
+              ${CONFIDENCE_LABEL[p.confidence] || p.confidence}
+            </span>
+          </div>
+          <div class="prediction-card__row">
+            <span>Prediksi kedatangan berikutnya</span>
+            <span class="prediction-card__predicted-date">
+              ${formatDate(p.predicted_next_arrival)} (${daysFromNow(p.predicted_next_arrival)})
+            </span>
+          </div>
+          <div class="prediction-card__meta">
+            Berdasarkan ${p.visits_recorded} kunjungan · rata-rata interval ${p.avg_interval_days} hari
+            (±${p.interval_stddev_days} hari) · kedatangan terakhir ${formatDate(p.last_arrival)}
+            ${p.avg_dwelling_hours ? ` · rata-rata sandar ${p.avg_dwelling_hours} jam` : ""}
+          </div>
+        </div>
+      `).join("");
+    }
+
+    function loadPredictions() {
+      fetch("data/predictions.json", { cache: "no-store" })
+        .then((res) => {
+          if (!res.ok) throw new Error("predictions.json not found");
+          return res.json();
+        })
+        .then((data) => renderPredictions(data.predictions))
+        .catch((err) => {
+          document.getElementById("prediction-list").innerHTML =
+            `<div class="prediction-empty">Prediksi belum tersedia (${err.message}).</div>`;
+        });
+    }
+
+    loadPredictions();
+    // Re-check every time the rest of the dashboard refreshes (adjust interval
+    // to match your existing auto-refresh cadence, e.g. every 15 minutes).
+    setInterval(loadPredictions, 15 * 60 * 1000);
+  })();
+</script>
 </body>
 </html>
