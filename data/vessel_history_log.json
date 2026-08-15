@@ -1,0 +1,65 @@
+[
+  {
+    "vessel_name": "SKY WIND",
+    "terminal": "TPS",
+    "arrival": "2026-08-12T00:15:00",
+    "departure": "2026-08-13T00:45:00",
+    "recorded_at": "2026-08-15T07:30:45.953894"
+  },
+  {
+    "vessel_name": "BACH",
+    "terminal": "TPS",
+    "arrival": "2026-08-12T07:30:00",
+    "departure": "2026-08-13T06:00:00",
+    "recorded_at": "2026-08-15T07:30:45.953894"
+  },
+  {
+    "vessel_name": "EVER BEAMY",
+    "terminal": "TPS",
+    "arrival": "2026-08-12T13:15:00",
+    "departure": "2026-08-13T09:48:00",
+    "recorded_at": "2026-08-15T07:30:45.953894"
+  },
+  {
+    "vessel_name": "MTT SANDAKAN",
+    "terminal": "TPS",
+    "arrival": "2026-08-12T22:20:00",
+    "departure": "2026-08-13T21:25:00",
+    "recorded_at": "2026-08-15T07:30:45.953894"
+  },
+  {
+    "vessel_name": "SIMAG SHANGHAI",
+    "terminal": "TPS",
+    "arrival": "2026-08-13T02:35:00",
+    "departure": "2026-08-13T14:02:00",
+    "recorded_at": "2026-08-15T07:30:45.953894"
+  },
+  {
+    "vessel_name": "THE WHALE SHARK",
+    "terminal": "TPS",
+    "arrival": "2026-08-13T08:25:00",
+    "departure": "2026-08-14T02:10:00",
+    "recorded_at": "2026-08-15T07:30:45.953894"
+  },
+  {
+    "vessel_name": "APL PUSAN",
+    "terminal": "TPS",
+    "arrival": "2026-08-13T11:50:00",
+    "departure": "2026-08-14T05:07:00",
+    "recorded_at": "2026-08-15T07:30:45.953894"
+  },
+  {
+    "vessel_name": "EVER CHASTE",
+    "terminal": "TPS",
+    "arrival": "2026-08-14T04:36:00",
+    "departure": "2026-08-14T16:20:00",
+    "recorded_at": "2026-08-15T07:30:45.953894"
+  },
+  {
+    "vessel_name": "WAN HAI 376",
+    "terminal": "TPS",
+    "arrival": "2026-08-14T16:00:00",
+    "departure": "2026-08-15T10:48:00",
+    "recorded_at": "2026-08-15T07:30:45.953894"
+  }
+]

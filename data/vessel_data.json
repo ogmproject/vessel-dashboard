@@ -1,15 +1,7 @@
 {
-  "generated_at": "2026-08-15T02:15:37+00:00",
+  "generated_at": "2026-08-15T07:30:45+00:00",
   "tps": {
-    "alongside": [
-      {
-        "name": "I4 - WAN HAI 376",
-        "code": "S032 / N033",
-        "atb": "14/08/2026 16:00",
-        "etd": "15/08/2026 10:00",
-        "verified": false
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "MTT SIBU",
@@ -206,6 +198,11 @@
     ],
     "movement": [
       {
+        "name": "WAN HAI 376",
+        "berth": "14/08/2026 16:00",
+        "dep": "15/08/2026 10:48"
+      },
+      {
         "name": "EVER CHASTE",
         "berth": "14/08/2026 04:36",
         "dep": "14/08/2026 16:20"
@@ -279,7 +276,7 @@
         "etb": "15/08/2026 23:00",
         "etd": "17/08/2026 00:00",
         "openstack": "08/08/2026 04:00",
-        "closeC": "15/08/2026 11:00"
+        "closeC": "15/08/2026 21:00"
       },
       {
         "name": "SURABAYA VOYAGER",
@@ -288,7 +285,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "etb": "16/08/2026 02:00",
-        "etd": "16/08/2026 20:00",
+        "etd": "16/08/2026 21:00",
         "openstack": "10/08/2026 18:00",
         "closeC": "15/08/2026 12:00"
       },
@@ -337,6 +334,17 @@
         "etd": "21/08/2026 12:00",
         "openstack": "15/08/2026 12:00",
         "closeC": "20/08/2026 06:00"
+      },
+      {
+        "name": "MARINA ONE",
+        "code": "MAON002",
+        "voyage": "0002S        / 0002N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "etb": "21/08/2026 12:00",
+        "etd": "22/08/2026 12:00",
+        "openstack": "16/08/2026 12:00",
+        "closeC": "21/08/2026 07:00"
       }
     ],
     "departed": [],
