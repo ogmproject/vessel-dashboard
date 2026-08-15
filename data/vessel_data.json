@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-15T15:00:44+00:00",
+  "generated_at": "2026-08-15T15:30:44+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - HONG TAI 656",
+        "code": "632S / 632S",
+        "atb": "15/08/2026 21:40",
+        "etd": "16/08/2026 14:30",
+        "verified": false
+      },
       {
         "name": "I3 - SEASPAN CALICANTO",
         "code": "630S / 633N",
@@ -36,16 +43,6 @@
         "openstack": "10/08/2026 07:00",
         "closeC": "15/08/2026 01:00",
         "closeD": "15/08/2026 04:00",
-        "verified": false
-      },
-      {
-        "name": "HONG TAI 656",
-        "code": "632S / 632S",
-        "eta": "15/08/2026 19:00",
-        "etd": "16/08/2026 14:30",
-        "openstack": "10/08/2026 18:00",
-        "closeC": "13/08/2026 12:00",
-        "closeD": "13/08/2026 15:00",
         "verified": false
       },
       {
