@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T16:54:59+00:00",
+  "generated_at": "2026-08-15T17:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -225,31 +225,6 @@
         "name": "THE WHALE SHARK",
         "berth": "13/08/2026 08:25",
         "dep": "14/08/2026 02:10"
-      },
-      {
-        "name": "MTT SANDAKAN",
-        "berth": "12/08/2026 22:20",
-        "dep": "13/08/2026 21:25"
-      },
-      {
-        "name": "SIMAG SHANGHAI",
-        "berth": "13/08/2026 02:35",
-        "dep": "13/08/2026 14:02"
-      },
-      {
-        "name": "EVER BEAMY",
-        "berth": "12/08/2026 13:15",
-        "dep": "13/08/2026 09:48"
-      },
-      {
-        "name": "BACH",
-        "berth": "12/08/2026 07:30",
-        "dep": "13/08/2026 06:00"
-      },
-      {
-        "name": "SKY WIND",
-        "berth": "12/08/2026 00:15",
-        "dep": "13/08/2026 00:45"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
