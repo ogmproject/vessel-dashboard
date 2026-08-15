@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-15T11:45:35+00:00",
+  "generated_at": "2026-08-15T12:00:54+00:00",
   "tps": {
-    "alongside": [],
+    "alongside": [
+      {
+        "name": "I3 - SEASPAN CALICANTO",
+        "code": "630S / 633N",
+        "atb": "15/08/2026 18:45",
+        "etd": "16/08/2026 13:30",
+        "verified": false
+      }
+    ],
     "schedule": [
       {
         "name": "MTT SIBU",
@@ -21,16 +29,6 @@
         "openstack": "10/08/2026 07:00",
         "closeC": "15/08/2026 01:00",
         "closeD": "15/08/2026 04:00",
-        "verified": false
-      },
-      {
-        "name": "SEASPAN CALICANTO",
-        "code": "630S / 633N",
-        "eta": "15/08/2026 17:00",
-        "etd": "16/08/2026 13:30",
-        "openstack": "10/08/2026 23:00",
-        "closeC": "15/08/2026 17:00",
-        "closeD": "15/08/2026 20:00",
         "verified": false
       },
       {
