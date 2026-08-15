@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T17:45:11+00:00",
+  "generated_at": "2026-08-15T18:00:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -229,6 +229,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "WAN HAI 351",
+        "code": "WA51017",
+        "voyage": "E046         / W047",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "atb": "16/08/2026 00:40",
+        "etd": "17/08/2026 00:00"
+      },
+      {
         "name": "ALPHA DISCOVERY",
         "code": "ALDI001",
         "voyage": "0001         / 0001",
@@ -239,17 +248,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "WAN HAI 351",
-        "code": "WA51017",
-        "voyage": "E046         / W047",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "15/08/2026 23:00",
-        "etd": "17/08/2026 00:00",
-        "openstack": "08/08/2026 04:00",
-        "closeC": "15/08/2026 21:00"
-      },
       {
         "name": "SURABAYA VOYAGER",
         "code": "SUER007",
