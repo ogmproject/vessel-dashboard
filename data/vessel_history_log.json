@@ -82,5 +82,12 @@
     "arrival": "2026-08-15T21:40:00",
     "departure": null,
     "recorded_at": "2026-08-15T14:53:20.575642"
+  },
+  {
+    "vessel_name": "ALPHA DISCOVERY",
+    "terminal": "TL",
+    "arrival": "2026-08-15T23:05:00",
+    "departure": null,
+    "recorded_at": "2026-08-15T16:54:59.721635"
   }
 ]
