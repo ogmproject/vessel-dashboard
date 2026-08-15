@@ -31,9 +31,9 @@ jobs:
         run: python scraper.py
         continue-on-error: true   # let later steps (health check, commit) still run even if this fails
         
-        - name: Build history & compute predictions
-     run: python predict.py
-     continue-on-error: true
+       - name: Build history & compute predictions
+           run: python predict.py
+           continue-on-error: true
 
       - name: Track scraper health
         id: health
