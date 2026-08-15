@@ -30,11 +30,10 @@ jobs:
         id: run_scraper
         run: python scraper.py
         continue-on-error: true   # let later steps (health check, commit) still run even if this fails
-        
-       - name: Build history & compute predictions
+  
+      - name: Build history & compute predictions
         run: python predict.py
         continue-on-error: true
-
       - name: Track scraper health
         id: health
         run: python check_health.py "${{ steps.run_scraper.outcome }}"
