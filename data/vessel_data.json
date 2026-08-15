@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T08:45:35+00:00",
+  "generated_at": "2026-08-15T09:02:03+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -34,16 +34,6 @@
         "verified": false
       },
       {
-        "name": "HONG TAI 656",
-        "code": "632S / 632S",
-        "eta": "15/08/2026 18:00",
-        "etd": "16/08/2026 07:30",
-        "openstack": "10/08/2026 18:00",
-        "closeC": "13/08/2026 12:00",
-        "closeD": "13/08/2026 15:00",
-        "verified": false
-      },
-      {
         "name": "JOANNA",
         "code": "090S / 090N",
         "eta": "15/08/2026 18:00",
@@ -57,13 +47,13 @@
         "location": "Java Sea"
       },
       {
-        "name": "CMA CGM FORT JAMES",
-        "code": "0XLC7S / 0XLC8N",
-        "eta": "15/08/2026 22:00",
-        "etd": "17/08/2026 02:00",
-        "openstack": "05/08/2026 20:00",
-        "closeC": "10/08/2026 14:00",
-        "closeD": "10/08/2026 17:00",
+        "name": "HONG TAI 656",
+        "code": "632S / 632S",
+        "eta": "15/08/2026 19:00",
+        "etd": "16/08/2026 09:30",
+        "openstack": "10/08/2026 18:00",
+        "closeC": "13/08/2026 12:00",
+        "closeD": "13/08/2026 15:00",
         "verified": false
       },
       {
@@ -84,6 +74,16 @@
         "openstack": "10/08/2026 22:00",
         "closeC": "15/08/2026 16:00",
         "closeD": "15/08/2026 19:00",
+        "verified": false
+      },
+      {
+        "name": "CMA CGM FORT JAMES",
+        "code": "0XLC7S / 0XLC8N",
+        "eta": "16/08/2026 13:00",
+        "etd": "18/08/2026 00:30",
+        "openstack": "05/08/2026 20:00",
+        "closeC": "10/08/2026 14:00",
+        "closeD": "10/08/2026 17:00",
         "verified": false
       },
       {
