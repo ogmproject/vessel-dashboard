@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T01:00:48+00:00",
+  "generated_at": "2026-08-15T01:15:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -249,16 +249,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "MARINA ATHENA",
-        "code": "MAAT009",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "13/08/2026 18:55",
-        "etd": "14/08/2026 08:01"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "ALPHA DISCOVERY",
