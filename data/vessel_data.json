@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T12:15:37+00:00",
+  "generated_at": "2026-08-15T12:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "630S / 633N",
         "atb": "15/08/2026 18:45",
         "etd": "16/08/2026 13:30",
+        "verified": false
+      },
+      {
+        "name": "I2 - JOANNA",
+        "code": "090S / 090N",
+        "atb": "15/08/2026 19:20",
+        "etd": "17/08/2026 00:30",
         "verified": false
       }
     ],
@@ -30,19 +37,6 @@
         "closeC": "15/08/2026 01:00",
         "closeD": "15/08/2026 04:00",
         "verified": false
-      },
-      {
-        "name": "JOANNA",
-        "code": "090S / 090N",
-        "eta": "15/08/2026 18:00",
-        "etd": "17/08/2026 00:30",
-        "openstack": "10/08/2026 06:00",
-        "closeC": "15/08/2026 00:00",
-        "closeD": "15/08/2026 03:00",
-        "verified": false,
-        "mmsi": "636016118",
-        "imo": "9204477",
-        "location": "Java Sea"
       },
       {
         "name": "HONG TAI 656",
