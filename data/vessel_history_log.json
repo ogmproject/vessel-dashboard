@@ -108,8 +108,8 @@
     "vessel_name": "SURABAYA VOYAGER",
     "terminal": "TL",
     "arrival": "2026-08-16T02:52:00",
-    "departure": null,
-    "recorded_at": "2026-08-15T20:00:42.179320"
+    "departure": "2026-08-17T02:15:00",
+    "recorded_at": "2026-08-16T19:45:39.132343"
   },
   {
     "vessel_name": "CMA CGM FORT JAMES",
