@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T12:00:53+00:00",
+  "generated_at": "2026-08-16T12:15:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -330,6 +330,17 @@
         "etd": "22/08/2026 12:00",
         "openstack": "16/08/2026 12:00",
         "closeC": "21/08/2026 07:00"
+      },
+      {
+        "name": "XIN YANG PU",
+        "code": "XIPU005",
+        "voyage": "204E         / 205W",
+        "type": "INTERNATIONAL",
+        "etb": "21/08/2026 22:00",
+        "etd": "21/08/2026 22:30",
+        "openstack": "16/08/2026 22:00",
+        "closeC": "21/08/2026 17:00",
+        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
       }
     ],
     "departed": [],
