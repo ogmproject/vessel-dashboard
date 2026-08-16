@@ -101,8 +101,8 @@
     "vessel_name": "WAN HAI 351",
     "terminal": "TL",
     "arrival": "2026-08-16T00:40:00",
-    "departure": null,
-    "recorded_at": "2026-08-15T18:00:43.783848"
+    "departure": "2026-08-17T00:32:00",
+    "recorded_at": "2026-08-16T18:15:37.774578"
   },
   {
     "vessel_name": "SURABAYA VOYAGER",

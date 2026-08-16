@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:00:48+00:00",
+  "generated_at": "2026-08-16T18:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -236,15 +236,6 @@
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "16/08/2026 02:52",
         "etd": "17/08/2026 03:00"
-      },
-      {
-        "name": "WAN HAI 351",
-        "code": "WA51017",
-        "voyage": "E046         / W047",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "atb": "16/08/2026 00:40",
-        "etd": "17/08/2026 01:00"
       }
     ],
     "schedule": [
@@ -326,7 +317,17 @@
         "closeC": "21/08/2026 17:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "WAN HAI 351",
+        "code": "WA51017",
+        "voyage": "E046         / W047",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "atb": "16/08/2026 00:40",
+        "etd": "17/08/2026 00:32"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
