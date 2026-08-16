@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-16T09:45:35+00:00",
+  "generated_at": "2026-08-16T09:55:09+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - CMA CGM FORT JAMES",
+        "code": "0XLC7S / 0XLC8N",
+        "atb": "16/08/2026 16:30",
+        "etd": "18/08/2026 05:30",
+        "verified": false
+      },
       {
         "name": "I2 - JOANNA",
         "code": "090S / 090N",
@@ -46,16 +53,6 @@
         "openstack": "10/08/2026 22:00",
         "closeC": "15/08/2026 16:00",
         "closeD": "15/08/2026 19:00",
-        "verified": false
-      },
-      {
-        "name": "CMA CGM FORT JAMES",
-        "code": "0XLC7S / 0XLC8N",
-        "eta": "16/08/2026 13:00",
-        "etd": "18/08/2026 05:30",
-        "openstack": "05/08/2026 20:00",
-        "closeC": "10/08/2026 14:00",
-        "closeD": "10/08/2026 17:00",
         "verified": false
       },
       {
