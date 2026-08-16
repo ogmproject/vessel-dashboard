@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T16:55:30+00:00",
+  "generated_at": "2026-08-16T17:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -223,21 +223,6 @@
         "name": "WAN HAI 376",
         "berth": "14/08/2026 16:00",
         "dep": "15/08/2026 10:48"
-      },
-      {
-        "name": "EVER CHASTE",
-        "berth": "14/08/2026 04:36",
-        "dep": "14/08/2026 16:20"
-      },
-      {
-        "name": "APL PUSAN",
-        "berth": "13/08/2026 11:50",
-        "dep": "14/08/2026 05:07"
-      },
-      {
-        "name": "THE WHALE SHARK",
-        "berth": "13/08/2026 08:25",
-        "dep": "14/08/2026 02:10"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
