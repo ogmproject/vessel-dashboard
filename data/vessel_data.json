@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-16T10:15:35+00:00",
+  "generated_at": "2026-08-16T10:30:57+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - CMA CGM FORT JAMES",
         "code": "0XLC7S / 0XLC8N",
         "atb": "16/08/2026 16:30",
-        "etd": "18/08/2026 05:30",
+        "etd": "18/08/2026 08:30",
         "verified": false
       },
       {
         "name": "I2 - JOANNA",
         "code": "090S / 090N",
         "atb": "15/08/2026 19:20",
-        "etd": "17/08/2026 00:30",
+        "etd": "16/08/2026 22:00",
         "verified": false
       },
       {
@@ -118,8 +118,7 @@
         "closeD": "19/08/2026 13:00",
         "verified": false,
         "mmsi": "209692000",
-        "imo": "9664263",
-        "location": "Singapore Strait"
+        "imo": "9664263"
       },
       {
         "name": "EVER BIRTH",
