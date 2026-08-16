@@ -80,8 +80,8 @@
     "vessel_name": "HONG TAI 656",
     "terminal": "TPS",
     "arrival": "2026-08-15T21:40:00",
-    "departure": null,
-    "recorded_at": "2026-08-15T14:53:20.575642"
+    "departure": "2026-08-16T11:15:00",
+    "recorded_at": "2026-08-16T04:45:35.684036"
   },
   {
     "vessel_name": "ALPHA DISCOVERY",

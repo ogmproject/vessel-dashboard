@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-08-16T04:30:41+00:00",
+  "generated_at": "2026-08-16T04:45:35+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - HONG TAI 656",
-        "code": "632S / 632S",
-        "atb": "15/08/2026 21:40",
-        "etd": "16/08/2026 11:00",
-        "verified": false
-      },
       {
         "name": "I3 - SEASPAN CALICANTO",
         "code": "630S / 633N",
@@ -213,6 +206,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "HONG TAI 656",
+        "berth": "15/08/2026 21:40",
+        "dep": "16/08/2026 11:15"
+      },
       {
         "name": "WAN HAI 376",
         "berth": "14/08/2026 16:00",
