@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T14:15:35+00:00",
+  "generated_at": "2026-08-16T14:30:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -251,7 +251,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "16/08/2026 02:52",
-        "etd": "17/08/2026 06:00"
+        "etd": "17/08/2026 02:00"
       },
       {
         "name": "WAN HAI 351",
