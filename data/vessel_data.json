@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T12:45:35+00:00",
+  "generated_at": "2026-08-16T13:01:01+00:00",
   "tps": {
     "alongside": [
       {
@@ -118,8 +118,7 @@
         "closeD": "19/08/2026 13:00",
         "verified": false,
         "mmsi": "209692000",
-        "imo": "9664263",
-        "location": "Singapore Strait"
+        "imo": "9664263"
       },
       {
         "name": "EVER BIRTH",
