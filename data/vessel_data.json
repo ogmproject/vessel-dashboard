@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T06:45:33+00:00",
+  "generated_at": "2026-08-16T07:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,7 +13,7 @@
         "name": "I1 - INFERRO",
         "code": "045E / 045W",
         "atb": "16/08/2026 00:32",
-        "etd": "17/08/2026 01:30",
+        "etd": "16/08/2026 23:30",
         "verified": false
       }
     ],
@@ -59,14 +59,17 @@
         "verified": false
       },
       {
-        "name": "SINAR SULAWESI",
-        "code": "092S / 092N",
-        "eta": "16/08/2026 23:00",
-        "etd": "18/08/2026 12:00",
-        "openstack": "12/08/2026 00:00",
-        "closeC": "16/08/2026 18:00",
-        "closeD": "16/08/2026 21:00",
-        "verified": false
+        "name": "MSC IDA II",
+        "code": "XI633A / XI634A",
+        "eta": "17/08/2026 00:00",
+        "etd": "18/08/2026 09:30",
+        "openstack": "12/08/2026 02:00",
+        "closeC": "16/08/2026 20:00",
+        "closeD": "16/08/2026 23:00",
+        "verified": false,
+        "mmsi": "636019861",
+        "imo": "9224946",
+        "location": "Java Sea"
       },
       {
         "name": "GSL MAMITSA",
@@ -81,25 +84,22 @@
       {
         "name": "EVER OASIS",
         "code": "0488-090S / 0488-090N",
-        "eta": "17/08/2026 08:00",
-        "etd": "18/08/2026 04:30",
+        "eta": "17/08/2026 02:00",
+        "etd": "18/08/2026 00:30",
         "openstack": "12/08/2026 08:00",
         "closeC": "17/08/2026 02:00",
         "closeD": "17/08/2026 05:00",
         "verified": false
       },
       {
-        "name": "MSC IDA II",
-        "code": "XI633A / XI634A",
-        "eta": "17/08/2026 16:00",
-        "etd": "18/08/2026 02:00",
-        "openstack": "12/08/2026 02:00",
-        "closeC": "16/08/2026 20:00",
-        "closeD": "16/08/2026 23:00",
-        "verified": false,
-        "mmsi": "636019861",
-        "imo": "9224946",
-        "location": "Java Sea"
+        "name": "SINAR SULAWESI",
+        "code": "092S / 092N",
+        "eta": "17/08/2026 18:00",
+        "etd": "19/08/2026 02:30",
+        "openstack": "12/08/2026 00:00",
+        "closeC": "16/08/2026 18:00",
+        "closeD": "16/08/2026 21:00",
+        "verified": false
       },
       {
         "name": "HONG TAI 656",
