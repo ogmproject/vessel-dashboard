@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:15:39+00:00",
+  "generated_at": "2026-08-16T22:30:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "0XLC7S / 0XLC8N",
         "atb": "16/08/2026 16:30",
         "etd": "18/08/2026 08:30",
+        "verified": false
+      },
+      {
+        "name": "I3 - GSL MAMITSA",
+        "code": "018S / 018N",
+        "atb": "17/08/2026 05:05",
+        "etd": "17/08/2026 19:30",
         "verified": false
       },
       {
@@ -60,16 +67,6 @@
         "mmsi": "636019861",
         "imo": "9224946",
         "location": "Java Sea"
-      },
-      {
-        "name": "GSL MAMITSA",
-        "code": "018S / 018N",
-        "eta": "17/08/2026 00:00",
-        "etd": "17/08/2026 19:30",
-        "openstack": "11/08/2026 11:00",
-        "closeC": "16/08/2026 05:00",
-        "closeD": "16/08/2026 08:00",
-        "verified": false
       },
       {
         "name": "SINAR SULAWESI",
