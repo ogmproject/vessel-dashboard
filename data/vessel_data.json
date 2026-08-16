@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T23:15:40+00:00",
+  "generated_at": "2026-08-16T23:30:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -21,6 +21,13 @@
         "code": "0488-090S / 0488-090N",
         "atb": "17/08/2026 04:15",
         "etd": "18/08/2026 00:30",
+        "verified": false
+      },
+      {
+        "name": "I1 - MSC IDA II",
+        "code": "XI633A / XI634A",
+        "atb": "17/08/2026 06:15",
+        "etd": "18/08/2026 09:30",
         "verified": false
       }
     ],
@@ -54,19 +61,6 @@
         "closeC": "15/08/2026 16:00",
         "closeD": "15/08/2026 19:00",
         "verified": false
-      },
-      {
-        "name": "MSC IDA II",
-        "code": "XI633A / XI634A",
-        "eta": "17/08/2026 00:00",
-        "etd": "18/08/2026 09:30",
-        "openstack": "12/08/2026 02:00",
-        "closeC": "16/08/2026 20:00",
-        "closeD": "16/08/2026 23:00",
-        "verified": false,
-        "mmsi": "636019861",
-        "imo": "9224946",
-        "location": "Java Sea"
       },
       {
         "name": "SINAR SULAWESI",
