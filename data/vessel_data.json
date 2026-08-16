@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:30:49+00:00",
+  "generated_at": "2026-08-16T22:45:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -221,18 +221,17 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "MERATUS KUMAI",
         "code": "MEKM011",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "17/08/2026 00:00",
-        "etd": "18/08/2026 00:00",
-        "openstack": "10/08/2026 16:00",
-        "closeC": "16/08/2026 20:00"
-      },
+        "atb": "17/08/2026 05:30",
+        "etd": "18/08/2026 00:00"
+      }
+    ],
+    "schedule": [
       {
         "name": "MERATUS KARIMUN",
         "code": "MEIU021",
