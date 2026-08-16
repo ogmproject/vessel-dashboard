@@ -73,8 +73,8 @@
     "vessel_name": "JOANNA",
     "terminal": "TPS",
     "arrival": "2026-08-15T19:20:00",
-    "departure": null,
-    "recorded_at": "2026-08-15T12:30:45.758210"
+    "departure": "2026-08-17T00:06:00",
+    "recorded_at": "2026-08-16T17:42:13.684980"
   },
   {
     "vessel_name": "HONG TAI 656",
@@ -94,8 +94,8 @@
     "vessel_name": "INFERRO",
     "terminal": "TPS",
     "arrival": "2026-08-16T00:32:00",
-    "departure": null,
-    "recorded_at": "2026-08-15T17:45:11.914475"
+    "departure": "2026-08-17T00:30:00",
+    "recorded_at": "2026-08-16T17:42:13.684980"
   },
   {
     "vessel_name": "WAN HAI 351",

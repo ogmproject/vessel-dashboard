@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T17:30:41+00:00",
+  "generated_at": "2026-08-16T17:42:13+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,20 +7,6 @@
         "code": "0XLC7S / 0XLC8N",
         "atb": "16/08/2026 16:30",
         "etd": "18/08/2026 08:30",
-        "verified": false
-      },
-      {
-        "name": "I2 - JOANNA",
-        "code": "090S / 090N",
-        "atb": "15/08/2026 19:20",
-        "etd": "16/08/2026 23:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - INFERRO",
-        "code": "045E / 045W",
-        "atb": "16/08/2026 00:32",
-        "etd": "16/08/2026 23:30",
         "verified": false
       }
     ],
@@ -209,6 +195,19 @@
       }
     ],
     "movement": [
+      {
+        "name": "INFERRO",
+        "berth": "16/08/2026 00:32",
+        "dep": "17/08/2026 00:30"
+      },
+      {
+        "name": "JOANNA",
+        "berth": "15/08/2026 19:20",
+        "dep": "17/08/2026 00:06",
+        "mmsi": "636016118",
+        "imo": "9204477",
+        "location": "Java Sea"
+      },
       {
         "name": "SEASPAN CALICANTO",
         "berth": "15/08/2026 18:45",
