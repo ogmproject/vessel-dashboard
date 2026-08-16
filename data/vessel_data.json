@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-16T00:00:47+00:00",
+  "generated_at": "2026-08-16T00:15:34+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - HONG TAI 656",
         "code": "632S / 632S",
         "atb": "15/08/2026 21:40",
-        "etd": "16/08/2026 14:30",
+        "etd": "16/08/2026 10:30",
         "verified": false
       },
       {
         "name": "I3 - SEASPAN CALICANTO",
         "code": "630S / 633N",
         "atb": "15/08/2026 18:45",
-        "etd": "16/08/2026 13:30",
+        "etd": "16/08/2026 10:00",
         "verified": false
       },
       {
