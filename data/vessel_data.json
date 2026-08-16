@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T06:30:39+00:00",
+  "generated_at": "2026-08-16T06:45:33+00:00",
   "tps": {
     "alongside": [
       {
@@ -241,7 +241,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "16/08/2026 02:52",
-        "etd": "17/08/2026 02:00"
+        "etd": "17/08/2026 06:00"
       },
       {
         "name": "WAN HAI 351",
@@ -259,8 +259,8 @@
         "code": "MEKM011",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "16/08/2026 23:00",
-        "etd": "18/08/2026 01:00",
+        "etb": "17/08/2026 02:00",
+        "etd": "18/08/2026 03:00",
         "openstack": "10/08/2026 16:00",
         "closeC": "16/08/2026 20:00"
       },
