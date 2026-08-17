@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T09:01:01+00:00",
+  "generated_at": "2026-08-17T09:15:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -125,7 +125,8 @@
         "closeD": "20/08/2026 18:00",
         "verified": false,
         "mmsi": "563232800",
-        "imo": "9958121"
+        "imo": "9958121",
+        "location": "Java Sea"
       },
       {
         "name": "KOTA GANDING",
@@ -189,6 +190,26 @@
         "closeC": "22/08/2026 02:00",
         "closeD": "22/08/2026 05:00",
         "verified": false
+      },
+      {
+        "name": "SINAR BANDA",
+        "code": "264S / 264N",
+        "eta": "22/08/2026 21:00",
+        "etd": "23/08/2026 07:30",
+        "openstack": "17/08/2026 21:00",
+        "closeC": "22/08/2026 15:00",
+        "closeD": "22/08/2026 18:00",
+        "verified": false
+      },
+      {
+        "name": "AS PIA",
+        "code": "631S / 634N",
+        "eta": "22/08/2026 23:00",
+        "etd": "24/08/2026 07:30",
+        "openstack": "17/08/2026 23:00",
+        "closeC": "22/08/2026 17:00",
+        "closeD": "22/08/2026 20:00",
+        "verified": false
       }
     ],
     "movement": [
@@ -245,16 +266,6 @@
     ],
     "schedule": [
       {
-        "name": "MERATUS KARIMUN",
-        "code": "MEIU021",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "18/08/2026 08:00",
-        "etd": "19/08/2026 17:30",
-        "openstack": "13/08/2026 08:00",
-        "closeC": "18/08/2026 03:00"
-      },
-      {
         "name": "GENCO MAGIC",
         "code": "GECO001",
         "voyage": "00001        / 00001",
@@ -262,6 +273,16 @@
         "carrier": "PT GESURI LLOYD",
         "etb": "19/08/2026 08:00",
         "etd": "22/08/2026 12:00"
+      },
+      {
+        "name": "MERATUS KARIMUN",
+        "code": "MEIU021",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "19/08/2026 12:00",
+        "etd": "20/08/2026 01:30",
+        "openstack": "14/08/2026 12:00",
+        "closeC": "21/08/2026 01:00"
       },
       {
         "name": "WAN HAI 373",
