@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T20:00:48+00:00",
+  "generated_at": "2026-08-17T20:15:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "0XLC7S / 0XLC8N",
         "atb": "16/08/2026 16:30",
         "etd": "18/08/2026 13:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - GSL MAMITSA",
-        "code": "018S / 018N",
-        "atb": "17/08/2026 05:05",
-        "etd": "18/08/2026 02:00",
         "verified": false
       },
       {
@@ -206,6 +199,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "GSL MAMITSA",
+        "berth": "17/08/2026 05:05",
+        "dep": "18/08/2026 02:49"
+      },
       {
         "name": "EVER OASIS",
         "berth": "17/08/2026 04:15",

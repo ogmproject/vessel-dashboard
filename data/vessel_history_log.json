@@ -129,8 +129,8 @@
     "vessel_name": "GSL MAMITSA",
     "terminal": "TPS",
     "arrival": "2026-08-17T05:05:00",
-    "departure": null,
-    "recorded_at": "2026-08-16T22:30:49.290650"
+    "departure": "2026-08-18T02:49:00",
+    "recorded_at": "2026-08-17T20:15:40.419766"
   },
   {
     "vessel_name": "MERATUS KUMAI",
