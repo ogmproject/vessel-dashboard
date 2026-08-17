@@ -122,8 +122,8 @@
     "vessel_name": "EVER OASIS",
     "terminal": "TPS",
     "arrival": "2026-08-17T04:15:00",
-    "departure": null,
-    "recorded_at": "2026-08-16T22:15:39.657449"
+    "departure": "2026-08-18T00:15:00",
+    "recorded_at": "2026-08-17T17:45:35.633557"
   },
   {
     "vessel_name": "GSL MAMITSA",

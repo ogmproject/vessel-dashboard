@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:30:44+00:00",
+  "generated_at": "2026-08-17T17:45:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "018S / 018N",
         "atb": "17/08/2026 05:05",
         "etd": "18/08/2026 02:30",
-        "verified": false
-      },
-      {
-        "name": "I2 - EVER OASIS",
-        "code": "0488-090S / 0488-090N",
-        "atb": "17/08/2026 04:15",
-        "etd": "18/08/2026 00:30",
         "verified": false
       },
       {
@@ -214,6 +207,11 @@
     ],
     "movement": [
       {
+        "name": "EVER OASIS",
+        "berth": "17/08/2026 04:15",
+        "dep": "18/08/2026 00:15"
+      },
+      {
         "name": "INFERRO",
         "berth": "16/08/2026 00:32",
         "dep": "17/08/2026 00:30"
@@ -242,13 +240,13 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "WAN HAI 351",
-        "code": "WA51017",
-        "voyage": "E046         / W047",
+        "name": "SURABAYA VOYAGER",
+        "code": "SUER007",
+        "voyage": "2611S        / 2611N",
         "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "atb": "16/08/2026 00:40",
-        "etd": "17/08/2026 00:32"
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "atb": "16/08/2026 02:52",
+        "etd": "17/08/2026 02:15"
       },
       {
         "name": "MERATUS KUMAI",
@@ -337,17 +335,7 @@
         "closeC": "21/08/2026 17:00"
       }
     ],
-    "departed": [
-      {
-        "name": "SURABAYA VOYAGER",
-        "code": "SUER007",
-        "voyage": "2611S        / 2611N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "atb": "16/08/2026 02:52",
-        "etd": "17/08/2026 02:15"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
