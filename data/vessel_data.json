@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:00:49+00:00",
+  "generated_at": "2026-08-17T19:15:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -239,15 +239,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "SURABAYA VOYAGER",
-        "code": "SUER007",
-        "voyage": "2611S        / 2611N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "atb": "16/08/2026 02:52",
-        "etd": "17/08/2026 02:15"
-      },
       {
         "name": "MERATUS KUMAI",
         "code": "MEKM011",
