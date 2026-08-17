@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Shipping Smart Vessel Traffic — TPS Surabaya × Teluk Lamong</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap');
+
+:root{
+  --bg: #08141f;
+  --panel: #0f2436;
+  --panel-2: #122a3e;
+  --line: #1e3a52;
+  --text: #e8f0f5;
+  --muted: #6f8aa0;
+  --tps: #22c1b8;
+  --tps-dim: rgba(34,193,184,0.12);
+  --tl: #ff9142;
+  --tl-dim: rgba(255,145,66,0.12);
+  --alert: #ff5d6c;
+  --good: #4ade80;
+}
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:'IBM Plex Sans',sans-serif;height:100%;overflow-x:hidden;}
+.mono{font-family:'IBM Plex Mono',monospace;}
+
+/* ---------- topbar ---------- */
+.topbar{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:14px 22px;border-bottom:1px solid var(--line);
+  background:linear-gradient(180deg, #0c1e2e 0%, #08141f 100%);
+}
+.brand{display:flex;align-items:center;gap:12px;}
+.brand-mark{
+  width:38px;height:38px;border-radius:9px;
+  background:linear-gradient(135deg, var(--tps), var(--tl));
+  position:relative;flex-shrink:0;
+  display:flex;align-items:center;justify-content:center;
+}
+.brand-mark::after{
+  content:"";position:absolute;bottom:-2px;right:-2px;width:9px;height:9px;
+  border-radius:50%;background:var(--good);border:2px solid var(--bg);
+  box-shadow:0 0 0 0 rgba(74,222,128,0.6);
+  animation:radar 2.2s infinite;
+}
+@keyframes radar{
+  0%{box-shadow:0 0 0 0 rgba(74,222,128,0.55);}
+  70%{box-shadow:0 0 0 10px rgba(74,222,128,0);}
+  100%{box-shadow:0 0 0 0 rgba(74,222,128,0);}
+}
+.brand h1{font-size:16px;margin:0;font-weight:600;letter-spacing:.2px;}
+.brand p{margin:1px 0 0;font-size:11.5px;color:var(--muted);}
+.status{display:flex;align-items:center;gap:22px;}
+
+.search-wrap{
+  display:flex;align-items:center;gap:8px;background:var(--panel-2);
+  border:1px solid var(--line);border-radius:8px;padding:7px 12px;flex:1;max-width:340px;margin:0 20px;
+  color:var(--muted);transition:border-color .15s;
+}
+.search-wrap:focus-within{border-color:var(--tps);color:var(--text);}
+.search-wrap input{
+  background:none;border:none;outline:none;color:var(--text);font-family:'IBM Plex Sans',sans-serif;
+  font-size:13px;flex:1;min-width:0;
+}
+.search-wrap input::placeholder{color:var(--muted);}
+.search-count{font-size:11px;color:var(--muted);white-space:nowrap;}
+.card.no-match{display:none;}
+mark{background:rgba(255,193,7,0.35);color:inherit;border-radius:2px;padding:0 1px;}
+.empty-state{padding:16px 4px;font-size:12px;color:var(--muted);text-align:center;font-style:italic;}
+
+.pos-row{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap;}
+.location-tag{
+  font-size:11px;color:#7cc4ff;margin-top:6px;font-style:italic;
+  display:flex;align-items:center;gap:4px;
+}
+.location-tag b{color:#a8d8ff;font-style:normal;}
+.card.compact .location-tag{font-size:10px;margin-top:4px;}
+
+.prediction-tag{
+  font-size:11px;margin-top:6px;padding:4px 8px;border-radius:6px;
+  display:flex;flex-direction:column;gap:1px;border-left:2px solid;
+}
+.prediction-tag b{font-weight:600;}
+.prediction-tag .conf-label{font-size:9.5px;opacity:0.75;font-style:italic;}
+.prediction-tag.conf-high{background:rgba(74,222,128,0.08);border-color:var(--good);color:#a7f3d0;}
+.prediction-tag.conf-medium{background:rgba(255,193,7,0.08);border-color:#ffc107;color:#ffe08a;}
+.prediction-tag.conf-low{background:rgba(148,163,184,0.08);border-color:var(--muted);color:#c3ccd6;}
+.card.compact .prediction-tag{font-size:10px;margin-top:4px;padding:3px 6px;}
+.pos-link{
+  display:inline-flex;align-items:center;gap:5px;
+  font-size:10.5px;font-weight:600;color:var(--good);text-decoration:none;
+  border:1px solid rgba(74,222,128,0.35);background:rgba(74,222,128,0.08);
+  padding:4px 8px;border-radius:6px;transition:.15s;white-space:nowrap;
+}
+.pos-link:hover{background:rgba(74,222,128,0.18);border-color:var(--good);}
+.pos-link.mt{color:#7cc4ff;border-color:rgba(124,196,255,0.35);background:rgba(124,196,255,0.08);}
+.pos-link.mt:hover{background:rgba(124,196,255,0.18);border-color:#7cc4ff;}
+.pos-link.search{color:var(--muted);border-color:var(--line);background:transparent;}
+.pos-link.search:hover{color:var(--text);border-color:var(--muted);}
+.pos-link.disabled{
+  color:var(--muted);border-color:var(--line);background:transparent;cursor:default;
+}
+
+.clock{font-size:20px;font-weight:600;letter-spacing:1px;}
+.clock span{color:var(--muted);font-size:11px;display:block;font-weight:400;letter-spacing:.5px;margin-top:1px;}
+.sync{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--muted);}
+.data-badge{font-size:10px;font-weight:700;padding:2px 7px;border-radius:5px;letter-spacing:.3px;display:inline-flex;align-items:center;}
+.data-badge.live{background:rgba(74,222,128,0.12);color:var(--good);}
+.data-badge.static{background:rgba(255,193,7,0.12);color:#ffc107;}
+.data-badge.stale{background:rgba(255,93,108,0.15);color:var(--alert);animation:pulse 1.6s infinite;}
+.dot{width:7px;height:7px;border-radius:50%;background:var(--good);animation:pulse 1.6s infinite;}
+@keyframes pulse{0%,100%{opacity:1;}50%{opacity:.35;}}
+.refresh-btn{
+  background:var(--panel-2);border:1px solid var(--line);color:var(--text);
+  padding:7px 14px;border-radius:7px;font-size:12px;cursor:pointer;font-family:inherit;
+  display:flex;align-items:center;gap:6px;transition:.15s;
+}
+.refresh-btn:hover{border-color:var(--tps);color:var(--tps);}
+.refresh-btn svg{transition:transform .5s;}
+.refresh-btn.spin svg{transform:rotate(360deg);}
+
+/* ---------- closing panel (replaces the old scrolling ticker) ---------- */
+.closing-wrap{
+  background:var(--panel);border-bottom:1px solid var(--line);
+  padding:14px 22px;
+}
+.closing-group{margin-bottom:14px;}
+.closing-group:last-child{margin-bottom:0;}
+.closing-group-head{display:flex;align-items:center;gap:8px;margin-bottom:8px;}
+.closing-badge{font-size:10px;font-weight:700;padding:2px 8px;border-radius:5px;letter-spacing:.5px;}
+.closing-badge.tps{background:var(--tps-dim);color:var(--tps);}
+.closing-badge.tl{background:var(--tl-dim);color:var(--tl);}
+.closing-group-title{font-size:11px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--muted);}
+.closing-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px;}
+.closing-card{border-radius:8px;padding:9px 12px;border:1px solid var(--line);}
+.closing-card.urgent{background:rgba(255,93,108,0.12);border-color:rgba(255,93,108,0.4);}
+.closing-card.urgent .closing-eta{color:#ff8a94;}
+.closing-card.urgent .closing-vname{color:#ffd4d8;}
+.closing-card.urgent .closing-meta{color:#ff5d6c;}
+.closing-card.soon{background:rgba(255,193,7,0.1);border-color:rgba(255,193,7,0.35);}
+.closing-card.soon .closing-eta{color:#ffd166;}
+.closing-card.soon .closing-vname{color:#ffe8ad;}
+.closing-card.soon .closing-meta{color:#ffc107;}
+.closing-card.normal{background:var(--panel-2);}
+.closing-card.normal .closing-eta{color:var(--muted);}
+.closing-card.normal .closing-vname{color:var(--text);}
+.closing-card.normal .closing-meta{color:var(--muted);}
+.closing-eta{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.4px;}
+.closing-vname{font-size:13px;font-weight:600;margin-top:3px;}
+.closing-meta{font-size:11px;margin-top:2px;font-family:'IBM Plex Mono',monospace;}
+.closing-empty{color:var(--muted);font-size:12px;font-style:italic;}
+
+/* ---------- layout ---------- */
+.grid{
+  display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--line);
+}
+@media(max-width:980px){.grid{grid-template-columns:1fr;}}
+
+.terminal{background:var(--bg);display:flex;flex-direction:column;}
+.terminal-head{
+  padding:16px 20px 12px;display:flex;align-items:center;justify-content:space-between;
+}
+.terminal-head h2{margin:0;font-size:15px;font-weight:600;display:flex;align-items:center;gap:9px;}
+.badge{
+  font-size:10px;font-weight:700;padding:3px 8px;border-radius:5px;letter-spacing:.5px;
+}
+.tps-badge{background:var(--tps-dim);color:var(--tps);}
+.tl-badge{background:var(--tl-dim);color:var(--tl);}
+.terminal-head .src{font-size:11px;color:var(--muted);}
+
+.section-label{
+  padding:8px 20px;font-size:11px;font-weight:700;letter-spacing:1px;
+  text-transform:uppercase;border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+}
+.section-label.lbl-alongside{background:rgba(34,193,184,0.14);color:#5eead4;}
+.section-label.lbl-schedule{background:rgba(255,145,66,0.14);color:#ffb37a;}
+.section-label.lbl-extra{background:rgba(148,163,184,0.14);color:#b8c4d0;}
+
+.cards{padding:12px 20px;display:flex;flex-direction:column;gap:10px;}
+.cards.sec-alongside{background:#0f2e2b;border-top:2px solid #22c1b8;border-bottom:1px solid rgba(34,193,184,0.3);}
+.cards.sec-schedule{background:#2e2210;border-top:2px solid #ff9142;border-bottom:1px solid rgba(255,145,66,0.3);}
+.cards.sec-extra{background:#20242c;border-top:2px solid #6f8aa0;border-bottom:1px solid rgba(148,163,184,0.3);}
+.cards::-webkit-scrollbar{width:6px;}
+.cards::-webkit-scrollbar-thumb{background:var(--line);border-radius:3px;}
+
+.card{
+  background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:12px 14px;
+  border-left:3px solid var(--tps);
+}
+.card.compact{padding:8px 12px;border-radius:7px;}
+.card.compact .card-top{margin-bottom:3px;}
+.card.compact .vessel-name{font-size:12.5px;}
+.card.compact .vcode{font-size:10px;margin-bottom:3px!important;}
+.card.compact .card-rows{gap:2px 12px;font-size:11px;}
+.card.compact .pos-row{margin-top:5px;gap:5px;}
+.card.compact .pos-link{padding:3px 7px;font-size:10px;}
+.tl .card{border-left-color:var(--tl);}
+
+.card.departed{
+  border-left-color:var(--muted);
+  background:repeating-linear-gradient(135deg, var(--panel), var(--panel) 10px, rgba(111,138,160,0.06) 10px, rgba(111,138,160,0.06) 20px);
+  opacity:0.82;
+}
+.card.departed .vessel-name{color:var(--muted);text-decoration:line-through;text-decoration-color:rgba(111,138,160,0.5);}
+.departed-tag{
+  font-size:9px;font-weight:700;letter-spacing:.5px;color:var(--muted);
+  background:rgba(111,138,160,0.15);padding:2px 6px;border-radius:4px;margin-left:6px;
+  text-decoration:none;display:inline-block;vertical-align:middle;
+}
+.card-top{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:6px;}
+.vessel-name{font-weight:600;font-size:13.5px;}
+.vcode{font-size:11px;color:var(--muted);}
+.card-rows{display:grid;grid-template-columns:1fr 1fr;gap:3px 14px;font-size:12px;color:var(--muted);}
+.card-rows b{color:var(--text);font-weight:500;}
+.closing{color:var(--alert)!important;font-weight:600;}
+.openstack{color:var(--good)!important;font-weight:600;}
+
+footer{
+  padding:12px 22px;border-top:1px solid var(--line);
+  font-size:11px;color:var(--muted);
+  display:flex;flex-direction:column;gap:8px;
+}
+.footer-row{display:flex;justify-content:space-between;}
+.footer-credit{
+  text-align:center;font-size:11px;color:var(--muted);
+  padding-top:8px;border-top:1px dashed var(--line);
+}
+.footer-credit b{color:var(--text);}
+footer a{color:var(--tps);text-decoration:none;}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="brand">
+    <div class="brand-mark">
+      <svg viewBox="0 0 48 48" width="26" height="26" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M8 27h32l-3.5 10c-.5 1.5-2 2.5-3.6 2.5H15.1c-1.6 0-3.1-1-3.6-2.5L8 27Z" fill="#e8f0f5"/>
+        <path d="M13 27V13a2 2 0 0 1 2-2h5v-4h8v4h5a2 2 0 0 1 2 2v14" stroke="#e8f0f5" stroke-width="2" stroke-linejoin="round"/>
+        <path d="M4 33c2.5 2 5.5 2 8 0s5.5-2 8 0 5.5 2 8 0 5.5-2 8 0 5.5 2 8 0" stroke="#22c1b8" stroke-width="2.2" stroke-linecap="round"/>
+      </svg>
+    </div>
+    <div>
+      <h1>Shipping Smart Vessel Traffic</h1>
+      <p>TPS Surabaya + Teluk Lamong — one screen, one picture</p>
+    </div>
+  </div>
+  <div class="search-wrap">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+    <input id="vesselSearch" type="text" placeholder="Search vessel name…" autocomplete="off" oninput="filterVessels()">
+    <span id="searchCount" class="search-count"></span>
+  </div>
+  <div class="status">
+    <div class="sync">
+      <span class="dot"></span>
+      <span id="syncText">Data as of <span id="fetchTimeLabel"></span></span>
+      <span id="liveBadge" class="data-badge live" style="display:none;">🟢 LIVE (auto-refreshing)</span>
+      <span id="staleBadge" class="data-badge stale" style="display:none;"></span>
+      <span id="staticBadge" class="data-badge static" style="display:none;">🟡 STATIC SNAPSHOT</span>
+    </div>
+    <button class="refresh-btn" id="refreshBtn" onclick="doRefresh()">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M21 12a9 9 0 1 1-2.6-6.4"/><path d="M21 4v6h-6"/></svg>
+      Refresh
+    </button>
+    <div class="clock mono" id="clockTime">--:--:--<span id="clockDate">-- --- ----</span></div>
+  </div>
+</div>
+
+<div class="closing-wrap" id="closingWrap"></div>
+
+<div class="grid">
+  <!-- TPS SURABAYA -->
+  <div class="terminal tps">
+    <div class="terminal-head">
+      <h2><span class="badge tps-badge">TPS</span> TPS Surabaya (Pelindo)</h2>
+      <span class="src">webaccess.tps.co.id</span>
+    </div>
+    <div style="margin:0 20px 8px;padding:8px 12px;background:rgba(255,93,108,0.1);border:1px solid rgba(255,93,108,0.3);border-radius:7px;font-size:11.5px;color:#ffb3ba;">
+      ⚠ TPS's public site does not label routes as Domestic/International. The data below is <b>unverified for route type</b> — please double-check manually before using it for operational decisions.
+    </div>
+
+    <div class="section-label lbl-alongside">Vessel Alongside</div>
+    <div class="cards sec-alongside" id="tpsAlongside"></div>
+
+    <div class="section-label lbl-schedule">Vessel Schedule</div>
+    <div class="cards sec-schedule" id="tpsSchedule"></div>
+
+    <div class="section-label lbl-extra">Recent Movement (Berthing / Departure)</div>
+    <div class="cards sec-extra" id="tpsMovement"></div>
+  </div>
+
+  <!-- TELUK LAMONG -->
+  <div class="terminal tl">
+    <div class="terminal-head">
+      <h2><span class="badge tl-badge">TL</span> Teluk Lamong <span style="font-size:10px;background:var(--good);color:#04240f;padding:2px 7px;border-radius:5px;margin-left:4px;">FILTER: INTERNATIONAL</span></h2>
+      <span class="src">app.teluklamong.co.id</span>
+    </div>
+
+    <div class="section-label lbl-alongside">Vessel Alongside</div>
+    <div class="cards sec-alongside" id="tlAlongside"></div>
+
+    <div class="section-label lbl-schedule">Vessel Schedule</div>
+    <div class="cards sec-schedule" id="tlSchedule"></div>
+
+    <div class="section-label lbl-extra">Vessel Has Been Departed (24 Hours)</div>
+    <div class="cards sec-extra" id="tlDeparted"></div>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-row">
+    <span>Original data pulled directly from webaccess.tps.co.id &amp; app.teluklamong.co.id (public schedule pages, no login required).</span>
+    <span id="lastUpdated"></span>
+  </div>
+  <div class="footer-credit">
+    🚢 Built by <b>Hary Priyanto</b> × Claude (Anthropic) — a collaboration, not a solo effort.
+  </div>
+</footer>
+
+<script>
+let lastGeneratedAt = null;
+const STALE_WARN_MINUTES = 45;
+const STALE_CRITICAL_MINUTES = 120;
+
+const FETCH_TIME = "July 29, 2026 (corrected & refreshed)";
+
+const tpsAlongside = [
+  {name:"I4 – WAN HAI 327", code:"S066 / N066", atb:"27/07/2026 15:25", etd:"28/07/2026 10:00", mmsi:"563124300", imo:"9871490"},
+  {name:"I3 – BRICKELL", code:"628S / 629N", atb:"26/07/2026 12:40", etd:"28/07/2026 16:00", mmsi:"538009605", imo:"9315343"},
+  {name:"I2 – XIN YAN TAI", code:"272S / 272N", atb:"28/07/2026 01:15", etd:"29/07/2026 06:00", mmsi:"413125000", imo:"9304801"},
+];
+const tpsSchedule = [
+  {name:"EVER BUILD", code:"1201-087A / 1201-087A", eta:"28/07/2026 18:00", etd:"29/07/2026 14:00", openstack:"23/07/2026 08:00", closeC:"28/07/2026 02:00", closeD:"28/07/2026 05:00", mmsi:"370616000", imo:"9790062"},
+  {name:"MSC MALENA III", code:"HC627A / HC629R", eta:"28/07/2026 22:00", etd:"29/07/2026 14:00", openstack:"23/07/2026 00:00", closeC:"27/07/2026 18:00", closeD:"27/07/2026 21:00", mmsi:"636020360", imo:"9203538"},
+  {name:"HYUNDAI UNITY", code:"0183S / 0183N", eta:"29/07/2026 16:00", etd:"30/07/2026 16:00", openstack:"23/07/2026 16:00", closeC:"28/07/2026 10:00", closeD:"28/07/2026 13:00", mmsi:"538007483", imo:"9330719"},
+  {name:"JOANNA", code:"088S / 088N", eta:"30/07/2026 06:00", etd:"31/07/2026 10:00", openstack:"24/07/2026 08:00", closeC:"29/07/2026 02:00", closeD:"29/07/2026 05:00", mmsi:"636016118", imo:"9204477"},
+  {name:"KMTC HAIPHONG", code:"2606S / 2606N", eta:"30/07/2026 07:00", etd:"30/07/2026 23:00", openstack:"25/07/2026 06:00", closeC:"30/07/2026 00:00", closeD:"30/07/2026 03:00", mmsi:"538007503", imo:"9793806"},
+  {name:"INTERASIA ENGAGE", code:"S042 / N042", eta:"30/07/2026 10:00", etd:"31/07/2026 10:00", openstack:"24/07/2026 18:00", closeC:"29/07/2026 12:00", closeD:"29/07/2026 15:00", mmsi:"563169200", imo:"9771664"},
+  {name:"MSC IDA II", code:"XI630R / XI631R", eta:"30/07/2026 18:00", etd:"01/08/2026 06:00", openstack:"25/07/2026 00:00", closeC:"29/07/2026 18:00", closeD:"29/07/2026 21:00", mmsi:"636019861", imo:"9224946"},
+  {name:"EVER BOOMY", code:"1199-092B / 1199-092B", eta:"31/07/2026 01:00", etd:"31/07/2026 17:00", openstack:"26/07/2026 08:00", closeC:"31/07/2026 02:00", closeD:"31/07/2026 05:00", mmsi:"370700000", imo:"9787015"},
+  {name:"CONTSHIP YEN", code:"1926S / 1926S", eta:"31/07/2026 12:00", etd:"01/08/2026 00:01", openstack:"25/07/2026 20:00", closeC:"30/07/2026 14:00", closeD:"30/07/2026 17:00", mmsi:"209692000", imo:"9664263"},
+  {name:"KOTA MANIS", code:"0627S / 0627N", eta:"31/07/2026 12:00", etd:"01/08/2026 14:00", openstack:"25/07/2026 12:00", closeC:"30/07/2026 06:00", closeD:"30/07/2026 09:00", mmsi:"566773000", imo:"9632741"},
+];
+
+const tpsMovement = [
+  {name:"SITC BATANGAS", berth:"27/07/2026 08:40", dep:"28/07/2026 00:10", mmsi:"477401900", imo:"9845738"},
+  {name:"WAN HAI 375", berth:"26/07/2026 10:48", dep:"27/07/2026 05:04", mmsi:"563232800", imo:"9958121"},
+];
+
+const tlAlongside = [];
+
+const tlSchedule = [
+  {name:"WANTAI", code:"WANT004 · 2629S/2629N · SCJX", carrier:"SEA CONSORTIUM PTE LTD", etb:"30/07/2026 03:00", etd:"30/07/2026 23:30", openstack:"25/07/2026 03:00", closeC:"29/07/2026 18:00", mmsi:"636024258", imo:"9168207"},
+  {name:"SEASPAN EMERALD", code:"SEEM009 · 46S/46N · CTI", carrier:"GOLD STAR LINE LTD", etb:"31/07/2026 09:00", etd:"01/08/2026 17:00", openstack:"26/07/2026 09:00", closeC:"31/07/2026 04:00", mmsi:"563279800", imo:"9407134"},
+  {name:"INTERASIA FORWARD", code:"INFO001 · E184/W185 · SI8", carrier:"INTERASIA LINES SINGAPORE PTE.LTD", etb:"31/07/2026 20:00", etd:"01/08/2026 13:30", openstack:"26/07/2026 20:00", closeC:"31/07/2026 13:00", mmsi:"563049100", imo:"9444998"},
+  {name:"WAN HANG HENG YUAN", code:"WAAN004 · 010S/010N · CSE", carrier:"COSCO SHIPPING LINES", etb:"01/08/2026 10:00", etd:"02/08/2026 10:00", openstack:"27/07/2026 10:00", closeC:"01/08/2026 05:00", mmsi:"352006269", imo:"1115565"},
+  {name:"SEABREEZE", code:"SEZE001 · 0001S/0001N · KIS", carrier:"HMM CO.,LTD", etb:"01/08/2026 18:00", etd:"02/08/2026 18:30", openstack:"27/07/2026 18:00", closeC:"01/08/2026 13:00", mmsi:"636021108", imo:"9472579"},
+  {name:"CELSIUS EINDHOVEN", code:"CEUS010 · 032E/033W · SEI1", carrier:"UNIFEEDER FZCO", etb:"02/08/2026 08:00", etd:"03/08/2026 09:30", openstack:"28/07/2026 08:00", closeC:"02/08/2026 08:00", mmsi:"538011074", imo:"9969948"},
+  {name:"BELAWAN", code:"BEAN012 · 2607S/2607N · KIS1", carrier:"BUT. KOREA MARINE TRANSPORT CO., LTD.", etb:"03/08/2026 06:00", etd:"03/08/2026 20:30", openstack:"29/07/2026 06:00", closeC:"02/08/2026 19:00", mmsi:"477883500", imo:"9412828"},
+];
+
+const tlDeparted = [
+  {name:"YM CENTENNIAL", code:"YMAL005 · 069S/069N · CIM", carrier:"PT.YANG MING SHIPPING INDONESIA", berth:"27/07/2026 23:22", dep:"28/07/2026 20:13", mmsi:"636019895", imo:"9864538"},
+  {name:"KMTC HOCHIMINH", code:"KMHO009 · 2607S/2607N · KIS1", carrier:"BUT. KOREA MARINE TRANSPORT CO., LTD.", berth:"27/07/2026 16:05", dep:"28/07/2026 18:00", mmsi:"440147000", imo:"9314923"},
+];
+
+function positionLinkHTML(v){
+  const q = encodeURIComponent(v.name);
+  const locationHTML = v.location
+    ? `<div class="location-tag">📍 Currently in <b>${v.location}</b></div>`
+    : '';
+  const predictionHTML = v.predicted_next_visit
+    ? `<div class="prediction-tag conf-${v.confidence}">
+         🔮 Next visit ~<b>${v.predicted_next_visit}</b>
+         <span class="conf-label">${v.confidence} confidence · ${v.based_on_visits} past visits</span>
+       </div>`
+    : '';
+  if(v.mmsi){
+    const vf = `https://www.vesselfinder.com/?imo=${v.imo||''}&mmsi=${v.mmsi}`;
+    const mt = `https://www.marinetraffic.com/en/ais/index/search/all?keyword=${v.imo||v.mmsi}`;
+    return `${locationHTML}${predictionHTML}<div class="pos-row">
+      <a class="pos-link" href="${vf}" target="_blank" rel="noopener">📍 VesselFinder ↗</a>
+      <a class="pos-link mt" href="${mt}" target="_blank" rel="noopener">🛰️ MarineTraffic ↗</a>
+    </div>`;
+  }
+  const vfSearch = `https://www.vesselfinder.com/vessels?name=${q}`;
+  const mtSearch = `https://www.marinetraffic.com/en/ais/index/search/all?keyword=${q}`;
+  return `${locationHTML}${predictionHTML}<div class="pos-row">
+    <a class="pos-link search" href="${vfSearch}" target="_blank" rel="noopener">🔎 Search VesselFinder</a>
+    <a class="pos-link search" href="${mtSearch}" target="_blank" rel="noopener">🔎 Search MarineTraffic</a>
+
+  </div>`;
+}
+
+function renderAlongsideTPS(){
+  document.getElementById('tpsAlongside').innerHTML = tpsAlongside.map(v=>`
+    <div class="card" data-name="${v.name.toLowerCase()}">
+      <div class="card-top"><span class="vessel-name">${v.name}</span><span class="vcode mono">${v.code}</span></div>
+      <div class="card-rows mono">
+        <div>ATB <b>${v.atb}</b></div>
+        <div>ETD <b>${v.etd}</b></div>
+      </div>
+      ${positionLinkHTML(v)}
+    </div>`).join('');
+}
+function renderScheduleTPS(){
+  document.getElementById('tpsSchedule').innerHTML = tpsSchedule.map(v=>`
+    <div class="card compact" data-name="${v.name.toLowerCase()}">
+      <div class="card-top"><span class="vessel-name">${v.name}</span><span class="vcode mono">${v.code}</span></div>
+      <div class="card-rows mono">
+        <div>ETA <b>${v.eta}</b></div>
+        <div>ETD <b>${v.etd}</b></div>
+        <div>Open Stack <b class="openstack">${v.openstack}</b></div>
+        <div></div>
+        <div>Closing Container <b class="closing">${v.closeC}</b></div>
+        <div>Closing Document <b>${v.closeD}</b></div>
+      </div>
+      ${positionLinkHTML(v)}
+    </div>`).join('');
+}
+function renderAlongsideTL(){
+  if(tlAlongside.length === 0){
+    document.getElementById('tlAlongside').innerHTML = `<div class="empty-state">There are currently no international vessels alongside at Teluk Lamong.</div>`;
+    return;
+  }
+  document.getElementById('tlAlongside').innerHTML = tlAlongside.map(v=>`
+    <div class="card" data-name="${v.name.toLowerCase()}">
+      <div class="card-top"><span class="vessel-name">${v.name}</span></div>
+      <div class="vcode mono" style="margin-bottom:6px;">${v.code}${v.carrier?' · '+v.carrier:''}</div>
+      <div class="card-rows mono">
+        <div>ATB <b>${v.atb}</b></div>
+        <div>ETD <b>${v.etd}</b></div>
+        <div>Remain D/L/R <b>${v.remain}</b></div>
+      </div>
+      ${positionLinkHTML(v)}
+    </div>`).join('');
+}
+function renderScheduleTL(){
+  document.getElementById('tlSchedule').innerHTML = tlSchedule.map(v=>`
+    <div class="card compact" data-name="${v.name.toLowerCase()}">
+      <div class="card-top"><span class="vessel-name">${v.name}</span></div>
+      <div class="vcode mono" style="margin-bottom:3px;">${v.code}${v.carrier?' · '+v.carrier:''}</div>
+      <div class="card-rows mono">
+        <div>ETB <b>${v.etb}</b></div>
+        <div>ETD <b>${v.etd}</b></div>
+        <div>Open Stack <b class="openstack">${v.openstack}</b></div>
+        <div>Closing Container <b class="closing">${v.closeC || '—'}</b></div>
+      </div>
+      ${positionLinkHTML(v)}
+    </div>`).join('');
+}
+
+const CLOSING_URGENT_HOURS = 2;
+const CLOSING_SOON_HOURS = 6;
+
+function closingUrgency(hoursRemaining){
+  if(hoursRemaining < CLOSING_URGENT_HOURS) return 'urgent';
+  if(hoursRemaining < CLOSING_SOON_HOURS) return 'soon';
+  return 'normal';
+}
+
+function closingEtaLabel(closeDt, now){
+  const diffMin = Math.round((closeDt - now) / 60000);
+  if(diffMin < 0) return `Terlewat ${Math.abs(Math.round(diffMin/60))}j`;
+  const hours = Math.floor(diffMin/60), mins = diffMin%60;
+  if(hours < 24) return mins > 0 ? `Kurang ${hours}j ${mins}m` : `Kurang ${hours}j`;
+  const days = Math.floor(hours/24);
+  return days === 1 ? 'Besok' : `${days} hari lagi`;
+}
+
+function collectClosingItems(scheduleArr, now){
+  const items = [];
+  (scheduleArr || []).forEach(v=>{
+    const dt = parseDDMMYYYY(v.closeC);
+    if(!dt) return;
+    const hoursRemaining = (dt - now) / 3600000;
+    if(hoursRemaining < 0) return;
+    items.push({ name: v.name, closeDt: dt, hoursRemaining });
+  });
+  items.sort((a,b)=>a.closeDt - b.closeDt);
+  return items;
+}
+
+function renderClosingGroup(badgeClass, badgeLabel, items, now){
+  if(items.length === 0){
+    return `<div class="closing-group">
+      <div class="closing-group-head">
+        <span class="closing-badge ${badgeClass}">${badgeLabel}</span>
+        <span class="closing-group-title">Closing Time</span>
+      </div>
+      <div class="closing-empty">Tidak ada closing time terjadwal.</div>
+    </div>`;
+  }
+  const cards = items.map(item=>{
+    const cls = closingUrgency(item.hoursRemaining);
+    const dd = String(item.closeDt.getDate()).padStart(2,'0');
+    const mo = String(item.closeDt.getMonth()+1).padStart(2,'0');
+    const hh = String(item.closeDt.getHours()).padStart(2,'0');
+    const mi = String(item.closeDt.getMinutes()).padStart(2,'0');
+    return `<div class="closing-card ${cls}">
+      <div class="closing-eta">${closingEtaLabel(item.closeDt, now)}</div>
+      <div class="closing-vname">${item.name}</div>
+      <div class="closing-meta">${dd}/${mo} ${hh}:${mi}</div>
+    </div>`;
+  }).join('');
+  return `<div class="closing-group">
+    <div class="closing-group-head">
+      <span class="closing-badge ${badgeClass}">${badgeLabel}</span>
+      <span class="closing-group-title">Closing Time</span>
+    </div>
+    <div class="closing-grid">${cards}</div>
+  </div>`;
+}
+
+function renderTicker(){
+  const now = new Date();
+  const tpsItems = collectClosingItems(tpsSchedule, now);
+  const tlItems = collectClosingItems(tlSchedule, now);
+  document.getElementById('closingWrap').innerHTML =
+    renderClosingGroup('tps', 'TPS', tpsItems, now) +
+    renderClosingGroup('tl', 'TL', tlItems, now);
+}
+
+function parseDDMMYYYY(str){
+  if(!str) return null;
+  const m = String(str).match(/(\d{2})\/(\d{2})\/(\d{4})\s+(\d{2}):(\d{2})/);
+  if(!m) return null;
+  const [, d, mo, y, h, mi] = m;
+  return new Date(Number(y), Number(mo)-1, Number(d), Number(h), Number(mi));
+}
+
+function isWithinLast24h(depStr){
+  const dt = parseDDMMYYYY(depStr);
+  if(!dt) return true;
+  const hoursAgo = (Date.now() - dt.getTime()) / 3600000;
+  return hoursAgo >= 0 && hoursAgo <= 24;
+}
+
+function renderMovementTPS(){
+  const recent = tpsMovement.filter(v => isWithinLast24h(v.dep));
+  if(recent.length === 0){
+    document.getElementById('tpsMovement').innerHTML =
+      `<div class="empty-state">No vessels have departed TPS in the last 24 hours.</div>`;
+    return;
+  }
+  document.getElementById('tpsMovement').innerHTML = recent.map(v=>`
+    <div class="card departed" data-name="${v.name.toLowerCase()}">
+      <div class="card-top"><span class="vessel-name">${v.name}</span><span class="departed-tag">✓ DEPARTED</span></div>
+      <div class="card-rows mono">
+        <div>Berth <b>${v.berth}</b></div>
+        <div>Departure <b>${v.dep}</b></div>
+      </div>
+      ${positionLinkHTML(v)}
+    </div>`).join('');
+}
+function renderDepartedTL(){
+  const recent = tlDeparted.filter(v => isWithinLast24h(v.dep));
+  if(recent.length === 0){
+    document.getElementById('tlDeparted').innerHTML =
+      `<div class="empty-state">No vessels have departed Teluk Lamong in the last 24 hours.</div>`;
+    return;
+  }
+  document.getElementById('tlDeparted').innerHTML = recent.map(v=>`
+    <div class="card departed" data-name="${v.name.toLowerCase()}">
+      <div class="card-top"><span class="vessel-name">${v.name}</span><span class="departed-tag">✓ DEPARTED</span></div>
+      <div class="vcode mono" style="margin-bottom:4px;">${v.code||''}${v.carrier?' · '+v.carrier:''}</div>
+      <div class="card-rows mono">
+        <div>ATB <b>${v.berth}</b></div>
+        <div>ATD <b>${v.dep}</b></div>
+      </div>
+      ${positionLinkHTML(v)}
+    </div>`).join('');
+}
+
+let usingLiveData = false;
+
+async function loadLiveData(){
+  try{
+    const res = await fetch('./data/vessel_data.json', { cache: 'no-store' });
+    if(!res.ok) throw new Error('HTTP ' + res.status);
+    const json = await res.json();
+
+    let filled = 0;
+    if(json.tps){
+      if(Array.isArray(json.tps.alongside) && json.tps.alongside.length){ tpsAlongside.splice(0, tpsAlongside.length, ...json.tps.alongside); filled++; }
+      if(Array.isArray(json.tps.schedule) && json.tps.schedule.length){ tpsSchedule.splice(0, tpsSchedule.length, ...json.tps.schedule); filled++; }
+      if(Array.isArray(json.tps.movement) && json.tps.movement.length){ tpsMovement.splice(0, tpsMovement.length, ...json.tps.movement); filled++; }
+    }
+    if(json.teluk_lamong){
+      if(Array.isArray(json.teluk_lamong.alongside)){ tlAlongside.splice(0, tlAlongside.length, ...json.teluk_lamong.alongside); }
+      if(Array.isArray(json.teluk_lamong.schedule) && json.teluk_lamong.schedule.length){ tlSchedule.splice(0, tlSchedule.length, ...json.teluk_lamong.schedule); filled++; }
+      if(Array.isArray(json.teluk_lamong.departed) && json.teluk_lamong.departed.length){ tlDeparted.splice(0, tlDeparted.length, ...json.teluk_lamong.departed); filled++; }
+    }
+
+    usingLiveData = filled > 0;
+    if(usingLiveData){
+      lastGeneratedAt = new Date(json.generated_at);
+      document.getElementById('fetchTimeLabel').textContent =
+        lastGeneratedAt.toLocaleString('en-GB', { dateStyle: 'medium', timeStyle: 'short' }) + ' (auto, GitHub Actions)';
+    }
+  } catch(err){
+    console.warn('Refresh attempt failed:', err.message);
+    if(!lastGeneratedAt) usingLiveData = false;
+  }
+  renderAll();
+}
+
+function renderAll(){
+  renderAlongsideTPS(); renderScheduleTPS(); renderAlongsideTL(); renderScheduleTL(); renderTicker();
+  renderMovementTPS(); renderDepartedTL();
+  document.getElementById('staticBadge').style.display = usingLiveData ? 'none' : 'inline-flex';
+  updateStaleness();
+  filterVessels();
+}
+
+loadLiveData();
+
+function filterVessels(){
+  const q = document.getElementById('vesselSearch').value.trim().toLowerCase();
+  const cards = document.querySelectorAll('.cards .card');
+  let matchCount = 0;
+
+  cards.forEach(card=>{
+    const name = card.getAttribute('data-name') || '';
+    const isMatch = q === '' || name.includes(q);
+    card.classList.toggle('no-match', !isMatch);
+    if(isMatch) matchCount++;
+
+    const nameEl = card.querySelector('.vessel-name');
+    if(nameEl){
+      const original = card.getAttribute('data-original-name') || nameEl.textContent;
+      card.setAttribute('data-original-name', original);
+      if(q === ''){
+        nameEl.innerHTML = original;
+      } else {
+        const idx = original.toLowerCase().indexOf(q);
+        if(idx >= 0){
+          nameEl.innerHTML = original.slice(0, idx) + '<mark>' + original.slice(idx, idx+q.length) + '</mark>' + original.slice(idx+q.length);
+        } else {
+          nameEl.innerHTML = original;
+        }
+      }
+    }
+  });
+
+  document.querySelectorAll('.cards').forEach(container=>{
+    let empty = container.querySelector('.empty-state');
+    const visible = container.querySelectorAll('.card:not(.no-match)').length;
+    if(visible === 0 && q !== ''){
+      if(!empty){
+        empty = document.createElement('div');
+        empty.className = 'empty-state';
+        container.appendChild(empty);
+      }
+      empty.textContent = `No vessels match "${q}"`;
+    } else if(empty){
+      empty.remove();
+    }
+  });
+
+  const countEl = document.getElementById('searchCount');
+  countEl.textContent = q === '' ? '' : `${matchCount} vessel(s)`;
+}
+
+function tick(){
+  const now = new Date();
+  const hh = String(now.getHours()).padStart(2,'0');
+  const mm = String(now.getMinutes()).padStart(2,'0');
+  const ss = String(now.getSeconds()).padStart(2,'0');
+  document.getElementById('clockTime').innerHTML = `${hh}:${mm}:${ss}<span>${now.toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'numeric'})}</span>`;
+  updateStaleness();
+}
+setInterval(tick,1000); tick();
+
+function updateStaleness(){
+  const liveBadge = document.getElementById('liveBadge');
+  const staleBadge = document.getElementById('staleBadge');
+  if(!lastGeneratedAt){
+    staleBadge.style.display = 'none';
+    return;
+  }
+  const ageMinutes = (Date.now() - lastGeneratedAt.getTime()) / 60000;
+  if(ageMinutes < STALE_WARN_MINUTES){
+    staleBadge.style.display = 'none';
+    if(usingLiveData) liveBadge.style.display = 'inline-flex';
+    return;
+  }
+  liveBadge.style.display = 'none';
+  staleBadge.style.display = 'inline-flex';
+  const hrs = ageMinutes / 60;
+  const ageText = hrs >= 1 ? `${hrs.toFixed(1)}h old` : `${Math.round(ageMinutes)}m old`;
+  if(ageMinutes >= STALE_CRITICAL_MINUTES){
+    staleBadge.textContent = `🔴 STALE — data is ${ageText}, check GitHub Actions`;
+  } else {
+    staleBadge.textContent = `🟠 AGING — data is ${ageText}`;
+  }
+}
+
+setInterval(loadLiveData, 5 * 60 * 1000);
+
+function updateLastUpdated(){
+  const now = new Date();
+  document.getElementById('lastUpdated').textContent = 'Last refreshed: ' + now.toLocaleTimeString('en-GB');
+}
+async function doRefresh(){
+  const btn = document.getElementById('refreshBtn');
+  btn.classList.add('spin');
+  btn.disabled = true;
+
+  await loadLiveData();
+
+  btn.classList.remove('spin');
+  btn.disabled = false;
+  updateLastUpdated();
+
+  if(!usingLiveData){
+    showRefreshNotice();
+  }
+}
+
+function showRefreshNotice(){
+  let el = document.getElementById('refreshNotice');
+  if (!el) {
+    el = document.createElement('div');
+    el.id = 'refreshNotice';
+    el.style.cssText = 'position:fixed;bottom:16px;right:16px;max-width:340px;background:#1a2230;'
+      + 'border:1px solid rgba(255,93,108,0.4);color:#e8f0f5;padding:12px 14px;border-radius:10px;'
+      + 'font-size:12px;line-height:1.5;box-shadow:0 8px 24px rgba(0,0,0,0.4);z-index:999;';
+    document.body.appendChild(el);
+  }
+  el.innerHTML = '<b style="color:#ff5d6c;">Live data not available yet</b><br>'
+    + 'This dashboard is set up to auto-refresh from <code>data/vessel_data.json</code>, '
+    + 'which the GitHub Actions workflow regenerates every ~15 minutes. That file isn\'t reachable yet — '
+    + 'either the workflow hasn\'t run for the first time, GitHub Pages isn\'t enabled, or this file is '
+    + 'being opened locally instead of from its published URL. Showing the last static snapshot instead.'
+    + '<div style="text-align:right;margin-top:6px;"><button onclick="this.closest(\'#refreshNotice\').remove()" '
+    + 'style="background:none;border:1px solid #3a4a5c;color:#9fb3c0;padding:4px 10px;border-radius:6px;'
+    + 'font-size:11px;cursor:pointer;">Dismiss</button></div>';
+  clearTimeout(window._refreshNoticeTimer);
+  window._refreshNoticeTimer = setTimeout(()=>{ if(el) el.remove(); }, 12000);
+}
+
+document.getElementById('fetchTimeLabel').textContent = FETCH_TIME;
+updateLastUpdated();
+</script>
+
+<style>
+  .prediction-section {
+    margin-top: 24px;
+    border-top: 2px solid #2dd4bf;
+  }
+  .prediction-section__title {
+    color: #2dd4bf;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    padding: 12px 0 8px;
+  }
+  .prediction-card {
+    background: #0f1c2e;
+    border: 1px solid #1e3a52;
+    border-left: 3px solid #f59e0b;
+    border-radius: 4px;
+    padding: 12px 16px;
+    margin-bottom: 10px;
+  }
+  .prediction-card__name {
+    color: #f1f5f9;
+    font-weight: 700;
+    font-size: 14px;
+  }
+  .prediction-card__terminal {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 1px 6px;
+    border-radius: 3px;
+    margin-left: 8px;
+    color: #0f1c2e;
+    background: #2dd4bf;
+  }
+  .prediction-card__row {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 6px;
+    font-size: 12px;
+    color: #94a3b8;
+  }
+  .prediction-card__predicted-date {
+    color: #f1f5f9;
+    font-weight: 600;
+  }
+  .prediction-card__confidence {
+    font-size: 10px;
+    font-weight: 700;
+    padding: 1px 6px;
+    border-radius: 3px;
+    text-transform: uppercase;
+  }
+  .prediction-card__confidence--high {
+    background: #14532d;
+    color: #4ade80;
+  }
+  .prediction-card__confidence--medium {
+    background: #78350f;
+    color: #fbbf24;
+  }
+  .prediction-card__confidence--low {
+    background: #3f1d1d;
+    color: #f87171;
+  }
+  .prediction-card__meta {
+    margin-top: 4px;
+    font-size: 11px;
+    color: #64748b;
+  }
+  .prediction-empty {
+    color: #64748b;
+    font-size: 12px;
+    padding: 12px 0;
+    font-style: italic;
+  }
+</style>
+
+<section class="prediction-section">
+  <div class="prediction-section__title">📅 Prediksi Kedatangan</div>
+  <div id="prediction-list">
+    <div class="prediction-empty">Memuat prediksi…</div>
+  </div>
+</section>
+
+<script>
+  (function () {
+    const CONFIDENCE_LABEL = {
+      high: "Yakin",
+      medium: "Cukup Yakin",
+      low: "Perkiraan Awal",
+    };
+
+    function formatDate(isoString) {
+      const d = new Date(isoString);
+      if (isNaN(d.getTime())) return isoString;
+      return d.toLocaleDateString("id-ID", {
+        day: "2-digit", month: "short", year: "numeric",
+      });
+    }
+
+    function daysFromNow(isoString) {
+      const target = new Date(isoString);
+      const now = new Date();
+      const diffDays = Math.round((target - now) / (1000 * 60 * 60 * 24));
+      if (diffDays < 0) return `${Math.abs(diffDays)} hari lalu (terlewat)`;
+      if (diffDays === 0) return "Hari ini";
+      if (diffDays === 1) return "Besok";
+      return `${diffDays} hari lagi`;
+    }
+
+    function renderPredictions(predictions) {
+      const container = document.getElementById("prediction-list");
+      if (!predictions || predictions.length === 0) {
+        container.innerHTML = `<div class="prediction-empty">
+          Belum ada prediksi — data historis masih dikumpulkan.
+          Prediksi muncul otomatis setelah kapal tercatat minimal 3 kali kunjungan.
+        </div>`;
+        return;
+      }
+
+      container.innerHTML = predictions.map((p) => `
+        <div class="prediction-card">
+          <div>
+            <span class="prediction-card__name">${p.vessel_name}</span>
+            <span class="prediction-card__terminal">${p.terminal}</span>
+            <span class="prediction-card__confidence prediction-card__confidence--${p.confidence}">
+              ${CONFIDENCE_LABEL[p.confidence] || p.confidence}
+            </span>
+          </div>
+          <div class="prediction-card__row">
+            <span>Prediksi kedatangan berikutnya</span>
+            <span class="prediction-card__predicted-date">
+              ${formatDate(p.predicted_next_arrival)} (${daysFromNow(p.predicted_next_arrival)})
+            </span>
+          </div>
+          <div class="prediction-card__meta">
+            Berdasarkan ${p.visits_recorded} kunjungan · rata-rata interval ${p.avg_interval_days} hari
+            (±${p.interval_stddev_days} hari) · kedatangan terakhir ${formatDate(p.last_arrival)}
+            ${p.avg_dwelling_hours ? ` · rata-rata sandar ${p.avg_dwelling_hours} jam` : ""}
+          </div>
+        </div>
+      `).join("");
+    }
+
+    function loadPredictions() {
+      fetch("data/predictions.json", { cache: "no-store" })
+        .then((res) => {
+          if (!res.ok) throw new Error("predictions.json not found");
+          return res.json();
+        })
+        .then((data) => renderPredictions(data.predictions))
+        .catch((err) => {
+          document.getElementById("prediction-list").innerHTML =
+            `<div class="prediction-empty">Prediksi belum tersedia (${err.message}).</div>`;
+        });
+    }
+
+    loadPredictions();
+    setInterval(loadPredictions, 15 * 60 * 1000);
+  })();
+</script>
+</body>
+</html>
