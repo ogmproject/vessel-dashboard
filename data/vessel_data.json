@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-17T17:00:37+00:00",
+  "generated_at": "2026-08-17T17:15:39+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - CMA CGM FORT JAMES",
         "code": "0XLC7S / 0XLC8N",
         "atb": "16/08/2026 16:30",
-        "etd": "18/08/2026 08:30",
+        "etd": "18/08/2026 13:00",
         "verified": false
       },
       {
         "name": "I3 - GSL MAMITSA",
         "code": "018S / 018N",
         "atb": "17/08/2026 05:05",
-        "etd": "17/08/2026 23:30",
+        "etd": "18/08/2026 02:30",
         "verified": false
       },
       {
@@ -27,7 +27,7 @@
         "name": "I1 - MSC IDA II",
         "code": "XI633A / XI634A",
         "atb": "17/08/2026 06:15",
-        "etd": "18/08/2026 09:30",
+        "etd": "18/08/2026 07:30",
         "verified": false
       }
     ],
