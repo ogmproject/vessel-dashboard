@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T16:45:39+00:00",
+  "generated_at": "2026-08-17T17:00:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -235,11 +235,6 @@
         "name": "HONG TAI 656",
         "berth": "15/08/2026 21:40",
         "dep": "16/08/2026 11:15"
-      },
-      {
-        "name": "WAN HAI 376",
-        "berth": "14/08/2026 16:00",
-        "dep": "15/08/2026 10:48"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
