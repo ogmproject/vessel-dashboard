@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T08:15:38+00:00",
+  "generated_at": "2026-08-17T08:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -254,6 +254,15 @@
         "etd": "19/08/2026 17:30",
         "openstack": "13/08/2026 08:00",
         "closeC": "18/08/2026 03:00"
+      },
+      {
+        "name": "GENCO MAGIC",
+        "code": "GECO001",
+        "voyage": "00001        / 00001",
+        "type": "INTERNATIONAL",
+        "carrier": "PT GESURI LLOYD",
+        "etb": "19/08/2026 08:00",
+        "etd": "19/08/2026 08:30"
       },
       {
         "name": "WAN HAI 373",
