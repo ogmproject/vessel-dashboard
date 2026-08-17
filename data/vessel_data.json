@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T00:45:36+00:00",
+  "generated_at": "2026-08-17T01:00:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -227,6 +227,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "WAN HAI 351",
+        "code": "WA51017",
+        "voyage": "E046         / W047",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "atb": "16/08/2026 00:40",
+        "etd": "17/08/2026 00:32"
+      },
+      {
         "name": "MERATUS KUMAI",
         "code": "MEKM011",
         "type": "INTERNATIONAL",
@@ -313,15 +322,6 @@
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "16/08/2026 02:52",
         "etd": "17/08/2026 02:15"
-      },
-      {
-        "name": "WAN HAI 351",
-        "code": "WA51017",
-        "voyage": "E046         / W047",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "atb": "16/08/2026 00:40",
-        "etd": "17/08/2026 00:32"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
