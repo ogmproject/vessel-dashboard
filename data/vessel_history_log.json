@@ -166,5 +166,12 @@
     "arrival": "2026-08-18T16:30:00",
     "departure": null,
     "recorded_at": "2026-08-18T09:45:39.295426"
+  },
+  {
+    "vessel_name": "ZHONG GU FU ZHOU",
+    "terminal": "TPS",
+    "arrival": "2026-08-19T01:00:00",
+    "departure": null,
+    "recorded_at": "2026-08-18T18:15:41.175827"
   }
 ]

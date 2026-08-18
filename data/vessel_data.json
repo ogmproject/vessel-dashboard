@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T18:00:51+00:00",
+  "generated_at": "2026-08-18T18:15:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "631S / 632N",
         "atb": "18/08/2026 16:30",
         "etd": "20/08/2026 06:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - ZHONG GU FU ZHOU",
+        "code": "0QAHYS / 0QAHZN",
+        "atb": "19/08/2026 01:00",
+        "etd": "20/08/2026 23:01",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "ZHONG GU FU ZHOU",
-        "code": "0QAHYS / 0QAHZN",
-        "eta": "18/08/2026 22:00",
-        "etd": "20/08/2026 23:01",
-        "openstack": "10/08/2026 22:00",
-        "closeC": "15/08/2026 16:00",
-        "closeD": "15/08/2026 19:00",
-        "verified": false
-      },
       {
         "name": "HONG TAI 656",
         "code": "633N / 633N",
