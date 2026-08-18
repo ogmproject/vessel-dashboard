@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T00:45:37+00:00",
+  "generated_at": "2026-08-18T01:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -230,7 +230,16 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
+    "alongside": [
+      {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM011",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "17/08/2026 05:30",
+        "etd": "18/08/2026 05:12"
+      }
+    ],
     "schedule": [
       {
         "name": "GENCO MAGIC",
@@ -309,16 +318,7 @@
         "closeC": "21/08/2026 17:00"
       }
     ],
-    "departed": [
-      {
-        "name": "MERATUS KUMAI",
-        "code": "MEKM011",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "17/08/2026 05:30",
-        "etd": "18/08/2026 05:12"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
