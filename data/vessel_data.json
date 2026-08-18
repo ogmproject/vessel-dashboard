@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T16:45:42+00:00",
+  "generated_at": "2026-08-18T17:00:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -259,16 +259,6 @@
         "mmsi": "636016118",
         "imo": "9204477",
         "location": "South China Sea"
-      },
-      {
-        "name": "SEASPAN CALICANTO",
-        "berth": "15/08/2026 18:45",
-        "dep": "16/08/2026 11:36"
-      },
-      {
-        "name": "HONG TAI 656",
-        "berth": "15/08/2026 21:40",
-        "dep": "16/08/2026 11:15"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
