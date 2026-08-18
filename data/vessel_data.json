@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T08:30:42+00:00",
+  "generated_at": "2026-08-18T08:45:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -136,6 +136,16 @@
         "mmsi": "563124300",
         "imo": "9871490",
         "location": "South China Sea"
+      },
+      {
+        "name": "EVER BLISS",
+        "code": "1201-115B / 1201-115B",
+        "eta": "21/08/2026 23:00",
+        "etd": "23/08/2026 00:30",
+        "openstack": "16/08/2026 23:00",
+        "closeC": "21/08/2026 17:00",
+        "closeD": "21/08/2026 20:00",
+        "verified": false
       },
       {
         "name": "MYD ZHANGZHOU",
