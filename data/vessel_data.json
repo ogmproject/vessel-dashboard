@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:30:46+00:00",
+  "generated_at": "2026-08-18T06:45:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -175,6 +175,16 @@
         "verified": false
       },
       {
+        "name": "AREZOO",
+        "code": "SCY1203 / SCY1203",
+        "eta": "23/08/2026 12:00",
+        "etd": "23/08/2026 23:30",
+        "openstack": "18/08/2026 12:00",
+        "closeC": "23/08/2026 06:00",
+        "closeD": "23/08/2026 09:00",
+        "verified": false
+      },
+      {
         "name": "SITC NANSHA",
         "code": "2618S / 2619N",
         "eta": "23/08/2026 14:00",
@@ -182,16 +192,6 @@
         "openstack": "18/08/2026 14:00",
         "closeC": "23/08/2026 08:00",
         "closeD": "23/08/2026 11:00",
-        "verified": false
-      },
-      {
-        "name": "AREZOO",
-        "code": "SCY1203 / SCY1203",
-        "eta": "24/08/2026 08:00",
-        "etd": "24/08/2026 19:30",
-        "openstack": "19/08/2026 08:00",
-        "closeC": "24/08/2026 02:00",
-        "closeD": "24/08/2026 05:00",
         "verified": false
       }
     ],
