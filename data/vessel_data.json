@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:15:39+00:00",
+  "generated_at": "2026-08-18T14:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -56,7 +56,7 @@
         "verified": false,
         "mmsi": "209692000",
         "imo": "9664263",
-        "location": "Singapore Strait"
+        "location": "South China Sea"
       },
       {
         "name": "EVER BIRTH",
@@ -260,7 +260,7 @@
         "dep": "17/08/2026 00:06",
         "mmsi": "636016118",
         "imo": "9204477",
-        "location": "Java Sea"
+        "location": "South China Sea"
       },
       {
         "name": "SEASPAN CALICANTO",
