@@ -152,5 +152,12 @@
     "arrival": "2026-08-18T04:15:00",
     "departure": null,
     "recorded_at": "2026-08-17T21:30:44.532120"
+  },
+  {
+    "vessel_name": "MTT SIBU",
+    "terminal": "TPS",
+    "arrival": "2026-08-18T07:15:00",
+    "departure": null,
+    "recorded_at": "2026-08-18T00:30:47.261964"
   }
 ]
