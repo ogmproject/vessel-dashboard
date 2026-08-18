@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:00:49+00:00",
+  "generated_at": "2026-08-18T07:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -28,21 +28,11 @@
       {
         "name": "OEL RUDRA",
         "code": "631S / 632N",
-        "eta": "15/08/2026 09:00",
-        "etd": "16/08/2026 19:00",
+        "eta": "18/08/2026 16:00",
+        "etd": "20/08/2026 06:00",
         "openstack": "10/08/2026 07:00",
         "closeC": "15/08/2026 01:00",
         "closeD": "15/08/2026 04:00",
-        "verified": false
-      },
-      {
-        "name": "ZHONG GU FU ZHOU",
-        "code": "0QAHYS / 0QAHZN",
-        "eta": "16/08/2026 10:00",
-        "etd": "17/08/2026 14:00",
-        "openstack": "10/08/2026 22:00",
-        "closeC": "15/08/2026 16:00",
-        "closeD": "15/08/2026 19:00",
         "verified": false
       },
       {
@@ -53,6 +43,16 @@
         "openstack": "13/08/2026 18:00",
         "closeC": "18/08/2026 12:00",
         "closeD": "18/08/2026 15:00",
+        "verified": false
+      },
+      {
+        "name": "ZHONG GU FU ZHOU",
+        "code": "0QAHYS / 0QAHZN",
+        "eta": "18/08/2026 22:00",
+        "etd": "20/08/2026 00:01",
+        "openstack": "10/08/2026 22:00",
+        "closeC": "15/08/2026 16:00",
+        "closeD": "15/08/2026 19:00",
         "verified": false
       },
       {
