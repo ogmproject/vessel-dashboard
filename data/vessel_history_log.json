@@ -159,5 +159,12 @@
     "arrival": "2026-08-18T07:15:00",
     "departure": null,
     "recorded_at": "2026-08-18T00:30:47.261964"
+  },
+  {
+    "vessel_name": "OEL RUDRA",
+    "terminal": "TPS",
+    "arrival": "2026-08-18T16:30:00",
+    "departure": null,
+    "recorded_at": "2026-08-18T09:45:39.295426"
   }
 ]

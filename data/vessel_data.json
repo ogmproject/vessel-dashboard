@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-18T09:30:46+00:00",
+  "generated_at": "2026-08-18T09:45:39+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - OEL RUDRA",
+        "code": "631S / 632N",
+        "atb": "18/08/2026 16:30",
+        "etd": "21/08/2026 06:00",
+        "verified": false
+      },
       {
         "name": "I3 - MTT SIBU",
         "code": "256E / 256W",
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "OEL RUDRA",
-        "code": "631S / 632N",
-        "eta": "18/08/2026 16:00",
-        "etd": "21/08/2026 06:00",
-        "openstack": "10/08/2026 07:00",
-        "closeC": "15/08/2026 01:00",
-        "closeD": "15/08/2026 04:00",
-        "verified": false
-      },
       {
         "name": "ZHONG GU FU ZHOU",
         "code": "0QAHYS / 0QAHZN",
