@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:15:46+00:00",
+  "generated_at": "2026-08-18T04:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -262,25 +262,25 @@
         "etd": "22/08/2026 12:00"
       },
       {
-        "name": "MERATUS KARIMUN",
-        "code": "MEIU021",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "19/08/2026 12:00",
-        "etd": "20/08/2026 01:30",
-        "openstack": "14/08/2026 12:00",
-        "closeC": "21/08/2026 01:00"
-      },
-      {
         "name": "WAN HAI 373",
         "code": "WA73008",
         "voyage": "S028         / N028",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "19/08/2026 14:00",
-        "etd": "20/08/2026 11:30",
+        "etb": "19/08/2026 11:00",
+        "etd": "20/08/2026 06:00",
         "openstack": "14/08/2026 14:00",
         "closeC": "19/08/2026 09:00"
+      },
+      {
+        "name": "MERATUS KARIMUN",
+        "code": "MEIU021",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "19/08/2026 19:00",
+        "etd": "20/08/2026 11:00",
+        "openstack": "14/08/2026 12:00",
+        "closeC": "21/08/2026 01:00"
       },
       {
         "name": "WANTAI",
