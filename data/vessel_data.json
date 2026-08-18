@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T16:30:48+00:00",
+  "generated_at": "2026-08-18T16:45:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "631S / 632N",
         "atb": "18/08/2026 16:30",
         "etd": "20/08/2026 06:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - MTT SIBU",
-        "code": "256E / 256W",
-        "atb": "18/08/2026 07:15",
-        "etd": "18/08/2026 22:00",
         "verified": false
       },
       {
@@ -226,6 +219,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MTT SIBU",
+        "berth": "18/08/2026 07:15",
+        "dep": "18/08/2026 23:30"
+      },
       {
         "name": "CMA CGM FORT JAMES",
         "berth": "16/08/2026 16:30",

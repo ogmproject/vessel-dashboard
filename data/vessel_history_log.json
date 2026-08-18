@@ -157,8 +157,8 @@
     "vessel_name": "MTT SIBU",
     "terminal": "TPS",
     "arrival": "2026-08-18T07:15:00",
-    "departure": null,
-    "recorded_at": "2026-08-18T00:30:47.261964"
+    "departure": "2026-08-18T23:30:00",
+    "recorded_at": "2026-08-18T16:45:42.566996"
   },
   {
     "vessel_name": "OEL RUDRA",
