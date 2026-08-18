@@ -115,8 +115,8 @@
     "vessel_name": "CMA CGM FORT JAMES",
     "terminal": "TPS",
     "arrival": "2026-08-16T16:30:00",
-    "departure": null,
-    "recorded_at": "2026-08-16T09:55:09.298399"
+    "departure": "2026-08-18T14:50:00",
+    "recorded_at": "2026-08-18T08:00:51.912204"
   },
   {
     "vessel_name": "EVER OASIS",

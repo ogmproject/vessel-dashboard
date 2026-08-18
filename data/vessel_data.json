@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-08-18T07:45:41+00:00",
+  "generated_at": "2026-08-18T08:00:51+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - CMA CGM FORT JAMES",
-        "code": "0XLC7S / 0XLC8N",
-        "atb": "16/08/2026 16:30",
-        "etd": "18/08/2026 13:00",
-        "verified": false
-      },
       {
         "name": "I3 - MTT SIBU",
         "code": "256E / 256W",
@@ -196,6 +189,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "CMA CGM FORT JAMES",
+        "berth": "16/08/2026 16:30",
+        "dep": "18/08/2026 14:50"
+      },
       {
         "name": "MSC IDA II",
         "berth": "17/08/2026 06:15",
