@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T03:11:00+00:00",
+  "generated_at": "2026-08-18T03:15:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -21,13 +21,6 @@
         "code": "092S / 092N",
         "atb": "18/08/2026 04:15",
         "etd": "19/08/2026 20:30",
-        "verified": false
-      },
-      {
-        "name": "I1 - MSC IDA II",
-        "code": "XI633A / XI634A",
-        "atb": "17/08/2026 06:15",
-        "etd": "18/08/2026 10:00",
         "verified": false
       }
     ],
@@ -203,6 +196,14 @@
       }
     ],
     "movement": [
+      {
+        "name": "MSC IDA II",
+        "berth": "17/08/2026 06:15",
+        "dep": "18/08/2026 09:48",
+        "mmsi": "636019861",
+        "imo": "9224946",
+        "location": "Java Sea"
+      },
       {
         "name": "GSL MAMITSA",
         "berth": "17/08/2026 05:05",
