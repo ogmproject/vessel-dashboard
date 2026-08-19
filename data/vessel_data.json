@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:15:41+00:00",
+  "generated_at": "2026-08-19T21:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -302,7 +302,7 @@
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "atb": "19/08/2026 12:30",
-        "etd": "20/08/2026 08:00"
+        "etd": "20/08/2026 09:00"
       }
     ],
     "schedule": [
