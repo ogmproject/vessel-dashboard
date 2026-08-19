@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T06:45:48+00:00",
+  "generated_at": "2026-08-19T07:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -316,29 +316,29 @@
         "closeC": "21/08/2026 01:00"
       },
       {
-        "name": "AS CAROLINA",
-        "code": "ASRO005",
-        "voyage": "346E         / 346E",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "etb": "20/08/2026 05:00",
-        "etd": "20/08/2026 12:30",
-        "openstack": "15/08/2026 05:00",
-        "closeC": "19/08/2026 22:00"
-      },
-      {
         "name": "WANTAI",
         "code": "WANT005",
         "voyage": "2632S        / 2632N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "etb": "20/08/2026 08:00",
-        "etd": "21/08/2026 09:30",
+        "etd": "21/08/2026 01:00",
         "openstack": "15/08/2026 08:00",
         "closeC": "20/08/2026 03:00",
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "Java Sea"
+      },
+      {
+        "name": "AS CAROLINA",
+        "code": "ASRO005",
+        "voyage": "346E         / 346E",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "etb": "20/08/2026 10:00",
+        "etd": "20/08/2026 17:00",
+        "openstack": "15/08/2026 05:00",
+        "closeC": "19/08/2026 22:00"
       },
       {
         "name": "TIANJIN VOYAGER",
