@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:15:36+00:00",
+  "generated_at": "2026-08-19T22:30:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -294,15 +294,6 @@
         "carrier": "PT GESURI LLOYD",
         "atb": "19/08/2026 18:24",
         "etd": "22/08/2026 08:00"
-      },
-      {
-        "name": "WAN HAI 373",
-        "code": "WA73008",
-        "voyage": "S028         / N028",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "atb": "19/08/2026 12:30",
-        "etd": "20/08/2026 09:00"
       }
     ],
     "schedule": [
