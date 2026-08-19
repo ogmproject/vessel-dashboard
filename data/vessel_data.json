@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T08:15:41+00:00",
+  "generated_at": "2026-08-19T08:33:00+00:00",
   "tps": {
     "alongside": [
       {
@@ -285,6 +285,15 @@
   },
   "teluk_lamong": {
     "alongside": [
+      {
+        "name": "ALPHA DISCOVERY",
+        "code": "ALDI001",
+        "voyage": "0001         / 0001",
+        "type": "INTERNATIONAL",
+        "carrier": "PT GESURI LLOYD",
+        "atb": "15/08/2026 23:05",
+        "etd": "19/08/2026 12:39"
+      },
       {
         "name": "WAN HAI 373",
         "code": "WA73008",
