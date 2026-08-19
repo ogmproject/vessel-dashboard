@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T16:01:24+00:00",
+  "generated_at": "2026-08-19T16:15:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,21 +13,21 @@
         "name": "I3 - ZHONG GU FU ZHOU",
         "code": "0QAHYS / 0QAHZN",
         "atb": "19/08/2026 01:00",
-        "etd": "20/08/2026 03:00",
+        "etd": "20/08/2026 06:00",
         "verified": false
       },
       {
         "name": "I2 - SINAR SULAWESI",
         "code": "092S / 092N",
         "atb": "18/08/2026 04:15",
-        "etd": "19/08/2026 22:00",
+        "etd": "19/08/2026 23:59",
         "verified": false
       },
       {
         "name": "I1 - HONG TAI 656",
         "code": "633N / 633N",
         "atb": "19/08/2026 20:15",
-        "etd": "20/08/2026 10:00",
+        "etd": "20/08/2026 14:00",
         "verified": false
       }
     ],
@@ -85,7 +85,8 @@
         "closeD": "20/08/2026 18:00",
         "verified": false,
         "mmsi": "563232800",
-        "imo": "9958121"
+        "imo": "9958121",
+        "location": "Java Sea"
       },
       {
         "name": "EVER CONSIST",
@@ -117,7 +118,8 @@
         "closeD": "21/08/2026 19:00",
         "verified": false,
         "mmsi": "563124300",
-        "imo": "9871490"
+        "imo": "9871490",
+        "location": "South China Sea"
       },
       {
         "name": "CMA CGM SAINTE ANNE",
@@ -300,6 +302,15 @@
         "etd": "19/08/2026 12:39"
       },
       {
+        "name": "GENCO MAGIC",
+        "code": "GECO001",
+        "voyage": "00001        / 00001",
+        "type": "INTERNATIONAL",
+        "carrier": "PT GESURI LLOYD",
+        "atb": "19/08/2026 18:24",
+        "etd": "22/08/2026 08:00"
+      },
+      {
         "name": "WAN HAI 373",
         "code": "WA73008",
         "voyage": "S028         / N028",
@@ -310,15 +321,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "GENCO MAGIC",
-        "code": "GECO001",
-        "voyage": "00001        / 00001",
-        "type": "INTERNATIONAL",
-        "carrier": "PT GESURI LLOYD",
-        "etb": "19/08/2026 18:30",
-        "etd": "22/08/2026 08:00"
-      },
       {
         "name": "MERATUS KARIMUN",
         "code": "MEIU021",
