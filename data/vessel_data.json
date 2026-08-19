@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T01:45:39+00:00",
+  "generated_at": "2026-08-19T02:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -232,7 +232,7 @@
         "dep": "18/08/2026 09:48",
         "mmsi": "636019861",
         "imo": "9224946",
-        "location": "Java Sea"
+        "location": "South China Sea"
       },
       {
         "name": "GSL MAMITSA",
