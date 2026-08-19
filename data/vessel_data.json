@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T08:48:59+00:00",
+  "generated_at": "2026-08-19T09:03:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -175,6 +175,16 @@
         "verified": false
       },
       {
+        "name": "EVER OPTIMA",
+        "code": "0489-049S / 0489-049N",
+        "eta": "23/08/2026 23:00",
+        "etd": "25/08/2026 00:30",
+        "openstack": "18/08/2026 23:00",
+        "closeC": "23/08/2026 17:00",
+        "closeD": "23/08/2026 20:00",
+        "verified": false
+      },
+      {
         "name": "SITC NANSHA",
         "code": "2618S / 2619N",
         "eta": "24/08/2026 04:00",
@@ -331,7 +341,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "etb": "20/08/2026 08:00",
-        "etd": "21/08/2026 01:00",
+        "etd": "20/08/2026 23:00",
         "openstack": "15/08/2026 08:00",
         "closeC": "20/08/2026 03:00",
         "mmsi": "636024258",
@@ -344,8 +354,8 @@
         "voyage": "346E         / 346E",
         "type": "INTERNATIONAL",
         "carrier": "GOLD STAR LINE LTD",
-        "etb": "20/08/2026 10:00",
-        "etd": "20/08/2026 17:00",
+        "etb": "20/08/2026 09:00",
+        "etd": "20/08/2026 16:00",
         "openstack": "15/08/2026 05:00",
         "closeC": "19/08/2026 22:00"
       },
