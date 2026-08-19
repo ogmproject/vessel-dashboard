@@ -173,5 +173,12 @@
     "arrival": "2026-08-19T01:00:00",
     "departure": null,
     "recorded_at": "2026-08-18T18:15:41.175827"
+  },
+  {
+    "vessel_name": "WAN HAI 373",
+    "terminal": "TL",
+    "arrival": "2026-08-19T12:30:00",
+    "departure": null,
+    "recorded_at": "2026-08-19T05:45:39.096973"
   }
 ]

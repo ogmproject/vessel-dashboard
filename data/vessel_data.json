@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T05:30:47+00:00",
+  "generated_at": "2026-08-19T05:45:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -271,7 +271,17 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
+    "alongside": [
+      {
+        "name": "WAN HAI 373",
+        "code": "WA73008",
+        "voyage": "S028         / N028",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "atb": "19/08/2026 12:30",
+        "etd": "20/08/2026 06:00"
+      }
+    ],
     "schedule": [
       {
         "name": "GENCO MAGIC",
@@ -281,17 +291,6 @@
         "carrier": "PT GESURI LLOYD",
         "etb": "19/08/2026 08:00",
         "etd": "22/08/2026 12:00"
-      },
-      {
-        "name": "WAN HAI 373",
-        "code": "WA73008",
-        "voyage": "S028         / N028",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "19/08/2026 11:00",
-        "etd": "20/08/2026 06:00",
-        "openstack": "14/08/2026 14:00",
-        "closeC": "19/08/2026 09:00"
       },
       {
         "name": "MERATUS KARIMUN",
