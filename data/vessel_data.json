@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T02:15:37+00:00",
+  "generated_at": "2026-08-19T02:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -212,6 +212,16 @@
         "openstack": "19/08/2026 12:00",
         "closeC": "24/08/2026 06:00",
         "closeD": "24/08/2026 09:00",
+        "verified": false
+      },
+      {
+        "name": "CAPTAIN THANASIS I",
+        "code": "HC631A / HC633R",
+        "eta": "25/08/2026 00:00",
+        "etd": "26/08/2026 01:30",
+        "openstack": "19/08/2026 16:00",
+        "closeC": "22/08/2026 10:00",
+        "closeD": "22/08/2026 13:00",
         "verified": false
       }
     ],
