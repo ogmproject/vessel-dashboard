@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T08:33:00+00:00",
+  "generated_at": "2026-08-19T08:48:59+00:00",
   "tps": {
     "alongside": [
       {
@@ -175,19 +175,6 @@
         "verified": false
       },
       {
-        "name": "JOANNA",
-        "code": "091S / 091N",
-        "eta": "24/08/2026 04:00",
-        "etd": "25/08/2026 08:00",
-        "openstack": "21/08/2026 12:00",
-        "closeC": "26/08/2026 06:00",
-        "closeD": "26/08/2026 09:00",
-        "verified": false,
-        "mmsi": "636016118",
-        "imo": "9204477",
-        "location": "South China Sea"
-      },
-      {
         "name": "SITC NANSHA",
         "code": "2618S / 2619N",
         "eta": "24/08/2026 04:00",
@@ -236,6 +223,19 @@
         "closeC": "23/08/2026 12:00",
         "closeD": "23/08/2026 15:00",
         "verified": false
+      },
+      {
+        "name": "JOANNA",
+        "code": "091S / 091N",
+        "eta": "26/08/2026 12:00",
+        "etd": "28/08/2026 06:30",
+        "openstack": "21/08/2026 12:00",
+        "closeC": "26/08/2026 06:00",
+        "closeD": "26/08/2026 09:00",
+        "verified": false,
+        "mmsi": "636016118",
+        "imo": "9204477",
+        "location": "South China Sea"
       }
     ],
     "movement": [
@@ -311,8 +311,8 @@
         "voyage": "00001        / 00001",
         "type": "INTERNATIONAL",
         "carrier": "PT GESURI LLOYD",
-        "etb": "19/08/2026 08:00",
-        "etd": "22/08/2026 12:00"
+        "etb": "19/08/2026 18:30",
+        "etd": "22/08/2026 08:00"
       },
       {
         "name": "MERATUS KARIMUN",
