@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T17:31:00+00:00",
+  "generated_at": "2026-08-19T17:45:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -46,7 +46,7 @@
         "verified": false,
         "mmsi": "209692000",
         "imo": "9664263",
-        "location": "South China Sea"
+        "location": "Java Sea"
       },
       {
         "name": "MSC VAIGA III",
@@ -78,7 +78,8 @@
         "closeD": "20/08/2026 18:00",
         "verified": false,
         "mmsi": "563232800",
-        "imo": "9958121"
+        "imo": "9958121",
+        "location": "Java Sea"
       },
       {
         "name": "EVER CONSIST",
