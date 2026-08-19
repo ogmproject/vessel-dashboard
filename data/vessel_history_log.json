@@ -150,8 +150,8 @@
     "vessel_name": "SINAR SULAWESI",
     "terminal": "TPS",
     "arrival": "2026-08-18T04:15:00",
-    "departure": null,
-    "recorded_at": "2026-08-17T21:30:44.532120"
+    "departure": "2026-08-20T00:08:00",
+    "recorded_at": "2026-08-19T17:31:00.226974"
   },
   {
     "vessel_name": "MTT SIBU",
