@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T03:15:39+00:00",
+  "generated_at": "2026-08-20T03:30:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -290,7 +290,7 @@
         "type": "INTERNATIONAL",
         "carrier": "GOLD STAR LINE LTD",
         "atb": "20/08/2026 09:42",
-        "etd": "20/08/2026 15:00"
+        "etd": "20/08/2026 16:00"
       }
     ],
     "schedule": [
@@ -311,7 +311,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "etb": "20/08/2026 11:00",
-        "etd": "21/08/2026 02:00",
+        "etd": "21/08/2026 03:00",
         "openstack": "15/08/2026 08:00",
         "closeC": "20/08/2026 03:00",
         "mmsi": "636024258",
@@ -334,8 +334,8 @@
         "code": "MEAI025",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "20/08/2026 16:00",
-        "etd": "20/08/2026 16:30",
+        "etb": "20/08/2026 18:00",
+        "etd": "21/08/2026 08:00",
         "openstack": "15/08/2026 16:00",
         "closeC": "20/08/2026 11:00"
       },
@@ -359,6 +359,17 @@
         "etd": "22/08/2026 22:00",
         "openstack": "16/08/2026 22:00",
         "closeC": "21/08/2026 17:00"
+      },
+      {
+        "name": "INTERASIA MOTIVATION",
+        "code": "INMO001",
+        "voyage": "E032         / W033",
+        "type": "INTERNATIONAL",
+        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
+        "etb": "25/08/2026 00:00",
+        "etd": "25/08/2026 22:30",
+        "openstack": "20/08/2026 00:00",
+        "closeC": "24/08/2026 20:00"
       },
       {
         "name": "KMTC HOCHIMINH",
