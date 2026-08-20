@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:15:38+00:00",
+  "generated_at": "2026-08-20T08:30:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -94,8 +94,7 @@
         "closeD": "21/08/2026 19:00",
         "verified": false,
         "mmsi": "563124300",
-        "imo": "9871490",
-        "location": "South China Sea"
+        "imo": "9871490"
       },
       {
         "name": "MYD ZHANGZHOU",
@@ -206,6 +205,19 @@
         "closeC": "24/08/2026 18:00",
         "closeD": "24/08/2026 21:00",
         "verified": false
+      },
+      {
+        "name": "EVER BUILD",
+        "code": "1202-088B / 1202-088B",
+        "eta": "25/08/2026 08:00",
+        "etd": "26/08/2026 09:30",
+        "openstack": "20/08/2026 08:00",
+        "closeC": "25/08/2026 02:00",
+        "closeD": "25/08/2026 05:00",
+        "verified": false,
+        "mmsi": "370616000",
+        "imo": "9790062",
+        "location": "South China Sea"
       },
       {
         "name": "WAN HAI 311",
