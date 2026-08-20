@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:30:46+00:00",
+  "generated_at": "2026-08-20T18:45:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -88,7 +88,7 @@
         "verified": false,
         "mmsi": "563124300",
         "imo": "9871490",
-        "location": "South China Sea"
+        "location": "Java Sea"
       },
       {
         "name": "MYD ZHANGZHOU",
