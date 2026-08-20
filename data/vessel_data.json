@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-08-20T05:45:41+00:00",
+  "generated_at": "2026-08-20T06:01:10+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - OEL RUDRA",
-        "code": "631S / 632N",
-        "atb": "18/08/2026 16:30",
-        "etd": "20/08/2026 12:00",
-        "verified": false
-      },
       {
         "name": "I2 - EVER BIRTH",
         "code": "1205-110A / 1205-110A",
@@ -250,6 +243,11 @@
     ],
     "movement": [
       {
+        "name": "OEL RUDRA",
+        "berth": "18/08/2026 16:30",
+        "dep": "20/08/2026 12:48"
+      },
+      {
         "name": "ZHONG GU FU ZHOU",
         "berth": "19/08/2026 01:00",
         "dep": "20/08/2026 12:25"
@@ -301,8 +299,7 @@
         "atb": "20/08/2026 12:02",
         "etd": "21/08/2026 03:00",
         "mmsi": "636024258",
-        "imo": "9168207",
-        "location": "Java Sea"
+        "imo": "9168207"
       },
       {
         "name": "AS CAROLINA",
