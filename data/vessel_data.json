@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T12:15:44+00:00",
+  "generated_at": "2026-08-20T12:30:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -320,27 +320,17 @@
         "type": "INTERNATIONAL",
         "carrier": "GOLD STAR LINE LTD",
         "atb": "20/08/2026 09:42",
-        "etd": "20/08/2026 16:00"
+        "etd": "20/08/2026 20:00"
       }
     ],
     "schedule": [
-      {
-        "name": "MERATUS KARIMUN",
-        "code": "MEIU021",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "19/08/2026 19:00",
-        "etd": "20/08/2026 11:00",
-        "openstack": "14/08/2026 12:00",
-        "closeC": "21/08/2026 01:00"
-      },
       {
         "name": "MERATUS KAIMANA",
         "code": "MEAI025",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "20/08/2026 18:00",
-        "etd": "21/08/2026 08:00",
+        "etb": "20/08/2026 20:00",
+        "etd": "21/08/2026 14:00",
         "openstack": "15/08/2026 16:00",
         "closeC": "20/08/2026 11:00"
       },
@@ -362,7 +352,7 @@
         "type": "INTERNATIONAL",
         "carrier": "HEUNG A LINE CO., LTD.",
         "etb": "21/08/2026 16:00",
-        "etd": "22/08/2026 20:00",
+        "etd": "22/08/2026 21:00",
         "openstack": "15/08/2026 12:00",
         "closeC": "20/08/2026 13:00"
       },
@@ -375,6 +365,16 @@
         "etd": "22/08/2026 22:00",
         "openstack": "16/08/2026 22:00",
         "closeC": "21/08/2026 17:00"
+      },
+      {
+        "name": "MERATUS KARIMUN",
+        "code": "MEIU021",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "22/08/2026 22:00",
+        "etd": "23/08/2026 10:00",
+        "openstack": "14/08/2026 12:00",
+        "closeC": "21/08/2026 01:00"
       },
       {
         "name": "INTERASIA MOTIVATION",
