@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T00:15:37+00:00",
+  "generated_at": "2026-08-20T00:30:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -313,8 +313,8 @@
         "voyage": "346E         / 346E",
         "type": "INTERNATIONAL",
         "carrier": "GOLD STAR LINE LTD",
-        "etb": "20/08/2026 09:00",
-        "etd": "20/08/2026 16:00",
+        "etb": "20/08/2026 08:00",
+        "etd": "20/08/2026 15:00",
         "openstack": "15/08/2026 05:00",
         "closeC": "19/08/2026 22:00"
       },
@@ -324,8 +324,8 @@
         "voyage": "2632S        / 2632N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "20/08/2026 10:00",
-        "etd": "21/08/2026 01:00",
+        "etb": "20/08/2026 11:00",
+        "etd": "21/08/2026 02:00",
         "openstack": "15/08/2026 08:00",
         "closeC": "20/08/2026 03:00",
         "mmsi": "636024258",
