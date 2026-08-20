@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:00:48+00:00",
+  "generated_at": "2026-08-20T22:15:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -266,6 +266,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "WAN HAI 373",
+        "code": "WA73008",
+        "voyage": "S028         / N028",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "atb": "19/08/2026 12:30",
+        "etd": "20/08/2026 09:55"
+      },
+      {
         "name": "MERATUS KAIMANA",
         "code": "MEAI025",
         "type": "INTERNATIONAL",
@@ -366,17 +375,7 @@
         "closeC": "25/08/2026 17:00"
       }
     ],
-    "departed": [
-      {
-        "name": "WAN HAI 373",
-        "code": "WA73008",
-        "voyage": "S028         / N028",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "atb": "19/08/2026 12:30",
-        "etd": "20/08/2026 09:55"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
