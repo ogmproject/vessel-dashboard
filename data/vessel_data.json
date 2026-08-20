@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:00:48+00:00",
+  "generated_at": "2026-08-20T08:15:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -220,8 +220,8 @@
       {
         "name": "CMA CGM FORT DIAMANT",
         "code": "0XLCBS / 0XLCCN",
-        "eta": "25/08/2026 16:00",
-        "etd": "27/08/2026 12:00",
+        "eta": "26/08/2026 02:00",
+        "etd": "27/08/2026 08:00",
         "openstack": "18/08/2026 18:00",
         "closeC": "23/08/2026 12:00",
         "closeD": "23/08/2026 15:00",
@@ -231,7 +231,7 @@
         "name": "JOANNA",
         "code": "091S / 091N",
         "eta": "26/08/2026 12:00",
-        "etd": "28/08/2026 06:30",
+        "etd": "27/08/2026 18:00",
         "openstack": "21/08/2026 12:00",
         "closeC": "26/08/2026 06:00",
         "closeD": "26/08/2026 09:00",
@@ -324,17 +324,6 @@
         "closeC": "21/08/2026 01:00"
       },
       {
-        "name": "TIANJIN VOYAGER",
-        "code": "TIIN017",
-        "voyage": "2607S        / 2607N",
-        "type": "INTERNATIONAL",
-        "carrier": "HEUNG A LINE CO., LTD.",
-        "etb": "20/08/2026 12:00",
-        "etd": "21/08/2026 12:00",
-        "openstack": "15/08/2026 12:00",
-        "closeC": "20/08/2026 13:00"
-      },
-      {
         "name": "MERATUS KAIMANA",
         "code": "MEAI025",
         "type": "INTERNATIONAL",
@@ -354,6 +343,17 @@
         "etd": "22/08/2026 03:00",
         "openstack": "16/08/2026 12:00",
         "closeC": "21/08/2026 07:00"
+      },
+      {
+        "name": "TIANJIN VOYAGER",
+        "code": "TIIN017",
+        "voyage": "2607S        / 2607N",
+        "type": "INTERNATIONAL",
+        "carrier": "HEUNG A LINE CO., LTD.",
+        "etb": "21/08/2026 16:00",
+        "etd": "22/08/2026 20:00",
+        "openstack": "15/08/2026 12:00",
+        "closeC": "20/08/2026 13:00"
       },
       {
         "name": "XIN YANG PU",
