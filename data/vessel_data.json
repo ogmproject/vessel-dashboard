@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T03:00:53+00:00",
+  "generated_at": "2026-08-20T03:13:33+00:00",
   "tps": {
     "alongside": [
       {
@@ -359,6 +359,20 @@
         "etd": "22/08/2026 22:00",
         "openstack": "16/08/2026 22:00",
         "closeC": "21/08/2026 17:00"
+      },
+      {
+        "name": "KMTC HOCHIMINH",
+        "code": "KMHO010",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "etb": "25/08/2026 21:00",
+        "etd": "25/08/2026 21:30",
+        "openstack": "20/08/2026 21:00",
+        "closeC": "25/08/2026 16:00",
+        "mmsi": "440147000",
+        "imo": "9314923",
+        "location": "Singapore Strait"
       },
       {
         "name": "HAPPY LUCKY",
