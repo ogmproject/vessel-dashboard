@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T07:30:59+00:00",
+  "generated_at": "2026-08-20T07:45:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -75,29 +75,6 @@
         "verified": false
       },
       {
-        "name": "KOTA GANDING",
-        "code": "0536S / 0536N",
-        "eta": "22/08/2026 10:00",
-        "etd": "23/08/2026 10:00",
-        "openstack": "16/08/2026 00:00",
-        "closeC": "20/08/2026 18:00",
-        "closeD": "20/08/2026 21:00",
-        "verified": false
-      },
-      {
-        "name": "WAN HAI 327",
-        "code": "S067 / N067",
-        "eta": "22/08/2026 10:00",
-        "etd": "23/08/2026 06:30",
-        "openstack": "16/08/2026 22:00",
-        "closeC": "21/08/2026 16:00",
-        "closeD": "21/08/2026 19:00",
-        "verified": false,
-        "mmsi": "563124300",
-        "imo": "9871490",
-        "location": "South China Sea"
-      },
-      {
         "name": "CMA CGM SAINTE ANNE",
         "code": "0XLC9S / 0XLCAN",
         "eta": "22/08/2026 12:00",
@@ -108,10 +85,43 @@
         "verified": false
       },
       {
+        "name": "KOTA GANDING",
+        "code": "0536S / 0536N",
+        "eta": "22/08/2026 12:00",
+        "etd": "23/08/2026 12:00",
+        "openstack": "16/08/2026 00:00",
+        "closeC": "20/08/2026 18:00",
+        "closeD": "20/08/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "WAN HAI 327",
+        "code": "S067 / N067",
+        "eta": "22/08/2026 12:00",
+        "etd": "23/08/2026 06:00",
+        "openstack": "16/08/2026 22:00",
+        "closeC": "21/08/2026 16:00",
+        "closeD": "21/08/2026 19:00",
+        "verified": false,
+        "mmsi": "563124300",
+        "imo": "9871490",
+        "location": "South China Sea"
+      },
+      {
+        "name": "MYD ZHANGZHOU",
+        "code": "CS2000S / CS2010N",
+        "eta": "22/08/2026 18:00",
+        "etd": "23/08/2026 14:00",
+        "openstack": "17/08/2026 00:00",
+        "closeC": "21/08/2026 18:00",
+        "closeD": "21/08/2026 21:00",
+        "verified": false
+      },
+      {
         "name": "AS PIA",
         "code": "631S / 634N",
         "eta": "22/08/2026 20:00",
-        "etd": "23/08/2026 12:00",
+        "etd": "23/08/2026 14:00",
         "openstack": "17/08/2026 23:00",
         "closeC": "22/08/2026 17:00",
         "closeD": "22/08/2026 20:00",
@@ -125,16 +135,6 @@
         "openstack": "16/08/2026 08:00",
         "closeC": "21/08/2026 02:00",
         "closeD": "21/08/2026 05:00",
-        "verified": false
-      },
-      {
-        "name": "MYD ZHANGZHOU",
-        "code": "CS2000S / CS2010N",
-        "eta": "23/08/2026 12:00",
-        "etd": "24/08/2026 06:00",
-        "openstack": "17/08/2026 00:00",
-        "closeC": "21/08/2026 18:00",
-        "closeD": "21/08/2026 21:00",
         "verified": false
       },
       {
@@ -324,6 +324,17 @@
         "closeC": "21/08/2026 01:00"
       },
       {
+        "name": "TIANJIN VOYAGER",
+        "code": "TIIN017",
+        "voyage": "2607S        / 2607N",
+        "type": "INTERNATIONAL",
+        "carrier": "HEUNG A LINE CO., LTD.",
+        "etb": "20/08/2026 12:00",
+        "etd": "21/08/2026 12:00",
+        "openstack": "15/08/2026 12:00",
+        "closeC": "20/08/2026 13:00"
+      },
+      {
         "name": "MERATUS KAIMANA",
         "code": "MEAI025",
         "type": "INTERNATIONAL",
@@ -343,17 +354,6 @@
         "etd": "22/08/2026 03:00",
         "openstack": "16/08/2026 12:00",
         "closeC": "21/08/2026 07:00"
-      },
-      {
-        "name": "TIANJIN VOYAGER",
-        "code": "TIIN017",
-        "voyage": "2607S        / 2607N",
-        "type": "INTERNATIONAL",
-        "carrier": "HEUNG A LINE CO., LTD.",
-        "etb": "21/08/2026 16:00",
-        "etd": "22/08/2026 20:00",
-        "openstack": "15/08/2026 12:00",
-        "closeC": "20/08/2026 08:00"
       },
       {
         "name": "XIN YANG PU",
