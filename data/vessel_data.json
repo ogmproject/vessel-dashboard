@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T04:45:41+00:00",
+  "generated_at": "2026-08-20T05:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -319,17 +319,6 @@
         "location": "Java Sea"
       },
       {
-        "name": "TIANJIN VOYAGER",
-        "code": "TIIN017",
-        "voyage": "2607S        / 2607N",
-        "type": "INTERNATIONAL",
-        "carrier": "HEUNG A LINE CO., LTD.",
-        "etb": "20/08/2026 12:00",
-        "etd": "21/08/2026 12:00",
-        "openstack": "15/08/2026 12:00",
-        "closeC": "20/08/2026 08:00"
-      },
-      {
         "name": "MERATUS KAIMANA",
         "code": "MEAI025",
         "type": "INTERNATIONAL",
@@ -349,6 +338,17 @@
         "etd": "22/08/2026 03:00",
         "openstack": "16/08/2026 12:00",
         "closeC": "21/08/2026 07:00"
+      },
+      {
+        "name": "TIANJIN VOYAGER",
+        "code": "TIIN017",
+        "voyage": "2607S        / 2607N",
+        "type": "INTERNATIONAL",
+        "carrier": "HEUNG A LINE CO., LTD.",
+        "etb": "21/08/2026 16:00",
+        "etd": "22/08/2026 20:00",
+        "openstack": "15/08/2026 12:00",
+        "closeC": "20/08/2026 08:00"
       },
       {
         "name": "XIN YANG PU",
