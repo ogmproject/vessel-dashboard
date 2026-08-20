@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T19:00:52+00:00",
+  "generated_at": "2026-08-20T19:15:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -274,6 +274,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "MERATUS KAIMANA",
+        "code": "MEAI025",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "21/08/2026 02:08",
+        "etd": "21/08/2026 16:00"
+      },
+      {
         "name": "WANTAI",
         "code": "WANT005",
         "voyage": "2632S        / 2632N",
@@ -287,16 +295,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI025",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "20/08/2026 22:00",
-        "etd": "21/08/2026 16:00",
-        "openstack": "15/08/2026 16:00",
-        "closeC": "20/08/2026 11:00"
-      },
       {
         "name": "MARINA ONE",
         "code": "MAON002",
