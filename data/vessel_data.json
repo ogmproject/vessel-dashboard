@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T05:31:01+00:00",
+  "generated_at": "2026-08-20T05:45:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "631S / 632N",
         "atb": "18/08/2026 16:30",
         "etd": "20/08/2026 12:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - ZHONG GU FU ZHOU",
-        "code": "0QAHYS / 0QAHZN",
-        "atb": "19/08/2026 01:00",
-        "etd": "20/08/2026 10:00",
         "verified": false
       },
       {
@@ -257,6 +250,11 @@
     ],
     "movement": [
       {
+        "name": "ZHONG GU FU ZHOU",
+        "berth": "19/08/2026 01:00",
+        "dep": "20/08/2026 12:25"
+      },
+      {
         "name": "SINAR SULAWESI",
         "berth": "18/08/2026 04:15",
         "dep": "20/08/2026 00:08"
@@ -294,15 +292,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "ALPHA DISCOVERY",
-        "code": "ALDI001",
-        "voyage": "0001         / 0001",
-        "type": "INTERNATIONAL",
-        "carrier": "PT GESURI LLOYD",
-        "atb": "15/08/2026 23:05",
-        "etd": "19/08/2026 12:39"
-      },
       {
         "name": "WANTAI",
         "code": "WANT005",

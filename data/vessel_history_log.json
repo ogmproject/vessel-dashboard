@@ -171,8 +171,8 @@
     "vessel_name": "ZHONG GU FU ZHOU",
     "terminal": "TPS",
     "arrival": "2026-08-19T01:00:00",
-    "departure": null,
-    "recorded_at": "2026-08-18T18:15:41.175827"
+    "departure": "2026-08-20T12:25:00",
+    "recorded_at": "2026-08-20T05:45:42.086604"
   },
   {
     "vessel_name": "WAN HAI 373",
