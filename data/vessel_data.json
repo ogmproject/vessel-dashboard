@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T14:15:44+00:00",
+  "generated_at": "2026-08-20T14:30:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -308,7 +308,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "atb": "20/08/2026 12:02",
-        "etd": "21/08/2026 03:00",
+        "etd": "21/08/2026 05:00",
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "Java Sea"
@@ -320,8 +320,8 @@
         "code": "MEAI025",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "20/08/2026 20:00",
-        "etd": "21/08/2026 14:00",
+        "etb": "20/08/2026 22:00",
+        "etd": "21/08/2026 16:00",
         "openstack": "15/08/2026 16:00",
         "closeC": "20/08/2026 11:00"
       },
@@ -331,8 +331,8 @@
         "voyage": "0002S        / 0002N",
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
-        "etb": "21/08/2026 08:00",
-        "etd": "22/08/2026 03:00",
+        "etb": "21/08/2026 07:00",
+        "etd": "22/08/2026 02:00",
         "openstack": "16/08/2026 12:00",
         "closeC": "21/08/2026 07:00"
       },
@@ -342,8 +342,8 @@
         "voyage": "2607S        / 2607N",
         "type": "INTERNATIONAL",
         "carrier": "HEUNG A LINE CO., LTD.",
-        "etb": "21/08/2026 16:00",
-        "etd": "22/08/2026 21:00",
+        "etb": "21/08/2026 18:00",
+        "etd": "22/08/2026 23:00",
         "openstack": "15/08/2026 12:00",
         "closeC": "20/08/2026 13:00"
       },
