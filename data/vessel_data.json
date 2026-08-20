@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T16:45:45+00:00",
+  "generated_at": "2026-08-20T17:00:53+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I2 - EVER BIRTH",
         "code": "1205-110A / 1205-110A",
         "atb": "20/08/2026 09:10",
-        "etd": "21/08/2026 02:00",
+        "etd": "21/08/2026 03:00",
         "verified": false
       }
     ],
@@ -267,34 +267,6 @@
         "name": "SINAR SULAWESI",
         "berth": "18/08/2026 04:15",
         "dep": "20/08/2026 00:08"
-      },
-      {
-        "name": "MTT SIBU",
-        "berth": "18/08/2026 07:15",
-        "dep": "18/08/2026 23:30"
-      },
-      {
-        "name": "CMA CGM FORT JAMES",
-        "berth": "16/08/2026 16:30",
-        "dep": "18/08/2026 14:50"
-      },
-      {
-        "name": "MSC IDA II",
-        "berth": "17/08/2026 06:15",
-        "dep": "18/08/2026 09:48",
-        "mmsi": "636019861",
-        "imo": "9224946",
-        "location": "South China Sea"
-      },
-      {
-        "name": "GSL MAMITSA",
-        "berth": "17/08/2026 05:05",
-        "dep": "18/08/2026 02:49"
-      },
-      {
-        "name": "EVER OASIS",
-        "berth": "17/08/2026 04:15",
-        "dep": "18/08/2026 00:15"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
