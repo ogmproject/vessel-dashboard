@@ -206,8 +206,8 @@
     "vessel_name": "AS CAROLINA",
     "terminal": "TL",
     "arrival": "2026-08-20T09:42:00",
-    "departure": null,
-    "recorded_at": "2026-08-20T03:00:53.825264"
+    "departure": "2026-08-20T21:07:00",
+    "recorded_at": "2026-08-20T22:53:48.791503"
   },
   {
     "vessel_name": "WANTAI",
