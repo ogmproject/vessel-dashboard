@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T14:03:43+00:00",
+  "generated_at": "2026-08-20T14:15:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -312,15 +312,6 @@
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "Java Sea"
-      },
-      {
-        "name": "AS CAROLINA",
-        "code": "ASRO005",
-        "voyage": "346E         / 346E",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "atb": "20/08/2026 09:42",
-        "etd": "20/08/2026 20:00"
       }
     ],
     "schedule": [
