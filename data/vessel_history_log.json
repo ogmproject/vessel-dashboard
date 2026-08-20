@@ -201,5 +201,12 @@
     "arrival": "2026-08-20T09:10:00",
     "departure": null,
     "recorded_at": "2026-08-20T02:15:39.436236"
+  },
+  {
+    "vessel_name": "AS CAROLINA",
+    "terminal": "TL",
+    "arrival": "2026-08-20T09:42:00",
+    "departure": null,
+    "recorded_at": "2026-08-20T03:00:53.825264"
   }
 ]
