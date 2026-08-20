@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T20:15:40+00:00",
+  "generated_at": "2026-08-20T20:30:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -211,7 +211,7 @@
         "verified": false,
         "mmsi": "370616000",
         "imo": "9790062",
-        "location": "South China Sea"
+        "location": "Java Sea"
       },
       {
         "name": "WAN HAI 311",
