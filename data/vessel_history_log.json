@@ -194,5 +194,12 @@
     "arrival": "2026-08-19T20:15:00",
     "departure": null,
     "recorded_at": "2026-08-19T13:30:52.132671"
+  },
+  {
+    "vessel_name": "EVER BIRTH",
+    "terminal": "TPS",
+    "arrival": "2026-08-20T09:10:00",
+    "departure": null,
+    "recorded_at": "2026-08-20T02:15:39.436236"
   }
 ]

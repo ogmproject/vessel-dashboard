@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T02:00:48+00:00",
+  "generated_at": "2026-08-20T02:15:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -17,6 +17,13 @@
         "verified": false
       },
       {
+        "name": "I2 - EVER BIRTH",
+        "code": "1205-110A / 1205-110A",
+        "atb": "20/08/2026 09:10",
+        "etd": "21/08/2026 04:00",
+        "verified": false
+      },
+      {
         "name": "I1 - HONG TAI 656",
         "code": "633N / 633N",
         "atb": "19/08/2026 20:15",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER BIRTH",
-        "code": "1205-110A / 1205-110A",
-        "eta": "20/08/2026 09:00",
-        "etd": "21/08/2026 04:00",
-        "openstack": "15/08/2026 08:00",
-        "closeC": "20/08/2026 02:00",
-        "closeD": "20/08/2026 05:00",
-        "verified": false
-      },
       {
         "name": "CONTSHIP YEN",
         "code": "2126S / 2126S",
