@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:00:55+00:00",
+  "generated_at": "2026-08-21T22:15:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -284,6 +284,14 @@
         "location": "Java Sea"
       },
       {
+        "name": "XIN YANG PU",
+        "code": "XIPU005",
+        "voyage": "204E         / 205W",
+        "type": "INTERNATIONAL",
+        "atb": "22/08/2026 05:00",
+        "etd": "23/08/2026 18:00"
+      },
+      {
         "name": "TIANJIN VOYAGER",
         "code": "TIIN017",
         "voyage": "2607S        / 2607N",
@@ -294,16 +302,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "XIN YANG PU",
-        "code": "XIPU005",
-        "voyage": "204E         / 205W",
-        "type": "INTERNATIONAL",
-        "etb": "22/08/2026 05:00",
-        "etd": "23/08/2026 18:00",
-        "openstack": "16/08/2026 22:00",
-        "closeC": "21/08/2026 17:00"
-      },
       {
         "name": "MERATUS KARIMUN",
         "code": "MEIU021",

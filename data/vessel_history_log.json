@@ -271,5 +271,12 @@
     "arrival": "2026-08-21T22:55:00",
     "departure": null,
     "recorded_at": "2026-08-21T16:00:55.648356"
+  },
+  {
+    "vessel_name": "XIN YANG PU",
+    "terminal": "TL",
+    "arrival": "2026-08-22T05:00:00",
+    "departure": null,
+    "recorded_at": "2026-08-21T22:15:41.167247"
   }
 ]
