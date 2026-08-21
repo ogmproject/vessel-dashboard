@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T15:15:58+00:00",
+  "generated_at": "2026-08-21T15:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -287,6 +287,15 @@
         "location": "Java Sea"
       },
       {
+        "name": "TIANJIN VOYAGER",
+        "code": "TIIN017",
+        "voyage": "2607S        / 2607N",
+        "type": "INTERNATIONAL",
+        "carrier": "HEUNG A LINE CO., LTD.",
+        "atb": "21/08/2026 22:08",
+        "etd": "23/08/2026 02:00"
+      },
+      {
         "name": "MARINA ONE",
         "code": "MAON002",
         "voyage": "0002S        / 0002N",
@@ -297,17 +306,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "TIANJIN VOYAGER",
-        "code": "TIIN017",
-        "voyage": "2607S        / 2607N",
-        "type": "INTERNATIONAL",
-        "carrier": "HEUNG A LINE CO., LTD.",
-        "etb": "21/08/2026 21:00",
-        "etd": "23/08/2026 02:00",
-        "openstack": "15/08/2026 12:00",
-        "closeC": "21/08/2026 08:00"
-      },
       {
         "name": "XIN YANG PU",
         "code": "XIPU005",
