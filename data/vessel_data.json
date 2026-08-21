@@ -1,26 +1,16 @@
 {
-  "generated_at": "2026-08-21T05:30:41+00:00",
+  "generated_at": "2026-08-21T05:45:40+00:00",
   "tps": {
     "alongside": [
       {
-        "name": "I4 - CONTSHIP YEN",
-        "code": "2126S / 2126S",
-        "atb": "21/08/2026 04:23",
-        "etd": "21/08/2026 11:00",
+        "name": "I1 - MSC VAIGA III",
+        "code": "HV634R / HV634R",
+        "atb": "21/08/2026 11:50",
+        "etd": "22/08/2026 09:00",
         "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "MSC VAIGA III",
-        "code": "HV634R / HV634R",
-        "eta": "21/08/2026 11:00",
-        "etd": "22/08/2026 09:00",
-        "openstack": "16/08/2026 02:00",
-        "closeC": "20/08/2026 20:00",
-        "closeD": "20/08/2026 23:00",
-        "verified": false
-      },
       {
         "name": "EVER BLISS",
         "code": "1201-115B / 1201-115B",
@@ -235,6 +225,14 @@
       }
     ],
     "movement": [
+      {
+        "name": "CONTSHIP YEN",
+        "berth": "21/08/2026 04:23",
+        "dep": "21/08/2026 11:36",
+        "mmsi": "209692000",
+        "imo": "9664263",
+        "location": "Java Sea"
+      },
       {
         "name": "EVER BIRTH",
         "berth": "20/08/2026 09:10",
