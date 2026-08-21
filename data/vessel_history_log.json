@@ -264,5 +264,12 @@
     "arrival": "2026-08-21T22:08:00",
     "departure": null,
     "recorded_at": "2026-08-21T15:30:45.426415"
+  },
+  {
+    "vessel_name": "EVER CONSIST",
+    "terminal": "TPS",
+    "arrival": "2026-08-21T22:55:00",
+    "departure": null,
+    "recorded_at": "2026-08-21T16:00:55.648356"
   }
 ]
