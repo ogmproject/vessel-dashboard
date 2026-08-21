@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T14:15:40+00:00",
+  "generated_at": "2026-08-21T14:30:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -300,14 +300,6 @@
         "carrier": "HMM CO.,LTD",
         "atb": "21/08/2026 07:00",
         "etd": "22/08/2026 03:00"
-      },
-      {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI025",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "21/08/2026 02:08",
-        "etd": "21/08/2026 19:30"
       }
     ],
     "schedule": [
