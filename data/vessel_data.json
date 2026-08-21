@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T02:45:36+00:00",
+  "generated_at": "2026-08-21T03:00:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -265,15 +265,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "WAN HAI 373",
-        "code": "WA73008",
-        "voyage": "S028         / N028",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "atb": "19/08/2026 12:30",
-        "etd": "20/08/2026 09:55"
-      },
       {
         "name": "MARINA ONE",
         "code": "MAON002",
