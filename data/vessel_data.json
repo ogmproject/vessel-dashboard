@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T17:15:39+00:00",
+  "generated_at": "2026-08-21T17:31:16+00:00",
   "tps": {
     "alongside": [
       {
@@ -52,8 +52,7 @@
         "closeD": "21/08/2026 19:00",
         "verified": false,
         "mmsi": "563124300",
-        "imo": "9871490",
-        "location": "Java Sea"
+        "imo": "9871490"
       },
       {
         "name": "MYD ZHANGZHOU",
