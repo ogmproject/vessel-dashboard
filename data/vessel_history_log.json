@@ -229,5 +229,12 @@
     "arrival": "2026-08-21T04:23:00",
     "departure": null,
     "recorded_at": "2026-08-20T21:30:46.433304"
+  },
+  {
+    "vessel_name": "MARINA ONE",
+    "terminal": "TL",
+    "arrival": "2026-08-21T07:00:00",
+    "departure": null,
+    "recorded_at": "2026-08-21T00:15:37.407147"
   }
 ]

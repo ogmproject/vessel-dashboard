@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T00:00:48+00:00",
+  "generated_at": "2026-08-21T00:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -275,6 +275,15 @@
         "etd": "20/08/2026 09:55"
       },
       {
+        "name": "MARINA ONE",
+        "code": "MAON002",
+        "voyage": "0002S        / 0002N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "21/08/2026 07:00",
+        "etd": "22/08/2026 02:00"
+      },
+      {
         "name": "MERATUS KAIMANA",
         "code": "MEAI025",
         "type": "INTERNATIONAL",
@@ -284,17 +293,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MARINA ONE",
-        "code": "MAON002",
-        "voyage": "0002S        / 0002N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "etb": "21/08/2026 07:00",
-        "etd": "22/08/2026 02:00",
-        "openstack": "16/08/2026 12:00",
-        "closeC": "21/08/2026 07:00"
-      },
       {
         "name": "TIANJIN VOYAGER",
         "code": "TIIN017",
