@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T07:45:38+00:00",
+  "generated_at": "2026-08-21T08:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -130,8 +130,8 @@
       {
         "name": "EVER OPTIMA",
         "code": "0489-049S / 0489-049N",
-        "eta": "23/08/2026 16:00",
-        "etd": "24/08/2026 08:00",
+        "eta": "23/08/2026 19:00",
+        "etd": "24/08/2026 13:00",
         "openstack": "18/08/2026 23:00",
         "closeC": "23/08/2026 17:00",
         "closeD": "23/08/2026 20:00",
@@ -148,40 +148,40 @@
         "verified": false
       },
       {
-        "name": "AREZOO",
-        "code": "SCY1203 / SCY1203",
-        "eta": "24/08/2026 10:00",
-        "etd": "24/08/2026 22:00",
-        "openstack": "18/08/2026 12:00",
-        "closeC": "23/08/2026 06:00",
-        "closeD": "23/08/2026 09:00",
-        "verified": false
-      },
-      {
         "name": "ES TREASURE",
         "code": "633S / 633S",
-        "eta": "24/08/2026 14:00",
-        "etd": "25/08/2026 08:00",
+        "eta": "24/08/2026 15:00",
+        "etd": "25/08/2026 09:00",
         "openstack": "19/08/2026 15:30",
         "closeC": "20/08/2026 12:00",
         "closeD": "20/08/2026 15:00",
         "verified": false
       },
       {
-        "name": "CAPTAIN THANASIS I",
-        "code": "HC631A / HC633R",
-        "eta": "25/08/2026 02:00",
-        "etd": "26/08/2026 02:00",
-        "openstack": "20/08/2026 00:00",
-        "closeC": "24/08/2026 18:00",
-        "closeD": "24/08/2026 21:00",
+        "name": "AREZOO",
+        "code": "SCY1203 / SCY1203",
+        "eta": "24/08/2026 18:00",
+        "etd": "25/08/2026 06:00",
+        "openstack": "18/08/2026 12:00",
+        "closeC": "23/08/2026 06:00",
+        "closeD": "23/08/2026 09:00",
+        "verified": false
+      },
+      {
+        "name": "CMA CGM FORT DIAMANT",
+        "code": "0XLCBS / 0XLCCN",
+        "eta": "25/08/2026 01:00",
+        "etd": "26/08/2026 05:00",
+        "openstack": "18/08/2026 18:00",
+        "closeC": "23/08/2026 12:00",
+        "closeD": "23/08/2026 15:00",
         "verified": false
       },
       {
         "name": "EVER BUILD",
         "code": "1202-088B / 1202-088B",
-        "eta": "25/08/2026 08:00",
-        "etd": "26/08/2026 09:30",
+        "eta": "25/08/2026 06:00",
+        "etd": "26/08/2026 05:00",
         "openstack": "20/08/2026 08:00",
         "closeC": "25/08/2026 02:00",
         "closeD": "25/08/2026 05:00",
@@ -193,28 +193,18 @@
       {
         "name": "WAN HAI 311",
         "code": "S258 / N259",
-        "eta": "25/08/2026 10:00",
-        "etd": "26/08/2026 04:00",
+        "eta": "25/08/2026 11:00",
+        "etd": "26/08/2026 05:00",
         "openstack": "20/08/2026 10:00",
         "closeC": "25/08/2026 04:00",
         "closeD": "25/08/2026 07:00",
         "verified": false
       },
       {
-        "name": "CMA CGM FORT DIAMANT",
-        "code": "0XLCBS / 0XLCCN",
-        "eta": "26/08/2026 02:00",
-        "etd": "27/08/2026 08:00",
-        "openstack": "18/08/2026 18:00",
-        "closeC": "23/08/2026 12:00",
-        "closeD": "23/08/2026 15:00",
-        "verified": false
-      },
-      {
         "name": "JOANNA",
         "code": "091S / 091N",
-        "eta": "26/08/2026 12:00",
-        "etd": "27/08/2026 18:00",
+        "eta": "26/08/2026 02:30",
+        "etd": "27/08/2026 07:00",
         "openstack": "21/08/2026 12:00",
         "closeC": "26/08/2026 06:00",
         "closeD": "26/08/2026 09:00",
@@ -222,6 +212,16 @@
         "mmsi": "636016118",
         "imo": "9204477",
         "location": "South China Sea"
+      },
+      {
+        "name": "CAPTAIN THANASIS I",
+        "code": "HC631A / HC633R",
+        "eta": "26/08/2026 23:00",
+        "etd": "27/08/2026 23:00",
+        "openstack": "20/08/2026 00:00",
+        "closeC": "24/08/2026 18:00",
+        "closeD": "24/08/2026 21:00",
+        "verified": false
       }
     ],
     "movement": [
@@ -314,6 +314,15 @@
         "closeC": "21/08/2026 01:00"
       },
       {
+        "name": "INDONESIA EXPRESS",
+        "code": "INEX001",
+        "voyage": "0            / 0",
+        "type": "INTERNATIONAL",
+        "carrier": "PT ARUNIKA BAHARI MARITIM",
+        "etb": "23/08/2026 08:00",
+        "etd": "23/08/2026 08:30"
+      },
+      {
         "name": "INTERASIA MOTIVATION",
         "code": "INMO001",
         "voyage": "E032         / W033",
@@ -348,6 +357,16 @@
         "etd": "25/08/2026 22:30",
         "openstack": "20/08/2026 22:00",
         "closeC": "25/08/2026 17:00"
+      },
+      {
+        "name": "2633S",
+        "code": "2633N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "27/08/2026 08:00",
+        "etd": "28/08/2026 03:30",
+        "openstack": "22/08/2026 08:00",
+        "closeC": "27/08/2026 03:00"
       }
     ],
     "departed": [
