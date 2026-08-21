@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:04:05+00:00",
+  "generated_at": "2026-08-21T10:15:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -261,6 +261,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "AS CAROLINA",
+        "code": "ASRO005",
+        "voyage": "346E         / 346E",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "atb": "20/08/2026 09:42",
+        "etd": "20/08/2026 21:07"
+      },
+      {
         "name": "MARINA ONE",
         "code": "MAON002",
         "voyage": "0002S        / 0002N",
@@ -388,15 +397,6 @@
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "Java Sea"
-      },
-      {
-        "name": "AS CAROLINA",
-        "code": "ASRO005",
-        "voyage": "346E         / 346E",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "atb": "20/08/2026 09:42",
-        "etd": "20/08/2026 21:07"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
