@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T03:31:21+00:00",
+  "generated_at": "2026-08-21T03:45:37+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - CONTSHIP YEN",
         "code": "2126S / 2126S",
         "atb": "21/08/2026 04:23",
-        "etd": "21/08/2026 14:00",
+        "etd": "21/08/2026 11:00",
         "verified": false
       }
     ],
