@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T08:15:42+00:00",
+  "generated_at": "2026-08-21T08:30:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -359,6 +359,16 @@
         "closeC": "25/08/2026 17:00"
       },
       {
+        "name": "COSCO HOUSTON",
+        "code": "COHO051",
+        "voyage": "142S         / 142N",
+        "type": "INTERNATIONAL",
+        "etb": "27/08/2026 04:00",
+        "etd": "28/08/2026 14:30",
+        "openstack": "22/08/2026 04:00",
+        "closeC": "26/08/2026 23:00"
+      },
+      {
         "name": "2633S",
         "code": "2633N",
         "type": "INTERNATIONAL",
@@ -367,17 +377,6 @@
         "etd": "28/08/2026 03:30",
         "openstack": "22/08/2026 08:00",
         "closeC": "27/08/2026 03:00"
-      },
-      {
-        "name": "COSCO HOUSTON",
-        "code": "COHO051",
-        "voyage": "142S         / 142N",
-        "type": "INTERNATIONAL",
-        "etb": "27/08/2026 08:00",
-        "etd": "27/08/2026 08:30",
-        "openstack": "22/08/2026 08:00",
-        "closeC": "27/08/2026 03:00",
-        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
       }
     ],
     "departed": [
