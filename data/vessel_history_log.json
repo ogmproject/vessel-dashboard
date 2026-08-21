@@ -213,8 +213,8 @@
     "vessel_name": "WANTAI",
     "terminal": "TL",
     "arrival": "2026-08-20T12:02:00",
-    "departure": null,
-    "recorded_at": "2026-08-20T05:08:15.648113"
+    "departure": "2026-08-21T05:38:00",
+    "recorded_at": "2026-08-21T08:05:35.581516"
   },
   {
     "vessel_name": "MERATUS KAIMANA",
