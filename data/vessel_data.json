@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T08:30:43+00:00",
+  "generated_at": "2026-08-22T08:45:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -395,6 +395,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "MARINA ONE",
+        "code": "MAON002",
+        "voyage": "0002S        / 0002N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "21/08/2026 07:00",
+        "etd": "22/08/2026 03:24"
+      },
       {
         "name": "MERATUS KAIMANA",
         "code": "MEAI025",

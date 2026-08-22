@@ -234,8 +234,8 @@
     "vessel_name": "MARINA ONE",
     "terminal": "TL",
     "arrival": "2026-08-21T07:00:00",
-    "departure": null,
-    "recorded_at": "2026-08-21T00:15:37.407147"
+    "departure": "2026-08-22T03:24:00",
+    "recorded_at": "2026-08-22T08:45:39.534260"
   },
   {
     "vessel_name": "MSC VAIGA III",
