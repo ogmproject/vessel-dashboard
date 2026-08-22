@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T16:56:04+00:00",
+  "generated_at": "2026-08-22T17:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -250,26 +250,6 @@
         "name": "EVER BIRTH",
         "berth": "20/08/2026 09:10",
         "dep": "21/08/2026 04:40"
-      },
-      {
-        "name": "HONG TAI 656",
-        "berth": "19/08/2026 20:15",
-        "dep": "20/08/2026 18:54"
-      },
-      {
-        "name": "OEL RUDRA",
-        "berth": "18/08/2026 16:30",
-        "dep": "20/08/2026 12:48"
-      },
-      {
-        "name": "ZHONG GU FU ZHOU",
-        "berth": "19/08/2026 01:00",
-        "dep": "20/08/2026 12:25"
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "berth": "18/08/2026 04:15",
-        "dep": "20/08/2026 00:08"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
