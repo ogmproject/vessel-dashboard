@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T23:30:41+00:00",
+  "generated_at": "2026-08-22T23:44:13+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,19 +22,16 @@
         "atb": "22/08/2026 16:50",
         "etd": "23/08/2026 10:00",
         "verified": false
+      },
+      {
+        "name": "I1 - AS PIA",
+        "code": "631S / 634N",
+        "atb": "23/08/2026 06:28",
+        "etd": "23/08/2026 15:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "AS PIA",
-        "code": "631S / 634N",
-        "eta": "23/08/2026 02:30",
-        "etd": "23/08/2026 15:00",
-        "openstack": "17/08/2026 23:00",
-        "closeC": "22/08/2026 17:00",
-        "closeD": "22/08/2026 20:00",
-        "verified": false
-      },
       {
         "name": "CMA CGM SAINTE ANNE",
         "code": "0XLC9S / 0XLCAN",
