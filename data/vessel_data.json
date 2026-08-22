@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-22T11:00:47+00:00",
+  "generated_at": "2026-08-22T11:15:39+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - KOTA GANDING",
+        "code": "0536S / 0536N",
+        "atb": "22/08/2026 17:55",
+        "etd": "23/08/2026 19:00",
+        "verified": false
+      },
       {
         "name": "I3 - EVER BLISS",
         "code": "1201-115B / 1201-115B",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "KOTA GANDING",
-        "code": "0536S / 0536N",
-        "eta": "22/08/2026 17:00",
-        "etd": "23/08/2026 19:00",
-        "openstack": "16/08/2026 00:00",
-        "closeC": "20/08/2026 18:00",
-        "closeD": "20/08/2026 21:00",
-        "verified": false
-      },
       {
         "name": "MYD ZHANGZHOU",
         "code": "CS2000S / CS2010N",
@@ -299,7 +296,7 @@
         "type": "INTERNATIONAL",
         "carrier": "HEUNG A LINE CO., LTD.",
         "atb": "21/08/2026 22:08",
-        "etd": "23/08/2026 03:00"
+        "etd": "23/08/2026 00:00"
       }
     ],
     "schedule": [
