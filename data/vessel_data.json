@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T14:00:49+00:00",
+  "generated_at": "2026-08-22T14:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -390,14 +390,6 @@
         "carrier": "HMM CO.,LTD",
         "atb": "21/08/2026 07:00",
         "etd": "22/08/2026 03:24"
-      },
-      {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI025",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "21/08/2026 02:08",
-        "etd": "21/08/2026 21:09"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
