@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:00:50+00:00",
+  "generated_at": "2026-08-22T01:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -307,7 +307,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT ARUNIKA BAHARI MARITIM",
         "etb": "23/08/2026 08:00",
-        "etd": "23/08/2026 08:30"
+        "etd": "25/08/2026 12:30"
       },
       {
         "name": "INTERASIA MOTIVATION",
