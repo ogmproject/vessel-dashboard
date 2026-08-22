@@ -241,8 +241,8 @@
     "vessel_name": "MSC VAIGA III",
     "terminal": "TPS",
     "arrival": "2026-08-21T11:50:00",
-    "departure": null,
-    "recorded_at": "2026-08-21T05:45:40.216587"
+    "departure": "2026-08-23T00:26:00",
+    "recorded_at": "2026-08-22T18:00:51.600898"
   },
   {
     "vessel_name": "EVER BLISS",

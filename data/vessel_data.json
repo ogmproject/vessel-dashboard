@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:49:44+00:00",
+  "generated_at": "2026-08-22T18:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -21,13 +21,6 @@
         "code": "S067 / N067",
         "atb": "22/08/2026 16:50",
         "etd": "23/08/2026 10:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - MSC VAIGA III",
-        "code": "HV634R / HV634R",
-        "atb": "21/08/2026 11:50",
-        "etd": "23/08/2026 00:01",
         "verified": false
       }
     ],
@@ -220,6 +213,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MSC VAIGA III",
+        "berth": "21/08/2026 11:50",
+        "dep": "23/08/2026 00:26"
+      },
       {
         "name": "EVER BLISS",
         "berth": "21/08/2026 15:45",
