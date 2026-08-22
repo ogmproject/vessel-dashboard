@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:00:51+00:00",
+  "generated_at": "2026-08-22T10:16:08+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "1201-115B / 1201-115B",
         "atb": "21/08/2026 15:45",
         "etd": "22/08/2026 17:00",
+        "verified": false
+      },
+      {
+        "name": "I2 - WAN HAI 327",
+        "code": "S067 / N067",
+        "atb": "22/08/2026 16:50",
+        "etd": "23/08/2026 10:00",
         "verified": false
       },
       {
@@ -18,19 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "WAN HAI 327",
-        "code": "S067 / N067",
-        "eta": "22/08/2026 15:00",
-        "etd": "23/08/2026 10:00",
-        "openstack": "16/08/2026 22:00",
-        "closeC": "21/08/2026 16:00",
-        "closeD": "21/08/2026 19:00",
-        "verified": false,
-        "mmsi": "563124300",
-        "imo": "9871490",
-        "location": "Java Sea"
-      },
       {
         "name": "KOTA GANDING",
         "code": "0536S / 0536N",
