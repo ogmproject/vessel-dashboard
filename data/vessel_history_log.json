@@ -248,8 +248,8 @@
     "vessel_name": "EVER BLISS",
     "terminal": "TPS",
     "arrival": "2026-08-21T15:45:00",
-    "departure": null,
-    "recorded_at": "2026-08-21T09:15:41.996231"
+    "departure": "2026-08-22T18:15:00",
+    "recorded_at": "2026-08-22T11:30:49.144272"
   },
   {
     "vessel_name": "WAN HAI 375",
