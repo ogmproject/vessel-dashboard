@@ -313,5 +313,12 @@
     "arrival": "2026-08-23T06:28:00",
     "departure": null,
     "recorded_at": "2026-08-22T23:44:13.216714"
+  },
+  {
+    "vessel_name": "INDONESIA EXPRESS",
+    "terminal": "TL",
+    "arrival": "2026-08-23T08:25:00",
+    "departure": null,
+    "recorded_at": "2026-08-23T04:00:48.221909"
   }
 ]
