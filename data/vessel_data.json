@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T00:45:39+00:00",
+  "generated_at": "2026-08-23T01:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -253,20 +253,21 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "GENCO MAGIC",
+        "code": "GECO001",
+        "voyage": "00001        / 00001",
+        "type": "INTERNATIONAL",
+        "carrier": "PT GESURI LLOYD",
+        "atb": "19/08/2026 18:24",
+        "etd": "23/08/2026 05:08"
+      },
+      {
         "name": "MERATUS KARIMUN",
         "code": "MEIU021",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "23/08/2026 04:55",
         "etd": "23/08/2026 13:00"
-      },
-      {
-        "name": "XIN YANG PU",
-        "code": "XIPU005",
-        "voyage": "204E         / 205W",
-        "type": "INTERNATIONAL",
-        "atb": "22/08/2026 05:00",
-        "etd": "23/08/2026 16:00"
       }
     ],
     "schedule": [
