@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T22:15:35+00:00",
+  "generated_at": "2026-08-23T22:30:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -311,7 +311,16 @@
         "closeC": "25/08/2026 15:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "MERATUS KARIMUN",
+        "code": "MEIU021",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "23/08/2026 04:55",
+        "etd": "23/08/2026 15:17"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
