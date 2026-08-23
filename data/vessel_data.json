@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T13:15:39+00:00",
+  "generated_at": "2026-08-23T13:30:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,19 +22,16 @@
         "atb": "23/08/2026 17:20",
         "etd": "24/08/2026 05:00",
         "verified": false
+      },
+      {
+        "name": "I1 - SITC NANSHA",
+        "code": "2618S / 2619N",
+        "atb": "23/08/2026 20:15",
+        "etd": "24/08/2026 14:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "SITC NANSHA",
-        "code": "2618S / 2619N",
-        "eta": "23/08/2026 18:00",
-        "etd": "24/08/2026 14:00",
-        "openstack": "18/08/2026 14:00",
-        "closeC": "23/08/2026 08:00",
-        "closeD": "23/08/2026 11:00",
-        "verified": false
-      },
       {
         "name": "CMA CGM SAINTE ANNE",
         "code": "0XLC9S / 0XLCAN",
