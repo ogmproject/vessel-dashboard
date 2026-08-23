@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T15:00:48+00:00",
+  "generated_at": "2026-08-23T15:15:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -112,8 +112,7 @@
         "closeD": "25/08/2026 05:00",
         "verified": false,
         "mmsi": "370616000",
-        "imo": "9790062",
-        "location": "Java Sea"
+        "imo": "9790062"
       },
       {
         "name": "WAN HAI 311",
