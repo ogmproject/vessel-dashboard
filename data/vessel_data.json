@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T00:15:36+00:00",
+  "generated_at": "2026-08-23T00:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "CS2000S / CS2010N",
         "atb": "22/08/2026 19:26",
         "etd": "23/08/2026 15:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - WAN HAI 327",
-        "code": "S067 / N067",
-        "atb": "22/08/2026 16:50",
-        "etd": "23/08/2026 10:00",
         "verified": false
       },
       {
@@ -210,6 +203,14 @@
       }
     ],
     "movement": [
+      {
+        "name": "WAN HAI 327",
+        "berth": "22/08/2026 16:50",
+        "dep": "23/08/2026 07:25",
+        "mmsi": "563124300",
+        "imo": "9871490",
+        "location": "Java Sea"
+      },
       {
         "name": "MSC VAIGA III",
         "berth": "21/08/2026 11:50",

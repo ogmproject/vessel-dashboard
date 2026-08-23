@@ -283,8 +283,8 @@
     "vessel_name": "WAN HAI 327",
     "terminal": "TPS",
     "arrival": "2026-08-22T16:50:00",
-    "departure": null,
-    "recorded_at": "2026-08-22T10:16:08.983681"
+    "departure": "2026-08-23T07:25:00",
+    "recorded_at": "2026-08-23T00:30:45.358465"
   },
   {
     "vessel_name": "KOTA GANDING",
