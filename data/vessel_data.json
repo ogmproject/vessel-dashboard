@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T18:00:46+00:00",
+  "generated_at": "2026-08-23T18:15:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -36,7 +36,7 @@
         "name": "CMA CGM SAINTE ANNE",
         "code": "0XLC9S / 0XLCAN",
         "eta": "23/08/2026 21:00",
-        "etd": "25/08/2026 16:00",
+        "etd": "25/08/2026 10:00",
         "openstack": "15/08/2026 18:00",
         "closeC": "20/08/2026 12:00",
         "closeD": "20/08/2026 15:00",
@@ -326,15 +326,6 @@
         "type": "INTERNATIONAL",
         "atb": "22/08/2026 05:00",
         "etd": "23/08/2026 14:48"
-      },
-      {
-        "name": "TIANJIN VOYAGER",
-        "code": "TIIN017",
-        "voyage": "2607S        / 2607N",
-        "type": "INTERNATIONAL",
-        "carrier": "HEUNG A LINE CO., LTD.",
-        "atb": "21/08/2026 22:08",
-        "etd": "23/08/2026 01:05"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
