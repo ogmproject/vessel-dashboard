@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T10:55:07+00:00",
+  "generated_at": "2026-08-23T11:01:15+00:00",
   "tps": {
     "alongside": [
       {
@@ -145,8 +145,7 @@
         "closeD": "26/08/2026 09:00",
         "verified": false,
         "mmsi": "636016118",
-        "imo": "9204477",
-        "location": "Singapore Strait"
+        "imo": "9204477"
       },
       {
         "name": "CAPTAIN THANASIS I",
