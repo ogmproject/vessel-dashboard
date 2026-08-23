@@ -325,8 +325,8 @@
     "vessel_name": "SINAR SOLO",
     "terminal": "TPS",
     "arrival": "2026-08-23T17:20:00",
-    "departure": null,
-    "recorded_at": "2026-08-23T10:30:53.802648"
+    "departure": "2026-08-24T02:55:00",
+    "recorded_at": "2026-08-23T20:45:39.339812"
   },
   {
     "vessel_name": "SITC NANSHA",
