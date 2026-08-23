@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T08:15:40+00:00",
+  "generated_at": "2026-08-23T08:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -269,14 +269,6 @@
         "carrier": "PT ARUNIKA BAHARI MARITIM",
         "atb": "23/08/2026 08:25",
         "etd": "25/08/2026 23:59"
-      },
-      {
-        "name": "MERATUS KARIMUN",
-        "code": "MEIU021",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "23/08/2026 04:55",
-        "etd": "23/08/2026 14:00"
       }
     ],
     "schedule": [
