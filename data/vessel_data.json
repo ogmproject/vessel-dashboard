@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-08-23T21:45:35+00:00",
+  "generated_at": "2026-08-23T22:00:54+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - KOTA GANDING",
-        "code": "0536S / 0536N",
-        "atb": "22/08/2026 17:55",
-        "etd": "23/08/2026 23:59",
-        "verified": false
-      },
       {
         "name": "I1 - SITC NANSHA",
         "code": "2618S / 2619N",
@@ -185,6 +178,11 @@
         "name": "SINAR SOLO",
         "berth": "23/08/2026 17:20",
         "dep": "24/08/2026 02:55"
+      },
+      {
+        "name": "KOTA GANDING",
+        "berth": "22/08/2026 17:55",
+        "dep": "24/08/2026 00:04"
       },
       {
         "name": "AS PIA",
