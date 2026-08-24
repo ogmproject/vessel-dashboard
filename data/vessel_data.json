@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T04:15:35+00:00",
+  "generated_at": "2026-08-24T04:30:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -159,6 +159,19 @@
         "verified": false
       },
       {
+        "name": "INTERASIA ENGAGE",
+        "code": "S043 / N043",
+        "eta": "29/08/2026 13:00",
+        "etd": "30/08/2026 13:30",
+        "openstack": "24/08/2026 13:00",
+        "closeC": "29/08/2026 07:00",
+        "closeD": "29/08/2026 10:00",
+        "verified": false,
+        "mmsi": "563169200",
+        "imo": "9771664",
+        "location": "Eastern China Sea"
+      },
+      {
         "name": "ARTOTINA",
         "code": "632S / 635N",
         "eta": "29/08/2026 23:00",
@@ -167,6 +180,19 @@
         "closeC": "29/08/2026 17:00",
         "closeD": "29/08/2026 20:00",
         "verified": false
+      },
+      {
+        "name": "HYUNDAI UNITY",
+        "code": "0184S / 0184N",
+        "eta": "31/08/2026 00:00",
+        "etd": "01/09/2026 14:30",
+        "openstack": "26/08/2026 00:00",
+        "closeC": "30/08/2026 18:00",
+        "closeD": "30/08/2026 21:00",
+        "verified": false,
+        "mmsi": "538007483",
+        "imo": "9330719",
+        "location": "Eastern China Sea"
       },
       {
         "name": "KMTC SHANGHAI",
