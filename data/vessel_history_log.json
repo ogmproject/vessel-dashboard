@@ -339,8 +339,8 @@
     "vessel_name": "EVER OPTIMA",
     "terminal": "TPS",
     "arrival": "2026-08-24T07:10:00",
-    "departure": null,
-    "recorded_at": "2026-08-24T01:15:39.449436"
+    "departure": "2026-08-25T02:06:00",
+    "recorded_at": "2026-08-24T19:15:43.439140"
   },
   {
     "vessel_name": "SINAR BANDA",

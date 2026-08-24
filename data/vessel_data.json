@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:00:50+00:00",
+  "generated_at": "2026-08-24T19:15:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "SCY1203 / SCY1203",
         "atb": "24/08/2026 19:50",
         "etd": "25/08/2026 08:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - EVER OPTIMA",
-        "code": "0489-049S / 0489-049N",
-        "atb": "24/08/2026 07:10",
-        "etd": "25/08/2026 01:00",
         "verified": false
       },
       {
@@ -196,6 +189,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER OPTIMA",
+        "berth": "24/08/2026 07:10",
+        "dep": "25/08/2026 02:06"
+      },
       {
         "name": "SINAR BANDA",
         "berth": "24/08/2026 08:45",
