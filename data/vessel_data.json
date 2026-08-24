@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T05:45:40+00:00",
+  "generated_at": "2026-08-24T05:58:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -269,15 +269,6 @@
         "type": "INTERNATIONAL",
         "atb": "22/08/2026 05:00",
         "etd": "23/08/2026 14:48"
-      },
-      {
-        "name": "INDONESIA EXPRESS",
-        "code": "INEX001",
-        "voyage": "0            / 0",
-        "type": "INTERNATIONAL",
-        "carrier": "PT ARUNIKA BAHARI MARITIM",
-        "atb": "23/08/2026 08:25",
-        "etd": "25/08/2026 12:00"
       }
     ],
     "schedule": [
