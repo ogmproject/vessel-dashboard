@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T05:30:48+00:00",
+  "generated_at": "2026-08-24T05:45:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -53,16 +53,6 @@
         "verified": false
       },
       {
-        "name": "CMA CGM FORT DIAMANT",
-        "code": "0XLCBS / 0XLCCN",
-        "eta": "25/08/2026 00:01",
-        "etd": "26/08/2026 04:00",
-        "openstack": "18/08/2026 18:00",
-        "closeC": "23/08/2026 12:00",
-        "closeD": "23/08/2026 15:00",
-        "verified": false
-      },
-      {
         "name": "EVER BUILD",
         "code": "1202-088B / 1202-088B",
         "eta": "25/08/2026 06:00",
@@ -93,6 +83,16 @@
         "openstack": "19/08/2026 15:30",
         "closeC": "20/08/2026 12:00",
         "closeD": "20/08/2026 15:00",
+        "verified": false
+      },
+      {
+        "name": "CMA CGM FORT DIAMANT",
+        "code": "0XLCBS / 0XLCCN",
+        "eta": "26/08/2026 00:01",
+        "etd": "27/08/2026 12:31",
+        "openstack": "18/08/2026 18:00",
+        "closeC": "23/08/2026 12:00",
+        "closeD": "23/08/2026 15:00",
         "verified": false
       },
       {
