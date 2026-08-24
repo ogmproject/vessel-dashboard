@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T16:45:46+00:00",
+  "generated_at": "2026-08-24T17:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -238,24 +238,6 @@
         "name": "MSC VAIGA III",
         "berth": "21/08/2026 11:50",
         "dep": "23/08/2026 00:26"
-      },
-      {
-        "name": "EVER BLISS",
-        "berth": "21/08/2026 15:45",
-        "dep": "22/08/2026 18:15"
-      },
-      {
-        "name": "WAN HAI 375",
-        "berth": "21/08/2026 21:30",
-        "dep": "22/08/2026 15:42",
-        "mmsi": "563232800",
-        "imo": "9958121",
-        "location": "Makassar Strait"
-      },
-      {
-        "name": "EVER CONSIST",
-        "berth": "21/08/2026 22:55",
-        "dep": "22/08/2026 12:57"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
