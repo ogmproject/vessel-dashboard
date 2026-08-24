@@ -362,5 +362,12 @@
     "arrival": "2026-08-24T16:30:00",
     "departure": null,
     "recorded_at": "2026-08-24T09:45:45.253999"
+  },
+  {
+    "vessel_name": "AREZOO",
+    "terminal": "TPS",
+    "arrival": "2026-08-24T19:50:00",
+    "departure": null,
+    "recorded_at": "2026-08-24T13:15:43.033838"
   }
 ]

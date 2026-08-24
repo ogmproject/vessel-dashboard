@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T13:00:53+00:00",
+  "generated_at": "2026-08-24T13:15:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "0XLC9S / 0XLCAN",
         "atb": "24/08/2026 10:05",
         "etd": "25/08/2026 20:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - AREZOO",
+        "code": "SCY1203 / SCY1203",
+        "atb": "24/08/2026 19:50",
+        "etd": "25/08/2026 08:00",
         "verified": false
       },
       {
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "AREZOO",
-        "code": "SCY1203 / SCY1203",
-        "eta": "24/08/2026 18:00",
-        "etd": "25/08/2026 08:00",
-        "openstack": "18/08/2026 12:00",
-        "closeC": "23/08/2026 06:00",
-        "closeD": "23/08/2026 09:00",
-        "verified": false
-      },
       {
         "name": "EVER BUILD",
         "code": "1202-088B / 1202-088B",
