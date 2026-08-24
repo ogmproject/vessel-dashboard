@@ -355,5 +355,12 @@
     "arrival": "2026-08-24T10:05:00",
     "departure": null,
     "recorded_at": "2026-08-24T03:15:39.423409"
+  },
+  {
+    "vessel_name": "KOTA HIDAYAH",
+    "terminal": "TPS",
+    "arrival": "2026-08-24T16:30:00",
+    "departure": null,
+    "recorded_at": "2026-08-24T09:45:45.253999"
   }
 ]
