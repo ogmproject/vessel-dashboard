@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T16:15:40+00:00",
+  "generated_at": "2026-08-24T16:31:16+00:00",
   "tps": {
     "alongside": [
       {
@@ -85,8 +85,7 @@
         "closeD": "26/08/2026 09:00",
         "verified": false,
         "mmsi": "636016118",
-        "imo": "9204477",
-        "location": "South China Sea"
+        "imo": "9204477"
       },
       {
         "name": "CAPTAIN THANASIS I",
@@ -249,8 +248,7 @@
         "berth": "21/08/2026 21:30",
         "dep": "22/08/2026 15:42",
         "mmsi": "563232800",
-        "imo": "9958121",
-        "location": "Makassar Strait"
+        "imo": "9958121"
       },
       {
         "name": "EVER CONSIST",
