@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T09:00:48+00:00",
+  "generated_at": "2026-08-24T09:15:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -335,6 +335,17 @@
         "etd": "28/08/2026 04:30",
         "openstack": "22/08/2026 16:00",
         "closeC": "25/08/2026 15:00"
+      },
+      {
+        "name": "YM EFFICIENCY",
+        "code": "YMYM069",
+        "voyage": "206S         / 206N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "etb": "30/08/2026 01:00",
+        "etd": "31/08/2026 02:30",
+        "openstack": "25/08/2026 01:00",
+        "closeC": "29/08/2026 20:00"
       }
     ],
     "departed": [],
