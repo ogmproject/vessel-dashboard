@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T07:30:48+00:00",
+  "generated_at": "2026-08-24T07:45:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -280,6 +280,15 @@
         "etd": "25/08/2026 22:30",
         "openstack": "20/08/2026 00:00",
         "closeC": "25/08/2026 12:00"
+      },
+      {
+        "name": "PORT OSAKA",
+        "code": "POKA001",
+        "voyage": "0            / 0",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. BAHARI LAJU ANUGERAH",
+        "etb": "25/08/2026 16:00",
+        "etd": "25/08/2026 16:30"
       },
       {
         "name": "KMTC HOCHIMINH",
