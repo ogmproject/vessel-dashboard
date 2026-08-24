@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T10:15:42+00:00",
+  "generated_at": "2026-08-24T10:24:24+00:00",
   "tps": {
     "alongside": [
       {
@@ -343,6 +343,17 @@
         "etd": "31/08/2026 02:30",
         "openstack": "25/08/2026 01:00",
         "closeC": "29/08/2026 20:00"
+      },
+      {
+        "name": "SHANGHAI VOYAGER",
+        "code": "SHVO012",
+        "voyage": "2607S        / 2607N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "etb": "31/08/2026 02:00",
+        "etd": "01/09/2026 02:00",
+        "openstack": "26/08/2026 02:00",
+        "closeC": "30/08/2026 20:00"
       }
     ],
     "departed": [],
