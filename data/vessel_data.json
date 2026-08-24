@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T08:15:43+00:00",
+  "generated_at": "2026-08-24T08:30:08+00:00",
   "tps": {
     "alongside": [
       {
@@ -262,17 +262,6 @@
     "alongside": [],
     "schedule": [
       {
-        "name": "INTERASIA MOTIVATION",
-        "code": "INMO001",
-        "voyage": "E032         / W033",
-        "type": "INTERNATIONAL",
-        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
-        "etb": "25/08/2026 00:00",
-        "etd": "25/08/2026 22:30",
-        "openstack": "20/08/2026 00:00",
-        "closeC": "25/08/2026 12:00"
-      },
-      {
         "name": "PORT OSAKA",
         "code": "POKA001",
         "voyage": "0            / 0",
@@ -280,20 +269,6 @@
         "carrier": "PT. BAHARI LAJU ANUGERAH",
         "etb": "25/08/2026 16:00",
         "etd": "25/08/2026 16:30"
-      },
-      {
-        "name": "KMTC HOCHIMINH",
-        "code": "KMHO010",
-        "voyage": "2608S        / 2608N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "25/08/2026 21:00",
-        "etd": "25/08/2026 21:30",
-        "openstack": "20/08/2026 21:00",
-        "closeC": "25/08/2026 16:00",
-        "mmsi": "440147000",
-        "imo": "9314923",
-        "location": "Java Sea"
       },
       {
         "name": "HAPPY LUCKY",
@@ -305,6 +280,31 @@
         "etd": "25/08/2026 22:30",
         "openstack": "20/08/2026 22:00",
         "closeC": "25/08/2026 17:00"
+      },
+      {
+        "name": "KMTC HOCHIMINH",
+        "code": "KMHO010",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "etb": "26/08/2026 02:00",
+        "etd": "27/08/2026 01:00",
+        "openstack": "20/08/2026 21:00",
+        "closeC": "25/08/2026 16:00",
+        "mmsi": "440147000",
+        "imo": "9314923",
+        "location": "Java Sea"
+      },
+      {
+        "name": "INTERASIA MOTIVATION",
+        "code": "INMO001",
+        "voyage": "E032         / W033",
+        "type": "INTERNATIONAL",
+        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
+        "etb": "26/08/2026 03:00",
+        "etd": "27/08/2026 00:00",
+        "openstack": "20/08/2026 00:00",
+        "closeC": "25/08/2026 12:00"
       },
       {
         "name": "2633S",
@@ -337,16 +337,7 @@
         "closeC": "25/08/2026 15:00"
       }
     ],
-    "departed": [
-      {
-        "name": "MERATUS KARIMUN",
-        "code": "MEIU021",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "23/08/2026 04:55",
-        "etd": "23/08/2026 15:17"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
