@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T01:30:43+00:00",
+  "generated_at": "2026-08-24T01:45:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -19,6 +19,16 @@
     ],
     "schedule": [
       {
+        "name": "CMA CGM SAINTE ANNE",
+        "code": "0XLC9S / 0XLCAN",
+        "eta": "23/08/2026 21:00",
+        "etd": "25/08/2026 20:00",
+        "openstack": "15/08/2026 18:00",
+        "closeC": "20/08/2026 12:00",
+        "closeD": "20/08/2026 15:00",
+        "verified": false
+      },
+      {
         "name": "KOTA HIDAYAH",
         "code": "2626S / 2626S",
         "eta": "24/08/2026 08:00",
@@ -26,16 +36,6 @@
         "openstack": "19/08/2026 12:00",
         "closeC": "24/08/2026 06:00",
         "closeD": "24/08/2026 09:00",
-        "verified": false
-      },
-      {
-        "name": "CMA CGM SAINTE ANNE",
-        "code": "0XLC9S / 0XLCAN",
-        "eta": "24/08/2026 09:00",
-        "etd": "25/08/2026 16:30",
-        "openstack": "15/08/2026 18:00",
-        "closeC": "20/08/2026 12:00",
-        "closeD": "20/08/2026 15:00",
         "verified": false
       },
       {
