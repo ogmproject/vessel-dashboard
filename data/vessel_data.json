@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-24T02:00:48+00:00",
+  "generated_at": "2026-08-24T02:15:37+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I3 - SINAR BANDA",
+        "code": "2640S / 2640N",
+        "atb": "24/08/2026 08:45",
+        "etd": "24/08/2026 23:30",
+        "verified": false
+      },
       {
         "name": "I2 - EVER OPTIMA",
         "code": "0489-049S / 0489-049N",
@@ -36,16 +43,6 @@
         "openstack": "19/08/2026 12:00",
         "closeC": "24/08/2026 06:00",
         "closeD": "24/08/2026 09:00",
-        "verified": false
-      },
-      {
-        "name": "SINAR BANDA",
-        "code": "2640S / 2640N",
-        "eta": "24/08/2026 09:00",
-        "etd": "24/08/2026 23:30",
-        "openstack": "17/08/2026 21:00",
-        "closeC": "22/08/2026 15:00",
-        "closeD": "22/08/2026 18:00",
         "verified": false
       },
       {
