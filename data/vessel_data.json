@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T07:45:43+00:00",
+  "generated_at": "2026-08-24T08:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -259,16 +259,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "XIN YANG PU",
-        "code": "XIPU005",
-        "voyage": "204E         / 205W",
-        "type": "INTERNATIONAL",
-        "atb": "22/08/2026 05:00",
-        "etd": "23/08/2026 14:48"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "INTERASIA MOTIVATION",
