@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:00:53+00:00",
+  "generated_at": "2026-08-24T12:15:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "0XLC9S / 0XLCAN",
         "atb": "24/08/2026 10:05",
         "etd": "25/08/2026 20:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - SINAR BANDA",
-        "code": "2640S / 2640N",
-        "atb": "24/08/2026 08:45",
-        "etd": "24/08/2026 23:30",
         "verified": false
       },
       {
@@ -196,6 +189,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SINAR BANDA",
+        "berth": "24/08/2026 08:45",
+        "dep": "24/08/2026 18:55"
+      },
       {
         "name": "SITC NANSHA",
         "berth": "23/08/2026 20:15",
