@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:31:01+00:00",
+  "generated_at": "2026-08-24T06:45:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -249,7 +249,8 @@
         "berth": "21/08/2026 21:30",
         "dep": "22/08/2026 15:42",
         "mmsi": "563232800",
-        "imo": "9958121"
+        "imo": "9958121",
+        "location": "Makassar Strait"
       },
       {
         "name": "EVER CONSIST",
