@@ -360,8 +360,8 @@
     "vessel_name": "KOTA HIDAYAH",
     "terminal": "TPS",
     "arrival": "2026-08-24T16:30:00",
-    "departure": null,
-    "recorded_at": "2026-08-24T09:45:45.253999"
+    "departure": "2026-08-25T02:24:00",
+    "recorded_at": "2026-08-24T19:45:38.417340"
   },
   {
     "vessel_name": "AREZOO",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:30:45+00:00",
+  "generated_at": "2026-08-24T19:45:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "SCY1203 / SCY1203",
         "atb": "24/08/2026 19:50",
         "etd": "25/08/2026 08:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - KOTA HIDAYAH",
-        "code": "2626S / 2626S",
-        "atb": "24/08/2026 16:30",
-        "etd": "25/08/2026 01:30",
         "verified": false
       }
     ],
@@ -189,6 +182,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "KOTA HIDAYAH",
+        "berth": "24/08/2026 16:30",
+        "dep": "25/08/2026 02:24"
+      },
       {
         "name": "EVER OPTIMA",
         "berth": "24/08/2026 07:10",
