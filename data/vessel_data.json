@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T05:01:18+00:00",
+  "generated_at": "2026-08-25T05:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -131,7 +131,8 @@
         "closeD": "29/08/2026 10:00",
         "verified": false,
         "mmsi": "563169200",
-        "imo": "9771664"
+        "imo": "9771664",
+        "location": "Eastern China Sea"
       },
       {
         "name": "ARTOTINA",
@@ -153,7 +154,8 @@
         "closeD": "30/08/2026 21:00",
         "verified": false,
         "mmsi": "538007483",
-        "imo": "9330719"
+        "imo": "9330719",
+        "location": "Singapore Strait"
       },
       {
         "name": "KMTC SHANGHAI",
@@ -237,8 +239,8 @@
         "voyage": "0            / 0",
         "type": "INTERNATIONAL",
         "carrier": "PT. BAHARI LAJU ANUGERAH",
-        "etb": "25/08/2026 16:00",
-        "etd": "25/08/2026 16:30"
+        "etb": "25/08/2026 20:30",
+        "etd": "28/08/2026 03:00"
       },
       {
         "name": "HAPPY LUCKY",
