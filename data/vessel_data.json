@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:15:38+00:00",
+  "generated_at": "2026-08-25T12:30:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -248,7 +248,17 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
+    "alongside": [
+      {
+        "name": "INDONESIA EXPRESS",
+        "code": "INEX001",
+        "voyage": "0            / 0",
+        "type": "INTERNATIONAL",
+        "carrier": "PT ARUNIKA BAHARI MARITIM",
+        "atb": "23/08/2026 08:25",
+        "etd": "25/08/2026 17:45"
+      }
+    ],
     "schedule": [
       {
         "name": "PORT OSAKA",
