@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T10:45:36+00:00",
+  "generated_at": "2026-08-25T11:01:04+00:00",
   "tps": {
     "alongside": [
       {
@@ -335,6 +335,16 @@
         "etd": "31/08/2026 02:30",
         "openstack": "25/08/2026 01:00",
         "closeC": "29/08/2026 20:00"
+      },
+      {
+        "name": "ITAL BONNY",
+        "code": "ITNY009",
+        "voyage": "S104         / N104",
+        "type": "INTERNATIONAL",
+        "etb": "31/08/2026 00:00",
+        "etd": "01/08/2026 00:00",
+        "openstack": "26/08/2026 00:00",
+        "closeC": "30/08/2026 19:00"
       },
       {
         "name": "SHANGHAI VOYAGER",
