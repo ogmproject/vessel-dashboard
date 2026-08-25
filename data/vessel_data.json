@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T13:01:05+00:00",
+  "generated_at": "2026-08-25T13:15:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -128,7 +128,8 @@
         "closeD": "29/08/2026 10:00",
         "verified": false,
         "mmsi": "563169200",
-        "imo": "9771664"
+        "imo": "9771664",
+        "location": "Eastern China Sea"
       },
       {
         "name": "ARTOTINA",
