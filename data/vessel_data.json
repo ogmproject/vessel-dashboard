@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T21:00:47+00:00",
+  "generated_at": "2026-08-25T21:15:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -235,15 +235,6 @@
         "carrier": "PT ARUNIKA BAHARI MARITIM",
         "atb": "23/08/2026 08:25",
         "etd": "25/08/2026 17:45"
-      },
-      {
-        "name": "PORT OSAKA",
-        "code": "POKA001",
-        "voyage": "0            / 0",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. BAHARI LAJU ANUGERAH",
-        "atb": "25/08/2026 21:30",
-        "etd": "28/08/2026 03:00"
       }
     ],
     "schedule": [
