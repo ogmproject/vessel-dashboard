@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T09:00:47+00:00",
+  "generated_at": "2026-08-25T09:15:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -142,6 +142,16 @@
         "verified": false
       },
       {
+        "name": "CMA CGM POINTE DU PITON",
+        "code": "0XLCDS / 0XLCEN",
+        "eta": "30/08/2026 16:00",
+        "etd": "01/09/2026 12:30",
+        "openstack": "25/08/2026 16:00",
+        "closeC": "30/08/2026 10:00",
+        "closeD": "30/08/2026 13:00",
+        "verified": false
+      },
+      {
         "name": "HYUNDAI UNITY",
         "code": "0184S / 0184N",
         "eta": "31/08/2026 00:00",
@@ -153,6 +163,16 @@
         "mmsi": "538007483",
         "imo": "9330719",
         "location": "Singapore Strait"
+      },
+      {
+        "name": "HONG TAI 656",
+        "code": "635N / 635N",
+        "eta": "31/08/2026 06:00",
+        "etd": "02/09/2026 14:30",
+        "openstack": "02/09/2026 00:00",
+        "closeC": "06/09/2026 18:00",
+        "closeD": "06/09/2026 21:00",
+        "verified": false
       },
       {
         "name": "KMTC SHANGHAI",
@@ -303,7 +323,7 @@
         "etb": "27/08/2026 16:00",
         "etd": "28/08/2026 04:30",
         "openstack": "22/08/2026 16:00",
-        "closeC": "25/08/2026 15:00"
+        "closeC": "27/08/2026 12:00"
       },
       {
         "name": "YM EFFICIENCY",
