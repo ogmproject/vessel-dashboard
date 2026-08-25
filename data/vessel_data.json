@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-08-25T13:30:42+00:00",
+  "generated_at": "2026-08-25T13:45:37+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - CMA CGM SAINTE ANNE",
-        "code": "0XLC9S / 0XLCAN",
-        "atb": "24/08/2026 10:05",
-        "etd": "25/08/2026 20:00",
-        "verified": false
-      },
       {
         "name": "I3 - ES TREASURE",
         "code": "633S / 633S",
@@ -186,6 +179,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "CMA CGM SAINTE ANNE",
+        "berth": "24/08/2026 10:05",
+        "dep": "25/08/2026 20:25"
+      },
       {
         "name": "AREZOO",
         "berth": "24/08/2026 19:50",

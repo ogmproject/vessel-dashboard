@@ -353,8 +353,8 @@
     "vessel_name": "CMA CGM SAINTE ANNE",
     "terminal": "TPS",
     "arrival": "2026-08-24T10:05:00",
-    "departure": null,
-    "recorded_at": "2026-08-24T03:15:39.423409"
+    "departure": "2026-08-25T20:25:00",
+    "recorded_at": "2026-08-25T13:45:37.756510"
   },
   {
     "vessel_name": "KOTA HIDAYAH",
