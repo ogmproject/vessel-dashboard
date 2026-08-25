@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:31:56+00:00",
+  "generated_at": "2026-08-25T07:45:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -48,7 +48,8 @@
         "closeD": "26/08/2026 09:00",
         "verified": false,
         "mmsi": "636016118",
-        "imo": "9204477"
+        "imo": "9204477",
+        "location": "Java Sea"
       },
       {
         "name": "WAN HAI 311",
@@ -130,7 +131,8 @@
         "closeD": "29/08/2026 10:00",
         "verified": false,
         "mmsi": "563169200",
-        "imo": "9771664"
+        "imo": "9771664",
+        "location": "Eastern China Sea"
       },
       {
         "name": "ARTOTINA",
@@ -152,7 +154,8 @@
         "closeD": "30/08/2026 21:00",
         "verified": false,
         "mmsi": "538007483",
-        "imo": "9330719"
+        "imo": "9330719",
+        "location": "Singapore Strait"
       },
       {
         "name": "KMTC SHANGHAI",
@@ -216,7 +219,8 @@
         "berth": "22/08/2026 16:50",
         "dep": "23/08/2026 07:25",
         "mmsi": "563124300",
-        "imo": "9871490"
+        "imo": "9871490",
+        "location": "Java Sea"
       },
       {
         "name": "MSC VAIGA III",
@@ -271,7 +275,8 @@
         "openstack": "20/08/2026 21:00",
         "closeC": "25/08/2026 16:00",
         "mmsi": "440147000",
-        "imo": "9314923"
+        "imo": "9314923",
+        "location": "Java Sea"
       },
       {
         "name": "2633S",
