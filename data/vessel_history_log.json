@@ -374,8 +374,8 @@
     "vessel_name": "EVER BUILD",
     "terminal": "TPS",
     "arrival": "2026-08-25T07:15:00",
-    "departure": null,
-    "recorded_at": "2026-08-25T00:30:48.165693"
+    "departure": "2026-08-25T21:13:00",
+    "recorded_at": "2026-08-25T14:28:54.988463"
   },
   {
     "vessel_name": "ES TREASURE",
