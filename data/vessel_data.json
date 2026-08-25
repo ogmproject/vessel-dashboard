@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T03:16:01+00:00",
+  "generated_at": "2026-08-25T03:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -162,7 +162,7 @@
         "verified": false,
         "mmsi": "538007483",
         "imo": "9330719",
-        "location": "South China Sea"
+        "location": "Singapore Strait"
       },
       {
         "name": "KMTC SHANGHAI",
