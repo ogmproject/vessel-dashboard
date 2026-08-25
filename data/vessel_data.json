@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T23:00:47+00:00",
+  "generated_at": "2026-08-25T23:15:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -15,22 +15,16 @@
         "atb": "25/08/2026 15:50",
         "etd": "26/08/2026 06:30",
         "verified": false
+      },
+      {
+        "name": "I1 - JOANNA",
+        "code": "091S / 091N",
+        "atb": "26/08/2026 06:05",
+        "etd": "28/08/2026 00:30",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "JOANNA",
-        "code": "091S / 091N",
-        "eta": "26/08/2026 06:00",
-        "etd": "28/08/2026 00:30",
-        "openstack": "21/08/2026 12:00",
-        "closeC": "26/08/2026 06:00",
-        "closeD": "26/08/2026 09:00",
-        "verified": false,
-        "mmsi": "636016118",
-        "imo": "9204477",
-        "location": "Java Sea"
-      },
       {
         "name": "WAN HAI 311",
         "code": "S258 / N259",
