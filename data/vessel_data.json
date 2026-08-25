@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T04:45:37+00:00",
+  "generated_at": "2026-08-25T05:01:18+00:00",
   "tps": {
     "alongside": [
       {
@@ -131,8 +131,7 @@
         "closeD": "29/08/2026 10:00",
         "verified": false,
         "mmsi": "563169200",
-        "imo": "9771664",
-        "location": "Eastern China Sea"
+        "imo": "9771664"
       },
       {
         "name": "ARTOTINA",
@@ -154,8 +153,7 @@
         "closeD": "30/08/2026 21:00",
         "verified": false,
         "mmsi": "538007483",
-        "imo": "9330719",
-        "location": "Singapore Strait"
+        "imo": "9330719"
       },
       {
         "name": "KMTC SHANGHAI",
