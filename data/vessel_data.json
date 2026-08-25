@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T08:45:37+00:00",
+  "generated_at": "2026-08-25T09:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "0XLC9S / 0XLCAN",
         "atb": "24/08/2026 10:05",
         "etd": "25/08/2026 20:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - ES TREASURE",
+        "code": "633S / 633S",
+        "atb": "25/08/2026 15:50",
+        "etd": "26/08/2026 11:30",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "ES TREASURE",
-        "code": "633S / 633S",
-        "eta": "25/08/2026 15:00",
-        "etd": "26/08/2026 11:30",
-        "openstack": "19/08/2026 15:30",
-        "closeC": "20/08/2026 12:00",
-        "closeD": "20/08/2026 15:00",
-        "verified": false
-      },
       {
         "name": "CMA CGM FORT DIAMANT",
         "code": "0XLCBS / 0XLCCN",
@@ -243,17 +240,6 @@
         "etd": "28/08/2026 03:00"
       },
       {
-        "name": "HAPPY LUCKY",
-        "code": "HAKY009",
-        "voyage": "2632S        / 2632N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. FORECASTLE INDONESIA",
-        "etb": "25/08/2026 22:00",
-        "etd": "25/08/2026 22:30",
-        "openstack": "20/08/2026 22:00",
-        "closeC": "25/08/2026 17:00"
-      },
-      {
         "name": "INTERASIA MOTIVATION",
         "code": "INMO001",
         "voyage": "E032         / W033",
@@ -297,6 +283,17 @@
         "etd": "28/08/2026 14:30",
         "openstack": "22/08/2026 04:00",
         "closeC": "26/08/2026 23:00"
+      },
+      {
+        "name": "HAPPY LUCKY",
+        "code": "HAKY009",
+        "voyage": "2632S        / 2632N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. FORECASTLE INDONESIA",
+        "etb": "27/08/2026 12:00",
+        "etd": "28/08/2026 06:00",
+        "openstack": "22/08/2026 12:00",
+        "closeC": "25/08/2026 17:00"
       },
       {
         "name": "MERATUS KUMAI",
