@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T13:45:37+00:00",
+  "generated_at": "2026-08-25T14:01:14+00:00",
   "tps": {
     "alongside": [
       {
@@ -38,8 +38,7 @@
         "closeD": "26/08/2026 09:00",
         "verified": false,
         "mmsi": "636016118",
-        "imo": "9204477",
-        "location": "Java Sea"
+        "imo": "9204477"
       },
       {
         "name": "WAN HAI 311",
@@ -284,8 +283,8 @@
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "26/08/2026 10:00",
-        "etd": "27/08/2026 09:00",
+        "etb": "26/08/2026 09:00",
+        "etd": "27/08/2026 08:00",
         "openstack": "20/08/2026 21:00",
         "closeC": "25/08/2026 16:00",
         "mmsi": "440147000",
