@@ -383,5 +383,12 @@
     "arrival": "2026-08-25T15:50:00",
     "departure": null,
     "recorded_at": "2026-08-25T09:00:48.036755"
+  },
+  {
+    "vessel_name": "PORT OSAKA",
+    "terminal": "TL",
+    "arrival": "2026-08-25T21:30:00",
+    "departure": null,
+    "recorded_at": "2026-08-25T17:30:46.110969"
   }
 ]
