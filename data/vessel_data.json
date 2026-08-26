@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T01:00:44+00:00",
+  "generated_at": "2026-08-26T01:15:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -327,6 +327,20 @@
         "etd": "01/09/2026 02:00",
         "openstack": "26/08/2026 02:00",
         "closeC": "30/08/2026 20:00"
+      },
+      {
+        "name": "YM CENTENNIAL",
+        "code": "YMAL006",
+        "voyage": "070S         / 070N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "etb": "31/08/2026 10:00",
+        "etd": "01/08/2026 10:00",
+        "openstack": "26/08/2026 10:00",
+        "closeC": "31/08/2026 05:00",
+        "mmsi": "636019895",
+        "imo": "9864538",
+        "location": "Eastern China Sea"
       }
     ],
     "departed": [],
