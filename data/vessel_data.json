@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T08:15:38+00:00",
+  "generated_at": "2026-08-26T08:30:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -275,8 +275,8 @@
         "voyage": "2632S        / 2632N",
         "type": "INTERNATIONAL",
         "carrier": "PT. FORECASTLE INDONESIA",
-        "etb": "27/08/2026 14:00",
-        "etd": "28/08/2026 06:00",
+        "etb": "27/08/2026 13:00",
+        "etd": "28/08/2026 05:00",
         "openstack": "22/08/2026 12:00",
         "closeC": "25/08/2026 17:00"
       },
