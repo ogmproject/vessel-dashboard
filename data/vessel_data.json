@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T14:45:44+00:00",
+  "generated_at": "2026-08-26T15:00:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -251,22 +251,12 @@
         "closeC": "27/08/2026 00:00"
       },
       {
-        "name": "COSCO HOUSTON",
-        "code": "COHO051",
-        "voyage": "142S         / 142N",
-        "type": "INTERNATIONAL",
-        "etb": "27/08/2026 04:00",
-        "etd": "28/08/2026 14:30",
-        "openstack": "22/08/2026 04:00",
-        "closeC": "26/08/2026 23:00"
-      },
-      {
         "name": "MERATUS KUMAI",
         "code": "MEKM012",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "27/08/2026 05:00",
-        "etd": "28/08/2026 11:00",
+        "etb": "27/08/2026 04:00",
+        "etd": "28/08/2026 10:00",
         "openstack": "22/08/2026 16:00",
         "closeC": "27/08/2026 12:00"
       },
@@ -280,6 +270,16 @@
         "etd": "28/08/2026 05:00",
         "openstack": "22/08/2026 12:00",
         "closeC": "25/08/2026 17:00"
+      },
+      {
+        "name": "COSCO HOUSTON",
+        "code": "COHO051",
+        "voyage": "142S         / 142N",
+        "type": "INTERNATIONAL",
+        "etb": "27/08/2026 23:00",
+        "etd": "29/08/2026 06:00",
+        "openstack": "22/08/2026 04:00",
+        "closeC": "26/08/2026 23:00"
       },
       {
         "name": "YM EFFICIENCY",
