@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T14:30:45+00:00",
+  "generated_at": "2026-08-26T14:45:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -149,6 +149,16 @@
         "openstack": "27/08/2026 18:00",
         "closeC": "01/09/2026 12:00",
         "closeD": "01/09/2026 15:00",
+        "verified": false
+      },
+      {
+        "name": "MSC SHIVALIKA III",
+        "code": "HV636R / HV636R",
+        "eta": "02/09/2026 02:00",
+        "etd": "03/09/2026 08:30",
+        "openstack": "28/08/2026 02:00",
+        "closeC": "01/09/2026 20:00",
+        "closeD": "01/09/2026 23:00",
         "verified": false
       }
     ],
