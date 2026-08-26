@@ -416,8 +416,8 @@
     "vessel_name": "WAN HAI 311",
     "terminal": "TPS",
     "arrival": "2026-08-26T08:30:00",
-    "departure": null,
-    "recorded_at": "2026-08-26T01:45:42.825869"
+    "departure": "2026-08-27T04:34:00",
+    "recorded_at": "2026-08-26T21:45:36.637201"
   },
   {
     "vessel_name": "KMTC HOCHIMINH",
