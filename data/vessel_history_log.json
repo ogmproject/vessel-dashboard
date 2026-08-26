@@ -409,8 +409,8 @@
     "vessel_name": "INTERASIA MOTIVATION",
     "terminal": "TL",
     "arrival": "2026-08-26T07:00:00",
-    "departure": null,
-    "recorded_at": "2026-08-26T00:15:35.436995"
+    "departure": "2026-08-27T03:52:00",
+    "recorded_at": "2026-08-26T21:00:44.788654"
   },
   {
     "vessel_name": "WAN HAI 311",

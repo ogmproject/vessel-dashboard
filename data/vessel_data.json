@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T20:45:50+00:00",
+  "generated_at": "2026-08-26T21:00:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -200,20 +200,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "KMTC HOCHIMINH",
-        "code": "KMHO010",
-        "voyage": "2608S        / 2608N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "26/08/2026 09:15",
-        "etd": "27/08/2026 11:00",
-        "mmsi": "440147000",
-        "imo": "9314923",
-        "location": "Java Sea"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "2633S",
@@ -303,7 +290,17 @@
         "location": "Eastern China Sea"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "INTERASIA MOTIVATION",
+        "code": "INMO001",
+        "voyage": "E032         / W033",
+        "type": "INTERNATIONAL",
+        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
+        "atb": "26/08/2026 07:00",
+        "etd": "27/08/2026 03:52"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
