@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T02:00:47+00:00",
+  "generated_at": "2026-08-26T02:15:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -332,7 +332,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
         "etb": "31/08/2026 10:00",
-        "etd": "01/08/2026 10:00",
+        "etd": "01/09/2026 10:00",
         "openstack": "26/08/2026 10:00",
         "closeC": "31/08/2026 05:00",
         "mmsi": "636019895",
