@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T01:30:41+00:00",
+  "generated_at": "2026-08-26T01:45:41+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - CMA CGM FORT DIAMANT",
         "code": "0XLCBS / 0XLCCN",
         "atb": "26/08/2026 03:30",
-        "etd": "27/08/2026 23:00",
+        "etd": "27/08/2026 14:00",
         "verified": false
       },
       {
@@ -14,6 +14,13 @@
         "code": "633S / 633S",
         "atb": "25/08/2026 15:50",
         "etd": "26/08/2026 06:30",
+        "verified": false
+      },
+      {
+        "name": "I2 - WAN HAI 311",
+        "code": "S258 / N259",
+        "atb": "26/08/2026 08:30",
+        "etd": "27/08/2026 00:00",
         "verified": false
       },
       {
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "WAN HAI 311",
-        "code": "S258 / N259",
-        "eta": "26/08/2026 08:00",
-        "etd": "27/08/2026 00:00",
-        "openstack": "20/08/2026 10:00",
-        "closeC": "25/08/2026 04:00",
-        "closeD": "25/08/2026 07:00",
-        "verified": false
-      },
       {
         "name": "CAPTAIN THANASIS I",
         "code": "HC631A / HC633R",
