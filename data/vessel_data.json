@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T00:15:35+00:00",
+  "generated_at": "2026-08-26T00:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -237,7 +237,7 @@
         "type": "INTERNATIONAL",
         "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
         "atb": "26/08/2026 07:00",
-        "etd": "27/08/2026 02:00"
+        "etd": "27/08/2026 03:00"
       }
     ],
     "schedule": [
