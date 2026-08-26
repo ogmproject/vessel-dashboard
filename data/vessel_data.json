@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T00:00:46+00:00",
+  "generated_at": "2026-08-26T00:15:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -229,20 +229,18 @@
         "carrier": "PT ARUNIKA BAHARI MARITIM",
         "atb": "23/08/2026 08:25",
         "etd": "25/08/2026 17:45"
-      }
-    ],
-    "schedule": [
+      },
       {
         "name": "INTERASIA MOTIVATION",
         "code": "INMO001",
         "voyage": "E032         / W033",
         "type": "INTERNATIONAL",
         "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
-        "etb": "26/08/2026 05:00",
-        "etd": "27/08/2026 02:00",
-        "openstack": "20/08/2026 00:00",
-        "closeC": "25/08/2026 16:00"
-      },
+        "atb": "26/08/2026 07:00",
+        "etd": "27/08/2026 02:00"
+      }
+    ],
+    "schedule": [
       {
         "name": "KMTC HOCHIMINH",
         "code": "KMHO010",

@@ -404,5 +404,12 @@
     "arrival": "2026-08-26T06:05:00",
     "departure": null,
     "recorded_at": "2026-08-25T23:15:34.262852"
+  },
+  {
+    "vessel_name": "INTERASIA MOTIVATION",
+    "terminal": "TL",
+    "arrival": "2026-08-26T07:00:00",
+    "departure": null,
+    "recorded_at": "2026-08-26T00:15:35.436995"
   }
 ]
