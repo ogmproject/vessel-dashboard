@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:45:41+00:00",
+  "generated_at": "2026-08-26T17:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -195,31 +195,6 @@
         "name": "EVER OPTIMA",
         "berth": "24/08/2026 07:10",
         "dep": "25/08/2026 02:06"
-      },
-      {
-        "name": "SINAR BANDA",
-        "berth": "24/08/2026 08:45",
-        "dep": "24/08/2026 18:55"
-      },
-      {
-        "name": "SITC NANSHA",
-        "berth": "23/08/2026 20:15",
-        "dep": "24/08/2026 13:52"
-      },
-      {
-        "name": "MYD ZHANGZHOU",
-        "berth": "22/08/2026 19:26",
-        "dep": "24/08/2026 04:33"
-      },
-      {
-        "name": "SINAR SOLO",
-        "berth": "23/08/2026 17:20",
-        "dep": "24/08/2026 02:55"
-      },
-      {
-        "name": "KOTA GANDING",
-        "berth": "22/08/2026 17:55",
-        "dep": "24/08/2026 00:04"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
