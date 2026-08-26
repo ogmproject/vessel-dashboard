@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T07:15:36+00:00",
+  "generated_at": "2026-08-26T07:30:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -36,16 +36,6 @@
         "verified": false
       },
       {
-        "name": "HONG TAI 656",
-        "code": "634S / 634S",
-        "eta": "27/08/2026 18:00",
-        "etd": "28/08/2026 14:30",
-        "openstack": "24/08/2026 18:00",
-        "closeC": "27/08/2026 12:00",
-        "closeD": "27/08/2026 15:00",
-        "verified": false
-      },
-      {
         "name": "SINAR SULAWESI",
         "code": "093S / 093N",
         "eta": "27/08/2026 20:00",
@@ -73,6 +63,16 @@
         "openstack": "24/08/2026 02:00",
         "closeC": "28/08/2026 20:00",
         "closeD": "28/08/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "HONG TAI 656",
+        "code": "634S / 634S",
+        "eta": "29/08/2026 08:00",
+        "etd": "30/08/2026 04:00",
+        "openstack": "24/08/2026 18:00",
+        "closeC": "27/08/2026 12:00",
+        "closeD": "27/08/2026 15:00",
         "verified": false
       },
       {
@@ -109,16 +109,6 @@
         "location": "Eastern China Sea"
       },
       {
-        "name": "CMA CGM POINTE DU PITON",
-        "code": "0XLCDS / 0XLCEN",
-        "eta": "30/08/2026 16:00",
-        "etd": "01/09/2026 12:30",
-        "openstack": "25/08/2026 16:00",
-        "closeC": "30/08/2026 10:00",
-        "closeD": "30/08/2026 13:00",
-        "verified": false
-      },
-      {
         "name": "HYUNDAI UNITY",
         "code": "0184S / 0184N",
         "eta": "31/08/2026 00:01",
@@ -130,6 +120,16 @@
         "mmsi": "538007483",
         "imo": "9330719",
         "location": "Singapore Strait"
+      },
+      {
+        "name": "CMA CGM POINTE DU PITON",
+        "code": "0XLCDS / 0XLCEN",
+        "eta": "01/09/2026 01:00",
+        "etd": "02/09/2026 08:00",
+        "openstack": "25/08/2026 16:00",
+        "closeC": "30/08/2026 10:00",
+        "closeD": "30/08/2026 13:00",
+        "verified": false
       },
       {
         "name": "HONG TAI 656",
@@ -225,8 +225,7 @@
         "atb": "26/08/2026 09:15",
         "etd": "27/08/2026 11:00",
         "mmsi": "440147000",
-        "imo": "9314923",
-        "location": "Java Sea"
+        "imo": "9314923"
       },
       {
         "name": "INTERASIA MOTIVATION",
