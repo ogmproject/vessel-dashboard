@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T07:30:58+00:00",
+  "generated_at": "2026-08-26T07:45:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -225,7 +225,8 @@
         "atb": "26/08/2026 09:15",
         "etd": "27/08/2026 11:00",
         "mmsi": "440147000",
-        "imo": "9314923"
+        "imo": "9314923",
+        "location": "Java Sea"
       },
       {
         "name": "INTERASIA MOTIVATION",
