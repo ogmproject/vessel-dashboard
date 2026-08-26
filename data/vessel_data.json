@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T02:45:39+00:00",
+  "generated_at": "2026-08-26T03:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -234,7 +234,7 @@
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
         "atb": "26/08/2026 09:15",
-        "etd": "27/08/2026 08:00",
+        "etd": "27/08/2026 11:00",
         "mmsi": "440147000",
         "imo": "9314923",
         "location": "Java Sea"
@@ -271,25 +271,25 @@
         "closeC": "26/08/2026 23:00"
       },
       {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM012",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "27/08/2026 05:00",
+        "etd": "28/08/2026 11:00",
+        "openstack": "22/08/2026 16:00",
+        "closeC": "27/08/2026 12:00"
+      },
+      {
         "name": "HAPPY LUCKY",
         "code": "HAKY009",
         "voyage": "2632S        / 2632N",
         "type": "INTERNATIONAL",
         "carrier": "PT. FORECASTLE INDONESIA",
-        "etb": "27/08/2026 12:00",
-        "etd": "28/08/2026 06:00",
+        "etb": "27/08/2026 14:00",
+        "etd": "28/08/2026 08:00",
         "openstack": "22/08/2026 12:00",
         "closeC": "25/08/2026 17:00"
-      },
-      {
-        "name": "MERATUS KUMAI",
-        "code": "MEKM012",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "27/08/2026 16:00",
-        "etd": "28/08/2026 04:30",
-        "openstack": "22/08/2026 16:00",
-        "closeC": "27/08/2026 12:00"
       },
       {
         "name": "YM EFFICIENCY",
