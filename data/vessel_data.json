@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T04:15:38+00:00",
+  "generated_at": "2026-08-26T04:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "0XLCBS / 0XLCCN",
         "atb": "26/08/2026 03:30",
         "etd": "27/08/2026 14:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - ES TREASURE",
-        "code": "633S / 633S",
-        "atb": "25/08/2026 15:50",
-        "etd": "26/08/2026 06:30",
         "verified": false
       },
       {
@@ -161,6 +154,11 @@
     ],
     "movement": [
       {
+        "name": "ES TREASURE",
+        "berth": "25/08/2026 15:50",
+        "dep": "26/08/2026 11:03"
+      },
+      {
         "name": "EVER BUILD",
         "berth": "25/08/2026 07:15",
         "dep": "25/08/2026 21:13",
@@ -218,15 +216,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "INDONESIA EXPRESS",
-        "code": "INEX001",
-        "voyage": "0            / 0",
-        "type": "INTERNATIONAL",
-        "carrier": "PT ARUNIKA BAHARI MARITIM",
-        "atb": "23/08/2026 08:25",
-        "etd": "25/08/2026 17:45"
-      },
       {
         "name": "KMTC HOCHIMINH",
         "code": "KMHO010",

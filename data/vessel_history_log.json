@@ -381,8 +381,8 @@
     "vessel_name": "ES TREASURE",
     "terminal": "TPS",
     "arrival": "2026-08-25T15:50:00",
-    "departure": null,
-    "recorded_at": "2026-08-25T09:00:48.036755"
+    "departure": "2026-08-26T11:03:00",
+    "recorded_at": "2026-08-26T04:30:42.399394"
   },
   {
     "vessel_name": "PORT OSAKA",
