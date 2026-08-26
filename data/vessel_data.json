@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T02:15:40+00:00",
+  "generated_at": "2026-08-26T02:30:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -228,6 +228,18 @@
         "etd": "25/08/2026 17:45"
       },
       {
+        "name": "KMTC HOCHIMINH",
+        "code": "KMHO010",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "26/08/2026 09:15",
+        "etd": "27/08/2026 08:00",
+        "mmsi": "440147000",
+        "imo": "9314923",
+        "location": "Java Sea"
+      },
+      {
         "name": "INTERASIA MOTIVATION",
         "code": "INMO001",
         "voyage": "E032         / W033",
@@ -238,20 +250,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "KMTC HOCHIMINH",
-        "code": "KMHO010",
-        "voyage": "2608S        / 2608N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "26/08/2026 09:00",
-        "etd": "27/08/2026 08:00",
-        "openstack": "20/08/2026 21:00",
-        "closeC": "25/08/2026 16:00",
-        "mmsi": "440147000",
-        "imo": "9314923",
-        "location": "Java Sea"
-      },
       {
         "name": "2633S",
         "code": "2633N",
