@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T12:00:58+00:00",
+  "generated_at": "2026-08-27T12:15:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -248,14 +248,6 @@
         "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
         "atb": "26/08/2026 07:00",
         "etd": "27/08/2026 03:52"
-      },
-      {
-        "name": "MERATUS KUMAI",
-        "code": "MEKM012",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "27/08/2026 07:00",
-        "etd": "28/08/2026 13:00"
       }
     ],
     "schedule": [
