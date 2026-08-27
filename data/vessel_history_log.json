@@ -423,8 +423,8 @@
     "vessel_name": "KMTC HOCHIMINH",
     "terminal": "TL",
     "arrival": "2026-08-26T09:15:00",
-    "departure": null,
-    "recorded_at": "2026-08-26T02:30:44.983255"
+    "departure": "2026-08-27T11:52:00",
+    "recorded_at": "2026-08-27T05:15:40.392816"
   },
   {
     "vessel_name": "MERATUS KUMAI",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T05:00:51+00:00",
+  "generated_at": "2026-08-27T05:15:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -298,6 +298,18 @@
       }
     ],
     "departed": [
+      {
+        "name": "KMTC HOCHIMINH",
+        "code": "KMHO010",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "26/08/2026 09:15",
+        "etd": "27/08/2026 11:52",
+        "mmsi": "440147000",
+        "imo": "9314923",
+        "location": "Java Sea"
+      },
       {
         "name": "INTERASIA MOTIVATION",
         "code": "INMO001",
