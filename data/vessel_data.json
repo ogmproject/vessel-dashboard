@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T10:15:41+00:00",
+  "generated_at": "2026-08-27T10:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -344,7 +344,7 @@
         "etb": "02/09/2026 01:00",
         "etd": "03/09/2026 11:30",
         "openstack": "28/08/2026 01:00",
-        "closeC": "30/08/2026 07:00",
+        "closeC": "01/09/2026 19:00",
         "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik.",
         "mmsi": "352006269",
         "imo": "1115565",
