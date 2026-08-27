@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-27T09:15:40+00:00",
+  "generated_at": "2026-08-27T09:30:47+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I3 - CAPTAIN THANASIS I",
         "code": "HC631A / HC633R",
         "atb": "27/08/2026 09:10",
-        "etd": "28/08/2026 08:00",
+        "etd": "28/08/2026 05:00",
         "verified": false
       },
       {
         "name": "I1 - JOANNA",
         "code": "091S / 091N",
         "atb": "26/08/2026 06:05",
-        "etd": "27/08/2026 19:00",
+        "etd": "27/08/2026 20:00",
         "verified": false
       }
     ],
