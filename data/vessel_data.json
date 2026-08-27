@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T16:45:46+00:00",
+  "generated_at": "2026-08-27T17:01:00+00:00",
   "tps": {
     "alongside": [
       {
@@ -207,34 +207,6 @@
         "name": "ES TREASURE",
         "berth": "25/08/2026 15:50",
         "dep": "26/08/2026 11:03"
-      },
-      {
-        "name": "EVER BUILD",
-        "berth": "25/08/2026 07:15",
-        "dep": "25/08/2026 21:13",
-        "mmsi": "370616000",
-        "imo": "9790062",
-        "location": "Java Sea"
-      },
-      {
-        "name": "CMA CGM SAINTE ANNE",
-        "berth": "24/08/2026 10:05",
-        "dep": "25/08/2026 20:25"
-      },
-      {
-        "name": "AREZOO",
-        "berth": "24/08/2026 19:50",
-        "dep": "25/08/2026 10:36"
-      },
-      {
-        "name": "KOTA HIDAYAH",
-        "berth": "24/08/2026 16:30",
-        "dep": "25/08/2026 02:24"
-      },
-      {
-        "name": "EVER OPTIMA",
-        "berth": "24/08/2026 07:10",
-        "dep": "25/08/2026 02:06"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
