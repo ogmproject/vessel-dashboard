@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T14:30:47+00:00",
+  "generated_at": "2026-08-27T14:45:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "HC631A / HC633R",
         "atb": "27/08/2026 09:10",
         "etd": "28/08/2026 00:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - JOANNA",
-        "code": "091S / 091N",
-        "atb": "26/08/2026 06:05",
-        "etd": "27/08/2026 20:00",
         "verified": false
       }
     ],
@@ -192,6 +185,14 @@
       }
     ],
     "movement": [
+      {
+        "name": "JOANNA",
+        "berth": "26/08/2026 06:05",
+        "dep": "27/08/2026 21:22",
+        "mmsi": "636016118",
+        "imo": "9204477",
+        "location": "Java Sea"
+      },
       {
         "name": "CMA CGM FORT DIAMANT",
         "berth": "26/08/2026 03:30",
