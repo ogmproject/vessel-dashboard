@@ -439,5 +439,12 @@
     "arrival": "2026-08-27T09:10:00",
     "departure": "2026-08-28T01:20:00",
     "recorded_at": "2026-08-27T18:30:54.271172"
+  },
+  {
+    "vessel_name": "HAPPY LUCKY",
+    "terminal": "TL",
+    "arrival": "2026-08-28T01:39:00",
+    "departure": null,
+    "recorded_at": "2026-08-27T18:45:43.987864"
   }
 ]

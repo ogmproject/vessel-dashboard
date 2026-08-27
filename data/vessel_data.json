@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T18:30:54+00:00",
+  "generated_at": "2026-08-27T18:45:43+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -218,20 +218,18 @@
         "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
         "atb": "26/08/2026 07:00",
         "etd": "27/08/2026 03:52"
-      }
-    ],
-    "schedule": [
+      },
       {
         "name": "HAPPY LUCKY",
         "code": "HAKY009",
         "voyage": "2632S        / 2632N",
         "type": "INTERNATIONAL",
         "carrier": "PT. FORECASTLE INDONESIA",
-        "etb": "28/08/2026 01:30",
-        "etd": "28/08/2026 18:00",
-        "openstack": "22/08/2026 12:00",
-        "closeC": "25/08/2026 17:00"
-      },
+        "atb": "28/08/2026 01:39",
+        "etd": "28/08/2026 18:00"
+      }
+    ],
+    "schedule": [
       {
         "name": "COSCO HOUSTON",
         "code": "COHO051",
