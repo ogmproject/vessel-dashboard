@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T07:31:00+00:00",
+  "generated_at": "2026-08-27T07:45:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -179,7 +179,8 @@
         "berth": "25/08/2026 07:15",
         "dep": "25/08/2026 21:13",
         "mmsi": "370616000",
-        "imo": "9790062"
+        "imo": "9790062",
+        "location": "Java Sea"
       },
       {
         "name": "CMA CGM SAINTE ANNE",
