@@ -1,15 +1,7 @@
 {
-  "generated_at": "2026-08-27T18:15:55+00:00",
+  "generated_at": "2026-08-27T18:30:54+00:00",
   "tps": {
-    "alongside": [
-      {
-        "name": "I3 - CAPTAIN THANASIS I",
-        "code": "HC631A / HC633R",
-        "atb": "27/08/2026 09:10",
-        "etd": "28/08/2026 00:00",
-        "verified": false
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "SINAR SULAWESI",
@@ -185,6 +177,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "CAPTAIN THANASIS I",
+        "berth": "27/08/2026 09:10",
+        "dep": "28/08/2026 01:20"
+      },
       {
         "name": "JOANNA",
         "berth": "26/08/2026 06:05",
