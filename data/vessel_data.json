@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T09:30:47+00:00",
+  "generated_at": "2026-08-27T09:45:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -241,6 +241,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "INTERASIA MOTIVATION",
+        "code": "INMO001",
+        "voyage": "E032         / W033",
+        "type": "INTERNATIONAL",
+        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
+        "atb": "26/08/2026 07:00",
+        "etd": "27/08/2026 03:52"
+      },
+      {
         "name": "MERATUS KUMAI",
         "code": "MEKM012",
         "type": "INTERNATIONAL",
@@ -354,15 +363,6 @@
         "mmsi": "440147000",
         "imo": "9314923",
         "location": "Java Sea"
-      },
-      {
-        "name": "INTERASIA MOTIVATION",
-        "code": "INMO001",
-        "voyage": "E032         / W033",
-        "type": "INTERNATIONAL",
-        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
-        "atb": "26/08/2026 07:00",
-        "etd": "27/08/2026 03:52"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
