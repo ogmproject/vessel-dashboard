@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T06:01:08+00:00",
+  "generated_at": "2026-08-27T06:15:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -291,7 +291,8 @@
         "openstack": "26/08/2026 10:00",
         "closeC": "31/08/2026 05:00",
         "mmsi": "636019895",
-        "imo": "9864538"
+        "imo": "9864538",
+        "location": "Eastern China Sea"
       }
     ],
     "departed": [
