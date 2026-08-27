@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T00:00:53+00:00",
+  "generated_at": "2026-08-27T00:15:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -198,7 +198,16 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
+    "alongside": [
+      {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM012",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "27/08/2026 07:00",
+        "etd": "28/08/2026 13:00"
+      }
+    ],
     "schedule": [
       {
         "name": "2633S",
@@ -209,16 +218,6 @@
         "etd": "28/08/2026 19:30",
         "openstack": "22/08/2026 00:00",
         "closeC": "27/08/2026 00:00"
-      },
-      {
-        "name": "MERATUS KUMAI",
-        "code": "MEKM012",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "27/08/2026 07:00",
-        "etd": "28/08/2026 13:00",
-        "openstack": "22/08/2026 16:00",
-        "closeC": "27/08/2026 12:00"
       },
       {
         "name": "HAPPY LUCKY",
