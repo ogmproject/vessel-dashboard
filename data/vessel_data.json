@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T03:00:46+00:00",
+  "generated_at": "2026-08-27T03:15:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -112,6 +112,19 @@
         "location": "South China Sea"
       },
       {
+        "name": "SITC BATANGAS",
+        "code": "2616S / 2617N",
+        "eta": "01/09/2026 00:00",
+        "etd": "01/09/2026 14:30",
+        "openstack": "27/08/2026 00:00",
+        "closeC": "31/08/2026 18:00",
+        "closeD": "31/08/2026 21:00",
+        "verified": false,
+        "mmsi": "477401900",
+        "imo": "9845738",
+        "location": "South China Sea"
+      },
+      {
         "name": "CMA CGM POINTE DU PITON",
         "code": "0XLCDS / 0XLCEN",
         "eta": "01/09/2026 01:00",
@@ -207,23 +220,13 @@
     ],
     "schedule": [
       {
-        "name": "2633S",
-        "code": "2633N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "27/08/2026 00:00",
-        "etd": "28/08/2026 19:30",
-        "openstack": "22/08/2026 00:00",
-        "closeC": "27/08/2026 00:00"
-      },
-      {
         "name": "HAPPY LUCKY",
         "code": "HAKY009",
         "voyage": "2632S        / 2632N",
         "type": "INTERNATIONAL",
         "carrier": "PT. FORECASTLE INDONESIA",
-        "etb": "27/08/2026 13:00",
-        "etd": "28/08/2026 05:00",
+        "etb": "27/08/2026 23:00",
+        "etd": "28/08/2026 15:00",
         "openstack": "22/08/2026 12:00",
         "closeC": "25/08/2026 17:00"
       },
@@ -232,10 +235,20 @@
         "code": "COHO051",
         "voyage": "142S         / 142N",
         "type": "INTERNATIONAL",
-        "etb": "27/08/2026 23:00",
-        "etd": "29/08/2026 06:00",
+        "etb": "28/08/2026 15:00",
+        "etd": "29/08/2026 22:00",
         "openstack": "22/08/2026 04:00",
         "closeC": "27/08/2026 14:00"
+      },
+      {
+        "name": "2633S",
+        "code": "2633N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "29/08/2026 09:00",
+        "etd": "30/08/2026 07:00",
+        "openstack": "22/08/2026 00:00",
+        "closeC": "27/08/2026 00:00"
       },
       {
         "name": "YM EFFICIENCY",
