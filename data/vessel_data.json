@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T07:45:38+00:00",
+  "generated_at": "2026-08-27T08:15:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -103,6 +103,39 @@
         "mmsi": "538007483",
         "imo": "9330719",
         "location": "South China Sea"
+      },
+      {
+        "name": "EVER CANDID",
+        "code": "0550-089S / 0550-089N",
+        "eta": "31/08/2026 12:00",
+        "etd": "01/09/2026 08:30",
+        "openstack": "26/08/2026 12:00",
+        "closeC": "31/08/2026 06:00",
+        "closeD": "31/08/2026 09:00",
+        "verified": false
+      },
+      {
+        "name": "EVER BOOMY",
+        "code": "1206-093A / 1206-093A",
+        "eta": "31/08/2026 16:00",
+        "etd": "01/09/2026 13:30",
+        "openstack": "26/08/2026 16:00",
+        "closeC": "31/08/2026 10:00",
+        "closeD": "31/08/2026 13:00",
+        "verified": false,
+        "mmsi": "370700000",
+        "imo": "9787015",
+        "location": "South China Sea"
+      },
+      {
+        "name": "EVER BEFIT",
+        "code": "1203-081B / 1203-081B",
+        "eta": "31/08/2026 20:00",
+        "etd": "02/09/2026 10:30",
+        "openstack": "27/08/2026 20:00",
+        "closeC": "31/08/2026 14:00",
+        "closeD": "31/08/2026 17:00",
+        "verified": false
       },
       {
         "name": "SITC BATANGAS",
