@@ -1,18 +1,16 @@
 {
-  "generated_at": "2026-08-27T19:15:42+00:00",
+  "generated_at": "2026-08-27T19:30:50+00:00",
   "tps": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
-        "name": "SINAR SULAWESI",
+        "name": "I2 - SINAR SULAWESI",
         "code": "093S / 093N",
-        "eta": "28/08/2026 00:01",
+        "atb": "28/08/2026 02:25",
         "etd": "29/08/2026 06:00",
-        "openstack": "22/08/2026 10:00",
-        "closeC": "27/08/2026 04:00",
-        "closeD": "27/08/2026 07:00",
         "verified": false
-      },
+      }
+    ],
+    "schedule": [
       {
         "name": "ES TREASURE",
         "code": "634N / 634N",
