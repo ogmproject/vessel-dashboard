@@ -395,8 +395,8 @@
     "vessel_name": "CMA CGM FORT DIAMANT",
     "terminal": "TPS",
     "arrival": "2026-08-26T03:30:00",
-    "departure": null,
-    "recorded_at": "2026-08-25T20:45:38.510318"
+    "departure": "2026-08-27T12:38:00",
+    "recorded_at": "2026-08-27T06:01:08.098944"
   },
   {
     "vessel_name": "JOANNA",

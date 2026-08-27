@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-08-27T05:45:42+00:00",
+  "generated_at": "2026-08-27T06:01:08+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - CMA CGM FORT DIAMANT",
-        "code": "0XLCBS / 0XLCCN",
-        "atb": "26/08/2026 03:30",
-        "etd": "27/08/2026 14:00",
-        "verified": false
-      },
       {
         "name": "I3 - CAPTAIN THANASIS I",
         "code": "HC631A / HC633R",
@@ -167,6 +160,11 @@
     ],
     "movement": [
       {
+        "name": "CMA CGM FORT DIAMANT",
+        "berth": "26/08/2026 03:30",
+        "dep": "27/08/2026 12:38"
+      },
+      {
         "name": "WAN HAI 311",
         "berth": "26/08/2026 08:30",
         "dep": "27/08/2026 04:34"
@@ -293,8 +291,7 @@
         "openstack": "26/08/2026 10:00",
         "closeC": "31/08/2026 05:00",
         "mmsi": "636019895",
-        "imo": "9864538",
-        "location": "Eastern China Sea"
+        "imo": "9864538"
       }
     ],
     "departed": [
