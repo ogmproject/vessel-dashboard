@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T23:15:43+00:00",
+  "generated_at": "2026-08-28T23:30:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -342,8 +342,7 @@
         "openstack": "29/08/2026 06:00",
         "closeC": "02/09/2026 03:00",
         "mmsi": "538011074",
-        "imo": "9969948",
-        "location": "Singapore Strait"
+        "imo": "9969948"
       }
     ],
     "departed": [
