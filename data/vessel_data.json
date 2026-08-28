@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:45:52+00:00",
+  "generated_at": "2026-08-28T17:00:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,7 +13,7 @@
         "name": "I2 - SINAR SULAWESI",
         "code": "093S / 093N",
         "atb": "28/08/2026 02:25",
-        "etd": "29/08/2026 07:00",
+        "etd": "29/08/2026 08:00",
         "verified": false
       }
     ],
@@ -230,11 +230,6 @@
         "name": "WAN HAI 311",
         "berth": "26/08/2026 08:30",
         "dep": "27/08/2026 04:34"
-      },
-      {
-        "name": "ES TREASURE",
-        "berth": "25/08/2026 15:50",
-        "dep": "26/08/2026 11:03"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
