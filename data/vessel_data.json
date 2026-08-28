@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T08:45:42+00:00",
+  "generated_at": "2026-08-28T09:00:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -315,9 +315,9 @@
         "code": "CEUS011",
         "voyage": "033E         / 034W",
         "type": "INTERNATIONAL",
-        "etb": "02/09/2026 08:00",
-        "etd": "02/09/2026 08:30",
-        "openstack": "28/08/2026 08:00",
+        "etb": "03/09/2026 06:00",
+        "etd": "04/09/2026 14:30",
+        "openstack": "29/08/2026 06:00",
         "closeC": "02/09/2026 03:00",
         "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik.",
         "mmsi": "538011074",
