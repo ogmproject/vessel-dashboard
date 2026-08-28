@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T04:45:44+00:00",
+  "generated_at": "2026-08-28T05:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -220,20 +220,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "KMTC HOCHIMINH",
-        "code": "KMHO010",
-        "voyage": "2608S        / 2608N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "26/08/2026 09:15",
-        "etd": "27/08/2026 11:52",
-        "mmsi": "440147000",
-        "imo": "9314923",
-        "location": "Java Sea"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "COSCO HOUSTON",
