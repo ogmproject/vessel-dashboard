@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T06:45:50+00:00",
+  "generated_at": "2026-08-28T07:00:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -191,9 +191,9 @@
         "code": "2627S / 2627S",
         "eta": "02/09/2026 20:00",
         "etd": "03/09/2026 12:30",
-        "openstack": "15/01/2027 00:00",
-        "closeC": "19/01/2027 18:00",
-        "closeD": "19/01/2027 21:00",
+        "openstack": "28/08/2026 20:00",
+        "closeC": "02/08/2026 14:00",
+        "closeD": "02/08/2026 17:00",
         "verified": false
       }
     ],
@@ -230,18 +230,17 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "COSCO HOUSTON",
         "code": "COHO051",
         "voyage": "142S         / 142N",
         "type": "INTERNATIONAL",
-        "etb": "28/08/2026 14:00",
-        "etd": "29/08/2026 21:00",
-        "openstack": "22/08/2026 04:00",
-        "closeC": "27/08/2026 14:00"
-      },
+        "atb": "28/08/2026 13:56",
+        "etd": "29/08/2026 21:00"
+      }
+    ],
+    "schedule": [
       {
         "name": "2633S",
         "code": "2633N",
