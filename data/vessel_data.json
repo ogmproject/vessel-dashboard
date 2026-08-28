@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T12:01:00+00:00",
+  "generated_at": "2026-08-28T12:15:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -245,6 +245,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM012",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "27/08/2026 07:00",
+        "etd": "28/08/2026 11:12"
+      },
+      {
         "name": "COSCO HOUSTON",
         "code": "COHO051",
         "voyage": "142S         / 142N",
@@ -347,16 +355,7 @@
         "location": "Singapore Strait"
       }
     ],
-    "departed": [
-      {
-        "name": "MERATUS KUMAI",
-        "code": "MEKM012",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "27/08/2026 07:00",
-        "etd": "28/08/2026 11:12"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
