@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T08:30:46+00:00",
+  "generated_at": "2026-08-28T08:45:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -306,10 +306,23 @@
         "etd": "03/09/2026 11:30",
         "openstack": "28/08/2026 01:00",
         "closeC": "01/09/2026 19:00",
-        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik.",
         "mmsi": "352006269",
         "imo": "1115565",
         "location": "South China Sea"
+      },
+      {
+        "name": "CELSIUS EINDHOVEN",
+        "code": "CEUS011",
+        "voyage": "033E         / 034W",
+        "type": "INTERNATIONAL",
+        "etb": "02/09/2026 08:00",
+        "etd": "02/09/2026 08:30",
+        "openstack": "28/08/2026 08:00",
+        "closeC": "02/09/2026 03:00",
+        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik.",
+        "mmsi": "538011074",
+        "imo": "9969948",
+        "location": "Singapore Strait"
       }
     ],
     "departed": [
