@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T09:00:58+00:00",
+  "generated_at": "2026-08-28T09:15:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -185,6 +185,19 @@
         "closeC": "01/09/2026 20:00",
         "closeD": "01/09/2026 23:00",
         "verified": false
+      },
+      {
+        "name": "JOANNA",
+        "code": "092S / 092N",
+        "eta": "02/09/2026 14:00",
+        "etd": "04/09/2026 05:30",
+        "openstack": "28/08/2026 08:00",
+        "closeC": "02/09/2026 02:00",
+        "closeD": "02/09/2026 05:00",
+        "verified": false,
+        "mmsi": "636016118",
+        "imo": "9204477",
+        "location": "Java Sea"
       },
       {
         "name": "SIMAG SHANGHAI",
