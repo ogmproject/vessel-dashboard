@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T07:00:52+00:00",
+  "generated_at": "2026-08-28T07:15:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -246,8 +246,8 @@
         "code": "2633N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "29/08/2026 09:00",
-        "etd": "30/08/2026 07:00",
+        "etb": "29/08/2026 09:30",
+        "etd": "30/08/2026 08:00",
         "openstack": "22/08/2026 00:00",
         "closeC": "27/08/2026 23:00"
       },
