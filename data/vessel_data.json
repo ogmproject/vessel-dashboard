@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T09:30:49+00:00",
+  "generated_at": "2026-08-28T09:45:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -191,9 +191,9 @@
         "code": "092S / 092N",
         "eta": "02/09/2026 14:00",
         "etd": "04/09/2026 05:30",
-        "openstack": "28/08/2026 08:00",
-        "closeC": "02/09/2026 02:00",
-        "closeD": "02/09/2026 05:00",
+        "openstack": "28/08/2026 14:00",
+        "closeC": "02/09/2026 08:00",
+        "closeD": "02/09/2026 11:00",
         "verified": false,
         "mmsi": "636016118",
         "imo": "9204477",
@@ -324,6 +324,16 @@
         "location": "South China Sea"
       },
       {
+        "name": "HALLEY",
+        "code": "HALY008",
+        "voyage": "015E         / 016W",
+        "type": "INTERNATIONAL",
+        "etb": "02/09/2026 16:00",
+        "etd": "02/09/2026 16:30",
+        "openstack": "28/08/2026 16:00",
+        "closeC": "02/09/2026 11:00"
+      },
+      {
         "name": "CELSIUS EINDHOVEN",
         "code": "CEUS011",
         "voyage": "033E         / 034W",
@@ -332,7 +342,6 @@
         "etd": "04/09/2026 14:30",
         "openstack": "29/08/2026 06:00",
         "closeC": "02/09/2026 03:00",
-        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik.",
         "mmsi": "538011074",
         "imo": "9969948",
         "location": "Singapore Strait"
