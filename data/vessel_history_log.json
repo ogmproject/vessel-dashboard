@@ -430,8 +430,8 @@
     "vessel_name": "MERATUS KUMAI",
     "terminal": "TL",
     "arrival": "2026-08-27T07:00:00",
-    "departure": null,
-    "recorded_at": "2026-08-27T00:15:34.616543"
+    "departure": "2026-08-28T11:12:00",
+    "recorded_at": "2026-08-28T04:30:56.548134"
   },
   {
     "vessel_name": "CAPTAIN THANASIS I",
