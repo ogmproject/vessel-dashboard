@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T03:30:46+00:00",
+  "generated_at": "2026-08-28T03:45:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -142,6 +142,19 @@
         "closeC": "30/08/2026 10:00",
         "closeD": "30/08/2026 13:00",
         "verified": false
+      },
+      {
+        "name": "XIN YAN TAI",
+        "code": "273S / 273N",
+        "eta": "01/09/2026 08:00",
+        "etd": "02/09/2026 14:30",
+        "openstack": "27/08/2026 08:00",
+        "closeC": "01/09/2026 02:00",
+        "closeD": "01/09/2026 05:00",
+        "verified": false,
+        "mmsi": "413125000",
+        "imo": "9304801",
+        "location": "South China Sea"
       },
       {
         "name": "HONG TAI 656",
