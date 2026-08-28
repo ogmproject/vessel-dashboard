@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T15:01:26+00:00",
+  "generated_at": "2026-08-28T15:15:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -128,7 +128,7 @@
         "verified": false,
         "mmsi": "477401900",
         "imo": "9845738",
-        "location": "South China Sea"
+        "location": "Java Sea"
       },
       {
         "name": "CMA CGM POINTE DU PITON",
@@ -193,7 +193,8 @@
         "closeD": "02/09/2026 11:00",
         "verified": false,
         "mmsi": "636016118",
-        "imo": "9204477"
+        "imo": "9204477",
+        "location": "Java Sea"
       },
       {
         "name": "SIMAG SHANGHAI",
