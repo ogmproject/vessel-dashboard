@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T14:45:48+00:00",
+  "generated_at": "2026-08-28T15:01:26+00:00",
   "tps": {
     "alongside": [
       {
@@ -193,8 +193,7 @@
         "closeD": "02/09/2026 11:00",
         "verified": false,
         "mmsi": "636016118",
-        "imo": "9204477",
-        "location": "Java Sea"
+        "imo": "9204477"
       },
       {
         "name": "SIMAG SHANGHAI",
