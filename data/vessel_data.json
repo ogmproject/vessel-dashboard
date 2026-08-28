@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T14:00:58+00:00",
+  "generated_at": "2026-08-28T14:15:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -154,7 +154,7 @@
         "verified": false,
         "mmsi": "413125000",
         "imo": "9304801",
-        "location": "South China Sea"
+        "location": "Java Sea"
       },
       {
         "name": "HONG TAI 656",
