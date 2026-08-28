@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T13:01:43+00:00",
+  "generated_at": "2026-08-28T13:15:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -221,7 +221,8 @@
         "berth": "26/08/2026 06:05",
         "dep": "27/08/2026 21:22",
         "mmsi": "636016118",
-        "imo": "9204477"
+        "imo": "9204477",
+        "location": "Java Sea"
       },
       {
         "name": "CMA CGM FORT DIAMANT",
@@ -314,7 +315,8 @@
         "openstack": "26/08/2026 10:00",
         "closeC": "31/08/2026 05:00",
         "mmsi": "636019895",
-        "imo": "9864538"
+        "imo": "9864538",
+        "location": "Eastern China Sea"
       },
       {
         "name": "WAN HANG HENG YUAN",
