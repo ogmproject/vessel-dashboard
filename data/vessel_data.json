@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T18:45:47+00:00",
+  "generated_at": "2026-08-28T19:02:20+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "634N / 634N",
         "atb": "28/08/2026 21:28",
         "etd": "29/08/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - MSC TARA III",
+        "code": "HV635R / HV635R",
+        "atb": "29/08/2026 01:35",
+        "etd": "29/08/2026 20:00",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MSC TARA III",
-        "code": "HV635R / HV635R",
-        "eta": "28/08/2026 23:59",
-        "etd": "29/08/2026 20:00",
-        "openstack": "24/08/2026 02:00",
-        "closeC": "28/08/2026 20:00",
-        "closeD": "28/08/2026 23:00",
-        "verified": false
-      },
       {
         "name": "HONG TAI 656",
         "code": "634S / 634S",

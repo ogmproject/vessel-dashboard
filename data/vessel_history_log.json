@@ -467,5 +467,12 @@
     "arrival": "2026-08-28T21:28:00",
     "departure": null,
     "recorded_at": "2026-08-28T14:45:48.139406"
+  },
+  {
+    "vessel_name": "MSC TARA III",
+    "terminal": "TPS",
+    "arrival": "2026-08-29T01:35:00",
+    "departure": null,
+    "recorded_at": "2026-08-28T19:02:20.443057"
   }
 ]
