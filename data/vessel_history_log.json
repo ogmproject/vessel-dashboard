@@ -474,5 +474,12 @@
     "arrival": "2026-08-29T01:35:00",
     "departure": null,
     "recorded_at": "2026-08-28T19:02:20.443057"
+  },
+  {
+    "vessel_name": "2633S",
+    "terminal": "TL",
+    "arrival": "2026-08-29T13:37:00",
+    "departure": null,
+    "recorded_at": "2026-08-29T07:00:57.727378"
   }
 ]

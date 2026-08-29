@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T06:45:45+00:00",
+  "generated_at": "2026-08-29T07:00:57+00:00",
   "tps": {
     "alongside": [
       {
@@ -249,19 +249,17 @@
         "carrier": "PT. FORECASTLE INDONESIA",
         "atb": "28/08/2026 01:39",
         "etd": "28/08/2026 22:51"
-      }
-    ],
-    "schedule": [
+      },
       {
         "name": "2633S",
         "code": "2633N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "29/08/2026 09:30",
-        "etd": "30/08/2026 06:00",
-        "openstack": "22/08/2026 00:00",
-        "closeC": "27/08/2026 23:00"
-      },
+        "atb": "29/08/2026 13:37",
+        "etd": "30/08/2026 06:00"
+      }
+    ],
+    "schedule": [
       {
         "name": "YM EFFICIENCY",
         "code": "YMYM069",
