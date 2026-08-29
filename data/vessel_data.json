@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T19:00:55+00:00",
+  "generated_at": "2026-08-29T19:15:04+00:00",
   "tps": {
     "alongside": [
       {
@@ -15,19 +15,16 @@
         "atb": "29/08/2026 20:10",
         "etd": "30/08/2026 13:00",
         "verified": false
+      },
+      {
+        "name": "I1 - HONG TAI 656",
+        "code": "634S / 634S",
+        "atb": "30/08/2026 02:02",
+        "etd": "30/08/2026 18:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "HONG TAI 656",
-        "code": "634S / 634S",
-        "eta": "29/08/2026 19:00",
-        "etd": "30/08/2026 18:00",
-        "openstack": "24/08/2026 18:00",
-        "closeC": "27/08/2026 12:00",
-        "closeD": "27/08/2026 15:00",
-        "verified": false
-      },
       {
         "name": "INTERASIA ENGAGE",
         "code": "S043 / N043",

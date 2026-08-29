@@ -1,4 +1,16 @@
 {
-  "generated_at": "2026-08-29T19:00:55.999700",
-  "predictions": []
+  "generated_at": "2026-08-29T19:15:04.413725",
+  "predictions": [
+    {
+      "vessel_name": "HONG TAI 656",
+      "terminal": "TPS",
+      "last_arrival": "2026-08-30T02:02:00",
+      "predicted_next_arrival": "2026-09-06T04:13:00",
+      "avg_interval_days": 7.1,
+      "interval_stddev_days": 3.1,
+      "avg_dwelling_hours": 18.1,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    }
+  ]
 }
