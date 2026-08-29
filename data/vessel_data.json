@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T05:45:43+00:00",
+  "generated_at": "2026-08-29T06:00:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "HV635R / HV635R",
         "atb": "29/08/2026 01:35",
         "etd": "29/08/2026 20:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - SINAR SULAWESI",
-        "code": "093S / 093N",
-        "atb": "28/08/2026 02:25",
-        "etd": "29/08/2026 12:00",
         "verified": false
       }
     ],
@@ -215,6 +208,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SINAR SULAWESI",
+        "berth": "28/08/2026 02:25",
+        "dep": "29/08/2026 12:35"
+      },
       {
         "name": "CAPTAIN THANASIS I",
         "berth": "27/08/2026 09:10",

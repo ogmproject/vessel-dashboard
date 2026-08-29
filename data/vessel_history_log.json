@@ -451,8 +451,8 @@
     "vessel_name": "SINAR SULAWESI",
     "terminal": "TPS",
     "arrival": "2026-08-28T02:25:00",
-    "departure": null,
-    "recorded_at": "2026-08-27T19:30:50.748429"
+    "departure": "2026-08-29T12:35:00",
+    "recorded_at": "2026-08-29T06:00:58.637840"
   },
   {
     "vessel_name": "COSCO HOUSTON",
