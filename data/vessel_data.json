@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T08:45:50+00:00",
+  "generated_at": "2026-08-29T09:00:57+00:00",
   "tps": {
     "alongside": [
       {
@@ -341,6 +341,30 @@
         "mmsi": "538011074",
         "imo": "9969948",
         "location": "Singapore Strait"
+      },
+      {
+        "name": "BELAWAN",
+        "code": "BEAN013",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "etb": "03/09/2026 21:00",
+        "etd": "04/09/2026 21:00",
+        "openstack": "29/08/2026 21:00",
+        "closeC": "03/09/2026 16:00",
+        "mmsi": "477883500",
+        "imo": "9412828"
+      },
+      {
+        "name": "KMTC YOKOHAMA",
+        "code": "KMHA030",
+        "voyage": "2608E        / 2609W",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "etb": "04/09/2026 12:00",
+        "etd": "05/09/2026 12:00",
+        "openstack": "30/08/2026 12:00",
+        "closeC": "04/09/2026 07:00"
       }
     ],
     "departed": [],
