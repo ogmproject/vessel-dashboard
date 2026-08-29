@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:45:45+00:00",
+  "generated_at": "2026-08-29T01:01:00+00:00",
   "tps": {
     "alongside": [
       {
@@ -191,7 +191,7 @@
         "verified": false,
         "mmsi": "636016118",
         "imo": "9204477",
-        "location": "Java Sea"
+        "location": "South China Sea"
       },
       {
         "name": "SIMAG SHANGHAI",
