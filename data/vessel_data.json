@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T01:01:00+00:00",
+  "generated_at": "2026-08-29T01:15:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -226,7 +226,7 @@
         "dep": "27/08/2026 21:22",
         "mmsi": "636016118",
         "imo": "9204477",
-        "location": "Java Sea"
+        "location": "South China Sea"
       },
       {
         "name": "CMA CGM FORT DIAMANT",
