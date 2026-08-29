@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T15:45:46+00:00",
+  "generated_at": "2026-08-29T16:00:54+00:00",
   "tps": {
     "alongside": [
       {
@@ -237,13 +237,12 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "HAPPY LUCKY",
-        "code": "HAKY009",
-        "voyage": "2632S        / 2632N",
+        "name": "COSCO HOUSTON",
+        "code": "COHO051",
+        "voyage": "142S         / 142N",
         "type": "INTERNATIONAL",
-        "carrier": "PT. FORECASTLE INDONESIA",
-        "atb": "28/08/2026 01:39",
-        "etd": "28/08/2026 22:51"
+        "atb": "28/08/2026 13:56",
+        "etd": "29/08/2026 19:10"
       },
       {
         "name": "2633S",
@@ -362,16 +361,7 @@
         "closeC": "04/09/2026 07:00"
       }
     ],
-    "departed": [
-      {
-        "name": "COSCO HOUSTON",
-        "code": "COHO051",
-        "voyage": "142S         / 142N",
-        "type": "INTERNATIONAL",
-        "atb": "28/08/2026 13:56",
-        "etd": "29/08/2026 19:10"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
