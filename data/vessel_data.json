@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T12:15:45+00:00",
+  "generated_at": "2026-08-29T12:30:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -367,7 +367,16 @@
         "closeC": "04/09/2026 07:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "COSCO HOUSTON",
+        "code": "COHO051",
+        "voyage": "142S         / 142N",
+        "type": "INTERNATIONAL",
+        "atb": "28/08/2026 13:56",
+        "etd": "29/08/2026 19:10"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
