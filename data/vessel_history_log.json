@@ -500,8 +500,8 @@
     "vessel_name": "INTERASIA ENGAGE",
     "terminal": "TPS",
     "arrival": "2026-08-30T03:18:00",
-    "departure": null,
-    "recorded_at": "2026-08-29T21:00:54.986197"
+    "departure": "2026-08-31T00:12:00",
+    "recorded_at": "2026-08-30T17:45:46.022132"
   },
   {
     "vessel_name": "ANL DHAMBI",
