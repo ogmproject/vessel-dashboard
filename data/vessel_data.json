@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T00:15:43+00:00",
+  "generated_at": "2026-08-30T00:30:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -233,7 +233,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "atb": "29/08/2026 13:37",
-        "etd": "30/08/2026 10:00"
+        "etd": "30/08/2026 09:00"
       }
     ],
     "schedule": [
