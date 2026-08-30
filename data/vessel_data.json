@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T05:15:47+00:00",
+  "generated_at": "2026-08-30T05:30:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -21,25 +21,12 @@
       {
         "name": "ANL DHAMBI",
         "code": "1426S / 1426S",
-        "eta": "30/08/2026 05:00",
-        "etd": "30/08/2026 14:30",
+        "eta": "30/08/2026 14:00",
+        "etd": "30/08/2026 23:30",
         "openstack": "24/08/2026 00:00",
         "closeC": "28/08/2026 18:00",
         "closeD": "28/08/2026 21:00",
         "verified": false
-      },
-      {
-        "name": "HYUNDAI UNITY",
-        "code": "0184S / 0184N",
-        "eta": "31/08/2026 07:00",
-        "etd": "01/09/2026 12:30",
-        "openstack": "26/08/2026 00:00",
-        "closeC": "30/08/2026 18:00",
-        "closeD": "30/08/2026 21:00",
-        "verified": false,
-        "mmsi": "538007483",
-        "imo": "9330719",
-        "location": "Java Sea"
       },
       {
         "name": "EVER CANDID",
@@ -73,6 +60,19 @@
         "mmsi": "370700000",
         "imo": "9787015",
         "location": "South China Sea"
+      },
+      {
+        "name": "HYUNDAI UNITY",
+        "code": "0184S / 0184N",
+        "eta": "31/08/2026 20:00",
+        "etd": "02/09/2026 01:30",
+        "openstack": "26/08/2026 00:00",
+        "closeC": "30/08/2026 18:00",
+        "closeD": "30/08/2026 21:00",
+        "verified": false,
+        "mmsi": "538007483",
+        "imo": "9330719",
+        "location": "Java Sea"
       },
       {
         "name": "SITC BATANGAS",
@@ -226,27 +226,6 @@
     ],
     "schedule": [
       {
-        "name": "YM EFFICIENCY",
-        "code": "YMYM069",
-        "voyage": "206S         / 206N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "30/08/2026 01:00",
-        "etd": "31/08/2026 02:30",
-        "openstack": "25/08/2026 01:00",
-        "closeC": "30/08/2026 06:00"
-      },
-      {
-        "name": "ITAL BONNY",
-        "code": "ITNY009",
-        "voyage": "S104         / N104",
-        "type": "INTERNATIONAL",
-        "etb": "31/08/2026 00:00",
-        "etd": "01/09/2026 00:00",
-        "openstack": "26/08/2026 00:00",
-        "closeC": "30/08/2026 19:00"
-      },
-      {
         "name": "SHANGHAI VOYAGER",
         "code": "SHVO012",
         "voyage": "2607S        / 2607N",
@@ -256,6 +235,27 @@
         "etd": "01/09/2026 02:00",
         "openstack": "26/08/2026 02:00",
         "closeC": "30/08/2026 20:00"
+      },
+      {
+        "name": "ITAL BONNY",
+        "code": "ITNY009",
+        "voyage": "S104         / N104",
+        "type": "INTERNATIONAL",
+        "etb": "31/08/2026 04:00",
+        "etd": "31/08/2026 23:00",
+        "openstack": "26/08/2026 00:00",
+        "closeC": "30/08/2026 19:00"
+      },
+      {
+        "name": "YM EFFICIENCY",
+        "code": "YMYM069",
+        "voyage": "206S         / 206N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "etb": "31/08/2026 08:00",
+        "etd": "01/09/2026 12:00",
+        "openstack": "25/08/2026 01:00",
+        "closeC": "30/08/2026 06:00"
       },
       {
         "name": "YM CENTENNIAL",
