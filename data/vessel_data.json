@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-30T01:30:57+00:00",
+  "generated_at": "2026-08-30T01:45:43+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - INTERASIA ENGAGE",
         "code": "S043 / N043",
         "atb": "30/08/2026 03:18",
-        "etd": "30/08/2026 21:00",
+        "etd": "30/08/2026 22:00",
         "verified": false
       },
       {
@@ -226,14 +226,6 @@
         "type": "INTERNATIONAL",
         "atb": "28/08/2026 13:56",
         "etd": "29/08/2026 19:10"
-      },
-      {
-        "name": "2633S",
-        "code": "2633N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "29/08/2026 13:37",
-        "etd": "30/08/2026 09:00"
       }
     ],
     "schedule": [
