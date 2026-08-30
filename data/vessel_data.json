@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T07:15:44+00:00",
+  "generated_at": "2026-08-30T07:30:54+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "S043 / N043",
         "atb": "30/08/2026 03:18",
         "etd": "30/08/2026 22:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - ANL DHAMBI",
+        "code": "1426S / 1426S",
+        "atb": "30/08/2026 14:10",
+        "etd": "30/08/2026 23:30",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "ANL DHAMBI",
-        "code": "1426S / 1426S",
-        "eta": "30/08/2026 14:00",
-        "etd": "30/08/2026 23:30",
-        "openstack": "24/08/2026 00:00",
-        "closeC": "28/08/2026 18:00",
-        "closeD": "28/08/2026 21:00",
-        "verified": false
-      },
       {
         "name": "EVER CANDID",
         "code": "0550-089S / 0550-089N",
