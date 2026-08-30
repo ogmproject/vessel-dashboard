@@ -486,8 +486,8 @@
     "vessel_name": "ARTOTINA",
     "terminal": "TPS",
     "arrival": "2026-08-29T20:10:00",
-    "departure": null,
-    "recorded_at": "2026-08-29T13:30:54.963559"
+    "departure": "2026-08-30T10:38:00",
+    "recorded_at": "2026-08-30T04:00:54.377491"
   },
   {
     "vessel_name": "HONG TAI 656",
