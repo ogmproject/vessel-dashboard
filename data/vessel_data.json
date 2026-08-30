@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T13:45:43+00:00",
+  "generated_at": "2026-08-30T14:01:30+00:00",
   "tps": {
     "alongside": [
       {
@@ -68,8 +68,7 @@
         "closeD": "30/08/2026 21:00",
         "verified": false,
         "mmsi": "538007483",
-        "imo": "9330719",
-        "location": "Java Sea"
+        "imo": "9330719"
       },
       {
         "name": "SITC BATANGAS",
@@ -81,8 +80,7 @@
         "closeD": "31/08/2026 21:00",
         "verified": false,
         "mmsi": "477401900",
-        "imo": "9845738",
-        "location": "Java Sea"
+        "imo": "9845738"
       },
       {
         "name": "CMA CGM POINTE DU PITON",
