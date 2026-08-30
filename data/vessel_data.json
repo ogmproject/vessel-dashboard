@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-30T10:15:44+00:00",
+  "generated_at": "2026-08-30T10:31:07+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - INTERASIA ENGAGE",
         "code": "S043 / N043",
         "atb": "30/08/2026 03:18",
-        "etd": "30/08/2026 22:00",
+        "etd": "30/08/2026 23:59",
         "verified": false
       },
       {
         "name": "I3 - ANL DHAMBI",
         "code": "1426S / 1426S",
         "atb": "30/08/2026 14:10",
-        "etd": "30/08/2026 23:30",
+        "etd": "30/08/2026 18:00",
         "verified": false
       },
       {
@@ -325,8 +325,7 @@
         "openstack": "29/08/2026 21:00",
         "closeC": "03/09/2026 16:00",
         "mmsi": "477883500",
-        "imo": "9412828",
-        "location": "Singapore Strait"
+        "imo": "9412828"
       },
       {
         "name": "KMTC YOKOHAMA",
