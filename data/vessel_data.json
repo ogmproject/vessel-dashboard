@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T14:01:30+00:00",
+  "generated_at": "2026-08-30T14:15:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "S043 / N043",
         "atb": "30/08/2026 03:18",
         "etd": "30/08/2026 23:59",
-        "verified": false
-      },
-      {
-        "name": "I3 - ANL DHAMBI",
-        "code": "1426S / 1426S",
-        "atb": "30/08/2026 14:10",
-        "etd": "30/08/2026 18:00",
         "verified": false
       },
       {
@@ -56,7 +49,7 @@
         "verified": false,
         "mmsi": "370700000",
         "imo": "9787015",
-        "location": "South China Sea"
+        "location": "Java Sea"
       },
       {
         "name": "HYUNDAI UNITY",
@@ -68,7 +61,8 @@
         "closeD": "30/08/2026 21:00",
         "verified": false,
         "mmsi": "538007483",
-        "imo": "9330719"
+        "imo": "9330719",
+        "location": "Java Sea"
       },
       {
         "name": "SITC BATANGAS",
@@ -80,7 +74,8 @@
         "closeD": "31/08/2026 21:00",
         "verified": false,
         "mmsi": "477401900",
-        "imo": "9845738"
+        "imo": "9845738",
+        "location": "Java Sea"
       },
       {
         "name": "CMA CGM POINTE DU PITON",
@@ -190,6 +185,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "ANL DHAMBI",
+        "berth": "30/08/2026 14:10",
+        "dep": "30/08/2026 19:00"
+      },
       {
         "name": "ARTOTINA",
         "berth": "29/08/2026 20:10",
