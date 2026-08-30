@@ -493,8 +493,8 @@
     "vessel_name": "HONG TAI 656",
     "terminal": "TPS",
     "arrival": "2026-08-30T02:02:00",
-    "departure": null,
-    "recorded_at": "2026-08-29T19:15:04.413725"
+    "departure": "2026-08-30T23:48:00",
+    "recorded_at": "2026-08-30T17:01:03.734597"
   },
   {
     "vessel_name": "INTERASIA ENGAGE",
