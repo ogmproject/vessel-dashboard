@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T12:01:11+00:00",
+  "generated_at": "2026-08-30T12:15:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -221,16 +221,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "COSCO HOUSTON",
-        "code": "COHO051",
-        "voyage": "142S         / 142N",
-        "type": "INTERNATIONAL",
-        "atb": "28/08/2026 13:56",
-        "etd": "29/08/2026 19:10"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "SHANGHAI VOYAGER",
