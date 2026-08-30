@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T02:45:44+00:00",
+  "generated_at": "2026-08-30T03:01:00+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "S043 / N043",
         "atb": "30/08/2026 03:18",
         "etd": "30/08/2026 22:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - MSC TARA III",
-        "code": "HV635R / HV635R",
-        "atb": "29/08/2026 01:35",
-        "etd": "30/08/2026 09:00",
         "verified": false
       },
       {
@@ -199,6 +192,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MSC TARA III",
+        "berth": "29/08/2026 01:35",
+        "dep": "30/08/2026 09:23"
+      },
       {
         "name": "ES TREASURE",
         "berth": "28/08/2026 21:28",
