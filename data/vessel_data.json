@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T18:01:02+00:00",
+  "generated_at": "2026-08-30T18:15:54+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -322,7 +322,16 @@
         "closeC": "04/09/2026 07:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "2633S",
+        "code": "2633N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "atb": "29/08/2026 13:37",
+        "etd": "30/08/2026 10:00"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }

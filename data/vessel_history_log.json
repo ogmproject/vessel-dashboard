@@ -479,8 +479,8 @@
     "vessel_name": "2633S",
     "terminal": "TL",
     "arrival": "2026-08-29T13:37:00",
-    "departure": null,
-    "recorded_at": "2026-08-29T07:00:57.727378"
+    "departure": "2026-08-30T10:00:00",
+    "recorded_at": "2026-08-30T18:15:54.297452"
   },
   {
     "vessel_name": "ARTOTINA",
