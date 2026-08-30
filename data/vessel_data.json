@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T01:15:45+00:00",
+  "generated_at": "2026-08-30T01:30:57+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,21 +13,21 @@
         "name": "I3 - MSC TARA III",
         "code": "HV635R / HV635R",
         "atb": "29/08/2026 01:35",
-        "etd": "30/08/2026 02:00",
+        "etd": "30/08/2026 09:00",
         "verified": false
       },
       {
         "name": "I2 - ARTOTINA",
         "code": "632S / 635N",
         "atb": "29/08/2026 20:10",
-        "etd": "30/08/2026 13:00",
+        "etd": "30/08/2026 09:30",
         "verified": false
       },
       {
         "name": "I1 - HONG TAI 656",
         "code": "634S / 634S",
         "atb": "30/08/2026 02:02",
-        "etd": "30/08/2026 18:00",
+        "etd": "30/08/2026 22:00",
         "verified": false
       }
     ],
