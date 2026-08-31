@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:01:38+00:00",
+  "generated_at": "2026-08-31T12:15:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -265,7 +265,8 @@
         "openstack": "26/08/2026 10:00",
         "closeC": "31/08/2026 05:00",
         "mmsi": "636019895",
-        "imo": "9864538"
+        "imo": "9864538",
+        "location": "Eastern China Sea"
       },
       {
         "name": "WAN HANG HENG YUAN",
@@ -311,7 +312,8 @@
         "openstack": "29/08/2026 06:00",
         "closeC": "02/09/2026 03:00",
         "mmsi": "538011074",
-        "imo": "9969948"
+        "imo": "9969948",
+        "location": "Singapore Strait"
       },
       {
         "name": "BELAWAN",
