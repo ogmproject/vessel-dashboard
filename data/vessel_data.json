@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T16:45:43+00:00",
+  "generated_at": "2026-08-31T17:00:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -213,16 +213,6 @@
         "name": "MSC TARA III",
         "berth": "29/08/2026 01:35",
         "dep": "30/08/2026 09:23"
-      },
-      {
-        "name": "ES TREASURE",
-        "berth": "28/08/2026 21:28",
-        "dep": "29/08/2026 22:30"
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "berth": "28/08/2026 02:25",
-        "dep": "29/08/2026 12:35"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
