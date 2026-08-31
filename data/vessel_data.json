@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-31T07:01:00+00:00",
+  "generated_at": "2026-08-31T07:15:50+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I3 - EVER BEFIT",
+        "code": "1203-081B / 1203-081B",
+        "atb": "31/08/2026 14:10",
+        "etd": "01/09/2026 12:30",
+        "verified": false
+      },
       {
         "name": "I1 - EVER CANDID",
         "code": "0550-089S / 0550-089N",
@@ -11,16 +18,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER BEFIT",
-        "code": "1203-081B / 1203-081B",
-        "eta": "31/08/2026 13:00",
-        "etd": "01/09/2026 12:30",
-        "openstack": "27/08/2026 20:00",
-        "closeC": "31/08/2026 14:00",
-        "closeD": "31/08/2026 17:00",
-        "verified": false
-      },
       {
         "name": "EVER BOOMY",
         "code": "1206-093A / 1206-093A",
