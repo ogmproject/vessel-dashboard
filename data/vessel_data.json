@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-31T14:15:48+00:00",
+  "generated_at": "2026-08-31T14:30:59+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - HYUNDAI UNITY",
+        "code": "0184S / 0184N",
+        "atb": "31/08/2026 21:05",
+        "etd": "02/09/2026 23:00",
+        "verified": false
+      },
       {
         "name": "I3 - EVER BEFIT",
         "code": "1203-081B / 1203-081B",
@@ -25,19 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "HYUNDAI UNITY",
-        "code": "0184S / 0184N",
-        "eta": "31/08/2026 20:00",
-        "etd": "02/09/2026 23:00",
-        "openstack": "26/08/2026 00:00",
-        "closeC": "30/08/2026 18:00",
-        "closeD": "30/08/2026 21:00",
-        "verified": false,
-        "mmsi": "538007483",
-        "imo": "9330719",
-        "location": "Java Sea"
-      },
       {
         "name": "KMTC SHANGHAI",
         "code": "2607S / 2607N",

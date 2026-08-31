@@ -544,5 +544,12 @@
     "arrival": "2026-08-31T18:55:00",
     "departure": null,
     "recorded_at": "2026-08-31T12:01:39.089634"
+  },
+  {
+    "vessel_name": "HYUNDAI UNITY",
+    "terminal": "TPS",
+    "arrival": "2026-08-31T21:05:00",
+    "departure": null,
+    "recorded_at": "2026-08-31T14:30:59.160588"
   }
 ]
