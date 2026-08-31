@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T18:45:48+00:00",
+  "generated_at": "2026-08-31T19:01:11+00:00",
   "tps": {
     "alongside": [
       {
@@ -52,8 +52,7 @@
         "closeD": "31/08/2026 21:00",
         "verified": false,
         "mmsi": "477401900",
-        "imo": "9845738",
-        "location": "Java Sea"
+        "imo": "9845738"
       },
       {
         "name": "MSC SHIVALIKA III",
