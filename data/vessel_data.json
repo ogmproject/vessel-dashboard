@@ -1,15 +1,7 @@
 {
-  "generated_at": "2026-08-31T01:30:56+00:00",
+  "generated_at": "2026-08-31T01:45:55+00:00",
   "tps": {
-    "alongside": [
-      {
-        "name": "I2 - SINAR SULAWESI",
-        "code": "093S / 093N",
-        "atb": "28/08/2026 02:25",
-        "etd": "29/08/2026 12:00",
-        "verified": false
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "EVER CANDID",
@@ -210,6 +202,11 @@
         "name": "ES TREASURE",
         "berth": "28/08/2026 21:28",
         "dep": "29/08/2026 22:30"
+      },
+      {
+        "name": "SINAR SULAWESI",
+        "berth": "28/08/2026 02:25",
+        "dep": "29/08/2026 12:35"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
