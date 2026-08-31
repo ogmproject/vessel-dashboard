@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T02:15:47+00:00",
+  "generated_at": "2026-08-31T02:30:52+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -333,10 +333,10 @@
         "voyage": "2608E        / 2609W",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "04/09/2026 12:00",
-        "etd": "05/09/2026 12:00",
-        "openstack": "30/08/2026 12:00",
-        "closeC": "04/09/2026 07:00"
+        "etb": "05/09/2026 06:00",
+        "etd": "06/09/2026 19:00",
+        "openstack": "31/08/2026 06:00",
+        "closeC": "05/09/2026 10:00"
       }
     ],
     "departed": [],
