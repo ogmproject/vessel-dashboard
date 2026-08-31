@@ -1,18 +1,16 @@
 {
-  "generated_at": "2026-08-31T03:45:52+00:00",
+  "generated_at": "2026-08-31T04:01:02+00:00",
   "tps": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
-        "name": "EVER CANDID",
+        "name": "I1 - EVER CANDID",
         "code": "0550-089S / 0550-089N",
-        "eta": "31/08/2026 10:00",
+        "atb": "31/08/2026 10:40",
         "etd": "01/09/2026 02:30",
-        "openstack": "26/08/2026 12:00",
-        "closeC": "31/08/2026 06:00",
-        "closeD": "31/08/2026 09:00",
         "verified": false
-      },
+      }
+    ],
+    "schedule": [
       {
         "name": "EVER BEFIT",
         "code": "1203-081B / 1203-081B",
@@ -101,8 +99,8 @@
         "eta": "01/09/2026 13:00",
         "etd": "02/09/2026 04:00",
         "openstack": "27/08/2026 18:00",
-        "closeC": "01/09/2026 12:00",
-        "closeD": "01/09/2026 15:00",
+        "closeC": "01/09/2026 06:00",
+        "closeD": "01/09/2026 09:00",
         "verified": false
       },
       {
@@ -177,6 +175,16 @@
         "closeC": "05/10/2026 17:00",
         "closeD": "05/10/2026 20:00",
         "verified": false
+      },
+      {
+        "name": "GSL MAMITSA",
+        "code": "019S / 019N",
+        "eta": "06/09/2026 09:00",
+        "etd": "07/09/2026 04:30",
+        "openstack": "01/09/2026 09:00",
+        "closeC": "06/09/2026 03:00",
+        "closeD": "06/09/2026 06:00",
+        "verified": false
       }
     ],
     "movement": [
@@ -224,6 +232,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "YM EFFICIENCY",
+        "code": "YMYM069",
+        "voyage": "206S         / 206N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "atb": "31/08/2026 10:50",
+        "etd": "01/09/2026 12:00"
+      },
+      {
         "name": "ITAL BONNY",
         "code": "ITNY009",
         "voyage": "S104         / N104",
@@ -243,17 +260,6 @@
         "etd": "01/09/2026 02:00",
         "openstack": "26/08/2026 02:00",
         "closeC": "01/09/2026 02:00"
-      },
-      {
-        "name": "YM EFFICIENCY",
-        "code": "YMYM069",
-        "voyage": "206S         / 206N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "31/08/2026 08:00",
-        "etd": "01/09/2026 12:00",
-        "openstack": "25/08/2026 01:00",
-        "closeC": "30/08/2026 06:00"
       },
       {
         "name": "YM CENTENNIAL",

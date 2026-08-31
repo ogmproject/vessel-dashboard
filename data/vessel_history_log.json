@@ -516,5 +516,19 @@
     "arrival": "2026-08-31T05:41:00",
     "departure": null,
     "recorded_at": "2026-08-30T22:45:44.387870"
+  },
+  {
+    "vessel_name": "EVER CANDID",
+    "terminal": "TPS",
+    "arrival": "2026-08-31T10:40:00",
+    "departure": null,
+    "recorded_at": "2026-08-31T04:01:02.459351"
+  },
+  {
+    "vessel_name": "YM EFFICIENCY",
+    "terminal": "TL",
+    "arrival": "2026-08-31T10:50:00",
+    "departure": null,
+    "recorded_at": "2026-08-31T04:01:02.459351"
   }
 ]
