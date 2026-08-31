@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T21:45:43+00:00",
+  "generated_at": "2026-08-31T22:00:55+00:00",
   "tps": {
     "alongside": [
       {
@@ -220,6 +220,18 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "YM CENTENNIAL",
+        "code": "YMAL006",
+        "voyage": "070S         / 070N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "atb": "01/09/2026 04:46",
+        "etd": "02/09/2026 04:00",
+        "mmsi": "636019895",
+        "imo": "9864538",
+        "location": "Eastern China Sea"
+      },
+      {
         "name": "YM EFFICIENCY",
         "code": "YMYM069",
         "voyage": "206S         / 206N",
@@ -230,20 +242,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "YM CENTENNIAL",
-        "code": "YMAL006",
-        "voyage": "070S         / 070N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "01/09/2026 04:00",
-        "etd": "02/09/2026 04:00",
-        "openstack": "27/08/2026 04:00",
-        "closeC": "31/08/2026 05:00",
-        "mmsi": "636019895",
-        "imo": "9864538",
-        "location": "Eastern China Sea"
-      },
       {
         "name": "WAN HANG HENG YUAN",
         "code": "WAAN005",
