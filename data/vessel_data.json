@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-08-31T01:15:45+00:00",
+  "generated_at": "2026-08-31T01:30:56+00:00",
   "tps": {
-    "alongside": [],
+    "alongside": [
+      {
+        "name": "I2 - SINAR SULAWESI",
+        "code": "093S / 093N",
+        "atb": "28/08/2026 02:25",
+        "etd": "29/08/2026 12:00",
+        "verified": false
+      }
+    ],
     "schedule": [
       {
         "name": "EVER CANDID",
@@ -202,17 +210,20 @@
         "name": "ES TREASURE",
         "berth": "28/08/2026 21:28",
         "dep": "29/08/2026 22:30"
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "berth": "28/08/2026 02:25",
-        "dep": "29/08/2026 12:35"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
     "alongside": [
+      {
+        "name": "2633S",
+        "code": "2633N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "atb": "29/08/2026 13:37",
+        "etd": "30/08/2026 10:00"
+      },
       {
         "name": "ITAL BONNY",
         "code": "ITNY009",
@@ -321,16 +332,7 @@
         "closeC": "04/09/2026 07:00"
       }
     ],
-    "departed": [
-      {
-        "name": "2633S",
-        "code": "2633N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "29/08/2026 13:37",
-        "etd": "30/08/2026 10:00"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
