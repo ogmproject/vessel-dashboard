@@ -537,5 +537,12 @@
     "arrival": "2026-08-31T14:10:00",
     "departure": null,
     "recorded_at": "2026-08-31T07:15:50.405459"
+  },
+  {
+    "vessel_name": "EVER BOOMY",
+    "terminal": "TPS",
+    "arrival": "2026-08-31T18:55:00",
+    "departure": null,
+    "recorded_at": "2026-08-31T12:01:39.089634"
   }
 ]

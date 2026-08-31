@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T11:45:47+00:00",
+  "generated_at": "2026-08-31T12:01:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "1203-081B / 1203-081B",
         "atb": "31/08/2026 14:10",
         "etd": "01/09/2026 12:30",
+        "verified": false
+      },
+      {
+        "name": "I2 - EVER BOOMY",
+        "code": "1206-093A / 1206-093A",
+        "atb": "31/08/2026 18:55",
+        "etd": "01/09/2026 16:00",
         "verified": false
       },
       {
@@ -18,19 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER BOOMY",
-        "code": "1206-093A / 1206-093A",
-        "eta": "31/08/2026 18:00",
-        "etd": "01/09/2026 16:00",
-        "openstack": "26/08/2026 16:00",
-        "closeC": "31/08/2026 10:00",
-        "closeD": "31/08/2026 13:00",
-        "verified": false,
-        "mmsi": "370700000",
-        "imo": "9787015",
-        "location": "Java Sea"
-      },
       {
         "name": "HYUNDAI UNITY",
         "code": "0184S / 0184N",
@@ -271,8 +265,7 @@
         "openstack": "26/08/2026 10:00",
         "closeC": "31/08/2026 05:00",
         "mmsi": "636019895",
-        "imo": "9864538",
-        "location": "Eastern China Sea"
+        "imo": "9864538"
       },
       {
         "name": "WAN HANG HENG YUAN",
@@ -318,8 +311,7 @@
         "openstack": "29/08/2026 06:00",
         "closeC": "02/09/2026 03:00",
         "mmsi": "538011074",
-        "imo": "9969948",
-        "location": "Singapore Strait"
+        "imo": "9969948"
       },
       {
         "name": "BELAWAN",
@@ -332,7 +324,8 @@
         "openstack": "29/08/2026 21:00",
         "closeC": "03/09/2026 16:00",
         "mmsi": "477883500",
-        "imo": "9412828"
+        "imo": "9412828",
+        "location": "Singapore Strait"
       },
       {
         "name": "KMTC YOKOHAMA",
