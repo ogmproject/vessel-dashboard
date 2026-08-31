@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T06:45:48+00:00",
+  "generated_at": "2026-08-31T07:01:00+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I1 - EVER CANDID",
         "code": "0550-089S / 0550-089N",
         "atb": "31/08/2026 10:40",
-        "etd": "01/09/2026 02:30",
+        "etd": "01/09/2026 02:00",
         "verified": false
       }
     ],
@@ -238,7 +238,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
         "atb": "31/08/2026 10:50",
-        "etd": "01/09/2026 12:00"
+        "etd": "01/09/2026 13:00"
       },
       {
         "name": "ITAL BONNY",
@@ -246,7 +246,7 @@
         "voyage": "S104         / N104",
         "type": "INTERNATIONAL",
         "atb": "31/08/2026 05:41",
-        "etd": "31/08/2026 23:00"
+        "etd": "01/09/2026 01:00"
       }
     ],
     "schedule": [
@@ -267,8 +267,8 @@
         "voyage": "070S         / 070N",
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "31/08/2026 10:00",
-        "etd": "01/09/2026 10:00",
+        "etb": "01/09/2026 03:00",
+        "etd": "02/09/2026 03:00",
         "openstack": "26/08/2026 10:00",
         "closeC": "31/08/2026 05:00",
         "mmsi": "636019895",
