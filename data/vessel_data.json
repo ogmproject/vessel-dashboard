@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T09:01:13+00:00",
+  "generated_at": "2026-08-31T09:15:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,7 +22,7 @@
         "name": "EVER BOOMY",
         "code": "1206-093A / 1206-093A",
         "eta": "31/08/2026 18:00",
-        "etd": "01/09/2026 16:30",
+        "etd": "01/09/2026 16:00",
         "openstack": "26/08/2026 16:00",
         "closeC": "31/08/2026 10:00",
         "closeD": "31/08/2026 13:00",
@@ -35,26 +35,13 @@
         "name": "HYUNDAI UNITY",
         "code": "0184S / 0184N",
         "eta": "31/08/2026 20:00",
-        "etd": "02/09/2026 01:30",
+        "etd": "02/09/2026 02:00",
         "openstack": "26/08/2026 00:00",
         "closeC": "30/08/2026 18:00",
         "closeD": "30/08/2026 21:00",
         "verified": false,
         "mmsi": "538007483",
         "imo": "9330719",
-        "location": "Java Sea"
-      },
-      {
-        "name": "SITC BATANGAS",
-        "code": "2616S / 2617N",
-        "eta": "01/09/2026 00:01",
-        "etd": "01/09/2026 12:00",
-        "openstack": "27/08/2026 00:00",
-        "closeC": "31/08/2026 18:00",
-        "closeD": "31/08/2026 21:00",
-        "verified": false,
-        "mmsi": "477401900",
-        "imo": "9845738",
         "location": "Java Sea"
       },
       {
@@ -99,6 +86,19 @@
         "closeC": "31/08/2026 00:00",
         "closeD": "31/08/2026 03:00",
         "verified": false
+      },
+      {
+        "name": "SITC BATANGAS",
+        "code": "2616S / 2617N",
+        "eta": "01/09/2026 14:00",
+        "etd": "02/09/2026 02:00",
+        "openstack": "27/08/2026 00:00",
+        "closeC": "31/08/2026 18:00",
+        "closeD": "31/08/2026 21:00",
+        "verified": false,
+        "mmsi": "477401900",
+        "imo": "9845738",
+        "location": "Java Sea"
       },
       {
         "name": "MSC SHIVALIKA III",
