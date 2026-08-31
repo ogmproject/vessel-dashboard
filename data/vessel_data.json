@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T18:15:46+00:00",
+  "generated_at": "2026-08-31T18:30:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -236,9 +236,9 @@
         "voyage": "070S         / 070N",
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "01/09/2026 03:00",
-        "etd": "02/09/2026 03:00",
-        "openstack": "26/08/2026 10:00",
+        "etb": "01/09/2026 04:00",
+        "etd": "02/09/2026 04:00",
+        "openstack": "27/08/2026 04:00",
         "closeC": "31/08/2026 05:00",
         "mmsi": "636019895",
         "imo": "9864538",
