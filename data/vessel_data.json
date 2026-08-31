@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T02:00:56+00:00",
+  "generated_at": "2026-08-31T02:15:47+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -166,6 +166,16 @@
         "openstack": "30/08/2026 10:00",
         "closeC": "04/09/2026 04:00",
         "closeD": "04/09/2026 07:00",
+        "verified": false
+      },
+      {
+        "name": "MARSA PRIDE",
+        "code": "633S / 636N",
+        "eta": "05/09/2026 23:00",
+        "etd": "07/09/2026 07:30",
+        "openstack": "31/08/2026 23:00",
+        "closeC": "05/10/2026 17:00",
+        "closeD": "05/10/2026 20:00",
         "verified": false
       }
     ],
