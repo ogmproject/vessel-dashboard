@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T10:30:52+00:00",
+  "generated_at": "2026-08-31T10:45:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -261,17 +261,6 @@
     ],
     "schedule": [
       {
-        "name": "SHANGHAI VOYAGER",
-        "code": "SHVO012",
-        "voyage": "2607S        / 2607N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "31/08/2026 02:00",
-        "etd": "01/09/2026 02:00",
-        "openstack": "26/08/2026 02:00",
-        "closeC": "01/09/2026 16:00"
-      },
-      {
         "name": "YM CENTENNIAL",
         "code": "YMAL006",
         "voyage": "070S         / 070N",
@@ -297,6 +286,17 @@
         "mmsi": "352006269",
         "imo": "1115565",
         "location": "Java Sea"
+      },
+      {
+        "name": "SHANGHAI VOYAGER",
+        "code": "SHVO012",
+        "voyage": "2607S        / 2607N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "etb": "02/09/2026 04:00",
+        "etd": "03/09/2026 03:30",
+        "openstack": "28/08/2026 04:00",
+        "closeC": "01/09/2026 16:00"
       },
       {
         "name": "HALLEY",
