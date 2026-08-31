@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T20:45:43+00:00",
+  "generated_at": "2026-08-31T21:02:10+00:00",
   "tps": {
     "alongside": [
       {
@@ -241,8 +241,7 @@
         "openstack": "27/08/2026 04:00",
         "closeC": "31/08/2026 05:00",
         "mmsi": "636019895",
-        "imo": "9864538",
-        "location": "Eastern China Sea"
+        "imo": "9864538"
       },
       {
         "name": "WAN HANG HENG YUAN",
@@ -254,8 +253,7 @@
         "openstack": "28/08/2026 01:00",
         "closeC": "01/09/2026 19:00",
         "mmsi": "352006269",
-        "imo": "1115565",
-        "location": "Java Sea"
+        "imo": "1115565"
       },
       {
         "name": "SHANGHAI VOYAGER",
@@ -288,8 +286,7 @@
         "openstack": "29/08/2026 06:00",
         "closeC": "02/09/2026 03:00",
         "mmsi": "538011074",
-        "imo": "9969948",
-        "location": "Singapore Strait"
+        "imo": "9969948"
       },
       {
         "name": "BELAWAN",
@@ -302,8 +299,7 @@
         "openstack": "29/08/2026 21:00",
         "closeC": "03/09/2026 16:00",
         "mmsi": "477883500",
-        "imo": "9412828",
-        "location": "Java Sea"
+        "imo": "9412828"
       },
       {
         "name": "KMTC YOKOHAMA",
