@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T02:45:45+00:00",
+  "generated_at": "2026-08-31T03:00:58+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -223,14 +223,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "2633S",
-        "code": "2633N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "29/08/2026 13:37",
-        "etd": "30/08/2026 10:00"
-      },
       {
         "name": "ITAL BONNY",
         "code": "ITNY009",
