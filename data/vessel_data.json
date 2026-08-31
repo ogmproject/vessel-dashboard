@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T08:00:58+00:00",
+  "generated_at": "2026-08-31T08:15:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -182,6 +182,19 @@
         "closeC": "06/09/2026 03:00",
         "closeD": "06/09/2026 06:00",
         "verified": false
+      },
+      {
+        "name": "KOTA MANIS",
+        "code": "0628S / 0628N",
+        "eta": "07/09/2026 00:00",
+        "etd": "09/09/2026 02:30",
+        "openstack": "02/09/2026 00:00",
+        "closeC": "06/09/2026 18:00",
+        "closeD": "06/09/2026 21:00",
+        "verified": false,
+        "mmsi": "566773000",
+        "imo": "9632741",
+        "location": "South China Sea"
       }
     ],
     "movement": [
@@ -319,8 +332,7 @@
         "openstack": "29/08/2026 21:00",
         "closeC": "03/09/2026 16:00",
         "mmsi": "477883500",
-        "imo": "9412828",
-        "location": "Singapore Strait"
+        "imo": "9412828"
       },
       {
         "name": "KMTC YOKOHAMA",
