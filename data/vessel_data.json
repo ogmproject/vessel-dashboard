@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T04:31:03+00:00",
+  "generated_at": "2026-08-31T04:45:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -71,6 +71,16 @@
         "verified": false
       },
       {
+        "name": "KMTC SHANGHAI",
+        "code": "2607S / 2607N",
+        "eta": "01/09/2026 06:00",
+        "etd": "01/09/2026 18:30",
+        "openstack": "27/08/2026 18:00",
+        "closeC": "01/09/2026 06:00",
+        "closeD": "01/09/2026 09:00",
+        "verified": false
+      },
+      {
         "name": "XIN YAN TAI",
         "code": "273S / 273N",
         "eta": "01/09/2026 08:00",
@@ -91,16 +101,6 @@
         "openstack": "26/08/2026 06:00",
         "closeC": "31/08/2026 00:00",
         "closeD": "31/08/2026 03:00",
-        "verified": false
-      },
-      {
-        "name": "KMTC SHANGHAI",
-        "code": "2607S / 2607N",
-        "eta": "01/09/2026 13:00",
-        "etd": "02/09/2026 04:00",
-        "openstack": "27/08/2026 18:00",
-        "closeC": "01/09/2026 06:00",
-        "closeD": "01/09/2026 09:00",
         "verified": false
       },
       {
