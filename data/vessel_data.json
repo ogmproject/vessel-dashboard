@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T14:45:55+00:00",
+  "generated_at": "2026-08-31T15:00:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -237,14 +237,6 @@
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
         "atb": "31/08/2026 10:50",
         "etd": "01/09/2026 13:00"
-      },
-      {
-        "name": "ITAL BONNY",
-        "code": "ITNY009",
-        "voyage": "S104         / N104",
-        "type": "INTERNATIONAL",
-        "atb": "31/08/2026 05:41",
-        "etd": "31/08/2026 23:30"
       }
     ],
     "schedule": [
