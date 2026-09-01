@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T10:15:48+00:00",
+  "generated_at": "2026-09-01T10:30:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "0184S / 0184N",
         "atb": "31/08/2026 21:05",
         "etd": "02/09/2026 04:30",
+        "verified": false
+      },
+      {
+        "name": "I3 - SITC BATANGAS",
+        "code": "2616S / 2617N",
+        "atb": "01/09/2026 17:10",
+        "etd": "02/09/2026 10:00",
         "verified": false
       },
       {
@@ -18,19 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SITC BATANGAS",
-        "code": "2616S / 2617N",
-        "eta": "01/09/2026 15:00",
-        "etd": "02/09/2026 10:00",
-        "openstack": "27/08/2026 00:00",
-        "closeC": "31/08/2026 18:00",
-        "closeD": "31/08/2026 21:00",
-        "verified": false,
-        "mmsi": "477401900",
-        "imo": "9845738",
-        "location": "Java Sea"
-      },
       {
         "name": "HONG TAI 656",
         "code": "635N / 635N",
@@ -337,6 +331,17 @@
         "mmsi": "477883500",
         "imo": "9412828",
         "location": "Java Sea"
+      },
+      {
+        "name": "AS CAROLINA",
+        "code": "ASRO006",
+        "voyage": "347S         / 347N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "etb": "06/09/2026 10:00",
+        "etd": "06/09/2026 10:30",
+        "openstack": "01/09/2026 10:00",
+        "closeC": "06/09/2026 05:00"
       },
       {
         "name": "KMTC YOKOHAMA",
