@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-01T23:01:00+00:00",
+  "generated_at": "2026-09-01T23:15:47+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - HYUNDAI UNITY",
-        "code": "0184S / 0184N",
-        "atb": "31/08/2026 21:05",
-        "etd": "02/09/2026 04:30",
-        "verified": false
-      },
       {
         "name": "I3 - SITC BATANGAS",
         "code": "2616S / 2617N",
@@ -216,6 +209,14 @@
       }
     ],
     "movement": [
+      {
+        "name": "HYUNDAI UNITY",
+        "berth": "31/08/2026 21:05",
+        "dep": "02/09/2026 03:30",
+        "mmsi": "538007483",
+        "imo": "9330719",
+        "location": "Java Sea"
+      },
       {
         "name": "KMTC SHANGHAI",
         "berth": "01/09/2026 07:06",
