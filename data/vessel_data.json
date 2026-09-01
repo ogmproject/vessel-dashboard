@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T17:00:53+00:00",
+  "generated_at": "2026-09-01T17:11:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -79,7 +79,7 @@
         "verified": false,
         "mmsi": "636016118",
         "imo": "9204477",
-        "location": "South China Sea"
+        "location": "Java Sea"
       },
       {
         "name": "CMA CGM POINTE DU PITON",
@@ -256,16 +256,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "ITAL BONNY",
-        "code": "ITNY009",
-        "voyage": "S104         / N104",
-        "type": "INTERNATIONAL",
-        "atb": "31/08/2026 05:41",
-        "etd": "01/09/2026 00:10"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "WAN HANG HENG YUAN",
