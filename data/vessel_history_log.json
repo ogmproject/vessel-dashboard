@@ -535,8 +535,8 @@
     "vessel_name": "EVER BEFIT",
     "terminal": "TPS",
     "arrival": "2026-08-31T14:10:00",
-    "departure": null,
-    "recorded_at": "2026-08-31T07:15:50.405459"
+    "departure": "2026-09-01T13:25:00",
+    "recorded_at": "2026-09-01T06:45:50.392280"
   },
   {
     "vessel_name": "EVER BOOMY",

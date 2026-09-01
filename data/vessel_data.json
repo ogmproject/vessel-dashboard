@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T06:30:53+00:00",
+  "generated_at": "2026-09-01T06:45:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "0184S / 0184N",
         "atb": "31/08/2026 21:05",
         "etd": "02/09/2026 05:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - EVER BEFIT",
-        "code": "1203-081B / 1203-081B",
-        "atb": "31/08/2026 14:10",
-        "etd": "01/09/2026 12:00",
         "verified": false
       },
       {
@@ -203,9 +196,24 @@
         "closeC": "06/09/2026 18:00",
         "closeD": "06/09/2026 21:00",
         "verified": false
+      },
+      {
+        "name": "STARSHIP VENUS",
+        "code": "2607S / 2607N",
+        "eta": "07/09/2026 20:00",
+        "etd": "09/09/2026 00:30",
+        "openstack": "02/09/2026 20:00",
+        "closeC": "07/09/2026 14:00",
+        "closeD": "07/09/2026 17:00",
+        "verified": false
       }
     ],
     "movement": [
+      {
+        "name": "EVER BEFIT",
+        "berth": "31/08/2026 14:10",
+        "dep": "01/09/2026 13:25"
+      },
       {
         "name": "EVER CANDID",
         "berth": "31/08/2026 10:40",
@@ -263,7 +271,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
         "atb": "31/08/2026 10:50",
-        "etd": "01/09/2026 14:00"
+        "etd": "01/09/2026 16:00"
       }
     ],
     "schedule": [
@@ -286,8 +294,8 @@
         "voyage": "2607S        / 2607N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "02/09/2026 04:00",
-        "etd": "03/09/2026 03:30",
+        "etb": "02/09/2026 12:00",
+        "etd": "03/09/2026 04:00",
         "openstack": "28/08/2026 04:00",
         "closeC": "01/09/2026 16:00"
       },
