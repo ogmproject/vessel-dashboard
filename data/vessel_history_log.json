@@ -514,8 +514,8 @@
     "vessel_name": "ITAL BONNY",
     "terminal": "TL",
     "arrival": "2026-08-31T05:41:00",
-    "departure": null,
-    "recorded_at": "2026-08-30T22:45:44.387870"
+    "departure": "2026-09-01T00:10:00",
+    "recorded_at": "2026-09-01T02:30:53.967556"
   },
   {
     "vessel_name": "EVER CANDID",

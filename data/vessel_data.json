@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T02:15:49+00:00",
+  "generated_at": "2026-09-01T02:30:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -310,7 +310,16 @@
         "closeC": "05/09/2026 10:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "ITAL BONNY",
+        "code": "ITNY009",
+        "voyage": "S104         / N104",
+        "type": "INTERNATIONAL",
+        "atb": "31/08/2026 05:41",
+        "etd": "01/09/2026 00:10"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
