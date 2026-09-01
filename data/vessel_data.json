@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T14:30:51+00:00",
+  "generated_at": "2026-09-01T14:45:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -266,7 +266,16 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
+    "alongside": [
+      {
+        "name": "ITAL BONNY",
+        "code": "ITNY009",
+        "voyage": "S104         / N104",
+        "type": "INTERNATIONAL",
+        "atb": "31/08/2026 05:41",
+        "etd": "01/09/2026 00:10"
+      }
+    ],
     "schedule": [
       {
         "name": "WAN HANG HENG YUAN",
@@ -352,16 +361,7 @@
         "closeC": "07/09/2026 12:00"
       }
     ],
-    "departed": [
-      {
-        "name": "ITAL BONNY",
-        "code": "ITNY009",
-        "voyage": "S104         / N104",
-        "type": "INTERNATIONAL",
-        "atb": "31/08/2026 05:41",
-        "etd": "01/09/2026 00:10"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
