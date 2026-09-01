@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T04:31:10+00:00",
+  "generated_at": "2026-09-01T04:45:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -139,6 +139,16 @@
         "openstack": "30/08/2026 10:00",
         "closeC": "04/09/2026 04:00",
         "closeD": "04/09/2026 07:00",
+        "verified": false
+      },
+      {
+        "name": "EVER CHASTE",
+        "code": "0552-095S / 0552-095N",
+        "eta": "04/09/2026 23:00",
+        "etd": "05/09/2026 18:30",
+        "openstack": "30/08/2026 23:00",
+        "closeC": "04/09/2026 17:00",
+        "closeD": "04/09/2026 20:00",
         "verified": false
       },
       {
@@ -291,7 +301,8 @@
         "openstack": "29/08/2026 06:00",
         "closeC": "02/09/2026 03:00",
         "mmsi": "538011074",
-        "imo": "9969948"
+        "imo": "9969948",
+        "location": "Singapore Strait"
       },
       {
         "name": "BELAWAN",
