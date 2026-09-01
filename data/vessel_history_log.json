@@ -558,5 +558,12 @@
     "arrival": "2026-09-01T04:46:00",
     "departure": null,
     "recorded_at": "2026-08-31T22:00:55.600027"
+  },
+  {
+    "vessel_name": "KMTC SHANGHAI",
+    "terminal": "TPS",
+    "arrival": "2026-09-01T07:06:00",
+    "departure": null,
+    "recorded_at": "2026-09-01T00:30:54.187115"
   }
 ]

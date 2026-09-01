@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T00:15:44+00:00",
+  "generated_at": "2026-09-01T00:30:54+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,19 +22,16 @@
         "atb": "31/08/2026 18:55",
         "etd": "01/09/2026 16:00",
         "verified": false
+      },
+      {
+        "name": "I1 - KMTC SHANGHAI",
+        "code": "2607S / 2607N",
+        "atb": "01/09/2026 07:06",
+        "etd": "01/09/2026 22:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "KMTC SHANGHAI",
-        "code": "2607S / 2607N",
-        "eta": "01/09/2026 04:00",
-        "etd": "01/09/2026 22:00",
-        "openstack": "27/08/2026 18:00",
-        "closeC": "01/09/2026 06:00",
-        "closeD": "01/09/2026 09:00",
-        "verified": false
-      },
       {
         "name": "SITC BATANGAS",
         "code": "2616S / 2617N",
