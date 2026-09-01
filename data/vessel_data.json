@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T21:45:44+00:00",
+  "generated_at": "2026-09-01T22:00:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -257,26 +257,13 @@
     "alongside": [],
     "schedule": [
       {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN005",
-        "voyage": "011S         / 011N",
-        "type": "INTERNATIONAL",
-        "etb": "02/09/2026 01:00",
-        "etd": "03/09/2026 11:30",
-        "openstack": "28/08/2026 01:00",
-        "closeC": "01/09/2026 19:00",
-        "mmsi": "352006269",
-        "imo": "1115565",
-        "location": "Java Sea"
-      },
-      {
         "name": "SHANGHAI VOYAGER",
         "code": "SHVO012",
         "voyage": "2607S        / 2607N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "etb": "02/09/2026 13:00",
-        "etd": "03/09/2026 06:00",
+        "etd": "03/09/2026 07:00",
         "openstack": "28/08/2026 04:00",
         "closeC": "01/09/2026 16:00"
       },
@@ -302,6 +289,19 @@
         "mmsi": "538011074",
         "imo": "9969948",
         "location": "Singapore Strait"
+      },
+      {
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN005",
+        "voyage": "011S         / 011N",
+        "type": "INTERNATIONAL",
+        "etb": "03/09/2026 08:00",
+        "etd": "03/09/2026 22:00",
+        "openstack": "28/08/2026 01:00",
+        "closeC": "01/09/2026 19:00",
+        "mmsi": "352006269",
+        "imo": "1115565",
+        "location": "Java Sea"
       },
       {
         "name": "BELAWAN",
