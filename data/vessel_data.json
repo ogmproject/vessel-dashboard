@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T07:30:52+00:00",
+  "generated_at": "2026-09-01T07:45:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -28,8 +28,8 @@
       {
         "name": "SITC BATANGAS",
         "code": "2616S / 2617N",
-        "eta": "01/09/2026 14:00",
-        "etd": "02/09/2026 02:00",
+        "eta": "01/09/2026 15:00",
+        "etd": "02/09/2026 05:00",
         "openstack": "27/08/2026 00:00",
         "closeC": "31/08/2026 18:00",
         "closeD": "31/08/2026 21:00",
@@ -39,20 +39,40 @@
         "location": "Java Sea"
       },
       {
+        "name": "HONG TAI 656",
+        "code": "635N / 635N",
+        "eta": "02/09/2026 02:00",
+        "etd": "03/09/2026 08:00",
+        "openstack": "26/08/2026 06:00",
+        "closeC": "31/08/2026 00:00",
+        "closeD": "31/08/2026 03:00",
+        "verified": false
+      },
+      {
         "name": "MSC SHIVALIKA III",
         "code": "HV636R / HV636R",
-        "eta": "02/09/2026 04:00",
-        "etd": "03/09/2026 00:01",
+        "eta": "02/09/2026 10:00",
+        "etd": "03/09/2026 06:00",
         "openstack": "28/08/2026 02:00",
         "closeC": "01/09/2026 20:00",
         "closeD": "01/09/2026 23:00",
         "verified": false
       },
       {
+        "name": "SIMAG SHANGHAI",
+        "code": "2627S / 2627S",
+        "eta": "02/09/2026 14:00",
+        "etd": "02/09/2026 22:00",
+        "openstack": "28/08/2026 20:00",
+        "closeC": "02/09/2026 14:00",
+        "closeD": "02/09/2026 17:00",
+        "verified": false
+      },
+      {
         "name": "XIN YAN TAI",
         "code": "273S / 273N",
-        "eta": "02/09/2026 09:00",
-        "etd": "03/09/2026 11:00",
+        "eta": "02/09/2026 14:00",
+        "etd": "03/09/2026 16:00",
         "openstack": "27/08/2026 08:00",
         "closeC": "01/09/2026 02:00",
         "closeD": "01/09/2026 05:00",
@@ -60,26 +80,6 @@
         "mmsi": "413125000",
         "imo": "9304801",
         "location": "Java Sea"
-      },
-      {
-        "name": "HONG TAI 656",
-        "code": "635N / 635N",
-        "eta": "02/09/2026 12:00",
-        "etd": "03/09/2026 18:00",
-        "openstack": "26/08/2026 06:00",
-        "closeC": "31/08/2026 00:00",
-        "closeD": "31/08/2026 03:00",
-        "verified": false
-      },
-      {
-        "name": "SIMAG SHANGHAI",
-        "code": "2627S / 2627S",
-        "eta": "02/09/2026 14:00",
-        "etd": "03/09/2026 00:01",
-        "openstack": "28/08/2026 20:00",
-        "closeC": "02/09/2026 14:00",
-        "closeD": "02/09/2026 17:00",
-        "verified": false
       },
       {
         "name": "CMA CGM POINTE DU PITON",
@@ -142,6 +142,16 @@
         "openstack": "30/08/2026 23:00",
         "closeC": "04/09/2026 17:00",
         "closeD": "04/09/2026 20:00",
+        "verified": false
+      },
+      {
+        "name": "SEVILLIA",
+        "code": "1526S / 1526S",
+        "eta": "05/09/2026 18:00",
+        "etd": "06/09/2026 02:30",
+        "openstack": "31/08/2026 18:00",
+        "closeC": "06/09/2026 12:00",
+        "closeD": "06/09/2026 15:00",
         "verified": false
       },
       {
@@ -263,15 +273,6 @@
         "mmsi": "636019895",
         "imo": "9864538",
         "location": "Eastern China Sea"
-      },
-      {
-        "name": "YM EFFICIENCY",
-        "code": "YMYM069",
-        "voyage": "206S         / 206N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "atb": "31/08/2026 10:50",
-        "etd": "01/09/2026 16:00"
       }
     ],
     "schedule": [
