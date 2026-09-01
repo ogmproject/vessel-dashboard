@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:45:45+00:00",
+  "generated_at": "2026-09-01T12:01:11+00:00",
   "tps": {
     "alongside": [
       {
@@ -339,8 +339,7 @@
         "openstack": "30/08/2026 03:30",
         "closeC": "03/09/2026 16:00",
         "mmsi": "477883500",
-        "imo": "9412828",
-        "location": "Java Sea"
+        "imo": "9412828"
       },
       {
         "name": "AS CAROLINA",
