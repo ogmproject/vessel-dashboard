@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T22:30:50+00:00",
+  "generated_at": "2026-09-01T22:44:21+00:00",
   "tps": {
     "alongside": [
       {
@@ -341,6 +341,18 @@
       }
     ],
     "departed": [
+      {
+        "name": "YM CENTENNIAL",
+        "code": "YMAL006",
+        "voyage": "070S         / 070N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "atb": "01/09/2026 04:46",
+        "etd": "02/09/2026 05:15",
+        "mmsi": "636019895",
+        "imo": "9864538",
+        "location": "Eastern China Sea"
+      },
       {
         "name": "YM EFFICIENCY",
         "code": "YMYM069",
