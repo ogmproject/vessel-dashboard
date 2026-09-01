@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T05:02:32+00:00",
+  "generated_at": "2026-09-01T05:45:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -193,6 +193,16 @@
         "mmsi": "566773000",
         "imo": "9632741",
         "location": "Java Sea"
+      },
+      {
+        "name": "MSC ZAINA III",
+        "code": "HC632A / HC634R",
+        "eta": "07/09/2026 00:00",
+        "etd": "08/09/2026 06:30",
+        "openstack": "02/09/2026 00:00",
+        "closeC": "06/09/2026 18:00",
+        "closeD": "06/09/2026 21:00",
+        "verified": false
       }
     ],
     "movement": [
@@ -310,9 +320,9 @@
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "03/09/2026 21:00",
-        "etd": "04/09/2026 21:00",
-        "openstack": "29/08/2026 21:00",
+        "etb": "04/09/2026 03:30",
+        "etd": "04/09/2026 16:00",
+        "openstack": "30/08/2026 03:30",
         "closeC": "03/09/2026 16:00",
         "mmsi": "477883500",
         "imo": "9412828",
@@ -324,9 +334,9 @@
         "voyage": "2608E        / 2609W",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "05/09/2026 06:00",
-        "etd": "06/09/2026 19:00",
-        "openstack": "31/08/2026 06:00",
+        "etb": "07/09/2026 10:30",
+        "etd": "08/09/2026 00:00",
+        "openstack": "02/09/2026 10:30",
         "closeC": "05/09/2026 10:00"
       }
     ],
