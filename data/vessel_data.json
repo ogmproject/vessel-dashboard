@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T14:00:55+00:00",
+  "generated_at": "2026-09-01T14:15:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -79,7 +79,7 @@
         "verified": false,
         "mmsi": "636016118",
         "imo": "9204477",
-        "location": "Singapore Strait"
+        "location": "South China Sea"
       },
       {
         "name": "CMA CGM POINTE DU PITON",
