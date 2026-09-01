@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T18:01:20+00:00",
+  "generated_at": "2026-09-01T18:15:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -181,7 +181,8 @@
         "closeD": "06/09/2026 21:00",
         "verified": false,
         "mmsi": "566773000",
-        "imo": "9632741"
+        "imo": "9632741",
+        "location": "Java Sea"
       },
       {
         "name": "MSC ZAINA III",
