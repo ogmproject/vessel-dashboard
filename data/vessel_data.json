@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T20:45:41+00:00",
+  "generated_at": "2026-09-01T21:01:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -58,8 +58,7 @@
         "closeD": "01/09/2026 05:00",
         "verified": false,
         "mmsi": "413125000",
-        "imo": "9304801",
-        "location": "Java Sea"
+        "imo": "9304801"
       },
       {
         "name": "JOANNA",
@@ -71,8 +70,7 @@
         "closeD": "02/09/2026 11:00",
         "verified": false,
         "mmsi": "636016118",
-        "imo": "9204477",
-        "location": "Java Sea"
+        "imo": "9204477"
       },
       {
         "name": "CMA CGM POINTE DU PITON",
@@ -174,8 +172,7 @@
         "closeD": "06/09/2026 21:00",
         "verified": false,
         "mmsi": "566773000",
-        "imo": "9632741",
-        "location": "Java Sea"
+        "imo": "9632741"
       },
       {
         "name": "MSC ZAINA III",
@@ -229,8 +226,7 @@
         "berth": "31/08/2026 18:55",
         "dep": "01/09/2026 16:00",
         "mmsi": "370700000",
-        "imo": "9787015",
-        "location": "Java Sea"
+        "imo": "9787015"
       },
       {
         "name": "EVER BEFIT",
@@ -247,8 +243,7 @@
         "berth": "30/08/2026 03:18",
         "dep": "31/08/2026 00:12",
         "mmsi": "563169200",
-        "imo": "9771664",
-        "location": "South China Sea"
+        "imo": "9771664"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
@@ -266,8 +261,7 @@
         "openstack": "28/08/2026 01:00",
         "closeC": "01/09/2026 19:00",
         "mmsi": "352006269",
-        "imo": "1115565",
-        "location": "Java Sea"
+        "imo": "1115565"
       },
       {
         "name": "SHANGHAI VOYAGER",
@@ -300,8 +294,7 @@
         "openstack": "29/08/2026 06:00",
         "closeC": "02/09/2026 03:00",
         "mmsi": "538011074",
-        "imo": "9969948",
-        "location": "Singapore Strait"
+        "imo": "9969948"
       },
       {
         "name": "BELAWAN",
@@ -314,8 +307,7 @@
         "openstack": "30/08/2026 03:30",
         "closeC": "03/09/2026 16:00",
         "mmsi": "477883500",
-        "imo": "9412828",
-        "location": "Java Sea"
+        "imo": "9412828"
       },
       {
         "name": "AS CAROLINA",
