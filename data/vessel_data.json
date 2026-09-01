@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T19:01:02+00:00",
+  "generated_at": "2026-09-01T19:15:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -342,7 +342,17 @@
         "closeC": "07/09/2026 12:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "YM EFFICIENCY",
+        "code": "YMYM069",
+        "voyage": "206S         / 206N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "atb": "31/08/2026 10:50",
+        "etd": "01/09/2026 20:38"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
