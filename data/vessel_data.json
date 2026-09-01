@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T01:45:44+00:00",
+  "generated_at": "2026-09-01T01:46:29+00:00",
   "tps": {
     "alongside": [
       {
@@ -65,8 +65,7 @@
         "closeD": "01/09/2026 05:00",
         "verified": false,
         "mmsi": "413125000",
-        "imo": "9304801",
-        "location": "Java Sea"
+        "imo": "9304801"
       },
       {
         "name": "HONG TAI 656",
