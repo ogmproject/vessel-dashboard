@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-01T09:31:02+00:00",
+  "generated_at": "2026-09-01T09:45:46+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - HYUNDAI UNITY",
         "code": "0184S / 0184N",
         "atb": "31/08/2026 21:05",
-        "etd": "02/09/2026 05:00",
+        "etd": "02/09/2026 04:30",
         "verified": false
       },
       {
@@ -20,7 +20,7 @@
         "name": "I1 - KMTC SHANGHAI",
         "code": "2607S / 2607N",
         "atb": "01/09/2026 07:06",
-        "etd": "01/09/2026 22:00",
+        "etd": "02/09/2026 01:00",
         "verified": false
       }
     ],
