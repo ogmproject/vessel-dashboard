@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T01:46:29+00:00",
+  "generated_at": "2026-09-01T02:00:54+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,7 +13,7 @@
         "name": "I3 - EVER BEFIT",
         "code": "1203-081B / 1203-081B",
         "atb": "31/08/2026 14:10",
-        "etd": "01/09/2026 12:30",
+        "etd": "01/09/2026 13:00",
         "verified": false
       },
       {
@@ -65,7 +65,8 @@
         "closeD": "01/09/2026 05:00",
         "verified": false,
         "mmsi": "413125000",
-        "imo": "9304801"
+        "imo": "9304801",
+        "location": "Java Sea"
       },
       {
         "name": "HONG TAI 656",
