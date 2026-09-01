@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T22:45:42+00:00",
+  "generated_at": "2026-09-01T23:01:00+00:00",
   "tps": {
     "alongside": [
       {
@@ -15,19 +15,16 @@
         "atb": "01/09/2026 17:10",
         "etd": "02/09/2026 08:00",
         "verified": false
+      },
+      {
+        "name": "I2 - HONG TAI 656",
+        "code": "635N / 635N",
+        "atb": "02/09/2026 05:55",
+        "etd": "03/09/2026 08:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "HONG TAI 656",
-        "code": "635N / 635N",
-        "eta": "02/09/2026 02:00",
-        "etd": "03/09/2026 08:00",
-        "openstack": "26/08/2026 06:00",
-        "closeC": "31/08/2026 00:00",
-        "closeD": "31/08/2026 03:00",
-        "verified": false
-      },
       {
         "name": "MSC SHIVALIKA III",
         "code": "HV636R / HV636R",
