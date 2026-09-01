@@ -563,8 +563,8 @@
     "vessel_name": "KMTC SHANGHAI",
     "terminal": "TPS",
     "arrival": "2026-09-01T07:06:00",
-    "departure": null,
-    "recorded_at": "2026-09-01T00:30:54.187115"
+    "departure": "2026-09-02T02:48:00",
+    "recorded_at": "2026-09-01T20:00:53.878562"
   },
   {
     "vessel_name": "SITC BATANGAS",

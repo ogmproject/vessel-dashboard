@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T19:45:44+00:00",
+  "generated_at": "2026-09-01T20:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,14 +13,7 @@
         "name": "I3 - SITC BATANGAS",
         "code": "2616S / 2617N",
         "atb": "01/09/2026 17:10",
-        "etd": "02/09/2026 10:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - KMTC SHANGHAI",
-        "code": "2607S / 2607N",
-        "atb": "01/09/2026 07:06",
-        "etd": "02/09/2026 01:00",
+        "etd": "02/09/2026 08:00",
         "verified": false
       }
     ],
@@ -226,6 +219,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "KMTC SHANGHAI",
+        "berth": "01/09/2026 07:06",
+        "dep": "02/09/2026 02:48"
+      },
       {
         "name": "EVER BOOMY",
         "berth": "31/08/2026 18:55",
