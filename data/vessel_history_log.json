@@ -542,8 +542,8 @@
     "vessel_name": "EVER BOOMY",
     "terminal": "TPS",
     "arrival": "2026-08-31T18:55:00",
-    "departure": null,
-    "recorded_at": "2026-08-31T12:01:39.089634"
+    "departure": "2026-09-01T16:00:00",
+    "recorded_at": "2026-09-01T10:00:59.644550"
   },
   {
     "vessel_name": "HYUNDAI UNITY",
