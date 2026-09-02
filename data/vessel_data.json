@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T06:15:46+00:00",
+  "generated_at": "2026-09-02T06:31:03+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "635N / 635N",
         "atb": "02/09/2026 05:55",
         "etd": "03/09/2026 08:00",
+        "verified": false
+      },
+      {
+        "name": "I1 - SIMAG SHANGHAI",
+        "code": "2627S / 2627S",
+        "atb": "02/09/2026 13:20",
+        "etd": "02/09/2026 22:00",
         "verified": false
       }
     ],
@@ -19,16 +26,6 @@
         "openstack": "28/08/2026 02:00",
         "closeC": "01/09/2026 20:00",
         "closeD": "01/09/2026 23:00",
-        "verified": false
-      },
-      {
-        "name": "SIMAG SHANGHAI",
-        "code": "2627S / 2627S",
-        "eta": "02/09/2026 14:00",
-        "etd": "02/09/2026 22:00",
-        "openstack": "28/08/2026 20:00",
-        "closeC": "02/09/2026 14:00",
-        "closeD": "02/09/2026 17:00",
         "verified": false
       },
       {
