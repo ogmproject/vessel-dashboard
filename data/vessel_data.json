@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T08:31:14+00:00",
+  "generated_at": "2026-09-02T08:45:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -154,7 +154,8 @@
         "closeD": "06/09/2026 21:00",
         "verified": false,
         "mmsi": "566773000",
-        "imo": "9632741"
+        "imo": "9632741",
+        "location": "Java Sea"
       },
       {
         "name": "AS CASPRIA",
