@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T05:30:08+00:00",
+  "generated_at": "2026-09-02T05:31:12+00:00",
   "tps": {
     "alongside": [
       {
@@ -54,8 +54,7 @@
         "closeD": "02/09/2026 11:00",
         "verified": false,
         "mmsi": "636016118",
-        "imo": "9204477",
-        "location": "Java Sea"
+        "imo": "9204477"
       },
       {
         "name": "CMA CGM POINTE DU PITON",
