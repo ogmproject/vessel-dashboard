@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T21:45:47.610042",
+  "generated_at": "2026-09-02T22:01:12.418925",
   "predictions": [
     {
       "vessel_name": "HONG TAI 656",
@@ -10,6 +10,17 @@
       "interval_stddev_days": 3.2,
       "avg_dwelling_hours": 19.7,
       "visits_recorded": 4,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "JOANNA",
+      "terminal": "TPS",
+      "last_arrival": "2026-09-03T04:50:00",
+      "predicted_next_arrival": "2026-09-12T09:35:00",
+      "avg_interval_days": 9.2,
+      "interval_stddev_days": 1.2,
+      "avg_dwelling_hours": 34.0,
+      "visits_recorded": 3,
       "confidence": "medium"
     }
   ]

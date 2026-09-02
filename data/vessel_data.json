@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T21:45:47+00:00",
+  "generated_at": "2026-09-02T22:01:12+00:00",
   "tps": {
     "alongside": [
       {
@@ -15,22 +15,16 @@
         "atb": "02/09/2026 16:20",
         "etd": "03/09/2026 15:00",
         "verified": false
+      },
+      {
+        "name": "I1 - JOANNA",
+        "code": "092S / 092N",
+        "atb": "03/09/2026 04:50",
+        "etd": "04/09/2026 15:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "JOANNA",
-        "code": "092S / 092N",
-        "eta": "02/09/2026 23:00",
-        "etd": "04/09/2026 15:00",
-        "openstack": "28/08/2026 14:00",
-        "closeC": "02/09/2026 08:00",
-        "closeD": "02/09/2026 11:00",
-        "verified": false,
-        "mmsi": "636016118",
-        "imo": "9204477",
-        "location": "Java Sea"
-      },
       {
         "name": "CMA CGM POINTE DU PITON",
         "code": "0XLCDS / 0XLCEN",
@@ -269,8 +263,7 @@
         "atb": "01/09/2026 04:46",
         "etd": "02/09/2026 05:15",
         "mmsi": "636019895",
-        "imo": "9864538",
-        "location": "Java Sea"
+        "imo": "9864538"
       },
       {
         "name": "SHANGHAI VOYAGER",
@@ -279,7 +272,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "02/09/2026 14:13",
-        "etd": "03/09/2026 08:00"
+        "etd": "03/09/2026 07:00"
       }
     ],
     "schedule": [
