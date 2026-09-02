@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-02T17:30:52+00:00",
+  "generated_at": "2026-09-02T17:45:53+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - XIN YAN TAI",
         "code": "273S / 273N",
         "atb": "02/09/2026 20:00",
-        "etd": "03/09/2026 20:00",
+        "etd": "03/09/2026 22:00",
         "verified": false
       },
       {
         "name": "I3 - MSC SHIVALIKA III",
         "code": "HV636R / HV636R",
         "atb": "02/09/2026 16:20",
-        "etd": "03/09/2026 10:00",
+        "etd": "03/09/2026 15:00",
         "verified": false
       },
       {
