@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T12:45:47+00:00",
+  "generated_at": "2026-09-02T13:01:04+00:00",
   "tps": {
     "alongside": [
       {
@@ -99,6 +99,16 @@
         "openstack": "30/08/2026 23:00",
         "closeC": "04/09/2026 17:00",
         "closeD": "04/09/2026 20:00",
+        "verified": false
+      },
+      {
+        "name": "CMA CGM POINTE PERCEE",
+        "code": "0XLCFS / 0XLCGN",
+        "eta": "05/09/2026 18:00",
+        "etd": "07/09/2026 14:30",
+        "openstack": "31/08/2026 18:00",
+        "closeC": "05/09/2026 12:00",
+        "closeD": "05/09/2026 15:00",
         "verified": false
       },
       {
