@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-09-02T16:01:31+00:00",
+  "generated_at": "2026-09-02T16:15:48+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - XIN YAN TAI",
         "code": "273S / 273N",
         "atb": "02/09/2026 20:00",
-        "etd": "03/09/2026 21:00",
+        "etd": "03/09/2026 20:00",
         "verified": false
       },
       {
         "name": "I3 - MSC SHIVALIKA III",
         "code": "HV636R / HV636R",
         "atb": "02/09/2026 16:20",
-        "etd": "03/09/2026 11:00",
+        "etd": "03/09/2026 10:00",
         "verified": false
       },
       {
         "name": "I2 - HONG TAI 656",
         "code": "635N / 635N",
         "atb": "02/09/2026 05:55",
-        "etd": "03/09/2026 02:00",
+        "etd": "03/09/2026 01:00",
         "verified": false
       },
       {
         "name": "I1 - SIMAG SHANGHAI",
         "code": "2627S / 2627S",
         "atb": "02/09/2026 13:20",
-        "etd": "03/09/2026 00:00",
+        "etd": "03/09/2026 01:00",
         "verified": false
       }
     ],
@@ -281,7 +281,8 @@
         "atb": "01/09/2026 04:46",
         "etd": "02/09/2026 05:15",
         "mmsi": "636019895",
-        "imo": "9864538"
+        "imo": "9864538",
+        "location": "Java Sea"
       },
       {
         "name": "SHANGHAI VOYAGER",
