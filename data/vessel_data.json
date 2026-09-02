@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T00:01:13+00:00",
+  "generated_at": "2026-09-02T00:15:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -298,7 +298,8 @@
         "openstack": "28/08/2026 01:00",
         "closeC": "01/09/2026 19:00",
         "mmsi": "352006269",
-        "imo": "1115565"
+        "imo": "1115565",
+        "location": "Java Sea"
       },
       {
         "name": "BELAWAN",
