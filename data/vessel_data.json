@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T07:01:03+00:00",
+  "generated_at": "2026-09-02T07:15:57+00:00",
   "tps": {
     "alongside": [
       {
@@ -165,16 +165,6 @@
         "verified": false
       },
       {
-        "name": "EVER BEAMY",
-        "code": "1204-082B / 1204-082B",
-        "eta": "06/09/2026 22:00",
-        "etd": "07/09/2026 23:30",
-        "openstack": "01/09/2026 22:00",
-        "closeC": "06/09/2026 16:00",
-        "closeD": "06/09/2026 19:00",
-        "verified": false
-      },
-      {
         "name": "KOTA MANIS",
         "code": "0628S / 0628N",
         "eta": "07/09/2026 00:00",
@@ -188,16 +178,6 @@
         "location": "Java Sea"
       },
       {
-        "name": "MSC ZAINA III",
-        "code": "HC632A / HC634R",
-        "eta": "07/09/2026 00:00",
-        "etd": "08/09/2026 06:30",
-        "openstack": "02/09/2026 00:00",
-        "closeC": "06/09/2026 18:00",
-        "closeD": "06/09/2026 21:00",
-        "verified": false
-      },
-      {
         "name": "APL PUSAN",
         "code": "CS2040S / CS2050N",
         "eta": "07/09/2026 01:00",
@@ -208,6 +188,16 @@
         "verified": false
       },
       {
+        "name": "EVER BEAMY",
+        "code": "1204-082B / 1204-082B",
+        "eta": "07/09/2026 02:00",
+        "etd": "07/09/2026 22:00",
+        "openstack": "01/09/2026 22:00",
+        "closeC": "06/09/2026 16:00",
+        "closeD": "06/09/2026 19:00",
+        "verified": false
+      },
+      {
         "name": "STARSHIP VENUS",
         "code": "2607S / 2607N",
         "eta": "07/09/2026 20:00",
@@ -215,6 +205,16 @@
         "openstack": "02/09/2026 20:00",
         "closeC": "07/09/2026 14:00",
         "closeD": "07/09/2026 17:00",
+        "verified": false
+      },
+      {
+        "name": "MSC ZAINA III",
+        "code": "HC632A / HC634R",
+        "eta": "08/09/2026 00:01",
+        "etd": "09/09/2026 00:01",
+        "openstack": "02/09/2026 00:00",
+        "closeC": "06/09/2026 18:00",
+        "closeD": "06/09/2026 21:00",
         "verified": false
       }
     ],
@@ -270,29 +270,18 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "SHANGHAI VOYAGER",
         "code": "SHVO012",
         "voyage": "2607S        / 2607N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "02/09/2026 13:00",
-        "etd": "03/09/2026 07:00",
-        "openstack": "28/08/2026 04:00",
-        "closeC": "01/09/2026 16:00"
-      },
-      {
-        "name": "HALLEY",
-        "code": "HALY008",
-        "voyage": "015E         / 016W",
-        "type": "INTERNATIONAL",
-        "etb": "02/09/2026 16:00",
-        "etd": "03/09/2026 16:00",
-        "openstack": "28/08/2026 16:00",
-        "closeC": "02/09/2026 16:00"
-      },
+        "atb": "02/09/2026 14:13",
+        "etd": "03/09/2026 08:00"
+      }
+    ],
+    "schedule": [
       {
         "name": "CELSIUS EINDHOVEN",
         "code": "CEUS011",
@@ -318,6 +307,16 @@
         "mmsi": "352006269",
         "imo": "1115565",
         "location": "Java Sea"
+      },
+      {
+        "name": "HALLEY",
+        "code": "HALY008",
+        "voyage": "015E         / 016W",
+        "type": "INTERNATIONAL",
+        "etb": "03/09/2026 10:00",
+        "etd": "04/09/2026 07:00",
+        "openstack": "28/08/2026 16:00",
+        "closeC": "02/09/2026 16:00"
       },
       {
         "name": "BELAWAN",
