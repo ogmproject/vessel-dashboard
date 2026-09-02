@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T02:15:51+00:00",
+  "generated_at": "2026-09-02T02:46:05+00:00",
   "tps": {
     "alongside": [
       {
@@ -283,7 +283,7 @@
         "etb": "03/09/2026 06:00",
         "etd": "04/09/2026 14:30",
         "openstack": "29/08/2026 06:00",
-        "closeC": "02/09/2026 03:00",
+        "closeC": "02/09/2026 16:00",
         "mmsi": "538011074",
         "imo": "9969948",
         "location": "Singapore Strait"
@@ -349,7 +349,7 @@
         "etd": "02/09/2026 05:15",
         "mmsi": "636019895",
         "imo": "9864538",
-        "location": "Eastern China Sea"
+        "location": "Java Sea"
       },
       {
         "name": "YM EFFICIENCY",
