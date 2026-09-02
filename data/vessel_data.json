@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-02T11:15:49+00:00",
+  "generated_at": "2026-09-02T11:30:58+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I3 - MSC SHIVALIKA III",
         "code": "HV636R / HV636R",
         "atb": "02/09/2026 16:20",
-        "etd": "03/09/2026 09:00",
+        "etd": "03/09/2026 11:00",
         "verified": false
       },
       {
         "name": "I2 - HONG TAI 656",
         "code": "635N / 635N",
         "atb": "02/09/2026 05:55",
-        "etd": "03/09/2026 08:00",
+        "etd": "03/09/2026 02:00",
         "verified": false
       },
       {
         "name": "I1 - SIMAG SHANGHAI",
         "code": "2627S / 2627S",
         "atb": "02/09/2026 13:20",
-        "etd": "02/09/2026 22:00",
+        "etd": "03/09/2026 00:00",
         "verified": false
       }
     ],
