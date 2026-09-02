@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T19:45:46+00:00",
+  "generated_at": "2026-09-02T20:00:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,20 +14,6 @@
         "code": "HV636R / HV636R",
         "atb": "02/09/2026 16:20",
         "etd": "03/09/2026 15:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - HONG TAI 656",
-        "code": "635N / 635N",
-        "atb": "02/09/2026 05:55",
-        "etd": "03/09/2026 01:30",
-        "verified": false
-      },
-      {
-        "name": "I1 - SIMAG SHANGHAI",
-        "code": "2627S / 2627S",
-        "atb": "02/09/2026 13:20",
-        "etd": "03/09/2026 01:30",
         "verified": false
       }
     ],
@@ -220,6 +206,16 @@
       }
     ],
     "movement": [
+      {
+        "name": "HONG TAI 656",
+        "berth": "02/09/2026 05:55",
+        "dep": "03/09/2026 02:32"
+      },
+      {
+        "name": "SIMAG SHANGHAI",
+        "berth": "02/09/2026 13:20",
+        "dep": "03/09/2026 02:08"
+      },
       {
         "name": "SITC BATANGAS",
         "berth": "01/09/2026 17:10",

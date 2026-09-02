@@ -577,15 +577,15 @@
     "vessel_name": "HONG TAI 656",
     "terminal": "TPS",
     "arrival": "2026-09-02T05:55:00",
-    "departure": null,
-    "recorded_at": "2026-09-01T23:01:00.514882"
+    "departure": "2026-09-03T02:32:00",
+    "recorded_at": "2026-09-02T20:00:58.996412"
   },
   {
     "vessel_name": "SIMAG SHANGHAI",
     "terminal": "TPS",
     "arrival": "2026-09-02T13:20:00",
-    "departure": null,
-    "recorded_at": "2026-09-02T06:31:04.130868"
+    "departure": "2026-09-03T02:08:00",
+    "recorded_at": "2026-09-02T20:00:58.996412"
   },
   {
     "vessel_name": "SHANGHAI VOYAGER",
