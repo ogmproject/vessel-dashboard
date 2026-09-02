@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T16:45:53+00:00",
+  "generated_at": "2026-09-02T17:01:06+00:00",
   "tps": {
     "alongside": [
       {
@@ -258,14 +258,6 @@
         "name": "EVER CANDID",
         "berth": "31/08/2026 10:40",
         "dep": "01/09/2026 04:20"
-      },
-      {
-        "name": "INTERASIA ENGAGE",
-        "berth": "30/08/2026 03:18",
-        "dep": "31/08/2026 00:12",
-        "mmsi": "563169200",
-        "imo": "9771664",
-        "location": "South China Sea"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
@@ -378,7 +370,8 @@
         "openstack": "02/09/2026 17:00",
         "closeC": "07/09/2026 12:00",
         "mmsi": "563279800",
-        "imo": "9407134"
+        "imo": "9407134",
+        "location": "South China Sea"
       }
     ],
     "departed": [],
