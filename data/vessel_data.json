@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T12:31:14+00:00",
+  "generated_at": "2026-09-02T12:45:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -289,18 +289,6 @@
     ],
     "schedule": [
       {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN005",
-        "voyage": "011S         / 011N",
-        "type": "INTERNATIONAL",
-        "etb": "03/09/2026 08:00",
-        "etd": "03/09/2026 22:00",
-        "openstack": "28/08/2026 01:00",
-        "closeC": "01/09/2026 19:00",
-        "mmsi": "352006269",
-        "imo": "1115565"
-      },
-      {
         "name": "HALLEY",
         "code": "HALY008",
         "voyage": "015E         / 016W",
@@ -309,6 +297,19 @@
         "etd": "04/09/2026 07:00",
         "openstack": "28/08/2026 16:00",
         "closeC": "02/09/2026 16:00"
+      },
+      {
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN005",
+        "voyage": "011S         / 011N",
+        "type": "INTERNATIONAL",
+        "etb": "03/09/2026 23:00",
+        "etd": "05/09/2026 09:30",
+        "openstack": "29/08/2026 23:00",
+        "closeC": "01/09/2026 19:00",
+        "mmsi": "352006269",
+        "imo": "1115565",
+        "location": "Java Sea"
       },
       {
         "name": "BELAWAN",
