@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T22:01:12+00:00",
+  "generated_at": "2026-09-02T22:15:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -254,17 +254,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "YM CENTENNIAL",
-        "code": "YMAL006",
-        "voyage": "070S         / 070N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "atb": "01/09/2026 04:46",
-        "etd": "02/09/2026 05:15",
-        "mmsi": "636019895",
-        "imo": "9864538"
-      },
       {
         "name": "SHANGHAI VOYAGER",
         "code": "SHVO012",
