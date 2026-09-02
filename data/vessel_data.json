@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-02T05:01:16+00:00",
+  "generated_at": "2026-09-02T05:15:56+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I3 - SITC BATANGAS",
-        "code": "2616S / 2617N",
-        "atb": "01/09/2026 17:10",
-        "etd": "02/09/2026 08:00",
-        "verified": false
-      },
       {
         "name": "I2 - HONG TAI 656",
         "code": "635N / 635N",
@@ -230,6 +223,14 @@
     ],
     "movement": [
       {
+        "name": "SITC BATANGAS",
+        "berth": "01/09/2026 17:10",
+        "dep": "02/09/2026 11:52",
+        "mmsi": "477401900",
+        "imo": "9845738",
+        "location": "Java Sea"
+      },
+      {
         "name": "HYUNDAI UNITY",
         "berth": "31/08/2026 21:05",
         "dep": "02/09/2026 03:30",
@@ -332,8 +333,7 @@
         "openstack": "30/08/2026 03:30",
         "closeC": "03/09/2026 16:00",
         "mmsi": "477883500",
-        "imo": "9412828",
-        "location": "Java Sea"
+        "imo": "9412828"
       },
       {
         "name": "AS CAROLINA",
@@ -368,7 +368,8 @@
         "atb": "01/09/2026 04:46",
         "etd": "02/09/2026 05:15",
         "mmsi": "636019895",
-        "imo": "9864538"
+        "imo": "9864538",
+        "location": "Java Sea"
       },
       {
         "name": "YM EFFICIENCY",
