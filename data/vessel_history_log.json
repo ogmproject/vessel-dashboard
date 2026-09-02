@@ -593,5 +593,12 @@
     "arrival": "2026-09-02T14:13:00",
     "departure": null,
     "recorded_at": "2026-09-02T07:15:57.619222"
+  },
+  {
+    "vessel_name": "MSC SHIVALIKA III",
+    "terminal": "TPS",
+    "arrival": "2026-09-02T16:20:00",
+    "departure": null,
+    "recorded_at": "2026-09-02T09:45:54.949810"
   }
 ]

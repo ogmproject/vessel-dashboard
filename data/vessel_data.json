@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-02T09:01:16+00:00",
+  "generated_at": "2026-09-02T09:45:54+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I3 - MSC SHIVALIKA III",
+        "code": "HV636R / HV636R",
+        "atb": "02/09/2026 16:20",
+        "etd": "03/09/2026 09:00",
+        "verified": false
+      },
       {
         "name": "I2 - HONG TAI 656",
         "code": "635N / 635N",
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MSC SHIVALIKA III",
-        "code": "HV636R / HV636R",
-        "eta": "02/09/2026 15:00",
-        "etd": "03/09/2026 09:00",
-        "openstack": "28/08/2026 02:00",
-        "closeC": "01/09/2026 20:00",
-        "closeD": "01/09/2026 23:00",
-        "verified": false
-      },
       {
         "name": "XIN YAN TAI",
         "code": "273S / 273N",
@@ -336,7 +333,7 @@
         "etb": "04/09/2026 18:00",
         "etd": "05/09/2026 23:00",
         "openstack": "30/08/2026 18:00",
-        "closeC": "04/09/2026 12:00",
+        "closeC": "03/09/2026 16:00",
         "mmsi": "538011074",
         "imo": "9969948"
       },
