@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:15:46+00:00",
+  "generated_at": "2026-09-03T10:31:15+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "273S / 273N",
         "atb": "02/09/2026 20:00",
         "etd": "03/09/2026 21:30",
-        "verified": false
-      },
-      {
-        "name": "I3 - MSC SHIVALIKA III",
-        "code": "HV636R / HV636R",
-        "atb": "02/09/2026 16:20",
-        "etd": "03/09/2026 15:00",
         "verified": false
       },
       {
@@ -241,6 +234,11 @@
     ],
     "movement": [
       {
+        "name": "MSC SHIVALIKA III",
+        "berth": "02/09/2026 16:20",
+        "dep": "03/09/2026 16:50"
+      },
+      {
         "name": "HONG TAI 656",
         "berth": "02/09/2026 05:55",
         "dep": "03/09/2026 02:32"
@@ -276,8 +274,7 @@
         "berth": "31/08/2026 18:55",
         "dep": "01/09/2026 16:00",
         "mmsi": "370700000",
-        "imo": "9787015",
-        "location": "Java Sea"
+        "imo": "9787015"
       },
       {
         "name": "EVER BEFIT",

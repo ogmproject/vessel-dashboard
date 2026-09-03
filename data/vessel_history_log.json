@@ -598,8 +598,8 @@
     "vessel_name": "MSC SHIVALIKA III",
     "terminal": "TPS",
     "arrival": "2026-09-02T16:20:00",
-    "departure": null,
-    "recorded_at": "2026-09-02T09:45:54.949810"
+    "departure": "2026-09-03T16:50:00",
+    "recorded_at": "2026-09-03T10:31:15.553113"
   },
   {
     "vessel_name": "XIN YAN TAI",
