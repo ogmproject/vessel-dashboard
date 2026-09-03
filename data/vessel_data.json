@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T04:46:39+00:00",
+  "generated_at": "2026-09-03T05:00:59+00:00",
   "tps": {
     "alongside": [
       {
@@ -273,18 +273,17 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "HALLEY",
         "code": "HALY008",
         "voyage": "015E         / 016W",
         "type": "INTERNATIONAL",
-        "etb": "03/09/2026 11:00",
-        "etd": "04/09/2026 08:00",
-        "openstack": "28/08/2026 16:00",
-        "closeC": "02/09/2026 16:00"
-      },
+        "atb": "03/09/2026 11:45",
+        "etd": "04/09/2026 08:00"
+      }
+    ],
+    "schedule": [
       {
         "name": "BELAWAN",
         "code": "BEAN013",

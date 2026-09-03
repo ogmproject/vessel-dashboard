@@ -614,5 +614,12 @@
     "arrival": "2026-09-03T04:50:00",
     "departure": null,
     "recorded_at": "2026-09-02T22:01:12.418925"
+  },
+  {
+    "vessel_name": "HALLEY",
+    "terminal": "TL",
+    "arrival": "2026-09-03T11:45:00",
+    "departure": null,
+    "recorded_at": "2026-09-03T05:00:59.179211"
   }
 ]
