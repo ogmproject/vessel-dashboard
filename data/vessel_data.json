@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T13:30:50+00:00",
+  "generated_at": "2026-09-03T13:45:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -295,7 +295,7 @@
         "voyage": "015E         / 016W",
         "type": "INTERNATIONAL",
         "atb": "03/09/2026 11:45",
-        "etd": "04/09/2026 09:00"
+        "etd": "04/09/2026 07:00"
       }
     ],
     "schedule": [
@@ -305,7 +305,7 @@
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "04/09/2026 04:00",
+        "etb": "04/09/2026 06:00",
         "etd": "05/09/2026 00:00",
         "openstack": "30/08/2026 03:30",
         "closeC": "03/09/2026 16:00",
@@ -383,7 +383,8 @@
         "etb": "08/09/2026 15:00",
         "etd": "09/09/2026 15:00",
         "openstack": "03/09/2026 15:00",
-        "closeC": "08/09/2026 10:00"
+        "closeC": "08/09/2026 10:00",
+        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
       }
     ],
     "departed": [
