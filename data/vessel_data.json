@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T23:00:56+00:00",
+  "generated_at": "2026-09-03T23:15:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -273,6 +273,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "SHANGHAI VOYAGER",
+        "code": "SHVO012",
+        "voyage": "2607S        / 2607N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "atb": "02/09/2026 14:13",
+        "etd": "03/09/2026 07:10"
+      },
+      {
         "name": "HALLEY",
         "code": "HALY008",
         "voyage": "015E         / 016W",
@@ -370,17 +379,7 @@
         "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
       }
     ],
-    "departed": [
-      {
-        "name": "SHANGHAI VOYAGER",
-        "code": "SHVO012",
-        "voyage": "2607S        / 2607N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "atb": "02/09/2026 14:13",
-        "etd": "03/09/2026 07:10"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
