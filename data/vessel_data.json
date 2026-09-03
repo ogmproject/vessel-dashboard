@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T09:01:04+00:00",
+  "generated_at": "2026-09-03T09:31:29+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - XIN YAN TAI",
         "code": "273S / 273N",
         "atb": "02/09/2026 20:00",
-        "etd": "03/09/2026 22:00",
+        "etd": "03/09/2026 21:30",
         "verified": false
       },
       {
@@ -379,6 +379,16 @@
         "mmsi": "563279800",
         "imo": "9407134",
         "location": "South China Sea"
+      },
+      {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU006",
+        "voyage": "012S         / 012N",
+        "type": "INTERNATIONAL",
+        "etb": "08/09/2026 15:00",
+        "etd": "09/09/2026 15:00",
+        "openstack": "03/09/2026 15:00",
+        "closeC": "08/09/2026 10:00"
       }
     ],
     "departed": [
