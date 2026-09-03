@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-03T15:15:48+00:00",
+  "generated_at": "2026-09-03T15:30:52+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - XIN YAN TAI",
-        "code": "273S / 273N",
-        "atb": "02/09/2026 20:00",
-        "etd": "03/09/2026 21:30",
-        "verified": false
-      },
       {
         "name": "I2 - CMA CGM POINTE DU PITON",
         "code": "0XLCDS / 0XLCEN",
@@ -230,6 +223,14 @@
       }
     ],
     "movement": [
+      {
+        "name": "XIN YAN TAI",
+        "berth": "02/09/2026 20:00",
+        "dep": "03/09/2026 22:17",
+        "mmsi": "413125000",
+        "imo": "9304801",
+        "location": "Java Sea"
+      },
       {
         "name": "MSC SHIVALIKA III",
         "berth": "02/09/2026 16:20",
