@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T13:15:53+00:00",
+  "generated_at": "2026-09-03T13:30:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "273S / 273N",
         "atb": "02/09/2026 20:00",
         "etd": "03/09/2026 21:30",
+        "verified": false
+      },
+      {
+        "name": "I2 - CMA CGM POINTE DU PITON",
+        "code": "0XLCDS / 0XLCEN",
+        "atb": "03/09/2026 20:23",
+        "etd": "05/09/2026 05:00",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "CMA CGM POINTE DU PITON",
-        "code": "0XLCDS / 0XLCEN",
-        "eta": "03/09/2026 19:30",
-        "etd": "05/09/2026 05:00",
-        "openstack": "25/08/2026 16:00",
-        "closeC": "30/08/2026 10:00",
-        "closeD": "30/08/2026 13:00",
-        "verified": false
-      },
       {
         "name": "SINAR SULAWESI",
         "code": "094S / 094N",
