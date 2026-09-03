@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T03:16:23+00:00",
+  "generated_at": "2026-09-03T03:30:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -280,23 +280,10 @@
         "code": "HALY008",
         "voyage": "015E         / 016W",
         "type": "INTERNATIONAL",
-        "etb": "03/09/2026 10:00",
-        "etd": "04/09/2026 07:00",
+        "etb": "03/09/2026 11:00",
+        "etd": "04/09/2026 08:00",
         "openstack": "28/08/2026 16:00",
         "closeC": "02/09/2026 16:00"
-      },
-      {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN005",
-        "voyage": "011S         / 011N",
-        "type": "INTERNATIONAL",
-        "etb": "03/09/2026 23:00",
-        "etd": "05/09/2026 09:30",
-        "openstack": "29/08/2026 23:00",
-        "closeC": "01/09/2026 19:00",
-        "mmsi": "352006269",
-        "imo": "1115565",
-        "location": "Java Sea"
       },
       {
         "name": "BELAWAN",
@@ -304,12 +291,25 @@
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "04/09/2026 03:30",
-        "etd": "04/09/2026 16:00",
+        "etb": "04/09/2026 04:00",
+        "etd": "05/09/2026 00:00",
         "openstack": "30/08/2026 03:30",
         "closeC": "03/09/2026 16:00",
         "mmsi": "477883500",
         "imo": "9412828",
+        "location": "Java Sea"
+      },
+      {
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN005",
+        "voyage": "011S         / 011N",
+        "type": "INTERNATIONAL",
+        "etb": "04/09/2026 13:00",
+        "etd": "05/09/2026 06:00",
+        "openstack": "29/08/2026 23:00",
+        "closeC": "01/09/2026 19:00",
+        "mmsi": "352006269",
+        "imo": "1115565",
         "location": "Java Sea"
       },
       {
