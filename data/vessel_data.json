@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:45:48+00:00",
+  "generated_at": "2026-09-03T17:00:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -266,24 +266,6 @@
         "name": "KMTC SHANGHAI",
         "berth": "01/09/2026 07:06",
         "dep": "02/09/2026 02:48"
-      },
-      {
-        "name": "EVER BOOMY",
-        "berth": "31/08/2026 18:55",
-        "dep": "01/09/2026 16:00",
-        "mmsi": "370700000",
-        "imo": "9787015",
-        "location": "Java Sea"
-      },
-      {
-        "name": "EVER BEFIT",
-        "berth": "31/08/2026 14:10",
-        "dep": "01/09/2026 13:25"
-      },
-      {
-        "name": "EVER CANDID",
-        "berth": "31/08/2026 10:40",
-        "dep": "01/09/2026 04:20"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
