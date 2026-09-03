@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:45:43+00:00",
+  "generated_at": "2026-09-03T11:01:23+00:00",
   "tps": {
     "alongside": [
       {
@@ -274,8 +274,7 @@
         "berth": "31/08/2026 18:55",
         "dep": "01/09/2026 16:00",
         "mmsi": "370700000",
-        "imo": "9787015",
-        "location": "Java Sea"
+        "imo": "9787015"
       },
       {
         "name": "EVER BEFIT",
@@ -326,8 +325,7 @@
         "openstack": "29/08/2026 23:00",
         "closeC": "01/09/2026 19:00",
         "mmsi": "352006269",
-        "imo": "1115565",
-        "location": "Java Sea"
+        "imo": "1115565"
       },
       {
         "name": "CELSIUS EINDHOVEN",
