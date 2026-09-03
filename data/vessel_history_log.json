@@ -591,8 +591,8 @@
     "vessel_name": "SHANGHAI VOYAGER",
     "terminal": "TL",
     "arrival": "2026-09-02T14:13:00",
-    "departure": null,
-    "recorded_at": "2026-09-02T07:15:57.619222"
+    "departure": "2026-09-03T07:10:00",
+    "recorded_at": "2026-09-03T03:16:23.665344"
   },
   {
     "vessel_name": "MSC SHIVALIKA III",
