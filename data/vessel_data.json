@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:45:45+00:00",
+  "generated_at": "2026-09-04T17:00:59+00:00",
   "tps": {
     "alongside": [
       {
@@ -265,27 +265,6 @@
         "name": "SIMAG SHANGHAI",
         "berth": "02/09/2026 13:20",
         "dep": "03/09/2026 02:08"
-      },
-      {
-        "name": "SITC BATANGAS",
-        "berth": "01/09/2026 17:10",
-        "dep": "02/09/2026 11:52",
-        "mmsi": "477401900",
-        "imo": "9845738",
-        "location": "Java Sea"
-      },
-      {
-        "name": "HYUNDAI UNITY",
-        "berth": "31/08/2026 21:05",
-        "dep": "02/09/2026 03:30",
-        "mmsi": "538007483",
-        "imo": "9330719",
-        "location": "Java Sea"
-      },
-      {
-        "name": "KMTC SHANGHAI",
-        "berth": "01/09/2026 07:06",
-        "dep": "02/09/2026 02:48"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
@@ -406,7 +385,8 @@
         "openstack": "05/09/2026 00:00",
         "closeC": "09/09/2026 18:00",
         "mmsi": "636024258",
-        "imo": "9168207"
+        "imo": "9168207",
+        "location": "South China Sea"
       }
     ],
     "departed": [],
