@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T23:15:43+00:00",
+  "generated_at": "2026-09-04T23:30:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,19 +22,16 @@
         "atb": "03/09/2026 20:23",
         "etd": "05/09/2026 05:30",
         "verified": false
+      },
+      {
+        "name": "I1 - MTT SANDAKAN",
+        "code": "79E / 79W",
+        "atb": "05/09/2026 06:20",
+        "etd": "06/09/2026 02:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "MTT SANDAKAN",
-        "code": "79E / 79W",
-        "eta": "05/09/2026 04:00",
-        "etd": "06/09/2026 02:00",
-        "openstack": "30/08/2026 10:00",
-        "closeC": "04/09/2026 04:00",
-        "closeD": "04/09/2026 07:00",
-        "verified": false
-      },
       {
         "name": "SEVILLIA",
         "code": "1526S / 1526S",

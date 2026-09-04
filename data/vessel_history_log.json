@@ -670,5 +670,12 @@
     "arrival": "2026-09-04T20:50:00",
     "departure": null,
     "recorded_at": "2026-09-04T14:00:55.087085"
+  },
+  {
+    "vessel_name": "MTT SANDAKAN",
+    "terminal": "TPS",
+    "arrival": "2026-09-05T06:20:00",
+    "departure": null,
+    "recorded_at": "2026-09-04T23:30:53.008321"
   }
 ]
