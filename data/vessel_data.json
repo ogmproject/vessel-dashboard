@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-04T07:00:54+00:00",
+  "generated_at": "2026-09-04T07:15:58+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I2 - CMA CGM POINTE DU PITON",
         "code": "0XLCDS / 0XLCEN",
         "atb": "03/09/2026 20:23",
-        "etd": "07/09/2026 08:00",
+        "etd": "05/09/2026 08:00",
         "verified": false
       },
       {
@@ -388,10 +388,10 @@
         "voyage": "2635S        / 2635N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "10/09/2026 03:00",
-        "etd": "11/09/2026 04:30",
-        "openstack": "05/09/2026 03:00",
-        "closeC": "09/09/2026 22:00",
+        "etb": "10/09/2026 00:00",
+        "etd": "11/09/2026 01:30",
+        "openstack": "05/09/2026 00:00",
+        "closeC": "09/09/2026 18:00",
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "South China Sea"
