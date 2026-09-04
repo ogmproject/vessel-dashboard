@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T09:15:42+00:00",
+  "generated_at": "2026-09-04T09:45:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "0XLCDS / 0XLCEN",
         "atb": "03/09/2026 20:23",
         "etd": "05/09/2026 08:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - JOANNA",
-        "code": "092S / 092N",
-        "atb": "03/09/2026 04:50",
-        "etd": "04/09/2026 08:30",
         "verified": false
       }
     ],
@@ -230,6 +223,14 @@
       }
     ],
     "movement": [
+      {
+        "name": "JOANNA",
+        "berth": "03/09/2026 04:50",
+        "dep": "04/09/2026 16:31",
+        "mmsi": "636016118",
+        "imo": "9204477",
+        "location": "Java Sea"
+      },
       {
         "name": "PEKAN RIAU",
         "berth": "03/09/2026 20:45",
