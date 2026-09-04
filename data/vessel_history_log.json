@@ -619,8 +619,8 @@
     "vessel_name": "HALLEY",
     "terminal": "TL",
     "arrival": "2026-09-03T11:45:00",
-    "departure": null,
-    "recorded_at": "2026-09-03T05:00:59.179211"
+    "departure": "2026-09-04T08:40:00",
+    "recorded_at": "2026-09-04T01:45:42.844260"
   },
   {
     "vessel_name": "CMA CGM POINTE DU PITON",

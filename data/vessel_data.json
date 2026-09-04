@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:30:48+00:00",
+  "generated_at": "2026-09-04T01:45:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -283,14 +283,6 @@
         "mmsi": "477883500",
         "imo": "9412828",
         "location": "Java Sea"
-      },
-      {
-        "name": "HALLEY",
-        "code": "HALY008",
-        "voyage": "015E         / 016W",
-        "type": "INTERNATIONAL",
-        "atb": "03/09/2026 11:45",
-        "etd": "04/09/2026 08:30"
       }
     ],
     "schedule": [
@@ -368,7 +360,16 @@
         "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "HALLEY",
+        "code": "HALY008",
+        "voyage": "015E         / 016W",
+        "type": "INTERNATIONAL",
+        "atb": "03/09/2026 11:45",
+        "etd": "04/09/2026 08:40"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
