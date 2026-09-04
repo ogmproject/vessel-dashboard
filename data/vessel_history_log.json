@@ -661,8 +661,8 @@
     "vessel_name": "SMOOTH SAILING",
     "terminal": "TPS",
     "arrival": "2026-09-04T19:04:00",
-    "departure": null,
-    "recorded_at": "2026-09-04T12:15:46.194706"
+    "departure": "2026-09-05T02:05:00",
+    "recorded_at": "2026-09-04T19:15:47.729414"
   },
   {
     "vessel_name": "EVER CHASTE",
