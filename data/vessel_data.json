@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-04T08:45:44+00:00",
+  "generated_at": "2026-09-04T09:00:55+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - SINAR SULAWESI",
+        "code": "094S / 094N",
+        "atb": "04/09/2026 15:50",
+        "etd": "06/09/2026 04:00",
+        "verified": false
+      },
       {
         "name": "I2 - CMA CGM POINTE DU PITON",
         "code": "0XLCDS / 0XLCEN",
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SINAR SULAWESI",
-        "code": "094S / 094N",
-        "eta": "04/09/2026 15:00",
-        "etd": "06/09/2026 04:00",
-        "openstack": "29/08/2026 22:00",
-        "closeC": "03/09/2026 16:00",
-        "closeD": "03/09/2026 19:00",
-        "verified": false
-      },
       {
         "name": "SMOOTH SAILING",
         "code": "088S / 088N",

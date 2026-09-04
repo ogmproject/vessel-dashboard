@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T08:45:44.359357",
+  "generated_at": "2026-09-04T09:00:55.966375",
   "predictions": [
     {
       "vessel_name": "HONG TAI 656",
@@ -20,6 +20,17 @@
       "avg_interval_days": 9.2,
       "interval_stddev_days": 1.2,
       "avg_dwelling_hours": 34.0,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "SINAR SULAWESI",
+      "terminal": "TPS",
+      "last_arrival": "2026-09-04T15:50:00",
+      "predicted_next_arrival": "2026-09-13T09:37:30",
+      "avg_interval_days": 8.7,
+      "interval_stddev_days": 1.2,
+      "avg_dwelling_hours": 39.0,
       "visits_recorded": 3,
       "confidence": "medium"
     }
