@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T06:00:50+00:00",
+  "generated_at": "2026-09-04T06:15:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -293,7 +293,7 @@
         "voyage": "011S         / 011N",
         "type": "INTERNATIONAL",
         "atb": "04/09/2026 12:30",
-        "etd": "05/09/2026 06:00",
+        "etd": "05/09/2026 07:00",
         "mmsi": "352006269",
         "imo": "1115565",
         "location": "Java Sea"
@@ -317,8 +317,8 @@
         "code": "CEUS011",
         "voyage": "033E         / 034W",
         "type": "INTERNATIONAL",
-        "etb": "04/09/2026 18:00",
-        "etd": "05/09/2026 23:00",
+        "etb": "05/09/2026 01:00",
+        "etd": "06/09/2026 06:00",
         "openstack": "30/08/2026 18:00",
         "closeC": "03/09/2026 16:00",
         "mmsi": "538011074",
@@ -369,8 +369,7 @@
         "etb": "08/09/2026 15:00",
         "etd": "09/09/2026 15:00",
         "openstack": "03/09/2026 15:00",
-        "closeC": "08/09/2026 10:00",
-        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
+        "closeC": "08/09/2026 10:00"
       }
     ],
     "departed": [
