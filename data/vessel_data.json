@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T12:30:48+00:00",
+  "generated_at": "2026-09-04T12:45:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -283,6 +283,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "HALLEY",
+        "code": "HALY008",
+        "voyage": "015E         / 016W",
+        "type": "INTERNATIONAL",
+        "atb": "03/09/2026 11:45",
+        "etd": "04/09/2026 08:40"
+      },
+      {
         "name": "WAN HANG HENG YUAN",
         "code": "WAAN005",
         "voyage": "011S         / 011N",
@@ -392,16 +400,7 @@
         "location": "South China Sea"
       }
     ],
-    "departed": [
-      {
-        "name": "HALLEY",
-        "code": "HALY008",
-        "voyage": "015E         / 016W",
-        "type": "INTERNATIONAL",
-        "atb": "03/09/2026 11:45",
-        "etd": "04/09/2026 08:40"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
