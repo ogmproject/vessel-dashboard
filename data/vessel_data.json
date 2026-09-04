@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T04:30:46+00:00",
+  "generated_at": "2026-09-04T04:45:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -224,6 +224,11 @@
     ],
     "movement": [
       {
+        "name": "PEKAN RIAU",
+        "berth": "03/09/2026 20:45",
+        "dep": "04/09/2026 10:35"
+      },
+      {
         "name": "XIN YAN TAI",
         "berth": "02/09/2026 20:00",
         "dep": "03/09/2026 22:17",
@@ -346,7 +351,7 @@
         "closeC": "07/09/2026 12:00",
         "mmsi": "563279800",
         "imo": "9407134",
-        "location": "South China Sea"
+        "location": "Java Sea"
       },
       {
         "name": "ERASMUS JUSTICE",
