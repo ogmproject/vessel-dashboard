@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T02:30:45+00:00",
+  "generated_at": "2026-09-04T02:45:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -228,8 +228,7 @@
         "berth": "02/09/2026 20:00",
         "dep": "03/09/2026 22:17",
         "mmsi": "413125000",
-        "imo": "9304801",
-        "location": "Java Sea"
+        "imo": "9304801"
       },
       {
         "name": "MSC SHIVALIKA III",
