@@ -656,5 +656,12 @@
     "arrival": "2026-09-04T15:50:00",
     "departure": null,
     "recorded_at": "2026-09-04T09:00:55.966375"
+  },
+  {
+    "vessel_name": "SMOOTH SAILING",
+    "terminal": "TPS",
+    "arrival": "2026-09-04T19:04:00",
+    "departure": null,
+    "recorded_at": "2026-09-04T12:15:46.194706"
   }
 ]
