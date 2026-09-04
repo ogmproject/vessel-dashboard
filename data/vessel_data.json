@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T05:30:46+00:00",
+  "generated_at": "2026-09-04T05:45:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -278,6 +278,17 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN005",
+        "voyage": "011S         / 011N",
+        "type": "INTERNATIONAL",
+        "atb": "04/09/2026 12:30",
+        "etd": "05/09/2026 06:00",
+        "mmsi": "352006269",
+        "imo": "1115565",
+        "location": "Java Sea"
+      },
+      {
         "name": "BELAWAN",
         "code": "BEAN013",
         "voyage": "2608S        / 2608N",
@@ -291,19 +302,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN005",
-        "voyage": "011S         / 011N",
-        "type": "INTERNATIONAL",
-        "etb": "04/09/2026 11:00",
-        "etd": "05/09/2026 06:00",
-        "openstack": "30/08/2026 11:00",
-        "closeC": "01/09/2026 19:00",
-        "mmsi": "352006269",
-        "imo": "1115565",
-        "location": "Java Sea"
-      },
       {
         "name": "CELSIUS EINDHOVEN",
         "code": "CEUS011",
