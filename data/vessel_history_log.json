@@ -663,5 +663,12 @@
     "arrival": "2026-09-04T19:04:00",
     "departure": null,
     "recorded_at": "2026-09-04T12:15:46.194706"
+  },
+  {
+    "vessel_name": "EVER CHASTE",
+    "terminal": "TPS",
+    "arrival": "2026-09-04T20:50:00",
+    "departure": null,
+    "recorded_at": "2026-09-04T14:00:55.087085"
   }
 ]

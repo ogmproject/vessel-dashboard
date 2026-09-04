@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:45:45+00:00",
+  "generated_at": "2026-09-04T14:00:54+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "094S / 094N",
         "atb": "04/09/2026 15:50",
         "etd": "06/09/2026 04:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - EVER CHASTE",
+        "code": "0552-095S / 0552-095N",
+        "atb": "04/09/2026 20:50",
+        "etd": "05/09/2026 08:00",
         "verified": false
       },
       {
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER CHASTE",
-        "code": "0552-095S / 0552-095N",
-        "eta": "04/09/2026 19:00",
-        "etd": "05/09/2026 08:00",
-        "openstack": "30/08/2026 23:00",
-        "closeC": "04/09/2026 17:00",
-        "closeD": "04/09/2026 20:00",
-        "verified": false
-      },
       {
         "name": "MTT SANDAKAN",
         "code": "79E / 79W",
