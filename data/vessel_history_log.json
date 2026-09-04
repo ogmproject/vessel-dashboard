@@ -640,8 +640,8 @@
     "vessel_name": "BELAWAN",
     "terminal": "TL",
     "arrival": "2026-09-04T06:30:00",
-    "departure": null,
-    "recorded_at": "2026-09-03T23:45:46.249543"
+    "departure": "2026-09-05T02:53:00",
+    "recorded_at": "2026-09-04T23:15:43.322763"
   },
   {
     "vessel_name": "WAN HANG HENG YUAN",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T23:00:51+00:00",
+  "generated_at": "2026-09-04T23:15:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -296,7 +296,7 @@
         "voyage": "033E         / 034W",
         "type": "INTERNATIONAL",
         "etb": "05/09/2026 07:00",
-        "etd": "06/09/2026 11:00",
+        "etd": "06/09/2026 12:00",
         "openstack": "31/08/2026 07:00",
         "closeC": "03/09/2026 16:00",
         "mmsi": "538011074",
@@ -375,7 +375,20 @@
         "location": "South China Sea"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "BELAWAN",
+        "code": "BEAN013",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "04/09/2026 06:30",
+        "etd": "05/09/2026 02:53",
+        "mmsi": "477883500",
+        "imo": "9412828",
+        "location": "Java Sea"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
