@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T23:30:52+00:00",
+  "generated_at": "2026-09-04T23:45:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "0552-095S / 0552-095N",
         "atb": "04/09/2026 20:50",
         "etd": "05/09/2026 08:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - CMA CGM POINTE DU PITON",
-        "code": "0XLCDS / 0XLCEN",
-        "atb": "03/09/2026 20:23",
-        "etd": "05/09/2026 05:30",
         "verified": false
       },
       {
@@ -220,6 +213,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "CMA CGM POINTE DU PITON",
+        "berth": "03/09/2026 20:23",
+        "dep": "05/09/2026 06:35"
+      },
       {
         "name": "SMOOTH SAILING",
         "berth": "04/09/2026 19:04",

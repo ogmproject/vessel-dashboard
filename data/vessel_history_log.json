@@ -626,8 +626,8 @@
     "vessel_name": "CMA CGM POINTE DU PITON",
     "terminal": "TPS",
     "arrival": "2026-09-03T20:23:00",
-    "departure": null,
-    "recorded_at": "2026-09-03T13:30:50.874778"
+    "departure": "2026-09-05T06:35:00",
+    "recorded_at": "2026-09-04T23:45:44.650221"
   },
   {
     "vessel_name": "PEKAN RIAU",
