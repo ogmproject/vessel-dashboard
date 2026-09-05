@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T03:00:52+00:00",
+  "generated_at": "2026-09-05T03:15:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,7 +13,7 @@
         "name": "I1 - MTT SANDAKAN",
         "code": "79E / 79W",
         "atb": "05/09/2026 06:20",
-        "etd": "06/09/2026 02:00",
+        "etd": "06/09/2026 06:00",
         "verified": false
       }
     ],
@@ -193,6 +193,19 @@
         "mmsi": "209692000",
         "imo": "9664263",
         "location": "South China Sea"
+      },
+      {
+        "name": "JOANNA",
+        "code": "093S / 093N",
+        "eta": "10/09/2026 08:00",
+        "etd": "11/09/2026 22:30",
+        "openstack": "05/09/2026 08:00",
+        "closeC": "10/09/2026 02:00",
+        "closeD": "10/09/2026 05:00",
+        "verified": false,
+        "mmsi": "636016118",
+        "imo": "9204477",
+        "location": "Java Sea"
       },
       {
         "name": "MSC ELBA III",
