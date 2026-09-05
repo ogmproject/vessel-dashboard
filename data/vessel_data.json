@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-05T20:30:47+00:00",
+  "generated_at": "2026-09-05T20:45:45+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - SINAR SULAWESI",
-        "code": "094S / 094N",
-        "atb": "04/09/2026 15:50",
-        "etd": "06/09/2026 02:30",
-        "verified": false
-      },
       {
         "name": "I1 - MTT SANDAKAN",
         "code": "79E / 79W",
@@ -219,6 +212,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SINAR SULAWESI",
+        "berth": "04/09/2026 15:50",
+        "dep": "06/09/2026 03:15"
+      },
       {
         "name": "EVER CHASTE",
         "berth": "04/09/2026 20:50",

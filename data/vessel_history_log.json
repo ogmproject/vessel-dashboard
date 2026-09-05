@@ -654,8 +654,8 @@
     "vessel_name": "SINAR SULAWESI",
     "terminal": "TPS",
     "arrival": "2026-09-04T15:50:00",
-    "departure": null,
-    "recorded_at": "2026-09-04T09:00:55.966375"
+    "departure": "2026-09-06T03:15:00",
+    "recorded_at": "2026-09-05T20:45:45.498988"
   },
   {
     "vessel_name": "SMOOTH SAILING",
