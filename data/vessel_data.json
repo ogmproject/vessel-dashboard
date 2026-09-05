@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T01:30:47+00:00",
+  "generated_at": "2026-09-05T01:45:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -264,14 +264,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "HALLEY",
-        "code": "HALY008",
-        "voyage": "015E         / 016W",
-        "type": "INTERNATIONAL",
-        "atb": "03/09/2026 11:45",
-        "etd": "04/09/2026 08:40"
-      },
       {
         "name": "CELSIUS EINDHOVEN",
         "code": "CEUS011",
