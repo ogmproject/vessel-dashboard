@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T00:45:43+00:00",
+  "generated_at": "2026-09-05T01:00:55+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,7 +13,7 @@
         "name": "I3 - EVER CHASTE",
         "code": "0552-095S / 0552-095N",
         "atb": "04/09/2026 20:50",
-        "etd": "05/09/2026 08:00",
+        "etd": "05/09/2026 08:30",
         "verified": false
       },
       {
@@ -273,6 +273,17 @@
         "etd": "04/09/2026 08:40"
       },
       {
+        "name": "CELSIUS EINDHOVEN",
+        "code": "CEUS011",
+        "voyage": "033E         / 034W",
+        "type": "INTERNATIONAL",
+        "atb": "05/09/2026 07:52",
+        "etd": "06/09/2026 12:00",
+        "mmsi": "538011074",
+        "imo": "9969948",
+        "location": "Singapore Strait"
+      },
+      {
         "name": "WAN HANG HENG YUAN",
         "code": "WAAN005",
         "voyage": "011S         / 011N",
@@ -285,19 +296,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "CELSIUS EINDHOVEN",
-        "code": "CEUS011",
-        "voyage": "033E         / 034W",
-        "type": "INTERNATIONAL",
-        "etb": "05/09/2026 07:00",
-        "etd": "06/09/2026 12:00",
-        "openstack": "31/08/2026 07:00",
-        "closeC": "03/09/2026 16:00",
-        "mmsi": "538011074",
-        "imo": "9969948",
-        "location": "Singapore Strait"
-      },
       {
         "name": "AS CAROLINA",
         "code": "ASRO006",
