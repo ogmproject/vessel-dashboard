@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T01:00:55+00:00",
+  "generated_at": "2026-09-05T01:15:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -282,17 +282,6 @@
         "mmsi": "538011074",
         "imo": "9969948",
         "location": "Singapore Strait"
-      },
-      {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN005",
-        "voyage": "011S         / 011N",
-        "type": "INTERNATIONAL",
-        "atb": "04/09/2026 12:30",
-        "etd": "05/09/2026 07:00",
-        "mmsi": "352006269",
-        "imo": "1115565",
-        "location": "Java Sea"
       }
     ],
     "schedule": [
