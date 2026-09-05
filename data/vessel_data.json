@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-05T15:30:52+00:00",
+  "generated_at": "2026-09-05T15:45:44+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SINAR SULAWESI",
         "code": "094S / 094N",
         "atb": "04/09/2026 15:50",
-        "etd": "06/09/2026 04:00",
+        "etd": "06/09/2026 03:00",
         "verified": false
       },
       {
         "name": "I1 - MTT SANDAKAN",
         "code": "79E / 79W",
         "atb": "05/09/2026 06:20",
-        "etd": "06/09/2026 06:00",
+        "etd": "06/09/2026 08:00",
         "verified": false
       }
     ],
@@ -252,7 +252,8 @@
         "berth": "02/09/2026 20:00",
         "dep": "03/09/2026 22:17",
         "mmsi": "413125000",
-        "imo": "9304801"
+        "imo": "9304801",
+        "location": "Java Sea"
       },
       {
         "name": "MSC SHIVALIKA III",
