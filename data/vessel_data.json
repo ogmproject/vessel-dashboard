@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T16:16:08+00:00",
+  "generated_at": "2026-09-05T16:45:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -274,19 +274,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "CELSIUS EINDHOVEN",
-        "code": "CEUS011",
-        "voyage": "033E         / 034W",
-        "type": "INTERNATIONAL",
-        "atb": "05/09/2026 07:52",
-        "etd": "06/09/2026 12:00",
-        "mmsi": "538011074",
-        "imo": "9969948",
-        "location": "Singapore Strait"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "AS CAROLINA",
@@ -371,6 +359,17 @@
       }
     ],
     "departed": [
+      {
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN005",
+        "voyage": "011S         / 011N",
+        "type": "INTERNATIONAL",
+        "atb": "04/09/2026 12:30",
+        "etd": "05/09/2026 07:52",
+        "mmsi": "352006269",
+        "imo": "1115565",
+        "location": "Java Sea"
+      },
       {
         "name": "BELAWAN",
         "code": "BEAN013",
