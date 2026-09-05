@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T23:35:55+00:00",
+  "generated_at": "2026-09-05T23:45:40+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -254,8 +254,8 @@
         "voyage": "347S         / 347N",
         "type": "INTERNATIONAL",
         "carrier": "GOLD STAR LINE LTD",
-        "etb": "06/09/2026 11:00",
-        "etd": "07/09/2026 07:00",
+        "etb": "06/09/2026 10:00",
+        "etd": "07/09/2026 06:00",
         "openstack": "01/09/2026 10:00",
         "closeC": "06/09/2026 05:00"
       },
