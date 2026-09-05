@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T12:00:53+00:00",
+  "generated_at": "2026-09-05T12:15:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -358,6 +358,16 @@
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "South China Sea"
+      },
+      {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM013",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "10/09/2026 17:00",
+        "etd": "11/09/2026 17:00",
+        "openstack": "05/09/2026 17:00",
+        "closeC": "10/09/2026 12:00"
       }
     ],
     "departed": [
