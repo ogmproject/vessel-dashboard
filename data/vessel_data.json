@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T18:00:54+00:00",
+  "generated_at": "2026-09-05T18:15:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -205,7 +205,7 @@
         "verified": false,
         "mmsi": "636016118",
         "imo": "9204477",
-        "location": "Java Sea"
+        "location": "South China Sea"
       },
       {
         "name": "MSC ELBA III",
@@ -240,7 +240,7 @@
         "dep": "04/09/2026 16:31",
         "mmsi": "636016118",
         "imo": "9204477",
-        "location": "Java Sea"
+        "location": "South China Sea"
       },
       {
         "name": "PEKAN RIAU",
