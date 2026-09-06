@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T14:45:39+00:00",
+  "generated_at": "2026-09-06T15:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -244,7 +244,7 @@
         "type": "INTERNATIONAL",
         "carrier": "GOLD STAR LINE LTD",
         "atb": "06/09/2026 10:45",
-        "etd": "07/09/2026 03:00"
+        "etd": "07/09/2026 04:00"
       }
     ],
     "schedule": [
