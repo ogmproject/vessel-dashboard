@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T00:45:39+00:00",
+  "generated_at": "2026-09-06T01:00:46+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -330,19 +330,7 @@
         "closeC": "10/09/2026 12:00"
       }
     ],
-    "departed": [
-      {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN005",
-        "voyage": "011S         / 011N",
-        "type": "INTERNATIONAL",
-        "atb": "04/09/2026 12:30",
-        "etd": "05/09/2026 07:52",
-        "mmsi": "352006269",
-        "imo": "1115565",
-        "location": "Java Sea"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
