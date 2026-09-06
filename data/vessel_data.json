@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T04:15:40+00:00",
+  "generated_at": "2026-09-06T04:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -325,6 +325,17 @@
         "etd": "11/09/2026 17:00",
         "openstack": "05/09/2026 17:00",
         "closeC": "10/09/2026 12:00"
+      },
+      {
+        "name": "HMM HERITAGE",
+        "code": "HMHE005",
+        "voyage": "0012S        / 0012N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "etb": "13/09/2026 00:00",
+        "etd": "13/09/2026 00:30",
+        "openstack": "08/09/2026 00:00",
+        "closeC": "12/09/2026 19:00"
       }
     ],
     "departed": [],
