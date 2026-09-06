@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T20:30:45+00:00",
+  "generated_at": "2026-09-06T20:40:26+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,7 +20,7 @@
         "name": "I2 - GSL MAMITSA",
         "code": "019S / 019N",
         "atb": "06/09/2026 13:55",
-        "etd": "07/09/2026 04:00",
+        "etd": "07/09/2026 04:30",
         "verified": false
       },
       {
@@ -168,7 +168,8 @@
         "closeD": "10/09/2026 05:00",
         "verified": false,
         "mmsi": "636016118",
-        "imo": "9204477"
+        "imo": "9204477",
+        "location": "South China Sea"
       },
       {
         "name": "MSC ELBA III",
