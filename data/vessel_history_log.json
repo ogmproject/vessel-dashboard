@@ -682,15 +682,15 @@
     "vessel_name": "CELSIUS EINDHOVEN",
     "terminal": "TL",
     "arrival": "2026-09-05T07:52:00",
-    "departure": null,
-    "recorded_at": "2026-09-05T01:00:56.082026"
+    "departure": "2026-09-06T12:26:00",
+    "recorded_at": "2026-09-06T06:00:52.078577"
   },
   {
     "vessel_name": "SEVILLIA",
     "terminal": "TPS",
     "arrival": "2026-09-06T08:20:00",
-    "departure": null,
-    "recorded_at": "2026-09-06T01:30:48.020670"
+    "departure": "2026-09-06T12:55:00",
+    "recorded_at": "2026-09-06T06:00:52.078577"
   },
   {
     "vessel_name": "AS CAROLINA",

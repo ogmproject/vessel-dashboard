@@ -1,15 +1,7 @@
 {
-  "generated_at": "2026-09-06T05:45:38+00:00",
+  "generated_at": "2026-09-06T06:00:51+00:00",
   "tps": {
-    "alongside": [
-      {
-        "name": "I3 - SEVILLIA",
-        "code": "1526S / 1526S",
-        "atb": "06/09/2026 08:20",
-        "etd": "06/09/2026 12:00",
-        "verified": false
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "GSL MAMITSA",
@@ -203,6 +195,11 @@
     ],
     "movement": [
       {
+        "name": "SEVILLIA",
+        "berth": "06/09/2026 08:20",
+        "dep": "06/09/2026 12:55"
+      },
+      {
         "name": "MTT SANDAKAN",
         "berth": "05/09/2026 06:20",
         "dep": "06/09/2026 06:15"
@@ -338,7 +335,19 @@
         "closeC": "12/09/2026 19:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "CELSIUS EINDHOVEN",
+        "code": "CEUS011",
+        "voyage": "033E         / 034W",
+        "type": "INTERNATIONAL",
+        "atb": "05/09/2026 07:52",
+        "etd": "06/09/2026 12:26",
+        "mmsi": "538011074",
+        "imo": "9969948",
+        "location": "Singapore Strait"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
