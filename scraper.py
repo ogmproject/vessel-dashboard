@@ -14,7 +14,7 @@ import re
 import json
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 try:
     import requests
@@ -411,6 +411,51 @@ def enrich_with_location(*vessel_lists):
     print(f"Location lookups this run: {lookups_done} attempted, {found} found.")
 
 
+# ---------------------------------------------------------------------------
+# DATA QUALITY SANITY CHECK
+# Added after a real incident: a Teluk Lamong parsing bug (since fixed —
+# see the comments in parse_teluk_lamong above) silently left a departed
+# vessel (CELSIUS EINDHOVEN) miscategorized as "alongside" with no error or
+# warning anywhere. This check catches that entire CLASS of problem going
+# forward, regardless of what specifically causes it next time (a new
+# parsing bug, or the source site itself being slow to update its own
+# status) — it doesn't fix anything automatically, it just makes the
+# problem loud and visible in the GitHub Actions log instead of silent.
+# ---------------------------------------------------------------------------
+WIB = timezone(timedelta(hours=7))  # Indonesia Western Time, no DST
+
+
+def parse_id_datetime(value):
+    """Parses the 'DD/MM/YYYY HH:MM' format used throughout both source sites."""
+    try:
+        return datetime.strptime(value.strip(), "%d/%m/%Y %H:%M")
+    except (ValueError, AttributeError, TypeError):
+        return None
+
+
+def check_stale_alongside(vessels, terminal_label, now_wib) -> int:
+    """
+    Flags any vessel still marked 'alongside' whose ETD (or ATD, if that's
+    the field present) has already passed. A vessel legitimately alongside
+    should have an ETD in the future; one with a past ETD suggests either a
+    parsing/categorization bug on our side, or the source site hasn't
+    updated its own status yet — either way, worth a human's attention.
+    """
+    stale_count = 0
+    for v in vessels:
+        etd_str = v.get("etd") or v.get("atd")
+        etd = parse_id_datetime(etd_str)
+        if etd is None:
+            continue
+        if etd < now_wib:
+            hours_late = (now_wib - etd).total_seconds() / 3600
+            print(f"[warn] STALE ALONGSIDE: '{v.get('name')}' ({terminal_label}) — "
+                  f"ETD/ATD was {etd_str}, already {hours_late:.1f}h in the past. "
+                  f"Possible parsing issue or source site hasn't updated yet.")
+            stale_count += 1
+    return stale_count
+
+
 def main():
     print("Fetching TPS Surabaya ...")
     tps_html = fetch(TPS_URL)
@@ -420,6 +465,17 @@ def main():
     print("Fetching Teluk Lamong ...")
     tl_html = fetch(TL_URL)
     tl_alongside, tl_schedule, tl_departed = parse_teluk_lamong(tl_html)
+
+    print("Checking for stale 'alongside' entries (ETD/ATD already passed) ...")
+    now_wib = datetime.now(WIB).replace(tzinfo=None)
+    stale_tps = check_stale_alongside(tps_alongside, "TPS", now_wib)
+    stale_tl = check_stale_alongside(tl_alongside, "Teluk Lamong", now_wib)
+    total_stale = stale_tps + stale_tl
+    if total_stale:
+        print(f"[warn] TOTAL: {total_stale} vessel(s) flagged as stale-alongside this run "
+              f"— check the warnings above. This does not fail the job, but is worth reviewing.")
+    else:
+        print("No stale alongside entries found — looks healthy.")
 
     print("Looking up MMSI/IMO for vessels not yet in cache ...")
     enrich_with_mmsi(tps_alongside, tps_schedule, tps_movement, tl_alongside, tl_schedule, tl_departed)
