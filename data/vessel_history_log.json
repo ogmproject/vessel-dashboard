@@ -719,5 +719,12 @@
     "arrival": "2026-09-06T23:50:00",
     "departure": null,
     "recorded_at": "2026-09-06T17:00:53.715354"
+  },
+  {
+    "vessel_name": "ALS SUMIRE",
+    "terminal": "TPS",
+    "arrival": "2026-09-07T02:53:00",
+    "departure": null,
+    "recorded_at": "2026-09-06T20:15:41.254317"
   }
 ]
