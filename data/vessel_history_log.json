@@ -684,5 +684,12 @@
     "arrival": "2026-09-05T07:52:00",
     "departure": null,
     "recorded_at": "2026-09-05T01:00:56.082026"
+  },
+  {
+    "vessel_name": "SEVILLIA",
+    "terminal": "TPS",
+    "arrival": "2026-09-06T08:20:00",
+    "departure": null,
+    "recorded_at": "2026-09-06T01:30:48.020670"
   }
 ]

@@ -1,18 +1,16 @@
 {
-  "generated_at": "2026-09-06T01:15:38+00:00",
+  "generated_at": "2026-09-06T01:30:47+00:00",
   "tps": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
-        "name": "SEVILLIA",
+        "name": "I3 - SEVILLIA",
         "code": "1526S / 1526S",
-        "eta": "06/09/2026 09:00",
+        "atb": "06/09/2026 08:20",
         "etd": "06/09/2026 16:30",
-        "openstack": "31/08/2026 18:00",
-        "closeC": "05/09/2026 12:00",
-        "closeD": "05/09/2026 15:00",
         "verified": false
-      },
+      }
+    ],
+    "schedule": [
       {
         "name": "GSL MAMITSA",
         "code": "019S / 019N",
