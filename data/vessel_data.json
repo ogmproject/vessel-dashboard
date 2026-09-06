@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T16:45:40+00:00",
+  "generated_at": "2026-09-06T17:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "HV633A / HV633A",
         "atb": "06/09/2026 17:55",
         "etd": "07/09/2026 05:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - MARSA PRIDE",
+        "code": "633S / 636N",
+        "atb": "06/09/2026 23:50",
+        "etd": "07/09/2026 10:00",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MARSA PRIDE",
-        "code": "633S / 636N",
-        "eta": "06/09/2026 20:00",
-        "etd": "07/09/2026 10:00",
-        "openstack": "31/08/2026 23:00",
-        "closeC": "05/09/2026 17:00",
-        "closeD": "05/09/2026 20:00",
-        "verified": false
-      },
       {
         "name": "KOTA MANIS",
         "code": "0628S / 0628N",
@@ -218,19 +215,6 @@
         "name": "SMOOTH SAILING",
         "berth": "04/09/2026 19:04",
         "dep": "05/09/2026 02:05"
-      },
-      {
-        "name": "JOANNA",
-        "berth": "03/09/2026 04:50",
-        "dep": "04/09/2026 16:31",
-        "mmsi": "636016118",
-        "imo": "9204477",
-        "location": "South China Sea"
-      },
-      {
-        "name": "PEKAN RIAU",
-        "berth": "03/09/2026 20:45",
-        "dep": "04/09/2026 10:35"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
