@@ -5,7 +5,7 @@ public (no-login) webaccess pages, filters international vessels for
 Teluk Lamong, and writes a single JSON file that the dashboard reads.
 
 This is meant to be run automatically by the GitHub Actions workflow in
-.github/workflows/update-data.yml (every 15 minutes), NOT manually every time.
+.github/workflows/update-data.yml (every 30 minutes), NOT manually every time.
 
 Output: data/vessel_data.json
 """
@@ -160,6 +160,30 @@ def parse_tps_movement(full_text: str):
 # INTERNATIONAL entries.
 # ---------------------------------------------------------------------------
 def parse_teluk_lamong(html: str):
+    """
+    FIXED (see notes below) — two bugs corrected from the original version:
+
+    1. SECTION-BOUNDARY FLUSH BUG: previously, flush() was only called when
+       a NEW vessel's "NAME / CODE" line was found — never when a section
+       header changed. This meant the LAST vessel of any section (Alongside
+       / Departed / Schedule) only got flushed AFTER the section variable
+       had already moved on to the NEXT section, so it silently got filed
+       under the wrong section. Symptom observed in production: a vessel
+       that had genuinely departed (confirmed on the live site under
+       "Vessel Has Been Departed") still showing up misclassified elsewhere
+       in our dashboard.
+       FIX: flush() (and reset the in-progress `current` dict) is now
+       called at EVERY section-header transition, not just when a new
+       vessel starts. This guarantees the last vessel of a section is
+       filed under that section, before the section pointer moves on.
+
+    2. ETD/ATD KEY COLLISION: "ETD :" (scheduled departure) and "ATD :"
+       (actual departure) were both being written into the same "etd" key,
+       so a vessel's real departure timestamp could get silently overwritten
+       by/confused with its scheduled ETD.
+       FIX: "ATD :" now writes to its own "atd" key, kept separate from
+       "etd".
+    """
     lines = clean_lines(html)
     alongside, schedule, departed = [], [], []
     current = {}
@@ -171,20 +195,28 @@ def parse_teluk_lamong(html: str):
         if current.get("name") and current.get("type") == "INTERNATIONAL":
             {"alongside": alongside, "departed": departed, "schedule": schedule}[section or "schedule"].append(current)
 
+    def change_section(new_section):
+        """Flush whatever vessel was in progress under the OLD section
+        before switching — this is the fix for bug #1 above."""
+        nonlocal current, section
+        flush()
+        current = {}
+        section = new_section
+
     i = 0
     while i < len(lines):
         line = lines[i]
 
         if "Vessel Alongside" in line:
-            section = "alongside"
+            change_section("alongside")
             i += 1
             continue
         if "Vessel Has Been Departed" in line:
-            section = "departed"
+            change_section("departed")
             i += 1
             continue
         if "Vessel Schedule" in line:
-            section = "schedule"
+            change_section("schedule")
             i += 1
             continue
 
@@ -207,7 +239,7 @@ def parse_teluk_lamong(html: str):
             i += 1
             continue
 
-        for label, key in (("ATB :", "atb"), ("ETB :", "etb"), ("ETD :", "etd"), ("ATD :", "etd"),
+        for label, key in (("ATB :", "atb"), ("ETB :", "etb"), ("ETD :", "etd"), ("ATD :", "atd"),
                            ("Open Stack :", "openstack"), ("Closing Time Container", "closeC")):
             if line.startswith(label) or (label == "Closing Time Container" and label in line):
                 value = line.split(":", 1)[1].strip() if ":" in line else ""
@@ -223,7 +255,7 @@ def parse_teluk_lamong(html: str):
                 current.setdefault("carrier", line.strip())
         i += 1
 
-    flush()
+    flush()  # last vessel of the final section (usually "schedule")
     return alongside, schedule, departed
 
 
