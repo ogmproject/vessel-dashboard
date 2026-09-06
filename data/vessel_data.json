@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T06:45:39+00:00",
+  "generated_at": "2026-09-06T07:00:49+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -14,33 +14,23 @@
         "verified": false
       },
       {
-        "name": "ALS SUMIRE",
-        "code": "9001S / 9001N",
-        "eta": "06/09/2026 15:00",
-        "etd": "07/09/2026 17:00",
-        "openstack": "01/09/2026 08:00",
-        "closeC": "06/09/2026 02:00",
-        "closeD": "06/09/2026 05:00",
-        "verified": false
-      },
-      {
         "name": "MSC ELBA III",
         "code": "HV633A / HV633A",
-        "eta": "06/09/2026 17:00",
-        "etd": "07/09/2026 04:30",
+        "eta": "06/09/2026 18:00",
+        "etd": "07/09/2026 05:00",
         "openstack": "01/09/2026 16:00",
         "closeC": "06/09/2026 10:00",
         "closeD": "06/09/2026 13:00",
         "verified": false
       },
       {
-        "name": "CMA CGM POINTE PERCEE",
-        "code": "0XLCFS / 0XLCGN",
-        "eta": "06/09/2026 18:00",
-        "etd": "08/09/2026 06:00",
-        "openstack": "31/08/2026 18:00",
-        "closeC": "05/09/2026 12:00",
-        "closeD": "05/09/2026 15:00",
+        "name": "MARSA PRIDE",
+        "code": "633S / 636N",
+        "eta": "06/09/2026 20:00",
+        "etd": "07/09/2026 10:00",
+        "openstack": "31/08/2026 23:00",
+        "closeC": "05/09/2026 17:00",
+        "closeD": "05/09/2026 20:00",
         "verified": false
       },
       {
@@ -57,20 +47,30 @@
         "location": "Java Sea"
       },
       {
-        "name": "MARSA PRIDE",
-        "code": "633S / 636N",
+        "name": "ALS SUMIRE",
+        "code": "9001S / 9001N",
+        "eta": "07/09/2026 01:00",
+        "etd": "08/09/2026 06:00",
+        "openstack": "01/09/2026 08:00",
+        "closeC": "06/09/2026 02:00",
+        "closeD": "06/09/2026 05:00",
+        "verified": false
+      },
+      {
+        "name": "CMA CGM POINTE PERCEE",
+        "code": "0XLCFS / 0XLCGN",
         "eta": "07/09/2026 05:00",
-        "etd": "07/09/2026 19:00",
-        "openstack": "31/08/2026 23:00",
-        "closeC": "05/09/2026 17:00",
-        "closeD": "05/09/2026 20:00",
+        "etd": "08/09/2026 08:00",
+        "openstack": "31/08/2026 18:00",
+        "closeC": "05/09/2026 12:00",
+        "closeD": "05/09/2026 15:00",
         "verified": false
       },
       {
         "name": "EVER BEAMY",
         "code": "1204-082B / 1204-082B",
-        "eta": "07/09/2026 08:00",
-        "etd": "08/09/2026 00:00",
+        "eta": "07/09/2026 07:00",
+        "etd": "07/09/2026 22:00",
         "openstack": "01/09/2026 22:00",
         "closeC": "06/09/2026 16:00",
         "closeD": "06/09/2026 19:00",
