@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T22:30:41+00:00",
+  "generated_at": "2026-09-06T22:44:14+00:00",
   "tps": {
     "alongside": [
       {
@@ -217,19 +217,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "CELSIUS EINDHOVEN",
-        "code": "CEUS011",
-        "voyage": "033E         / 034W",
-        "type": "INTERNATIONAL",
-        "atb": "05/09/2026 07:52",
-        "etd": "06/09/2026 12:26",
-        "mmsi": "538011074",
-        "imo": "9969948",
-        "location": "Singapore Strait"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "KMTC YOKOHAMA",
@@ -313,7 +301,28 @@
         "closeC": "12/09/2026 19:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "AS CAROLINA",
+        "code": "ASRO006",
+        "voyage": "347S         / 347N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "atb": "06/09/2026 10:45",
+        "atd": "07/09/2026 02:54"
+      },
+      {
+        "name": "CELSIUS EINDHOVEN",
+        "code": "CEUS011",
+        "voyage": "033E         / 034W",
+        "type": "INTERNATIONAL",
+        "atb": "05/09/2026 07:52",
+        "atd": "06/09/2026 12:26",
+        "mmsi": "538011074",
+        "imo": "9969948",
+        "location": "Singapore Strait"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
