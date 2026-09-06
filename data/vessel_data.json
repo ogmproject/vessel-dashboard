@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-06T11:00:49+00:00",
+  "generated_at": "2026-09-06T11:15:42+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - MSC ELBA III",
+        "code": "HV633A / HV633A",
+        "atb": "06/09/2026 17:55",
+        "etd": "07/09/2026 05:00",
+        "verified": false
+      },
       {
         "name": "I2 - GSL MAMITSA",
         "code": "019S / 019N",
@@ -11,16 +18,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MSC ELBA III",
-        "code": "HV633A / HV633A",
-        "eta": "06/09/2026 18:00",
-        "etd": "07/09/2026 05:00",
-        "openstack": "01/09/2026 16:00",
-        "closeC": "06/09/2026 10:00",
-        "closeD": "06/09/2026 13:00",
-        "verified": false
-      },
       {
         "name": "MARSA PRIDE",
         "code": "633S / 636N",

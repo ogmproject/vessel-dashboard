@@ -705,5 +705,12 @@
     "arrival": "2026-09-06T13:55:00",
     "departure": null,
     "recorded_at": "2026-09-06T07:16:17.072500"
+  },
+  {
+    "vessel_name": "MSC ELBA III",
+    "terminal": "TPS",
+    "arrival": "2026-09-06T17:55:00",
+    "departure": null,
+    "recorded_at": "2026-09-06T11:15:43.025647"
   }
 ]
