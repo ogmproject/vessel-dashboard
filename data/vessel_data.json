@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-06T18:15:36+00:00",
+  "generated_at": "2026-09-06T18:30:43+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - MSC ELBA III",
         "code": "HV633A / HV633A",
         "atb": "06/09/2026 17:55",
-        "etd": "07/09/2026 05:00",
+        "etd": "07/09/2026 03:00",
         "verified": false
       },
       {
@@ -20,7 +20,7 @@
         "name": "I2 - GSL MAMITSA",
         "code": "019S / 019N",
         "atb": "06/09/2026 13:55",
-        "etd": "07/09/2026 03:00",
+        "etd": "07/09/2026 04:00",
         "verified": false
       }
     ],
