@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T20:15:40+00:00",
+  "generated_at": "2026-09-06T20:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -168,8 +168,7 @@
         "closeD": "10/09/2026 05:00",
         "verified": false,
         "mmsi": "636016118",
-        "imo": "9204477",
-        "location": "South China Sea"
+        "imo": "9204477"
       },
       {
         "name": "MSC ELBA III",
