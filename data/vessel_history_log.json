@@ -747,5 +747,12 @@
     "arrival": "2026-09-07T21:00:00",
     "departure": null,
     "recorded_at": "2026-09-07T14:15:39.561934"
+  },
+  {
+    "vessel_name": "KMTC YOKOHAMA",
+    "terminal": "TL",
+    "arrival": "2026-09-07T23:00:00",
+    "departure": null,
+    "recorded_at": "2026-09-07T16:15:38.360529"
   }
 ]
