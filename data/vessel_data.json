@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T02:00:51+00:00",
+  "generated_at": "2026-09-07T02:15:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -152,7 +152,7 @@
         "verified": false,
         "mmsi": "636016118",
         "imo": "9204477",
-        "location": "South China Sea"
+        "location": "Singapore Strait"
       },
       {
         "name": "MSC ELBA III",
@@ -162,6 +162,16 @@
         "openstack": "05/09/2026 02:00",
         "closeC": "09/09/2026 20:00",
         "closeD": "09/09/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "ES TREASURE",
+        "code": "636N / 636N",
+        "eta": "12/09/2026 08:00",
+        "etd": "14/09/2026 16:30",
+        "openstack": "07/09/2026 08:00",
+        "closeC": "12/09/2026 02:00",
+        "closeD": "12/09/2026 05:00",
         "verified": false
       }
     ],
