@@ -717,8 +717,8 @@
     "vessel_name": "MARSA PRIDE",
     "terminal": "TPS",
     "arrival": "2026-09-06T23:50:00",
-    "departure": null,
-    "recorded_at": "2026-09-06T17:00:53.715354"
+    "departure": "2026-09-07T18:33:00",
+    "recorded_at": "2026-09-07T12:00:52.456354"
   },
   {
     "vessel_name": "ALS SUMIRE",
