@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-09-07T00:15:38+00:00",
+  "generated_at": "2026-09-07T00:30:41+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - MSC ELBA III",
-        "code": "HV633A / HV633A",
-        "atb": "06/09/2026 17:55",
-        "etd": "07/09/2026 03:00",
-        "verified": false
-      },
       {
         "name": "I3 - MARSA PRIDE",
         "code": "633S / 636N",
         "atb": "06/09/2026 23:50",
         "etd": "07/09/2026 10:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - GSL MAMITSA",
-        "code": "019S / 019N",
-        "atb": "06/09/2026 13:55",
-        "etd": "07/09/2026 04:30",
         "verified": false
       },
       {
@@ -183,6 +169,16 @@
       }
     ],
     "movement": [
+      {
+        "name": "MSC ELBA III",
+        "berth": "06/09/2026 17:55",
+        "dep": "07/09/2026 07:27"
+      },
+      {
+        "name": "GSL MAMITSA",
+        "berth": "06/09/2026 13:55",
+        "dep": "07/09/2026 06:50"
+      },
       {
         "name": "SEVILLIA",
         "berth": "06/09/2026 08:20",
