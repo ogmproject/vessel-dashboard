@@ -726,5 +726,12 @@
     "arrival": "2026-09-07T02:53:00",
     "departure": null,
     "recorded_at": "2026-09-06T20:15:41.254317"
+  },
+  {
+    "vessel_name": "CMA CGM POINTE PERCEE",
+    "terminal": "TPS",
+    "arrival": "2026-09-07T08:30:00",
+    "departure": null,
+    "recorded_at": "2026-09-07T01:46:15.121654"
   }
 ]
