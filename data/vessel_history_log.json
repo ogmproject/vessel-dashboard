@@ -738,8 +738,8 @@
     "vessel_name": "EVER BEAMY",
     "terminal": "TPS",
     "arrival": "2026-09-07T09:40:00",
-    "departure": null,
-    "recorded_at": "2026-09-07T02:45:36.821046"
+    "departure": "2026-09-08T05:58:00",
+    "recorded_at": "2026-09-07T23:30:43.121078"
   },
   {
     "vessel_name": "AS CASPRIA",
