@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-07T05:15:42+00:00",
+  "generated_at": "2026-09-07T05:30:42+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - EVER BEAMY",
         "code": "1204-082B / 1204-082B",
         "atb": "07/09/2026 09:40",
-        "etd": "08/09/2026 09:50",
+        "etd": "08/09/2026 00:00",
         "verified": false
       },
       {
@@ -350,17 +350,6 @@
         "carrier": "GOLD STAR LINE LTD",
         "atb": "06/09/2026 10:45",
         "atd": "07/09/2026 02:54"
-      },
-      {
-        "name": "CELSIUS EINDHOVEN",
-        "code": "CEUS011",
-        "voyage": "033E         / 034W",
-        "type": "INTERNATIONAL",
-        "atb": "05/09/2026 07:52",
-        "atd": "06/09/2026 12:26",
-        "mmsi": "538011074",
-        "imo": "9969948",
-        "location": "Singapore Strait"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
