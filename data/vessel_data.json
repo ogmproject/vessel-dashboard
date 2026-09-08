@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T15:00:59+00:00",
+  "generated_at": "2026-09-08T15:15:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -333,7 +333,7 @@
         "type": "INTERNATIONAL",
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
         "etb": "09/09/2026 17:00",
-        "etd": "10/09/2026 15:00",
+        "etd": "10/09/2026 14:00",
         "openstack": "04/09/2026 17:00",
         "closeC": "09/09/2026 12:00"
       },
