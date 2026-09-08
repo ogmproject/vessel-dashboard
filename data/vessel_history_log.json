@@ -775,5 +775,12 @@
     "arrival": "2026-09-08T16:03:00",
     "departure": null,
     "recorded_at": "2026-09-08T09:45:44.623475"
+  },
+  {
+    "vessel_name": "MSC ZAINA III",
+    "terminal": "TPS",
+    "arrival": "2026-09-09T01:50:00",
+    "departure": null,
+    "recorded_at": "2026-09-08T19:00:58.967950"
   }
 ]

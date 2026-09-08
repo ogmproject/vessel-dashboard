@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T18:45:42+00:00",
+  "generated_at": "2026-09-08T19:00:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,19 +22,16 @@
         "atb": "08/09/2026 16:03",
         "etd": "09/09/2026 13:00",
         "verified": false
+      },
+      {
+        "name": "I1 - MSC ZAINA III",
+        "code": "HC632A / HC634R",
+        "atb": "09/09/2026 01:50",
+        "etd": "10/09/2026 03:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "MSC ZAINA III",
-        "code": "HC632A / HC634R",
-        "eta": "08/09/2026 23:00",
-        "etd": "10/09/2026 03:00",
-        "openstack": "02/09/2026 00:00",
-        "closeC": "06/09/2026 18:00",
-        "closeD": "06/09/2026 21:00",
-        "verified": false
-      },
       {
         "name": "ES TREASURE",
         "code": "635S / 635S",
