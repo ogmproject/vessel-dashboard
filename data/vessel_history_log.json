@@ -766,8 +766,8 @@
     "vessel_name": "STARSHIP VENUS",
     "terminal": "TPS",
     "arrival": "2026-09-08T08:30:00",
-    "departure": null,
-    "recorded_at": "2026-09-08T01:45:42.103416"
+    "departure": "2026-09-09T03:07:00",
+    "recorded_at": "2026-09-08T20:15:45.607733"
   },
   {
     "vessel_name": "EVER BLINK",

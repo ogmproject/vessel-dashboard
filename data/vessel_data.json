@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-08T20:00:55+00:00",
+  "generated_at": "2026-09-08T20:15:45+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - STARSHIP VENUS",
-        "code": "2607S / 2607N",
-        "atb": "08/09/2026 08:30",
-        "etd": "09/09/2026 04:00",
-        "verified": false
-      },
       {
         "name": "I3 - AS CASPRIA",
         "code": "380S / 380N",
@@ -249,6 +242,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "STARSHIP VENUS",
+        "berth": "08/09/2026 08:30",
+        "dep": "09/09/2026 03:07"
+      },
       {
         "name": "ALS SUMIRE",
         "berth": "07/09/2026 02:53",
