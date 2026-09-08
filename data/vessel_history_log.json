@@ -731,8 +731,8 @@
     "vessel_name": "CMA CGM POINTE PERCEE",
     "terminal": "TPS",
     "arrival": "2026-09-07T08:30:00",
-    "departure": null,
-    "recorded_at": "2026-09-07T01:46:15.121654"
+    "departure": "2026-09-08T13:40:00",
+    "recorded_at": "2026-09-08T07:00:57.569425"
   },
   {
     "vessel_name": "EVER BEAMY",
