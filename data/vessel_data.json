@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T02:30:52+00:00",
+  "generated_at": "2026-09-08T02:45:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -368,20 +368,6 @@
         "closeC": "10/09/2026 12:00"
       },
       {
-        "name": "WAN HAI 375",
-        "code": "WA75006",
-        "voyage": "N022         / N022",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "11/09/2026 13:00",
-        "etd": "12/09/2026 01:00",
-        "openstack": "06/09/2026 13:00",
-        "closeC": "11/09/2026 08:00",
-        "mmsi": "563232800",
-        "imo": "9958121",
-        "location": "South China Sea"
-      },
-      {
         "name": "WAN HAI 351",
         "code": "WA51018",
         "voyage": "E047         / W048",
@@ -426,6 +412,20 @@
         "mmsi": "636021108",
         "imo": "9472579",
         "location": "Japan Sea"
+      },
+      {
+        "name": "WAN HAI 375",
+        "code": "WA75006",
+        "voyage": "N022         / N022",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "etb": "14/09/2026 14:00",
+        "etd": "15/09/2026 09:30",
+        "openstack": "09/09/2026 14:00",
+        "closeC": "11/09/2026 08:00",
+        "mmsi": "563232800",
+        "imo": "9958121",
+        "location": "South China Sea"
       }
     ],
     "departed": [],
