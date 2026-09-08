@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T01:15:36+00:00",
+  "generated_at": "2026-09-08T01:18:57+00:00",
   "tps": {
     "alongside": [
       {
@@ -225,6 +225,19 @@
         "verified": false
       },
       {
+        "name": "MSC MALENA III",
+        "code": "HC633A / HC635R",
+        "eta": "14/09/2026 00:00",
+        "etd": "15/09/2026 06:30",
+        "openstack": "09/09/2026 00:00",
+        "closeC": "13/09/2026 18:00",
+        "closeD": "13/09/2026 21:00",
+        "verified": false,
+        "mmsi": "636020360",
+        "imo": "9203538",
+        "location": "South China Sea"
+      },
+      {
         "name": "KMTC INCHEON",
         "code": "2608S / 2608N",
         "eta": "17/09/2026 18:00",
@@ -233,6 +246,19 @@
         "closeC": "17/09/2026 12:00",
         "closeD": "17/09/2026 15:00",
         "verified": false
+      },
+      {
+        "name": "KMTC HAIPHONG",
+        "code": "2607S / 2607N",
+        "eta": "20/09/2026 07:30",
+        "etd": "21/09/2026 00:00",
+        "openstack": "05/09/2026 16:00",
+        "closeC": "10/09/2026 10:00",
+        "closeD": "10/09/2026 13:00",
+        "verified": false,
+        "mmsi": "538007503",
+        "imo": "9793806",
+        "location": "Java Sea"
       }
     ],
     "movement": [
