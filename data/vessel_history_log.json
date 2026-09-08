@@ -724,8 +724,8 @@
     "vessel_name": "ALS SUMIRE",
     "terminal": "TPS",
     "arrival": "2026-09-07T02:53:00",
-    "departure": null,
-    "recorded_at": "2026-09-06T20:15:41.254317"
+    "departure": "2026-09-08T21:13:00",
+    "recorded_at": "2026-09-08T15:00:59.431490"
   },
   {
     "vessel_name": "CMA CGM POINTE PERCEE",
