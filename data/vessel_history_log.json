@@ -796,5 +796,12 @@
     "arrival": "2026-09-09T07:00:00",
     "departure": null,
     "recorded_at": "2026-09-09T00:15:48.507568"
+  },
+  {
+    "vessel_name": "ES TREASURE",
+    "terminal": "TPS",
+    "arrival": "2026-09-09T09:35:00",
+    "departure": null,
+    "recorded_at": "2026-09-09T02:45:45.451222"
   }
 ]
