@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T05:45:45+00:00",
+  "generated_at": "2026-09-09T06:00:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -196,6 +196,29 @@
         "mmsi": "636020360",
         "imo": "9203538",
         "location": "South China Sea"
+      },
+      {
+        "name": "WAN HAI 327",
+        "code": "S068 / N068",
+        "eta": "14/09/2026 19:00",
+        "etd": "15/09/2026 15:30",
+        "openstack": "25/08/2026 23:00",
+        "closeC": "30/08/2026 17:00",
+        "closeD": "30/08/2026 20:00",
+        "verified": false,
+        "mmsi": "563124300",
+        "imo": "9871490",
+        "location": "South China Sea"
+      },
+      {
+        "name": "HONG TAI 656",
+        "code": "637N / 637N",
+        "eta": "15/09/2026 02:00",
+        "etd": "17/09/2026 10:30",
+        "openstack": "10/09/2026 02:00",
+        "closeC": "14/09/2026 22:00",
+        "closeD": "15/09/2026 01:00",
+        "verified": false
       },
       {
         "name": "KMTC INCHEON",
