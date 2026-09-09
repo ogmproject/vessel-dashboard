@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T06:30:51+00:00",
+  "generated_at": "2026-09-09T06:45:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -380,17 +380,6 @@
         "closeC": "12/09/2026 07:00"
       },
       {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU028",
-        "voyage": "2608S        / 2608N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "12/09/2026 14:00",
-        "etd": "12/09/2026 14:30",
-        "openstack": "07/09/2026 14:00",
-        "closeC": "12/09/2026 09:00"
-      },
-      {
         "name": "MARINA AURORA",
         "code": "MAAU011",
         "type": "INTERNATIONAL",
@@ -424,6 +413,17 @@
         "mmsi": "636021108",
         "imo": "9472579",
         "location": "Eastern China Sea"
+      },
+      {
+        "name": "KMTC SHIMIZU",
+        "code": "KMZU028",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "etb": "14/09/2026 18:00",
+        "etd": "15/09/2026 14:30",
+        "openstack": "09/09/2026 18:00",
+        "closeC": "14/09/2026 12:00"
       }
     ],
     "departed": [
