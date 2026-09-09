@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T20:45:48+00:00",
+  "generated_at": "2026-09-09T21:00:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "CS2040S / CS2050N",
         "atb": "09/09/2026 15:02",
         "etd": "10/09/2026 12:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - MSC ZAINA III",
-        "code": "HC632A / HC634R",
-        "atb": "09/09/2026 01:50",
-        "etd": "10/09/2026 02:00",
         "verified": false
       }
     ],
@@ -235,6 +228,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MSC ZAINA III",
+        "berth": "09/09/2026 01:50",
+        "dep": "10/09/2026 03:30"
+      },
       {
         "name": "SITC DECHENG",
         "berth": "09/09/2026 07:00",
