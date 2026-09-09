@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T14:15:49+00:00",
+  "generated_at": "2026-09-09T14:30:57+00:00",
   "tps": {
     "alongside": [
       {
@@ -299,8 +299,8 @@
         "voyage": "S093         / N093",
         "type": "INTERNATIONAL",
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "etb": "09/09/2026 20:00",
-        "etd": "10/09/2026 17:00",
+        "etb": "09/09/2026 22:00",
+        "etd": "10/09/2026 21:00",
         "openstack": "04/09/2026 17:00",
         "closeC": "09/09/2026 12:00"
       },
@@ -317,6 +317,20 @@
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "Java Sea"
+      },
+      {
+        "name": "WAN HAI 375",
+        "code": "WA75007",
+        "voyage": "S021         / S021",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "etb": "10/09/2026 15:00",
+        "etd": "11/09/2026 04:00",
+        "openstack": "09/09/2026 14:00",
+        "closeC": "11/09/2026 13:00",
+        "mmsi": "563232800",
+        "imo": "9958121",
+        "location": "South China Sea"
       },
       {
         "name": "WAN HAI 375",
@@ -341,20 +355,6 @@
         "etd": "11/09/2026 17:00",
         "openstack": "05/09/2026 17:00",
         "closeC": "10/09/2026 12:00"
-      },
-      {
-        "name": "WAN HAI 375",
-        "code": "WA75007",
-        "voyage": "S021         / S021",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "11/09/2026 13:00",
-        "etd": "12/09/2026 13:00",
-        "openstack": "09/09/2026 14:00",
-        "closeC": "11/09/2026 13:00",
-        "mmsi": "563232800",
-        "imo": "9958121",
-        "location": "South China Sea"
       },
       {
         "name": "WAN HAI 351",
