@@ -810,5 +810,12 @@
     "arrival": "2026-09-09T15:02:00",
     "departure": null,
     "recorded_at": "2026-09-09T08:15:51.280239"
+  },
+  {
+    "vessel_name": "EVER BURLY",
+    "terminal": "TL",
+    "arrival": "2026-09-09T22:34:00",
+    "departure": null,
+    "recorded_at": "2026-09-09T15:45:52.010443"
   }
 ]
