@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:16:11+00:00",
+  "generated_at": "2026-09-09T17:30:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -415,15 +415,6 @@
         "mmsi": "563279800",
         "imo": "9407134",
         "location": "Java Sea"
-      },
-      {
-        "name": "KMTC YOKOHAMA",
-        "code": "KMHA030",
-        "voyage": "2608E        / 2609W",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "07/09/2026 23:00",
-        "atd": "09/09/2026 00:28"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
