@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T22:00:59+00:00",
+  "generated_at": "2026-09-09T22:15:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,19 +22,16 @@
         "atb": "09/09/2026 15:02",
         "etd": "10/09/2026 12:00",
         "verified": false
+      },
+      {
+        "name": "I1 - MSC ELBA III",
+        "code": "HV637R / HV637R",
+        "atb": "10/09/2026 04:55",
+        "etd": "11/09/2026 08:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "MSC ELBA III",
-        "code": "HV637R / HV637R",
-        "eta": "10/09/2026 04:00",
-        "etd": "11/09/2026 08:00",
-        "openstack": "05/09/2026 02:00",
-        "closeC": "09/09/2026 20:00",
-        "closeD": "09/09/2026 23:00",
-        "verified": false
-      },
       {
         "name": "CONTSHIP YEN",
         "code": "2326S / 2326S",
