@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T10:45:45+00:00",
+  "generated_at": "2026-09-09T11:00:57+00:00",
   "tps": {
     "alongside": [
       {
@@ -291,16 +291,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU006",
-        "voyage": "012S         / 012N",
-        "type": "INTERNATIONAL",
-        "atb": "09/09/2026 04:30",
-        "etd": "09/09/2026 18:00"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "EVER BURLY",
@@ -423,6 +414,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU006",
+        "voyage": "012S         / 012N",
+        "type": "INTERNATIONAL",
+        "atb": "09/09/2026 04:30",
+        "atd": "09/09/2026 17:54"
+      },
       {
         "name": "SEASPAN EMERALD",
         "code": "SEEM010",

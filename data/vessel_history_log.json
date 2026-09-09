@@ -787,8 +787,8 @@
     "vessel_name": "ERASMUS JUSTICE",
     "terminal": "TL",
     "arrival": "2026-09-09T04:30:00",
-    "departure": null,
-    "recorded_at": "2026-09-08T21:45:46.793957"
+    "departure": "2026-09-09T17:54:00",
+    "recorded_at": "2026-09-09T11:00:57.880042"
   },
   {
     "vessel_name": "SITC DECHENG",
