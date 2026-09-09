@@ -794,8 +794,8 @@
     "vessel_name": "SITC DECHENG",
     "terminal": "TPS",
     "arrival": "2026-09-09T07:00:00",
-    "departure": null,
-    "recorded_at": "2026-09-09T00:15:48.507568"
+    "departure": "2026-09-09T23:13:00",
+    "recorded_at": "2026-09-09T16:30:53.757283"
   },
   {
     "vessel_name": "ES TREASURE",

@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-09T16:15:46+00:00",
+  "generated_at": "2026-09-09T16:30:53+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - SITC DECHENG",
-        "code": "2618S / 2619N",
-        "atb": "09/09/2026 07:00",
-        "etd": "09/09/2026 22:30",
-        "verified": false
-      },
       {
         "name": "I3 - ES TREASURE",
         "code": "635S / 635S",
@@ -242,6 +235,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SITC DECHENG",
+        "berth": "09/09/2026 07:00",
+        "dep": "09/09/2026 23:13"
+      },
       {
         "name": "EVER BLINK",
         "berth": "08/09/2026 16:03",
