@@ -759,8 +759,8 @@
     "vessel_name": "SEASPAN EMERALD",
     "terminal": "TL",
     "arrival": "2026-09-08T05:40:00",
-    "departure": null,
-    "recorded_at": "2026-09-07T23:00:51.080058"
+    "departure": "2026-09-09T14:47:00",
+    "recorded_at": "2026-09-09T08:00:59.240628"
   },
   {
     "vessel_name": "STARSHIP VENUS",
