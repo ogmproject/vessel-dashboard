@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T14:45:49+00:00",
+  "generated_at": "2026-09-09T15:01:07+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SITC DECHENG",
         "code": "2618S / 2619N",
         "atb": "09/09/2026 07:00",
-        "etd": "09/09/2026 23:00",
+        "etd": "09/09/2026 22:30",
         "verified": false
       },
       {
