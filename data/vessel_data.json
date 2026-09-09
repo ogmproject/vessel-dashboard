@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T16:45:51+00:00",
+  "generated_at": "2026-09-09T17:01:03+00:00",
   "tps": {
     "alongside": [
       {
@@ -269,21 +269,6 @@
         "name": "EVER BEAMY",
         "berth": "07/09/2026 09:40",
         "dep": "08/09/2026 05:58"
-      },
-      {
-        "name": "MARSA PRIDE",
-        "berth": "06/09/2026 23:50",
-        "dep": "07/09/2026 18:33"
-      },
-      {
-        "name": "MSC ELBA III",
-        "berth": "06/09/2026 17:55",
-        "dep": "07/09/2026 07:27"
-      },
-      {
-        "name": "GSL MAMITSA",
-        "berth": "06/09/2026 13:55",
-        "dep": "07/09/2026 06:50"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
