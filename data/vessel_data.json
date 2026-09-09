@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T05:30:54+00:00",
+  "generated_at": "2026-09-09T05:45:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,14 +13,14 @@
         "name": "I3 - ES TREASURE",
         "code": "635S / 635S",
         "atb": "09/09/2026 09:35",
-        "etd": "10/09/2026 23:00",
+        "etd": "10/09/2026 04:00",
         "verified": false
       },
       {
         "name": "I1 - MSC ZAINA III",
         "code": "HC632A / HC634R",
         "atb": "09/09/2026 01:50",
-        "etd": "10/09/2026 03:00",
+        "etd": "10/09/2026 00:00",
         "verified": false
       }
     ],
