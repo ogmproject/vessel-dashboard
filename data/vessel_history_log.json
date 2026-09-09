@@ -803,5 +803,12 @@
     "arrival": "2026-09-09T09:35:00",
     "departure": null,
     "recorded_at": "2026-09-09T02:45:45.451222"
+  },
+  {
+    "vessel_name": "APL PUSAN",
+    "terminal": "TPS",
+    "arrival": "2026-09-09T15:02:00",
+    "departure": null,
+    "recorded_at": "2026-09-09T08:15:51.280239"
   }
 ]

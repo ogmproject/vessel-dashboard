@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T08:00:59+00:00",
+  "generated_at": "2026-09-09T08:15:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -17,6 +17,13 @@
         "verified": false
       },
       {
+        "name": "I2 - APL PUSAN",
+        "code": "CS2040S / CS2050N",
+        "atb": "09/09/2026 15:02",
+        "etd": "10/09/2026 10:00",
+        "verified": false
+      },
+      {
         "name": "I1 - MSC ZAINA III",
         "code": "HC632A / HC634R",
         "atb": "09/09/2026 01:50",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "APL PUSAN",
-        "code": "CS2040S / CS2050N",
-        "eta": "09/09/2026 10:00",
-        "etd": "10/09/2026 10:00",
-        "openstack": "02/09/2026 01:00",
-        "closeC": "06/09/2026 19:00",
-        "closeD": "06/09/2026 22:00",
-        "verified": false
-      },
       {
         "name": "INFERRO",
         "code": "046E / 046W",
@@ -79,7 +76,7 @@
         "verified": false,
         "mmsi": "209692000",
         "imo": "9664263",
-        "location": "Singapore Strait"
+        "location": "South China Sea"
       },
       {
         "name": "KOTA MANIS",
