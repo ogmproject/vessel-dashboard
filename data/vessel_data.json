@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:15:56+00:00",
+  "generated_at": "2026-09-10T14:30:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -296,7 +296,7 @@
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "atb": "10/09/2026 15:35",
-        "etd": "11/09/2026 04:00",
+        "etd": "11/09/2026 08:00",
         "mmsi": "563232800",
         "imo": "9958121",
         "location": "South China Sea"
@@ -308,7 +308,7 @@
         "type": "INTERNATIONAL",
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
         "atb": "09/09/2026 22:34",
-        "etd": "10/09/2026 21:00"
+        "etd": "10/09/2026 22:00"
       }
     ],
     "schedule": [
