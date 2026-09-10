@@ -815,8 +815,8 @@
     "vessel_name": "EVER BURLY",
     "terminal": "TL",
     "arrival": "2026-09-09T22:34:00",
-    "departure": null,
-    "recorded_at": "2026-09-09T15:45:52.010443"
+    "departure": "2026-09-10T22:02:00",
+    "recorded_at": "2026-09-10T15:15:46.293148"
   },
   {
     "vessel_name": "INFERRO",

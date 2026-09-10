@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:00:56+00:00",
+  "generated_at": "2026-09-10T15:15:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -169,7 +169,7 @@
         "verified": false,
         "mmsi": "636020360",
         "imo": "9203538",
-        "location": "South China Sea"
+        "location": "Singapore Strait"
       },
       {
         "name": "WAN HAI 327",
@@ -300,15 +300,6 @@
         "mmsi": "563232800",
         "imo": "9958121",
         "location": "South China Sea"
-      },
-      {
-        "name": "EVER BURLY",
-        "code": "EVLY006",
-        "voyage": "S093         / N093",
-        "type": "INTERNATIONAL",
-        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "atb": "09/09/2026 22:34",
-        "etd": "10/09/2026 22:00"
       }
     ],
     "schedule": [
@@ -419,7 +410,17 @@
         "closeC": "15/09/2026 15:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "EVER BURLY",
+        "code": "EVLY006",
+        "voyage": "S093         / N093",
+        "type": "INTERNATIONAL",
+        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
+        "atb": "09/09/2026 22:34",
+        "atd": "10/09/2026 22:02"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
