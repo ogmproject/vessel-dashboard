@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-10T18:15:46+00:00",
+  "generated_at": "2026-09-10T18:30:50+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - INFERRO",
         "code": "046E / 046W",
         "atb": "10/09/2026 03:30",
-        "etd": "11/09/2026 04:00",
+        "etd": "11/09/2026 02:00",
         "verified": false
       },
       {
         "name": "I3 - CONTSHIP YEN",
         "code": "2326S / 2326S",
         "atb": "10/09/2026 18:10",
-        "etd": "11/09/2026 11:00",
+        "etd": "11/09/2026 14:00",
         "verified": false
       },
       {
         "name": "I2 - APL PUSAN",
         "code": "CS2040S / CS2050N",
         "atb": "09/09/2026 15:02",
-        "etd": "11/09/2026 02:00",
+        "etd": "11/09/2026 05:00",
         "verified": false
       },
       {
