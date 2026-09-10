@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-10T20:45:46+00:00",
+  "generated_at": "2026-09-10T21:00:54+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - INFERRO",
-        "code": "046E / 046W",
-        "atb": "10/09/2026 03:30",
-        "etd": "11/09/2026 02:00",
-        "verified": false
-      },
       {
         "name": "I3 - CONTSHIP YEN",
         "code": "2326S / 2326S",
@@ -20,7 +13,7 @@
         "name": "I2 - APL PUSAN",
         "code": "CS2040S / CS2050N",
         "atb": "09/09/2026 15:02",
-        "etd": "11/09/2026 05:00",
+        "etd": "11/09/2026 06:00",
         "verified": false
       },
       {
@@ -249,6 +242,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "INFERRO",
+        "berth": "10/09/2026 03:30",
+        "dep": "11/09/2026 03:28"
+      },
       {
         "name": "ES TREASURE",
         "berth": "09/09/2026 09:35",

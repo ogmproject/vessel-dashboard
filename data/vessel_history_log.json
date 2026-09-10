@@ -822,8 +822,8 @@
     "vessel_name": "INFERRO",
     "terminal": "TPS",
     "arrival": "2026-09-10T03:30:00",
-    "departure": null,
-    "recorded_at": "2026-09-09T21:31:38.629520"
+    "departure": "2026-09-11T03:28:00",
+    "recorded_at": "2026-09-10T21:00:55.098730"
   },
   {
     "vessel_name": "MSC ELBA III",
