@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:45:47+00:00",
+  "generated_at": "2026-09-10T11:00:57+00:00",
   "tps": {
     "alongside": [
       {
@@ -425,16 +425,7 @@
         "closeC": "15/09/2026 15:00"
       }
     ],
-    "departed": [
-      {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU006",
-        "voyage": "012S         / 012N",
-        "type": "INTERNATIONAL",
-        "atb": "09/09/2026 04:30",
-        "atd": "09/09/2026 17:54"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
