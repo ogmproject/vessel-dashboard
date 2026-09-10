@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T11:16:02+00:00",
+  "generated_at": "2026-09-10T11:30:54+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "046E / 046W",
         "atb": "10/09/2026 03:30",
         "etd": "11/09/2026 04:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - CONTSHIP YEN",
+        "code": "2326S / 2326S",
+        "atb": "10/09/2026 18:10",
+        "etd": "12/09/2026 14:30",
         "verified": false
       },
       {
@@ -25,19 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "CONTSHIP YEN",
-        "code": "2326S / 2326S",
-        "eta": "10/09/2026 18:00",
-        "etd": "12/09/2026 14:30",
-        "openstack": "04/09/2026 18:00",
-        "closeC": "09/09/2026 12:00",
-        "closeD": "09/09/2026 15:00",
-        "verified": false,
-        "mmsi": "209692000",
-        "imo": "9664263",
-        "location": "Java Sea"
-      },
       {
         "name": "KOTA MANIS",
         "code": "0628S / 0628N",
