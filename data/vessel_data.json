@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T06:45:52+00:00",
+  "generated_at": "2026-09-10T07:00:57+00:00",
   "tps": {
     "alongside": [
       {
@@ -225,9 +225,9 @@
         "code": "0551S / 0551N",
         "eta": "18/09/2026 00:00",
         "etd": "20/09/2026 04:30",
-        "openstack": "03/09/2026 05:00",
-        "closeC": "07/09/2026 23:00",
-        "closeD": "08/09/2026 02:00",
+        "openstack": "13/09/2026 00:00",
+        "closeC": "17/09/2026 18:00",
+        "closeD": "17/09/2026 21:00",
         "verified": false
       },
       {
@@ -413,6 +413,17 @@
         "etd": "15/09/2026 14:30",
         "openstack": "09/09/2026 18:00",
         "closeC": "14/09/2026 12:00"
+      },
+      {
+        "name": "CHENNAI VOYAGER",
+        "code": "CHVO010",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "etb": "15/09/2026 18:00",
+        "etd": "15/09/2026 18:30",
+        "openstack": "10/09/2026 18:00",
+        "closeC": "15/09/2026 13:00"
       }
     ],
     "departed": [
