@@ -831,5 +831,12 @@
     "arrival": "2026-09-10T04:55:00",
     "departure": null,
     "recorded_at": "2026-09-09T22:15:51.441323"
+  },
+  {
+    "vessel_name": "WAN HAI 375",
+    "terminal": "TL",
+    "arrival": "2026-09-10T15:35:00",
+    "departure": null,
+    "recorded_at": "2026-09-10T08:45:47.323870"
   }
 ]
