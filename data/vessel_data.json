@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T22:30:52+00:00",
+  "generated_at": "2026-09-10T22:45:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -284,16 +284,6 @@
     "alongside": [],
     "schedule": [
       {
-        "name": "MERATUS KUMAI",
-        "code": "MEKM013",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "10/09/2026 17:00",
-        "etd": "11/09/2026 17:00",
-        "openstack": "05/09/2026 17:00",
-        "closeC": "10/09/2026 12:00"
-      },
-      {
         "name": "WANTAI",
         "code": "WANT006",
         "voyage": "2635S        / 2635N",
@@ -317,6 +307,16 @@
         "etd": "13/09/2026 02:30",
         "openstack": "07/09/2026 01:00",
         "closeC": "12/09/2026 07:00"
+      },
+      {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM013",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "12/09/2026 11:00",
+        "etd": "13/09/2026 11:00",
+        "openstack": "05/09/2026 17:00",
+        "closeC": "10/09/2026 12:00"
       },
       {
         "name": "MARINA AURORA",
