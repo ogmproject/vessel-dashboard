@@ -801,8 +801,8 @@
     "vessel_name": "ES TREASURE",
     "terminal": "TPS",
     "arrival": "2026-09-09T09:35:00",
-    "departure": null,
-    "recorded_at": "2026-09-09T02:45:45.451222"
+    "departure": "2026-09-10T13:32:00",
+    "recorded_at": "2026-09-10T06:45:52.848850"
   },
   {
     "vessel_name": "APL PUSAN",
