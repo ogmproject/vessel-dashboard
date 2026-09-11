@@ -808,8 +808,8 @@
     "vessel_name": "APL PUSAN",
     "terminal": "TPS",
     "arrival": "2026-09-09T15:02:00",
-    "departure": null,
-    "recorded_at": "2026-09-09T08:15:51.280239"
+    "departure": "2026-09-11T07:46:00",
+    "recorded_at": "2026-09-11T01:15:39.757518"
   },
   {
     "vessel_name": "EVER BURLY",
