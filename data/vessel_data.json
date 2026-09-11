@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T08:45:46+00:00",
+  "generated_at": "2026-09-11T09:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -295,22 +295,21 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "WANTAI",
         "code": "WANT006",
         "voyage": "2635S        / 2635N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "11/09/2026 15:30",
+        "atb": "11/09/2026 15:45",
         "etd": "12/09/2026 05:00",
-        "openstack": "06/09/2026 15:00",
-        "closeC": "09/09/2026 18:00",
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "Java Sea"
-      },
+      }
+    ],
+    "schedule": [
       {
         "name": "WAN HAI 351",
         "code": "WA51018",
