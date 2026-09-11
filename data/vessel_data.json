@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T07:45:42+00:00",
+  "generated_at": "2026-09-11T08:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -404,6 +404,16 @@
         "etd": "16/09/2026 17:00",
         "openstack": "10/09/2026 20:00",
         "closeC": "15/09/2026 15:00"
+      },
+      {
+        "name": "2636S",
+        "code": "2636N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "17/09/2026 10:00",
+        "etd": "18/09/2026 07:30",
+        "openstack": "12/09/2026 10:00",
+        "closeC": "17/09/2026 05:00"
       }
     ],
     "departed": [
