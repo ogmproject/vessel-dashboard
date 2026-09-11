@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T02:45:41+00:00",
+  "generated_at": "2026-09-11T03:01:27+00:00",
   "tps": {
     "alongside": [
       {
@@ -17,6 +17,13 @@
         "verified": false
       },
       {
+        "name": "I2 - KOTA MANIS",
+        "code": "0628S / 0628N",
+        "atb": "11/09/2026 09:44",
+        "etd": "12/09/2026 04:30",
+        "verified": false
+      },
+      {
         "name": "I1 - MSC ELBA III",
         "code": "HV637R / HV637R",
         "atb": "10/09/2026 04:55",
@@ -25,19 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "KOTA MANIS",
-        "code": "0628S / 0628N",
-        "eta": "11/09/2026 00:00",
-        "etd": "12/09/2026 04:30",
-        "openstack": "02/09/2026 00:00",
-        "closeC": "06/09/2026 18:00",
-        "closeD": "06/09/2026 21:00",
-        "verified": false,
-        "mmsi": "566773000",
-        "imo": "9632741",
-        "location": "Java Sea"
-      },
       {
         "name": "HONG TAI 656",
         "code": "636S / 636S",
@@ -383,6 +377,18 @@
       }
     ],
     "departed": [
+      {
+        "name": "WAN HAI 375",
+        "code": "WA75007",
+        "voyage": "S021         / S021",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "atb": "10/09/2026 15:35",
+        "atd": "11/09/2026 09:50",
+        "mmsi": "563232800",
+        "imo": "9958121",
+        "location": "South China Sea"
+      },
       {
         "name": "EVER BURLY",
         "code": "EVLY006",
