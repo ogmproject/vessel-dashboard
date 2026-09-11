@@ -873,5 +873,12 @@
     "arrival": "2026-09-11T17:00:00",
     "departure": null,
     "recorded_at": "2026-09-11T10:15:46.483202"
+  },
+  {
+    "vessel_name": "EVER ORIENT",
+    "terminal": "TPS",
+    "arrival": "2026-09-11T23:02:00",
+    "departure": null,
+    "recorded_at": "2026-09-11T16:15:41.920813"
   }
 ]

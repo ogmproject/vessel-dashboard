@@ -1,11 +1,18 @@
 {
-  "generated_at": "2026-09-11T16:00:54+00:00",
+  "generated_at": "2026-09-11T16:15:41+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - JOANNA",
         "code": "093S / 093N",
         "atb": "11/09/2026 07:20",
+        "etd": "12/09/2026 18:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - EVER ORIENT",
+        "code": "0491-112S / 0491-112N",
+        "atb": "11/09/2026 23:02",
         "etd": "12/09/2026 18:00",
         "verified": false
       },
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER ORIENT",
-        "code": "0491-112S / 0491-112N",
-        "eta": "11/09/2026 22:00",
-        "etd": "12/09/2026 18:00",
-        "openstack": "06/09/2026 16:00",
-        "closeC": "11/09/2026 10:00",
-        "closeD": "11/09/2026 13:00",
-        "verified": false
-      },
       {
         "name": "SINAR SULAWESI",
         "code": "095S / 095N",
