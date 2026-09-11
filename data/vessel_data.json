@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:00:57+00:00",
+  "generated_at": "2026-09-11T15:15:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -451,15 +451,6 @@
         "mmsi": "563232800",
         "imo": "9958121",
         "location": "Java Sea"
-      },
-      {
-        "name": "EVER BURLY",
-        "code": "EVLY006",
-        "voyage": "S093         / N093",
-        "type": "INTERNATIONAL",
-        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "atb": "09/09/2026 22:34",
-        "atd": "10/09/2026 22:02"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
