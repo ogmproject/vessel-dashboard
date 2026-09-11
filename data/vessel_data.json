@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T06:45:44+00:00",
+  "generated_at": "2026-09-11T07:00:54+00:00",
   "tps": {
     "alongside": [
       {
@@ -189,6 +189,16 @@
         "verified": false
       },
       {
+        "name": "SINAR BANDA",
+        "code": "2650S / 2650N",
+        "eta": "16/09/2026 12:00",
+        "etd": "16/09/2026 23:30",
+        "openstack": "11/09/2026 12:00",
+        "closeC": "16/09/2026 06:00",
+        "closeD": "16/09/2026 09:00",
+        "verified": false
+      },
+      {
         "name": "TS NAGOYA",
         "code": "2632S / 2632N",
         "eta": "16/09/2026 14:00",
@@ -285,8 +295,8 @@
         "voyage": "2635S        / 2635N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "11/09/2026 15:00",
-        "etd": "13/09/2026 01:30",
+        "etb": "11/09/2026 15:30",
+        "etd": "12/09/2026 05:00",
         "openstack": "06/09/2026 15:00",
         "closeC": "09/09/2026 18:00",
         "mmsi": "636024258",
@@ -305,24 +315,24 @@
         "closeC": "12/09/2026 07:00"
       },
       {
-        "name": "MERATUS KUMAI",
-        "code": "MEKM013",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "12/09/2026 11:00",
-        "etd": "13/09/2026 11:00",
-        "openstack": "05/09/2026 17:00",
-        "closeC": "10/09/2026 12:00"
-      },
-      {
         "name": "MARINA AURORA",
         "code": "MAAU011",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "12/09/2026 16:00",
-        "etd": "12/09/2026 16:30",
+        "etb": "12/09/2026 07:00",
+        "etd": "13/09/2026 02:00",
         "openstack": "07/09/2026 16:00",
         "closeC": "12/09/2026 11:00"
+      },
+      {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM013",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "12/09/2026 22:00",
+        "etd": "13/09/2026 06:00",
+        "openstack": "05/09/2026 17:00",
+        "closeC": "10/09/2026 12:00"
       },
       {
         "name": "HMM HERITAGE",
