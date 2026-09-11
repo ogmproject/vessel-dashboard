@@ -829,8 +829,8 @@
     "vessel_name": "MSC ELBA III",
     "terminal": "TPS",
     "arrival": "2026-09-10T04:55:00",
-    "departure": null,
-    "recorded_at": "2026-09-09T22:15:51.441323"
+    "departure": "2026-09-11T15:00:00",
+    "recorded_at": "2026-09-11T08:14:14.340270"
   },
   {
     "vessel_name": "WAN HAI 375",
