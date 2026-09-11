@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:00:51+00:00",
+  "generated_at": "2026-09-11T10:15:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,19 +22,16 @@
         "atb": "11/09/2026 09:44",
         "etd": "12/09/2026 12:30",
         "verified": false
+      },
+      {
+        "name": "I1 - HONG TAI 656",
+        "code": "636S / 636S",
+        "atb": "11/09/2026 17:00",
+        "etd": "12/09/2026 16:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "HONG TAI 656",
-        "code": "636S / 636S",
-        "eta": "11/09/2026 17:00",
-        "etd": "12/09/2026 16:00",
-        "openstack": "06/09/2026 14:00",
-        "closeC": "11/09/2026 08:00",
-        "closeD": "11/09/2026 11:00",
-        "verified": false
-      },
       {
         "name": "EVER ORIENT",
         "code": "0491-112S / 0491-112N",
@@ -222,6 +219,16 @@
         "verified": false
       },
       {
+        "name": "SITC SHEKOU",
+        "code": "2618S / 2619N",
+        "eta": "17/09/2026 18:00",
+        "etd": "18/09/2026 06:30",
+        "openstack": "12/09/2026 18:00",
+        "closeC": "11/09/2026 23:00",
+        "closeD": "12/09/2026 02:00",
+        "verified": false
+      },
+      {
         "name": "KOTA MACHAN",
         "code": "0551S / 0551N",
         "eta": "18/09/2026 00:00",
@@ -307,6 +314,13 @@
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "Java Sea"
+      },
+      {
+        "name": "5326",
+        "code": "5326",
+        "carrier": "PT. TEMAS SHIPPING",
+        "voyage": "WANTAI / WANT006",
+        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
