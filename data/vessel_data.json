@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:15:46+00:00",
+  "generated_at": "2026-09-11T10:30:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "093S / 093N",
         "atb": "11/09/2026 07:20",
         "etd": "12/09/2026 23:30",
-        "verified": false
-      },
-      {
-        "name": "I3 - CONTSHIP YEN",
-        "code": "2326S / 2326S",
-        "atb": "10/09/2026 18:10",
-        "etd": "11/09/2026 14:00",
         "verified": false
       },
       {
@@ -253,6 +246,14 @@
       }
     ],
     "movement": [
+      {
+        "name": "CONTSHIP YEN",
+        "berth": "10/09/2026 18:10",
+        "dep": "11/09/2026 17:15",
+        "mmsi": "209692000",
+        "imo": "9664263",
+        "location": "Java Sea"
+      },
       {
         "name": "MSC ELBA III",
         "berth": "10/09/2026 04:55",
