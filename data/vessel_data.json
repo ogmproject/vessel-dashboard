@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T04:00:59+00:00",
+  "generated_at": "2026-09-11T04:15:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -361,7 +361,7 @@
         "closeC": "14/09/2026 09:00",
         "mmsi": "563232800",
         "imo": "9958121",
-        "location": "South China Sea"
+        "location": "Java Sea"
       },
       {
         "name": "KMTC SHIMIZU",
@@ -397,7 +397,7 @@
         "atd": "11/09/2026 09:50",
         "mmsi": "563232800",
         "imo": "9958121",
-        "location": "South China Sea"
+        "location": "Java Sea"
       },
       {
         "name": "EVER BURLY",
