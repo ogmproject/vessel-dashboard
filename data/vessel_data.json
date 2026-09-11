@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T21:30:48+00:00",
+  "generated_at": "2026-09-11T21:45:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -280,27 +280,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "WANTAI",
-        "code": "WANT006",
-        "voyage": "2635S        / 2635N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "11/09/2026 15:45",
-        "etd": "12/09/2026 04:00",
-        "mmsi": "636024258",
-        "imo": "9168207",
-        "location": "Java Sea"
-      },
-      {
-        "name": "5326",
-        "code": "5326",
-        "carrier": "PT. TEMAS SHIPPING",
-        "voyage": "WANTAI / WANT006",
-        "type": "INTERNATIONAL"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "WAN HAI 351",
@@ -417,6 +397,18 @@
       }
     ],
     "departed": [
+      {
+        "name": "WANTAI",
+        "code": "WANT006",
+        "voyage": "2635S        / 2635N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "atb": "11/09/2026 15:45",
+        "atd": "12/09/2026 04:31",
+        "mmsi": "636024258",
+        "imo": "9168207",
+        "location": "Java Sea"
+      },
       {
         "name": "WAN HAI 375",
         "code": "WA75007",

@@ -864,8 +864,8 @@
     "vessel_name": "WANTAI",
     "terminal": "TL",
     "arrival": "2026-09-11T15:45:00",
-    "departure": null,
-    "recorded_at": "2026-09-11T09:00:50.142062"
+    "departure": "2026-09-12T04:31:00",
+    "recorded_at": "2026-09-11T21:45:42.965528"
   },
   {
     "vessel_name": "HONG TAI 656",
