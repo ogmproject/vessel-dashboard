@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-11T00:15:46+00:00",
+  "generated_at": "2026-09-11T00:30:51+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - JOANNA",
+        "code": "093S / 093N",
+        "atb": "11/09/2026 07:20",
+        "etd": "12/09/2026 23:30",
+        "verified": false
+      },
       {
         "name": "I3 - CONTSHIP YEN",
         "code": "2326S / 2326S",
@@ -36,19 +43,6 @@
         "verified": false,
         "mmsi": "566773000",
         "imo": "9632741",
-        "location": "Java Sea"
-      },
-      {
-        "name": "JOANNA",
-        "code": "093S / 093N",
-        "eta": "11/09/2026 06:00",
-        "etd": "12/09/2026 23:30",
-        "openstack": "05/09/2026 08:00",
-        "closeC": "10/09/2026 02:00",
-        "closeD": "10/09/2026 05:00",
-        "verified": false,
-        "mmsi": "636016118",
-        "imo": "9204477",
         "location": "Java Sea"
       },
       {
