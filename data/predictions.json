@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T22:15:45.305690",
+  "generated_at": "2026-09-12T22:30:47.712394",
   "predictions": [
     {
       "vessel_name": "ES TREASURE",
@@ -19,7 +19,7 @@
       "predicted_next_arrival": "2026-09-18T09:50:00",
       "avg_interval_days": 6.7,
       "interval_stddev_days": 3.2,
-      "avg_dwelling_hours": 19.7,
+      "avg_dwelling_hours": 22.9,
       "visits_recorded": 5,
       "confidence": "medium"
     },
