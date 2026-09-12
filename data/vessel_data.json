@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T03:30:45+00:00",
+  "generated_at": "2026-09-12T03:45:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -309,27 +309,6 @@
     ],
     "schedule": [
       {
-        "name": "WAN HAI 351",
-        "code": "WA51018",
-        "voyage": "E047         / W048",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "12/09/2026 01:00",
-        "etd": "13/09/2026 02:30",
-        "openstack": "07/09/2026 01:00",
-        "closeC": "12/09/2026 07:00"
-      },
-      {
-        "name": "MERATUS KUMAI",
-        "code": "MEKM013",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "12/09/2026 22:00",
-        "etd": "13/09/2026 06:00",
-        "openstack": "05/09/2026 17:00",
-        "closeC": "10/09/2026 12:00"
-      },
-      {
         "name": "HMM HERITAGE",
         "code": "HMHE005",
         "voyage": "0012S        / 0012N",
@@ -339,6 +318,27 @@
         "etd": "13/09/2026 15:30",
         "openstack": "08/09/2026 00:00",
         "closeC": "12/09/2026 19:00"
+      },
+      {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM013",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "13/09/2026 04:00",
+        "etd": "13/09/2026 11:00",
+        "openstack": "05/09/2026 17:00",
+        "closeC": "10/09/2026 12:00"
+      },
+      {
+        "name": "WAN HAI 351",
+        "code": "WA51018",
+        "voyage": "E047         / W048",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "etb": "13/09/2026 11:30",
+        "etd": "14/09/2026 16:00",
+        "openstack": "07/09/2026 01:00",
+        "closeC": "13/09/2026 07:00"
       },
       {
         "name": "SEABREEZE",
