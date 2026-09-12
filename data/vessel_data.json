@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:30:48+00:00",
+  "generated_at": "2026-09-12T04:45:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "0491-112S / 0491-112N",
         "atb": "11/09/2026 23:02",
         "etd": "12/09/2026 13:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - KOTA MANIS",
-        "code": "0628S / 0628N",
-        "atb": "11/09/2026 09:44",
-        "etd": "12/09/2026 10:00",
         "verified": false
       },
       {
@@ -253,6 +246,14 @@
       }
     ],
     "movement": [
+      {
+        "name": "KOTA MANIS",
+        "berth": "11/09/2026 09:44",
+        "dep": "12/09/2026 10:48",
+        "mmsi": "566773000",
+        "imo": "9632741",
+        "location": "Java Sea"
+      },
       {
         "name": "CONTSHIP YEN",
         "berth": "10/09/2026 18:10",
