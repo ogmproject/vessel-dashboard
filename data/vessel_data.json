@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-12T17:00:50+00:00",
+  "generated_at": "2026-09-12T17:15:43+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - JOANNA",
-        "code": "093S / 093N",
-        "atb": "11/09/2026 07:20",
-        "etd": "12/09/2026 23:59",
-        "verified": false
-      },
       {
         "name": "I2 - SINAR SULAWESI",
         "code": "095S / 095N",
@@ -236,6 +229,14 @@
       }
     ],
     "movement": [
+      {
+        "name": "JOANNA",
+        "berth": "11/09/2026 07:20",
+        "dep": "13/09/2026 00:01",
+        "mmsi": "636016118",
+        "imo": "9204477",
+        "location": "Java Sea"
+      },
       {
         "name": "EVER ORIENT",
         "berth": "11/09/2026 23:02",

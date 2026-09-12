@@ -850,8 +850,8 @@
     "vessel_name": "JOANNA",
     "terminal": "TPS",
     "arrival": "2026-09-11T07:20:00",
-    "departure": null,
-    "recorded_at": "2026-09-11T00:30:51.843297"
+    "departure": "2026-09-13T00:01:00",
+    "recorded_at": "2026-09-12T17:15:43.130555"
   },
   {
     "vessel_name": "KOTA MANIS",
