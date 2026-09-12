@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T00:30:50+00:00",
+  "generated_at": "2026-09-12T00:45:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -379,10 +379,10 @@
         "code": "2636N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "17/09/2026 10:00",
-        "etd": "18/09/2026 07:30",
-        "openstack": "12/09/2026 10:00",
-        "closeC": "17/09/2026 05:00"
+        "etb": "17/09/2026 00:00",
+        "etd": "18/09/2026 19:30",
+        "openstack": "12/09/2026 00:00",
+        "closeC": "16/09/2026 18:00"
       },
       {
         "name": "ITAL BONUS",
@@ -392,8 +392,7 @@
         "etb": "17/09/2026 10:00",
         "etd": "18/09/2026 18:30",
         "openstack": "12/09/2026 10:00",
-        "closeC": "17/09/2026 05:00",
-        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
+        "closeC": "17/09/2026 05:00"
       }
     ],
     "departed": [
