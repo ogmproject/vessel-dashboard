@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T09:03:08+00:00",
+  "generated_at": "2026-09-12T09:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -288,23 +288,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "MARINA AURORA",
-        "code": "MAAU011",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "12/09/2026 08:28",
-        "etd": "13/09/2026 03:00"
-      },
-      {
-        "name": "7826",
-        "code": "7826",
-        "carrier": "PT. TEMAS SHIPPING",
-        "voyage": "MARINA AURORA / MAAU011",
-        "type": "INTERNATIONAL"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "HMM HERITAGE",
