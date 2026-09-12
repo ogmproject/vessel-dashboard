@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-12T07:00:55+00:00",
+  "generated_at": "2026-09-12T07:15:40+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - JOANNA",
         "code": "093S / 093N",
         "atb": "11/09/2026 07:20",
-        "etd": "12/09/2026 22:00",
+        "etd": "12/09/2026 23:59",
         "verified": false
       },
       {
         "name": "I3 - EVER ORIENT",
         "code": "0491-112S / 0491-112N",
         "atb": "11/09/2026 23:02",
-        "etd": "12/09/2026 16:00",
+        "etd": "12/09/2026 18:00",
         "verified": false
       },
       {
         "name": "I1 - HONG TAI 656",
         "code": "636S / 636S",
         "atb": "11/09/2026 17:00",
-        "etd": "12/09/2026 22:00",
+        "etd": "12/09/2026 23:59",
         "verified": false
       }
     ],
@@ -410,6 +410,16 @@
         "etd": "18/09/2026 18:30",
         "openstack": "12/09/2026 10:00",
         "closeC": "17/09/2026 05:00"
+      },
+      {
+        "name": "MARINA ATHENA",
+        "code": "MAAT010",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "18/09/2026 08:00",
+        "etd": "19/09/2026 05:30",
+        "openstack": "13/09/2026 08:00",
+        "closeC": "18/09/2026 03:00"
       }
     ],
     "departed": [
