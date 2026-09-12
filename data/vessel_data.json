@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T21:30:56+00:00",
+  "generated_at": "2026-09-12T21:45:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -386,20 +386,7 @@
         "closeC": "18/09/2026 03:00"
       }
     ],
-    "departed": [
-      {
-        "name": "WANTAI",
-        "code": "WANT006",
-        "voyage": "2635S        / 2635N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "11/09/2026 15:45",
-        "atd": "12/09/2026 04:31",
-        "mmsi": "636024258",
-        "imo": "9168207",
-        "location": "Java Sea"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
