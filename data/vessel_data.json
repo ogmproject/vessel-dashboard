@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-12T21:15:43+00:00",
+  "generated_at": "2026-09-12T21:30:56+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - SPIL NIKEN",
+        "code": "634S / 637N",
+        "atb": "13/09/2026 04:23",
+        "etd": "13/09/2026 13:00",
+        "verified": false
+      },
       {
         "name": "I3 - EVER OBEY",
         "code": "0492-057S / 0492-057N",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SPIL NIKEN",
-        "code": "634S / 637N",
-        "eta": "12/09/2026 22:00",
-        "etd": "13/09/2026 13:00",
-        "openstack": "07/09/2026 23:00",
-        "closeC": "12/09/2026 17:00",
-        "closeD": "12/09/2026 20:00",
-        "verified": false
-      },
       {
         "name": "ES TREASURE",
         "code": "636N / 636N",
