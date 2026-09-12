@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-12T01:15:39+00:00",
+  "generated_at": "2026-09-12T01:30:51+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - JOANNA",
         "code": "093S / 093N",
         "atb": "11/09/2026 07:20",
-        "etd": "12/09/2026 21:00",
+        "etd": "12/09/2026 20:00",
         "verified": false
       },
       {
@@ -127,6 +127,16 @@
         "mmsi": "563124300",
         "imo": "9871490",
         "location": "South China Sea"
+      },
+      {
+        "name": "CMA CGM FORT JAMES",
+        "code": "0XLCHS / 0XLCIN",
+        "eta": "15/09/2026 00:00",
+        "etd": "15/09/2026 14:30",
+        "openstack": "12/09/2026 16:00",
+        "closeC": "17/09/2026 10:00",
+        "closeD": "17/09/2026 13:00",
+        "verified": false
       },
       {
         "name": "HONG TAI 656",
