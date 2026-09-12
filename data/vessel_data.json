@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T16:45:46+00:00",
+  "generated_at": "2026-09-12T17:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -271,16 +271,6 @@
         "name": "INFERRO",
         "berth": "10/09/2026 03:30",
         "dep": "11/09/2026 03:28"
-      },
-      {
-        "name": "ES TREASURE",
-        "berth": "09/09/2026 09:35",
-        "dep": "10/09/2026 13:32"
-      },
-      {
-        "name": "MSC ZAINA III",
-        "berth": "09/09/2026 01:50",
-        "dep": "10/09/2026 03:30"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
