@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T12:30:46+00:00",
+  "generated_at": "2026-09-12T12:45:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -257,7 +257,7 @@
         "dep": "11/09/2026 17:15",
         "mmsi": "209692000",
         "imo": "9664263",
-        "location": "Java Sea"
+        "location": "Flores Sea"
       },
       {
         "name": "MSC ELBA III",
