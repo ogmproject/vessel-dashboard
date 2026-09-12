@@ -878,8 +878,8 @@
     "vessel_name": "EVER ORIENT",
     "terminal": "TPS",
     "arrival": "2026-09-11T23:02:00",
-    "departure": null,
-    "recorded_at": "2026-09-11T16:15:41.920813"
+    "departure": "2026-09-12T21:45:00",
+    "recorded_at": "2026-09-12T15:00:55.912078"
   },
   {
     "vessel_name": "MARINA AURORA",
