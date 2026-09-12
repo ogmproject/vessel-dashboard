@@ -1,17 +1,6 @@
 {
-  "generated_at": "2026-09-12T07:30:48.536647",
+  "generated_at": "2026-09-12T07:45:42.436696",
   "predictions": [
-    {
-      "vessel_name": "SINAR SULAWESI",
-      "terminal": "TPS",
-      "last_arrival": "2026-09-04T15:50:00",
-      "predicted_next_arrival": "2026-09-13T09:37:30",
-      "avg_interval_days": 8.7,
-      "interval_stddev_days": 1.2,
-      "avg_dwelling_hours": 37.8,
-      "visits_recorded": 3,
-      "confidence": "medium"
-    },
     {
       "vessel_name": "ES TREASURE",
       "terminal": "TPS",
@@ -42,6 +31,17 @@
       "avg_interval_days": 8.8,
       "interval_stddev_days": 1.1,
       "avg_dwelling_hours": 34.6,
+      "visits_recorded": 4,
+      "confidence": "high"
+    },
+    {
+      "vessel_name": "SINAR SULAWESI",
+      "terminal": "TPS",
+      "last_arrival": "2026-09-12T14:20:00",
+      "predicted_next_arrival": "2026-09-21T01:41:40",
+      "avg_interval_days": 8.5,
+      "interval_stddev_days": 1.0,
+      "avg_dwelling_hours": 37.8,
       "visits_recorded": 4,
       "confidence": "high"
     }

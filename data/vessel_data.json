@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:30:48+00:00",
+  "generated_at": "2026-09-12T07:45:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -17,6 +17,13 @@
         "verified": false
       },
       {
+        "name": "I2 - SINAR SULAWESI",
+        "code": "095S / 095N",
+        "atb": "12/09/2026 14:20",
+        "etd": "14/09/2026 02:00",
+        "verified": false
+      },
+      {
         "name": "I1 - HONG TAI 656",
         "code": "636S / 636S",
         "atb": "11/09/2026 17:00",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SINAR SULAWESI",
-        "code": "095S / 095N",
-        "eta": "12/09/2026 12:00",
-        "etd": "14/09/2026 02:00",
-        "openstack": "07/09/2026 00:01",
-        "closeC": "11/09/2026 18:00",
-        "closeD": "11/09/2026 21:00",
-        "verified": false
-      },
       {
         "name": "EVER OBEY",
         "code": "0492-057S / 0492-057N",
