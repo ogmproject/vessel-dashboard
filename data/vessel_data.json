@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-12T20:15:45+00:00",
+  "generated_at": "2026-09-12T20:30:53+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I3 - EVER OBEY",
+        "code": "0492-057S / 0492-057N",
+        "atb": "13/09/2026 03:15",
+        "etd": "13/09/2026 10:00",
+        "verified": false
+      },
       {
         "name": "I2 - SINAR SULAWESI",
         "code": "095S / 095N",
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER OBEY",
-        "code": "0492-057S / 0492-057N",
-        "eta": "12/09/2026 16:00",
-        "etd": "13/09/2026 10:00",
-        "openstack": "07/09/2026 08:00",
-        "closeC": "12/09/2026 02:00",
-        "closeD": "12/09/2026 05:00",
-        "verified": false
-      },
       {
         "name": "SPIL NIKEN",
         "code": "634S / 637N",
