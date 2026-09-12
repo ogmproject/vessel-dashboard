@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-12T20:00:54+00:00",
+  "generated_at": "2026-09-12T20:15:45+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I2 - SINAR SULAWESI",
         "code": "095S / 095N",
         "atb": "12/09/2026 14:20",
-        "etd": "14/09/2026 02:00",
+        "etd": "14/09/2026 05:00",
         "verified": false
       },
       {
         "name": "I1 - HONG TAI 656",
         "code": "636S / 636S",
         "atb": "11/09/2026 17:00",
-        "etd": "12/09/2026 23:59",
+        "etd": "13/09/2026 03:30",
         "verified": false
       }
     ],
