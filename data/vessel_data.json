@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:55:31+00:00",
+  "generated_at": "2026-09-12T05:00:59+00:00",
   "tps": {
     "alongside": [
       {
@@ -142,16 +142,6 @@
         "verified": false
       },
       {
-        "name": "MYD ZHANGZHOU",
-        "code": "CS2080S / CS2090N",
-        "eta": "15/09/2026 10:00",
-        "etd": "16/09/2026 02:00",
-        "openstack": "10/09/2026 18:00",
-        "closeC": "15/09/2026 12:00",
-        "closeD": "15/09/2026 15:00",
-        "verified": false
-      },
-      {
         "name": "COSCO HAIFA",
         "code": "146S / 146N",
         "eta": "15/09/2026 10:00",
@@ -159,6 +149,16 @@
         "openstack": "10/09/2026 12:00",
         "closeC": "15/09/2026 06:00",
         "closeD": "15/09/2026 09:00",
+        "verified": false
+      },
+      {
+        "name": "MYD ZHANGZHOU",
+        "code": "CS2080S / CS2090N",
+        "eta": "16/09/2026 06:00",
+        "etd": "17/09/2026 02:00",
+        "openstack": "10/09/2026 18:00",
+        "closeC": "15/09/2026 12:00",
+        "closeD": "15/09/2026 15:00",
         "verified": false
       },
       {
