@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T01:30:51+00:00",
+  "generated_at": "2026-09-12T01:45:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -133,9 +133,9 @@
         "code": "0XLCHS / 0XLCIN",
         "eta": "15/09/2026 00:00",
         "etd": "15/09/2026 14:30",
-        "openstack": "12/09/2026 16:00",
-        "closeC": "17/09/2026 10:00",
-        "closeD": "17/09/2026 13:00",
+        "openstack": "10/09/2026 00:00",
+        "closeC": "14/09/2026 18:00",
+        "closeD": "14/09/2026 21:00",
         "verified": false
       },
       {
@@ -290,7 +290,23 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
+    "alongside": [
+      {
+        "name": "MARINA AURORA",
+        "code": "MAAU011",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "12/09/2026 08:28",
+        "etd": "13/09/2026 02:00"
+      },
+      {
+        "name": "7826",
+        "code": "7826",
+        "carrier": "PT. TEMAS SHIPPING",
+        "voyage": "MARINA AURORA / MAAU011",
+        "type": "INTERNATIONAL"
+      }
+    ],
     "schedule": [
       {
         "name": "WAN HAI 351",
@@ -302,16 +318,6 @@
         "etd": "13/09/2026 02:30",
         "openstack": "07/09/2026 01:00",
         "closeC": "12/09/2026 07:00"
-      },
-      {
-        "name": "MARINA AURORA",
-        "code": "MAAU011",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "12/09/2026 07:00",
-        "etd": "13/09/2026 02:00",
-        "openstack": "07/09/2026 16:00",
-        "closeC": "12/09/2026 11:00"
       },
       {
         "name": "MERATUS KUMAI",
