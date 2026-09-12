@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T02:45:42+00:00",
+  "generated_at": "2026-09-12T03:00:57+00:00",
   "tps": {
     "alongside": [
       {
@@ -422,18 +422,6 @@
         "atd": "12/09/2026 04:31",
         "mmsi": "636024258",
         "imo": "9168207",
-        "location": "Java Sea"
-      },
-      {
-        "name": "WAN HAI 375",
-        "code": "WA75007",
-        "voyage": "S021         / S021",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "atb": "10/09/2026 15:35",
-        "atd": "11/09/2026 09:50",
-        "mmsi": "563232800",
-        "imo": "9958121",
         "location": "Java Sea"
       }
     ],
