@@ -927,8 +927,8 @@
     "vessel_name": "WAN HAI 351",
     "terminal": "TL",
     "arrival": "2026-09-13T13:05:00",
-    "departure": null,
-    "recorded_at": "2026-09-13T06:15:43.655100"
+    "departure": "2026-09-14T05:10:00",
+    "recorded_at": "2026-09-13T22:30:46.856140"
   },
   {
     "vessel_name": "SONGA SUCCESS",
