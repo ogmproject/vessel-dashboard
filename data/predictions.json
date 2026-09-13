@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T02:15:42.318208",
+  "generated_at": "2026-09-13T02:30:47.518803",
   "predictions": [
     {
       "vessel_name": "ES TREASURE",
@@ -44,6 +44,17 @@
       "avg_dwelling_hours": 37.8,
       "visits_recorded": 4,
       "confidence": "high"
+    },
+    {
+      "vessel_name": "MERATUS KUMAI",
+      "terminal": "TL",
+      "last_arrival": "2026-09-13T09:10:00",
+      "predicted_next_arrival": "2026-09-26T23:00:00",
+      "avg_interval_days": 13.6,
+      "interval_stddev_days": 3.5,
+      "avg_dwelling_hours": 25.9,
+      "visits_recorded": 3,
+      "confidence": "medium"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T02:15:42+00:00",
+  "generated_at": "2026-09-13T02:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -269,18 +269,23 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "MERATUS KUMAI",
         "code": "MEKM013",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "13/09/2026 09:00",
-        "etd": "13/09/2026 18:00",
-        "openstack": "05/09/2026 17:00",
-        "closeC": "10/09/2026 12:00"
+        "atb": "13/09/2026 09:10",
+        "etd": "13/09/2026 18:00"
       },
+      {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM013",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE"
+      }
+    ],
+    "schedule": [
       {
         "name": "WAN HAI 351",
         "code": "WA51018",
