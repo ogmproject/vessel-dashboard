@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-13T04:00:52+00:00",
+  "generated_at": "2026-09-13T04:15:43+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SPIL NIKEN",
         "code": "634S / 637N",
         "atb": "13/09/2026 04:23",
-        "etd": "13/09/2026 23:59",
+        "etd": "14/09/2026 01:00",
         "verified": false
       },
       {
         "name": "I3 - EVER OBEY",
         "code": "0492-057S / 0492-057N",
         "atb": "13/09/2026 03:15",
-        "etd": "13/09/2026 22:00",
+        "etd": "14/09/2026 00:00",
         "verified": false
       },
       {
         "name": "I2 - SINAR SULAWESI",
         "code": "095S / 095N",
         "atb": "12/09/2026 14:20",
-        "etd": "14/09/2026 05:00",
+        "etd": "13/09/2026 22:00",
         "verified": false
       },
       {
