@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T06:30:45+00:00",
+  "generated_at": "2026-09-13T06:35:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -388,6 +388,17 @@
         "etd": "19/09/2026 05:30",
         "openstack": "13/09/2026 08:00",
         "closeC": "18/09/2026 03:00"
+      },
+      {
+        "name": "SURABAYA VOYAGER",
+        "code": "SUER008",
+        "voyage": "2612S        / 2612N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "etb": "19/09/2026 03:00",
+        "etd": "19/09/2026 03:30",
+        "openstack": "14/09/2026 03:00",
+        "closeC": "18/09/2026 22:00"
       }
     ],
     "departed": [
