@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T06:00:58+00:00",
+  "generated_at": "2026-09-13T06:15:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -268,6 +268,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "WAN HAI 351",
+        "code": "WA51018",
+        "voyage": "E047         / W048",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "atb": "13/09/2026 13:05",
+        "etd": "14/09/2026 14:00"
+      },
+      {
         "name": "MERATUS KUMAI",
         "code": "MEKM013",
         "type": "INTERNATIONAL",
@@ -276,24 +285,19 @@
         "etd": "13/09/2026 18:00"
       },
       {
-        "name": "MERATUS KUMAI",
-        "code": "MEKM013",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE"
+        "name": "WAN HAI 351",
+        "code": "WA51018",
+        "type": "INTERNATIONAL"
+      },
+      {
+        "name": "E047",
+        "code": "W048",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "voyage": "MERATUS KUMAI / MEKM013",
+        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
-      {
-        "name": "WAN HAI 351",
-        "code": "WA51018",
-        "voyage": "E047         / W048",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "13/09/2026 12:00",
-        "etd": "14/09/2026 14:00",
-        "openstack": "07/09/2026 01:00",
-        "closeC": "13/09/2026 07:00"
-      },
       {
         "name": "WAN HAI 375",
         "code": "WA75006",
