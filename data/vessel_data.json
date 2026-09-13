@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T13:00:53+00:00",
+  "generated_at": "2026-09-13T13:15:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -282,7 +282,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "13/09/2026 09:10",
-        "etd": "13/09/2026 20:00"
+        "etd": "13/09/2026 21:00"
       },
       {
         "name": "WAN HAI 351",
