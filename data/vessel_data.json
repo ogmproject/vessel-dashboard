@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T01:30:46+00:00",
+  "generated_at": "2026-09-13T01:45:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -192,6 +192,19 @@
         "verified": false
       },
       {
+        "name": "KMTC HAIPHONG",
+        "code": "2607S / 2607N",
+        "eta": "19/09/2026 11:00",
+        "etd": "20/09/2026 03:30",
+        "openstack": "15/09/2026 07:30",
+        "closeC": "20/09/2026 01:30",
+        "closeD": "20/09/2026 04:30",
+        "verified": false,
+        "mmsi": "538007503",
+        "imo": "9793806",
+        "location": "Java Sea"
+      },
+      {
         "name": "KOTA MACHAN",
         "code": "0551S / 0551N",
         "eta": "20/09/2026 00:00",
@@ -200,19 +213,6 @@
         "closeC": "19/09/2026 18:00",
         "closeD": "19/09/2026 21:00",
         "verified": false
-      },
-      {
-        "name": "KMTC HAIPHONG",
-        "code": "2607S / 2607N",
-        "eta": "20/09/2026 07:30",
-        "etd": "21/09/2026 00:00",
-        "openstack": "15/09/2026 07:30",
-        "closeC": "20/09/2026 01:30",
-        "closeD": "20/09/2026 04:30",
-        "verified": false,
-        "mmsi": "538007503",
-        "imo": "9793806",
-        "location": "Java Sea"
       }
     ],
     "movement": [
