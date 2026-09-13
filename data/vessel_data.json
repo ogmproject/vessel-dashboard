@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T15:00:54+00:00",
+  "generated_at": "2026-09-13T15:15:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -270,15 +270,6 @@
       {
         "name": "WAN HAI 351",
         "code": "WA51018",
-        "voyage": "E047         / W048",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "atb": "13/09/2026 13:05",
-        "etd": "14/09/2026 08:00"
-      },
-      {
-        "name": "WAN HAI 351",
-        "code": "WA51018",
         "type": "INTERNATIONAL"
       }
     ],
@@ -387,6 +378,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM013",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "13/09/2026 09:10",
+        "atd": "13/09/2026 21:40"
+      },
       {
         "name": "MARINA AURORA",
         "code": "MAAU011",
