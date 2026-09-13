@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T17:30:44+00:00",
+  "generated_at": "2026-09-13T17:45:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -79,7 +79,7 @@
         "verified": false,
         "mmsi": "563124300",
         "imo": "9871490",
-        "location": "South China Sea"
+        "location": "Java Sea"
       },
       {
         "name": "CMA CGM FORT JAMES",
