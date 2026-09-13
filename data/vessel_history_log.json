@@ -899,8 +899,8 @@
     "vessel_name": "EVER OBEY",
     "terminal": "TPS",
     "arrival": "2026-09-13T03:15:00",
-    "departure": null,
-    "recorded_at": "2026-09-12T20:30:53.856792"
+    "departure": "2026-09-14T03:15:00",
+    "recorded_at": "2026-09-13T20:30:43.873200"
   },
   {
     "vessel_name": "SPIL NIKEN",
