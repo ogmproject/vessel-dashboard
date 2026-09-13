@@ -1,17 +1,6 @@
 {
-  "generated_at": "2026-09-13T03:15:42.764301",
+  "generated_at": "2026-09-13T03:30:49.731324",
   "predictions": [
-    {
-      "vessel_name": "ES TREASURE",
-      "terminal": "TPS",
-      "last_arrival": "2026-09-09T09:35:00",
-      "predicted_next_arrival": "2026-09-16T18:27:30",
-      "avg_interval_days": 7.4,
-      "interval_stddev_days": 4.1,
-      "avg_dwelling_hours": 24.1,
-      "visits_recorded": 3,
-      "confidence": "medium"
-    },
     {
       "vessel_name": "HONG TAI 656",
       "terminal": "TPS",
@@ -21,6 +10,17 @@
       "interval_stddev_days": 3.2,
       "avg_dwelling_hours": 22.9,
       "visits_recorded": 5,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "ES TREASURE",
+      "terminal": "TPS",
+      "last_arrival": "2026-09-13T10:16:00",
+      "predicted_next_arrival": "2026-09-19T16:24:40",
+      "avg_interval_days": 6.3,
+      "interval_stddev_days": 3.7,
+      "avg_dwelling_hours": 24.1,
+      "visits_recorded": 4,
       "confidence": "medium"
     },
     {

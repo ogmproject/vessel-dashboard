@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:15:42+00:00",
+  "generated_at": "2026-09-13T03:30:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,19 +22,16 @@
         "atb": "12/09/2026 14:20",
         "etd": "14/09/2026 05:00",
         "verified": false
+      },
+      {
+        "name": "I1 - ES TREASURE",
+        "code": "636N / 636N",
+        "atb": "13/09/2026 10:16",
+        "etd": "14/09/2026 07:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "ES TREASURE",
-        "code": "636N / 636N",
-        "eta": "13/09/2026 03:00",
-        "etd": "14/09/2026 07:00",
-        "openstack": "07/09/2026 08:00",
-        "closeC": "12/09/2026 02:00",
-        "closeD": "12/09/2026 05:00",
-        "verified": false
-      },
       {
         "name": "EVER BIRTH",
         "code": "1205-110B / 1205-110B",
