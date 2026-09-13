@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-13T17:15:38+00:00",
+  "generated_at": "2026-09-13T17:30:44+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - SPIL NIKEN",
-        "code": "634S / 637N",
-        "atb": "13/09/2026 04:23",
-        "etd": "14/09/2026 03:00",
-        "verified": false
-      },
       {
         "name": "I3 - EVER OBEY",
         "code": "0492-057S / 0492-057N",
@@ -27,7 +20,7 @@
         "name": "I1 - ES TREASURE",
         "code": "636N / 636N",
         "atb": "13/09/2026 10:16",
-        "etd": "14/09/2026 16:00",
+        "etd": "14/09/2026 14:00",
         "verified": false
       }
     ],
@@ -213,6 +206,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SPIL NIKEN",
+        "berth": "13/09/2026 04:23",
+        "dep": "14/09/2026 00:15"
+      },
       {
         "name": "HONG TAI 656",
         "berth": "11/09/2026 17:00",

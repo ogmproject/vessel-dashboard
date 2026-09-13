@@ -906,8 +906,8 @@
     "vessel_name": "SPIL NIKEN",
     "terminal": "TPS",
     "arrival": "2026-09-13T04:23:00",
-    "departure": null,
-    "recorded_at": "2026-09-12T21:30:56.316831"
+    "departure": "2026-09-14T00:15:00",
+    "recorded_at": "2026-09-13T17:30:44.794127"
   },
   {
     "vessel_name": "MERATUS KUMAI",
