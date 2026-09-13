@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T00:15:43+00:00",
+  "generated_at": "2026-09-13T00:30:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -384,7 +384,16 @@
         "closeC": "18/09/2026 03:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "MARINA AURORA",
+        "code": "MAAU011",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "12/09/2026 08:28",
+        "atd": "13/09/2026 07:14"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }

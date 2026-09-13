@@ -885,8 +885,8 @@
     "vessel_name": "MARINA AURORA",
     "terminal": "TL",
     "arrival": "2026-09-12T08:28:00",
-    "departure": null,
-    "recorded_at": "2026-09-12T01:45:44.909377"
+    "departure": "2026-09-13T07:14:00",
+    "recorded_at": "2026-09-13T00:30:46.953477"
   },
   {
     "vessel_name": "SINAR SULAWESI",
