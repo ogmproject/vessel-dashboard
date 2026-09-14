@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:45:40+00:00",
+  "generated_at": "2026-09-14T17:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -230,19 +230,6 @@
         "mmsi": "636016118",
         "imo": "9204477",
         "location": "South China Sea"
-      },
-      {
-        "name": "EVER ORIENT",
-        "berth": "11/09/2026 23:02",
-        "dep": "12/09/2026 21:45"
-      },
-      {
-        "name": "KOTA MANIS",
-        "berth": "11/09/2026 09:44",
-        "dep": "12/09/2026 10:48",
-        "mmsi": "566773000",
-        "imo": "9632741",
-        "location": "Java Sea"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
