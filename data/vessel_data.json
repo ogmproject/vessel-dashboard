@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T04:01:27+00:00",
+  "generated_at": "2026-09-14T04:15:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -230,8 +230,10 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "HMM HERITAGE",
-        "code": "HMHE005",
+        "name": "3026",
+        "code": "3026",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "HMM HERITAGE / HMHE005",
         "type": "INTERNATIONAL"
       }
     ],
@@ -242,9 +244,9 @@
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "14/09/2026 11:30",
-        "etd": "15/09/2026 12:00",
-        "openstack": "09/09/2026 18:00",
+        "etb": "14/09/2026 14:00",
+        "etd": "15/09/2026 14:00",
+        "openstack": "09/09/2026 14:00",
         "closeC": "14/09/2026 12:00"
       },
       {
