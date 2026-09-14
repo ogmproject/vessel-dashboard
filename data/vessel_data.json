@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T14:00:54+00:00",
+  "generated_at": "2026-09-14T14:15:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -266,20 +266,13 @@
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
         "atb": "14/09/2026 15:38",
-        "etd": "15/09/2026 14:00"
+        "etd": "15/09/2026 11:00"
       },
       {
         "name": "7726",
         "code": "7726",
         "carrier": "PT. MENTARI MAS MULTIMODA",
         "voyage": "KMTC SHIMIZU / KMZU028",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "3026",
-        "code": "3026",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "HMM HERITAGE / HMHE005",
         "type": "INTERNATIONAL"
       }
     ],
@@ -290,8 +283,8 @@
         "voyage": "N022         / N022",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "15/09/2026 12:00",
-        "etd": "16/09/2026 09:00",
+        "etb": "15/09/2026 13:00",
+        "etd": "16/09/2026 10:00",
         "openstack": "09/09/2026 14:00",
         "closeC": "15/09/2026 06:00",
         "mmsi": "563232800",
@@ -386,6 +379,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "HMM HERITAGE",
+        "code": "HMHE005",
+        "voyage": "0012S        / 0012N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "14/09/2026 05:19",
+        "atd": "14/09/2026 21:05"
+      },
       {
         "name": "WAN HAI 351",
         "code": "WA51018",
