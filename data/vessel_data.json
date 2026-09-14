@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T08:30:48+00:00",
+  "generated_at": "2026-09-14T08:45:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -260,6 +260,20 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "KMTC SHIMIZU",
+        "code": "KMZU028",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "14/09/2026 15:38",
+        "etd": "15/09/2026 14:00"
+      },
+      {
+        "name": "KMTC SHIMIZU",
+        "code": "KMZU028",
+        "type": "INTERNATIONAL"
+      },
+      {
         "name": "3026",
         "code": "3026",
         "carrier": "PT. MENTARI MAS MULTIMODA",
@@ -268,17 +282,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU028",
-        "voyage": "2608S        / 2608N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "14/09/2026 14:30",
-        "etd": "15/09/2026 10:00",
-        "openstack": "09/09/2026 14:00",
-        "closeC": "14/09/2026 12:00"
-      },
       {
         "name": "WAN HAI 375",
         "code": "WA75006",

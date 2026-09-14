@@ -950,5 +950,12 @@
     "arrival": "2026-09-14T06:50:00",
     "departure": null,
     "recorded_at": "2026-09-14T00:15:39.480081"
+  },
+  {
+    "vessel_name": "KMTC SHIMIZU",
+    "terminal": "TL",
+    "arrival": "2026-09-14T15:38:00",
+    "departure": null,
+    "recorded_at": "2026-09-14T08:45:53.952561"
   }
 ]
