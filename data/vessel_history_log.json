@@ -955,8 +955,8 @@
     "vessel_name": "EVER BIRTH",
     "terminal": "TPS",
     "arrival": "2026-09-14T06:50:00",
-    "departure": null,
-    "recorded_at": "2026-09-14T00:15:39.480081"
+    "departure": "2026-09-15T02:10:00",
+    "recorded_at": "2026-09-14T19:15:36.793818"
   },
   {
     "vessel_name": "KMTC SHIMIZU",

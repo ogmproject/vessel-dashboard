@@ -1,18 +1,11 @@
 {
-  "generated_at": "2026-09-14T19:00:51+00:00",
+  "generated_at": "2026-09-14T19:15:36+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SONGA SUCCESS",
         "code": "0055S / 0055N",
         "atb": "14/09/2026 03:05",
-        "etd": "15/09/2026 01:30",
-        "verified": false
-      },
-      {
-        "name": "I2 - EVER BIRTH",
-        "code": "1205-110B / 1205-110B",
-        "atb": "14/09/2026 06:50",
         "etd": "15/09/2026 01:30",
         "verified": false
       },
@@ -193,6 +186,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER BIRTH",
+        "berth": "14/09/2026 06:50",
+        "dep": "15/09/2026 02:10"
+      },
       {
         "name": "KOTA HIDAYAH",
         "berth": "14/09/2026 05:45",
