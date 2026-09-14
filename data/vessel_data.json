@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-09-14T11:00:56+00:00",
+  "generated_at": "2026-09-14T11:15:43+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SONGA SUCCESS",
         "code": "0055S / 0055N",
         "atb": "14/09/2026 03:05",
-        "etd": "14/09/2026 23:00",
+        "etd": "14/09/2026 23:59",
         "verified": false
       },
       {
         "name": "I3 - KOTA HIDAYAH",
         "code": "2628S / 2628S",
         "atb": "14/09/2026 05:45",
-        "etd": "14/09/2026 18:00",
+        "etd": "14/09/2026 20:00",
         "verified": false
       },
       {
         "name": "I2 - EVER BIRTH",
         "code": "1205-110B / 1205-110B",
         "atb": "14/09/2026 06:50",
-        "etd": "14/09/2026 23:00",
+        "etd": "14/09/2026 23:59",
         "verified": false
       },
       {
         "name": "I1 - ES TREASURE",
         "code": "636N / 636N",
         "atb": "13/09/2026 10:16",
-        "etd": "14/09/2026 18:00",
+        "etd": "14/09/2026 23:00",
         "verified": false
       }
     ],
