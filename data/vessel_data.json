@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T05:30:44+00:00",
+  "generated_at": "2026-09-14T05:45:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -254,8 +254,8 @@
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "14/09/2026 14:00",
-        "etd": "15/09/2026 14:00",
+        "etb": "14/09/2026 14:30",
+        "etd": "15/09/2026 10:00",
         "openstack": "09/09/2026 14:00",
         "closeC": "14/09/2026 12:00"
       },
@@ -265,8 +265,8 @@
         "voyage": "N022         / N022",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "15/09/2026 09:00",
-        "etd": "16/09/2026 06:00",
+        "etb": "15/09/2026 12:00",
+        "etd": "16/09/2026 09:00",
         "openstack": "09/09/2026 14:00",
         "closeC": "15/09/2026 06:00",
         "mmsi": "563232800",
