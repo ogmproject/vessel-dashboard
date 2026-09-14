@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:00:52+00:00",
+  "generated_at": "2026-09-14T16:11:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,22 +22,16 @@
         "atb": "14/09/2026 06:50",
         "etd": "14/09/2026 23:59",
         "verified": false
+      },
+      {
+        "name": "I1 - WAN HAI 327",
+        "code": "S068 / N068",
+        "atb": "14/09/2026 23:05",
+        "etd": "15/09/2026 17:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "WAN HAI 327",
-        "code": "S068 / N068",
-        "eta": "14/09/2026 23:00",
-        "etd": "15/09/2026 17:00",
-        "openstack": "09/09/2026 19:00",
-        "closeC": "14/09/2026 13:00",
-        "closeD": "14/09/2026 16:00",
-        "verified": false,
-        "mmsi": "563124300",
-        "imo": "9871490",
-        "location": "Java Sea"
-      },
       {
         "name": "MSC MALENA III",
         "code": "HC633A / HC635R",

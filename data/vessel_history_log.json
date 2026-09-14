@@ -964,5 +964,12 @@
     "arrival": "2026-09-14T15:38:00",
     "departure": null,
     "recorded_at": "2026-09-14T08:45:53.952561"
+  },
+  {
+    "vessel_name": "WAN HAI 327",
+    "terminal": "TPS",
+    "arrival": "2026-09-14T23:05:00",
+    "departure": null,
+    "recorded_at": "2026-09-14T16:11:51.185696"
   }
 ]
