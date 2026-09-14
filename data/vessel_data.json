@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:30:48+00:00",
+  "generated_at": "2026-09-14T12:45:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -99,6 +99,16 @@
         "verified": false
       },
       {
+        "name": "SITC SHEKOU",
+        "code": "2618S / 2619N",
+        "eta": "16/09/2026 08:00",
+        "etd": "16/09/2026 20:30",
+        "openstack": "11/09/2026 08:00",
+        "closeC": "16/09/2026 06:00",
+        "closeD": "16/09/2026 09:00",
+        "verified": false
+      },
+      {
         "name": "MYD ZHANGZHOU",
         "code": "CS2080S / CS2090N",
         "eta": "16/09/2026 10:00",
@@ -126,16 +136,6 @@
         "openstack": "11/09/2026 14:00",
         "closeC": "16/09/2026 08:00",
         "closeD": "16/09/2026 11:00",
-        "verified": false
-      },
-      {
-        "name": "SITC SHEKOU",
-        "code": "2618S / 2619N",
-        "eta": "18/09/2026 00:01",
-        "etd": "18/09/2026 14:00",
-        "openstack": "11/09/2026 22:00",
-        "closeC": "16/09/2026 16:00",
-        "closeD": "16/09/2026 19:00",
         "verified": false
       },
       {
@@ -239,7 +239,7 @@
         "dep": "13/09/2026 00:01",
         "mmsi": "636016118",
         "imo": "9204477",
-        "location": "Java Sea"
+        "location": "South China Sea"
       },
       {
         "name": "EVER ORIENT",
