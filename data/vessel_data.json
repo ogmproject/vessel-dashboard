@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-14T20:15:40+00:00",
+  "generated_at": "2026-09-14T20:24:44+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - SONGA SUCCESS",
-        "code": "0055S / 0055N",
-        "atb": "14/09/2026 03:05",
-        "etd": "15/09/2026 01:30",
-        "verified": false
-      },
       {
         "name": "I1 - WAN HAI 327",
         "code": "S068 / N068",
@@ -186,6 +179,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SONGA SUCCESS",
+        "berth": "14/09/2026 03:05",
+        "dep": "15/09/2026 03:03"
+      },
       {
         "name": "EVER BIRTH",
         "berth": "14/09/2026 06:50",
