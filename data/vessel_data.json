@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-14T16:15:42+00:00",
+  "generated_at": "2026-09-14T16:30:49+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SONGA SUCCESS",
         "code": "0055S / 0055N",
         "atb": "14/09/2026 03:05",
-        "etd": "14/09/2026 23:59",
+        "etd": "15/09/2026 01:30",
         "verified": false
       },
       {
         "name": "I2 - EVER BIRTH",
         "code": "1205-110B / 1205-110B",
         "atb": "14/09/2026 06:50",
-        "etd": "14/09/2026 23:59",
+        "etd": "15/09/2026 01:30",
         "verified": false
       },
       {
