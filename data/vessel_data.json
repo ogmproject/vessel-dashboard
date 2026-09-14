@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T14:30:46+00:00",
+  "generated_at": "2026-09-14T14:45:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -396,14 +396,6 @@
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "atb": "13/09/2026 13:05",
         "atd": "14/09/2026 05:10"
-      },
-      {
-        "name": "MERATUS KUMAI",
-        "code": "MEKM013",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "13/09/2026 09:10",
-        "atd": "13/09/2026 21:40"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
