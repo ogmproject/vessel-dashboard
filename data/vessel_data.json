@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:45:40+00:00",
+  "generated_at": "2026-09-14T13:00:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -269,8 +269,10 @@
         "etd": "15/09/2026 14:00"
       },
       {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU028",
+        "name": "7726",
+        "code": "7726",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "KMTC SHIMIZU / KMZU028",
         "type": "INTERNATIONAL"
       },
       {
