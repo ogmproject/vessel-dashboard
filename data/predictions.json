@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T14:45:43.383601",
+  "generated_at": "2026-09-14T15:01:00.000183",
   "predictions": [
     {
       "vessel_name": "HONG TAI 656",
@@ -19,7 +19,7 @@
       "predicted_next_arrival": "2026-09-19T16:24:40",
       "avg_interval_days": 6.3,
       "interval_stddev_days": 3.7,
-      "avg_dwelling_hours": 24.1,
+      "avg_dwelling_hours": 26.9,
       "visits_recorded": 4,
       "confidence": "medium"
     },
