@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T22:00:53+00:00",
+  "generated_at": "2026-09-14T22:15:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -360,15 +360,6 @@
         "carrier": "HMM CO.,LTD",
         "atb": "14/09/2026 05:19",
         "atd": "14/09/2026 21:05"
-      },
-      {
-        "name": "WAN HAI 351",
-        "code": "WA51018",
-        "voyage": "E047         / W048",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "atb": "13/09/2026 13:05",
-        "atd": "14/09/2026 05:10"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
