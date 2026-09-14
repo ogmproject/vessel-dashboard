@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T07:45:43+00:00",
+  "generated_at": "2026-09-14T08:00:54+00:00",
   "tps": {
     "alongside": [
       {
@@ -338,6 +338,26 @@
         "etd": "20/09/2026 03:00",
         "openstack": "14/09/2026 03:00",
         "closeC": "18/09/2026 22:00"
+      },
+      {
+        "name": "HUA DA 617",
+        "code": "HUD7001",
+        "voyage": "011E         / 012W",
+        "type": "INTERNATIONAL",
+        "etb": "19/09/2026 12:00",
+        "etd": "19/09/2026 12:30",
+        "openstack": "14/09/2026 12:00",
+        "closeC": "19/09/2026 07:00"
+      },
+      {
+        "name": "MERATUS KARIMUN",
+        "code": "MEIU022",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "20/09/2026 10:00",
+        "etd": "20/09/2026 10:30",
+        "openstack": "15/09/2026 10:00",
+        "closeC": "20/09/2026 05:00"
       }
     ],
     "departed": [
