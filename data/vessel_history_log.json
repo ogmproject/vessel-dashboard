@@ -948,8 +948,8 @@
     "vessel_name": "KOTA HIDAYAH",
     "terminal": "TPS",
     "arrival": "2026-09-14T05:45:00",
-    "departure": null,
-    "recorded_at": "2026-09-13T23:00:55.388089"
+    "departure": "2026-09-14T22:35:00",
+    "recorded_at": "2026-09-14T16:15:42.577125"
   },
   {
     "vessel_name": "EVER BIRTH",

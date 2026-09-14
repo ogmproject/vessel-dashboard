@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:11:51+00:00",
+  "generated_at": "2026-09-14T16:15:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "0055S / 0055N",
         "atb": "14/09/2026 03:05",
         "etd": "14/09/2026 23:59",
-        "verified": false
-      },
-      {
-        "name": "I3 - KOTA HIDAYAH",
-        "code": "2628S / 2628S",
-        "atb": "14/09/2026 05:45",
-        "etd": "14/09/2026 20:00",
         "verified": false
       },
       {
@@ -200,6 +193,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "KOTA HIDAYAH",
+        "berth": "14/09/2026 05:45",
+        "dep": "14/09/2026 22:35"
+      },
       {
         "name": "ES TREASURE",
         "berth": "13/09/2026 10:16",
