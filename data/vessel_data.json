@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T07:17:53+00:00",
+  "generated_at": "2026-09-15T07:30:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -232,22 +232,29 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "WAN HAI 375",
         "code": "WA75006",
         "voyage": "N022         / N022",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "15/09/2026 14:00",
+        "atb": "15/09/2026 14:20",
         "etd": "16/09/2026 08:00",
-        "openstack": "09/09/2026 14:00",
-        "closeC": "15/09/2026 06:00",
         "mmsi": "563232800",
         "imo": "9958121",
         "location": "Java Sea"
       },
+      {
+        "name": "WAN HAI 375",
+        "code": "WA75006",
+        "type": "INTERNATIONAL",
+        "mmsi": "563232800",
+        "imo": "9958121",
+        "location": "Java Sea"
+      }
+    ],
+    "schedule": [
       {
         "name": "CHENNAI VOYAGER",
         "code": "CHVO010",
