@@ -980,6 +980,13 @@
     "recorded_at": "2026-09-14T22:30:45.224578"
   },
   {
+    "vessel_name": "VERTIKAL",
+    "terminal": "TPS",
+    "arrival": "2026-09-15T05:52:00",
+    "departure": "2026-09-15T20:25:00",
+    "recorded_at": "2026-09-15T14:45:37.484465"
+  },
+  {
     "vessel_name": "COSCO HAIFA",
     "terminal": "TPS",
     "arrival": "2026-09-15T07:46:00",

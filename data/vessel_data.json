@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-15T14:30:44+00:00",
+  "generated_at": "2026-09-15T14:45:37+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - COSCO HAIFA",
         "code": "146S / 146N",
         "atb": "15/09/2026 07:46",
-        "etd": "16/09/2026 06:00",
+        "etd": "16/09/2026 07:00",
         "verified": false
       },
       {
         "name": "I2 - MSC MALENA III",
         "code": "HC633A / HC635R",
         "atb": "15/09/2026 05:18",
-        "etd": "15/09/2026 23:00",
+        "etd": "15/09/2026 22:00",
         "verified": false
       },
       {
         "name": "I1 - WAN HAI 327",
         "code": "S068 / N068",
         "atb": "14/09/2026 23:05",
-        "etd": "16/09/2026 06:00",
+        "etd": "16/09/2026 03:00",
         "verified": false
       }
     ],
@@ -210,6 +210,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "VERTIKAL",
+        "berth": "15/09/2026 05:52",
+        "dep": "15/09/2026 20:25"
+      },
       {
         "name": "SONGA SUCCESS",
         "berth": "14/09/2026 03:05",
