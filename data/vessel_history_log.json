@@ -962,8 +962,8 @@
     "vessel_name": "KMTC SHIMIZU",
     "terminal": "TL",
     "arrival": "2026-09-14T15:38:00",
-    "departure": null,
-    "recorded_at": "2026-09-14T08:45:53.952561"
+    "departure": "2026-09-15T10:58:00",
+    "recorded_at": "2026-09-15T04:30:40.120195"
   },
   {
     "vessel_name": "WAN HAI 327",

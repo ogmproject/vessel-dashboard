@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:15:38+00:00",
+  "generated_at": "2026-09-15T04:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -222,24 +222,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU028",
-        "voyage": "2608S        / 2608N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "14/09/2026 15:38",
-        "etd": "15/09/2026 11:00"
-      },
-      {
-        "name": "7726",
-        "code": "7726",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "KMTC SHIMIZU / KMZU028",
-        "type": "INTERNATIONAL"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "WAN HAI 375",
@@ -248,7 +231,7 @@
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "etb": "15/09/2026 13:00",
-        "etd": "16/09/2026 10:00",
+        "etd": "16/09/2026 07:00",
         "openstack": "09/09/2026 14:00",
         "closeC": "15/09/2026 06:00",
         "mmsi": "563232800",
@@ -261,8 +244,8 @@
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "16/09/2026 12:00",
-        "etd": "17/09/2026 09:30",
+        "etb": "16/09/2026 16:00",
+        "etd": "17/09/2026 13:00",
         "openstack": "11/09/2026 12:00",
         "closeC": "15/09/2026 15:00"
       },
@@ -343,6 +326,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "KMTC SHIMIZU",
+        "code": "KMZU028",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "14/09/2026 15:38",
+        "atd": "15/09/2026 10:58"
+      },
       {
         "name": "HMM HERITAGE",
         "code": "HMHE005",
