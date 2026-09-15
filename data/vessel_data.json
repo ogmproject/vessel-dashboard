@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T06:00:48+00:00",
+  "generated_at": "2026-09-15T06:16:03+00:00",
   "tps": {
     "alongside": [
       {
@@ -333,6 +333,17 @@
         "etd": "21/09/2026 11:30",
         "openstack": "15/09/2026 08:00",
         "closeC": "20/09/2026 03:00"
+      },
+      {
+        "name": "TIANJIN VOYAGER",
+        "code": "TIIN018",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "HEUNG A LINE CO., LTD.",
+        "etb": "21/09/2026 00:00",
+        "etd": "21/09/2026 00:30",
+        "openstack": "16/09/2026 00:00",
+        "closeC": "20/09/2026 19:00"
       }
     ],
     "departed": [
