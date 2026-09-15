@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-15T00:45:34+00:00",
+  "generated_at": "2026-09-15T01:00:45+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - COSCO HAIFA",
+        "code": "146S / 146N",
+        "atb": "15/09/2026 07:46",
+        "etd": "16/09/2026 00:01",
+        "verified": false
+      },
       {
         "name": "I2 - MSC MALENA III",
         "code": "HC633A / HC635R",
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "COSCO HAIFA",
-        "code": "146S / 146N",
-        "eta": "15/09/2026 04:00",
-        "etd": "16/09/2026 00:01",
-        "openstack": "10/09/2026 12:00",
-        "closeC": "15/09/2026 06:00",
-        "closeD": "15/09/2026 09:00",
-        "verified": false
-      },
       {
         "name": "HONG TAI 656",
         "code": "637N / 637N",
