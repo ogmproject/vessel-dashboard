@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T22:15:41+00:00",
+  "generated_at": "2026-09-15T22:30:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "146S / 146N",
         "atb": "15/09/2026 07:46",
         "etd": "16/09/2026 07:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - SINAR BANDA",
+        "code": "2650S / 2650N",
+        "atb": "16/09/2026 05:17",
+        "etd": "16/09/2026 14:00",
         "verified": false
       },
       {
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SINAR BANDA",
-        "code": "2650S / 2650N",
-        "eta": "16/09/2026 05:00",
-        "etd": "16/09/2026 14:00",
-        "openstack": "11/09/2026 12:00",
-        "closeC": "16/09/2026 06:00",
-        "closeD": "16/09/2026 09:00",
-        "verified": false
-      },
       {
         "name": "SITC SHEKOU",
         "code": "2618S / 2619N",

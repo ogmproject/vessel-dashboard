@@ -1006,5 +1006,12 @@
     "arrival": "2026-09-16T05:02:00",
     "departure": null,
     "recorded_at": "2026-09-15T22:15:41.363033"
+  },
+  {
+    "vessel_name": "SINAR BANDA",
+    "terminal": "TPS",
+    "arrival": "2026-09-16T05:17:00",
+    "departure": null,
+    "recorded_at": "2026-09-15T22:30:39.935985"
   }
 ]
