@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:45:34+00:00",
+  "generated_at": "2026-09-15T06:00:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -167,6 +167,16 @@
         "closeC": "19/09/2026 18:01",
         "closeD": "19/09/2026 21:01",
         "verified": false
+      },
+      {
+        "name": "KOTA JOHAN",
+        "code": "0079E / 0079W",
+        "eta": "23/09/2026 00:00",
+        "etd": "24/09/2026 16:30",
+        "openstack": "18/09/2026 00:00",
+        "closeC": "22/09/2026 18:00",
+        "closeD": "22/09/2026 21:00",
+        "verified": false
       }
     ],
     "movement": [
@@ -230,8 +240,8 @@
         "voyage": "N022         / N022",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "15/09/2026 13:00",
-        "etd": "16/09/2026 07:00",
+        "etb": "15/09/2026 14:00",
+        "etd": "16/09/2026 08:00",
         "openstack": "09/09/2026 14:00",
         "closeC": "15/09/2026 06:00",
         "mmsi": "563232800",
