@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:45:41+00:00",
+  "generated_at": "2026-09-15T17:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "146S / 146N",
         "atb": "15/09/2026 07:46",
         "etd": "16/09/2026 07:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - MSC MALENA III",
-        "code": "HC633A / HC635R",
-        "atb": "15/09/2026 05:18",
-        "etd": "15/09/2026 22:00",
         "verified": false
       },
       {
@@ -211,6 +204,14 @@
     ],
     "movement": [
       {
+        "name": "MSC MALENA III",
+        "berth": "15/09/2026 05:18",
+        "dep": "15/09/2026 23:22",
+        "mmsi": "636020360",
+        "imo": "9203538",
+        "location": "Java Sea"
+      },
+      {
         "name": "VERTIKAL",
         "berth": "15/09/2026 05:52",
         "dep": "15/09/2026 20:25"
@@ -249,19 +250,6 @@
         "name": "SPIL NIKEN",
         "berth": "13/09/2026 04:23",
         "dep": "14/09/2026 00:15"
-      },
-      {
-        "name": "HONG TAI 656",
-        "berth": "11/09/2026 17:00",
-        "dep": "13/09/2026 04:44"
-      },
-      {
-        "name": "JOANNA",
-        "berth": "11/09/2026 07:20",
-        "dep": "13/09/2026 00:01",
-        "mmsi": "636016118",
-        "imo": "9204477",
-        "location": "South China Sea"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
