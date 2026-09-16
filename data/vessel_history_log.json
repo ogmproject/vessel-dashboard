@@ -1011,8 +1011,8 @@
     "vessel_name": "SINAR BANDA",
     "terminal": "TPS",
     "arrival": "2026-09-16T05:17:00",
-    "departure": null,
-    "recorded_at": "2026-09-15T22:30:39.935985"
+    "departure": "2026-09-16T12:42:00",
+    "recorded_at": "2026-09-16T06:00:46.123833"
   },
   {
     "vessel_name": "SITC SHEKOU",
