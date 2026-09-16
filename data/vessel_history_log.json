@@ -1041,5 +1041,12 @@
     "arrival": "2026-09-17T05:45:00",
     "departure": null,
     "recorded_at": "2026-09-16T23:00:51.480743"
+  },
+  {
+    "vessel_name": "MYD ZHANGZHOU",
+    "terminal": "TPS",
+    "arrival": "2026-09-17T06:00:00",
+    "departure": null,
+    "recorded_at": "2026-09-16T23:10:42.300391"
   }
 ]

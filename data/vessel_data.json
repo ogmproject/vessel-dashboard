@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-16T23:00:51+00:00",
+  "generated_at": "2026-09-16T23:10:42+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - MYD ZHANGZHOU",
+        "code": "CS2080S / CS2090N",
+        "atb": "17/09/2026 06:00",
+        "etd": "18/09/2026 04:00",
+        "verified": false
+      },
       {
         "name": "I3 - HONG TAI 656",
         "code": "637N / 637N",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MYD ZHANGZHOU",
-        "code": "CS2080S / CS2090N",
-        "eta": "17/09/2026 04:00",
-        "etd": "18/09/2026 04:00",
-        "openstack": "10/09/2026 18:00",
-        "closeC": "15/09/2026 12:00",
-        "closeD": "15/09/2026 15:00",
-        "verified": false
-      },
       {
         "name": "CMA CGM FORT JAMES",
         "code": "0XLCHS / 0XLCIN",
@@ -268,7 +265,7 @@
         "etb": "17/09/2026 08:00",
         "etd": "18/09/2026 08:00",
         "openstack": "12/09/2026 10:00",
-        "closeC": "17/09/2026 05:00"
+        "closeC": "17/09/2026 07:00"
       },
       {
         "name": "SEABREEZE",
