@@ -1,17 +1,6 @@
 {
-  "generated_at": "2026-09-16T09:31:00.696331",
+  "generated_at": "2026-09-16T09:45:52.237614",
   "predictions": [
-    {
-      "vessel_name": "HONG TAI 656",
-      "terminal": "TPS",
-      "last_arrival": "2026-09-11T17:00:00",
-      "predicted_next_arrival": "2026-09-18T09:50:00",
-      "avg_interval_days": 6.7,
-      "interval_stddev_days": 3.2,
-      "avg_dwelling_hours": 22.9,
-      "visits_recorded": 5,
-      "confidence": "medium"
-    },
     {
       "vessel_name": "ES TREASURE",
       "terminal": "TPS",
@@ -44,6 +33,17 @@
       "avg_dwelling_hours": 37.1,
       "visits_recorded": 4,
       "confidence": "high"
+    },
+    {
+      "vessel_name": "HONG TAI 656",
+      "terminal": "TPS",
+      "last_arrival": "2026-09-16T16:05:00",
+      "predicted_next_arrival": "2026-09-23T00:34:00",
+      "avg_interval_days": 6.4,
+      "interval_stddev_days": 2.9,
+      "avg_dwelling_hours": 22.9,
+      "visits_recorded": 6,
+      "confidence": "medium"
     },
     {
       "vessel_name": "MERATUS KUMAI",
