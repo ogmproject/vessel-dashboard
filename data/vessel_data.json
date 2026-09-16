@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T21:30:45+00:00",
+  "generated_at": "2026-09-16T21:45:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -254,7 +254,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "16/09/2026 23:10",
-        "etd": "17/09/2026 20:00"
+        "etd": "17/09/2026 16:00"
       },
       {
         "name": "CHENNAI VOYAGER",
