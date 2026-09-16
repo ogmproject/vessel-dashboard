@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-16T00:15:38+00:00",
+  "generated_at": "2026-09-16T00:30:42+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - COSCO HAIFA",
-        "code": "146S / 146N",
-        "atb": "15/09/2026 07:46",
-        "etd": "16/09/2026 07:00",
-        "verified": false
-      },
       {
         "name": "I3 - SINAR BANDA",
         "code": "2650S / 2650N",
@@ -190,6 +183,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "COSCO HAIFA",
+        "berth": "15/09/2026 07:46",
+        "dep": "16/09/2026 07:03"
+      },
       {
         "name": "WAN HAI 327",
         "berth": "14/09/2026 23:05",
