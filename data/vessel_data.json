@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:30:49+00:00",
+  "generated_at": "2026-09-16T14:45:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -172,6 +172,16 @@
         "verified": false
       },
       {
+        "name": "THE WHALE SHARK",
+        "code": "2426S / 2426S",
+        "eta": "21/09/2026 23:00",
+        "etd": "22/09/2026 17:30",
+        "openstack": "16/09/2026 23:00",
+        "closeC": "21/09/2026 17:00",
+        "closeD": "21/09/2026 20:00",
+        "verified": false
+      },
+      {
         "name": "KOTA JOHAN",
         "code": "0079E / 0079W",
         "eta": "23/09/2026 00:00",
@@ -261,8 +271,8 @@
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "16/09/2026 21:00",
-        "etd": "17/09/2026 18:00",
+        "etb": "16/09/2026 23:00",
+        "etd": "17/09/2026 20:00",
         "openstack": "11/09/2026 12:00",
         "closeC": "15/09/2026 20:00"
       },
