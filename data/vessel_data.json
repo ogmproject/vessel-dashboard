@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T07:15:44+00:00",
+  "generated_at": "2026-09-16T07:20:19+00:00",
   "tps": {
     "alongside": [
       {
@@ -29,16 +29,6 @@
         "verified": false
       },
       {
-        "name": "CMA CGM FORT JAMES",
-        "code": "0XLCHS / 0XLCIN",
-        "eta": "16/09/2026 23:00",
-        "etd": "17/09/2026 18:00",
-        "openstack": "10/09/2026 00:00",
-        "closeC": "14/09/2026 18:00",
-        "closeD": "14/09/2026 21:00",
-        "verified": false
-      },
-      {
         "name": "MYD ZHANGZHOU",
         "code": "CS2080S / CS2090N",
         "eta": "17/09/2026 04:00",
@@ -51,11 +41,31 @@
       {
         "name": "TS NAGOYA",
         "code": "2632S / 2632N",
-        "eta": "17/09/2026 21:00",
-        "etd": "18/09/2026 15:00",
+        "eta": "17/09/2026 05:00",
+        "etd": "18/09/2026 02:00",
         "openstack": "11/09/2026 14:00",
         "closeC": "16/09/2026 08:00",
         "closeD": "16/09/2026 11:00",
+        "verified": false
+      },
+      {
+        "name": "CMA CGM FORT JAMES",
+        "code": "0XLCHS / 0XLCIN",
+        "eta": "17/09/2026 18:00",
+        "etd": "18/09/2026 16:00",
+        "openstack": "10/09/2026 00:00",
+        "closeC": "14/09/2026 18:00",
+        "closeD": "14/09/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "KMTC INCHEON",
+        "code": "2608S / 2608N",
+        "eta": "17/09/2026 21:00",
+        "etd": "18/09/2026 12:00",
+        "openstack": "12/09/2026 18:00",
+        "closeC": "17/09/2026 12:00",
+        "closeD": "17/09/2026 15:00",
         "verified": false
       },
       {
@@ -66,16 +76,6 @@
         "openstack": "12/09/2026 17:00",
         "closeC": "17/09/2026 11:00",
         "closeD": "17/09/2026 14:00",
-        "verified": false
-      },
-      {
-        "name": "KMTC INCHEON",
-        "code": "2608S / 2608N",
-        "eta": "18/09/2026 02:30",
-        "etd": "18/09/2026 18:00",
-        "openstack": "12/09/2026 18:00",
-        "closeC": "17/09/2026 12:00",
-        "closeD": "17/09/2026 15:00",
         "verified": false
       },
       {
