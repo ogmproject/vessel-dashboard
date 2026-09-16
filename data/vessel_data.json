@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:15:38+00:00",
+  "generated_at": "2026-09-16T06:30:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "2618S / 2619N",
         "atb": "16/09/2026 08:45",
         "etd": "16/09/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - SINAR BANDA",
+        "code": "2650S / 2650N",
+        "atb": "16/09/2026 05:17",
+        "etd": "16/09/2026 11:30",
         "verified": false
       },
       {
@@ -152,6 +159,19 @@
         "verified": false
       },
       {
+        "name": "EVER BUILD",
+        "code": "1210-089A / 1210-089A",
+        "eta": "20/09/2026 14:00",
+        "etd": "21/09/2026 14:30",
+        "openstack": "15/09/2026 14:00",
+        "closeC": "20/09/2026 08:00",
+        "closeD": "20/09/2026 11:00",
+        "verified": false,
+        "mmsi": "370616000",
+        "imo": "9790062",
+        "location": "South China Sea"
+      },
+      {
         "name": "MSC AMEERA III",
         "code": "HV634A / HV634A",
         "eta": "20/09/2026 16:00",
@@ -173,11 +193,6 @@
       }
     ],
     "movement": [
-      {
-        "name": "SINAR BANDA",
-        "berth": "16/09/2026 05:17",
-        "dep": "16/09/2026 12:42"
-      },
       {
         "name": "COSCO HAIFA",
         "berth": "15/09/2026 07:46",
