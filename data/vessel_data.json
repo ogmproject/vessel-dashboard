@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-16T18:30:51+00:00",
+  "generated_at": "2026-09-16T18:45:39+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - SITC SHEKOU",
-        "code": "2618S / 2619N",
-        "atb": "16/09/2026 08:45",
-        "etd": "17/09/2026 02:00",
-        "verified": false
-      },
       {
         "name": "I3 - HONG TAI 656",
         "code": "637N / 637N",
@@ -203,6 +196,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SITC SHEKOU",
+        "berth": "16/09/2026 08:45",
+        "dep": "17/09/2026 01:30"
+      },
       {
         "name": "SINAR BANDA",
         "berth": "16/09/2026 05:17",
