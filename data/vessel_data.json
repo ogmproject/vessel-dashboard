@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T03:00:51+00:00",
+  "generated_at": "2026-09-16T03:15:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -245,16 +245,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "WAN HAI 375",
-        "code": "WA75006",
-        "type": "INTERNATIONAL",
-        "mmsi": "563232800",
-        "imo": "9958121",
-        "location": "Java Sea"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "CHENNAI VOYAGER",
@@ -355,6 +346,18 @@
       }
     ],
     "departed": [
+      {
+        "name": "WAN HAI 375",
+        "code": "WA75006",
+        "voyage": "N022         / N022",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "atb": "15/09/2026 14:20",
+        "atd": "16/09/2026 10:09",
+        "mmsi": "563232800",
+        "imo": "9958121",
+        "location": "Java Sea"
+      },
       {
         "name": "KMTC SHIMIZU",
         "code": "KMZU028",
