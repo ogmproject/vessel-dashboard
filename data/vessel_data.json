@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:45:36+00:00",
+  "generated_at": "2026-09-17T17:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -232,29 +232,6 @@
         "mmsi": "563124300",
         "imo": "9871490",
         "location": "Java Sea"
-      },
-      {
-        "name": "MSC MALENA III",
-        "berth": "15/09/2026 05:18",
-        "dep": "15/09/2026 23:22",
-        "mmsi": "636020360",
-        "imo": "9203538",
-        "location": "Java Sea"
-      },
-      {
-        "name": "VERTIKAL",
-        "berth": "15/09/2026 05:52",
-        "dep": "15/09/2026 20:25"
-      },
-      {
-        "name": "SONGA SUCCESS",
-        "berth": "14/09/2026 03:05",
-        "dep": "15/09/2026 03:03"
-      },
-      {
-        "name": "EVER BIRTH",
-        "berth": "14/09/2026 06:50",
-        "dep": "15/09/2026 02:10"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
