@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T06:45:42+00:00",
+  "generated_at": "2026-09-17T07:00:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "637N / 637N",
         "atb": "16/09/2026 16:05",
         "etd": "17/09/2026 17:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - SINAR SUNDA",
-        "code": "242S / 242N",
-        "atb": "16/09/2026 05:02",
-        "etd": "17/09/2026 13:00",
         "verified": false
       },
       {
@@ -200,6 +193,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SINAR SUNDA",
+        "berth": "16/09/2026 05:02",
+        "dep": "17/09/2026 13:50"
+      },
       {
         "name": "SITC SHEKOU",
         "berth": "16/09/2026 08:45",
