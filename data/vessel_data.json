@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T14:00:46+00:00",
+  "generated_at": "2026-09-17T14:15:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "CS2080S / CS2090N",
         "atb": "17/09/2026 06:00",
         "etd": "18/09/2026 04:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - KMTC INCHEON",
+        "code": "2608S / 2608N",
+        "atb": "17/09/2026 21:00",
+        "etd": "18/09/2026 12:00",
         "verified": false
       },
       {
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "KMTC INCHEON",
-        "code": "2608S / 2608N",
-        "eta": "17/09/2026 21:00",
-        "etd": "18/09/2026 12:00",
-        "openstack": "12/09/2026 18:00",
-        "closeC": "17/09/2026 12:00",
-        "closeD": "17/09/2026 15:00",
-        "verified": false
-      },
       {
         "name": "EVER CONSIST",
         "code": "0553-069S / 0553-069N",
