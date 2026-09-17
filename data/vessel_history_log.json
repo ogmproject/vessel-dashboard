@@ -1032,8 +1032,8 @@
     "vessel_name": "CHENNAI VOYAGER",
     "terminal": "TL",
     "arrival": "2026-09-16T23:10:00",
-    "departure": null,
-    "recorded_at": "2026-09-16T16:15:40.498857"
+    "departure": "2026-09-17T20:47:00",
+    "recorded_at": "2026-09-17T14:00:47.051322"
   },
   {
     "vessel_name": "TS NAGOYA",
