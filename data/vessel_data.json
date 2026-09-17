@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T03:15:36+00:00",
+  "generated_at": "2026-09-17T03:45:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -73,19 +73,6 @@
         "verified": false
       },
       {
-        "name": "KMTC HAIPHONG",
-        "code": "2607S / 2607N",
-        "eta": "19/09/2026 00:00",
-        "etd": "19/09/2026 16:30",
-        "openstack": "14/09/2026 09:00",
-        "closeC": "19/09/2026 00:00",
-        "closeD": "19/09/2026 03:00",
-        "verified": false,
-        "mmsi": "538007503",
-        "imo": "9793806",
-        "location": "Java Sea"
-      },
-      {
         "name": "SINAR SULAWESI",
         "code": "096S / 096N",
         "eta": "19/09/2026 00:01",
@@ -94,6 +81,19 @@
         "closeC": "19/09/2026 18:01",
         "closeD": "19/09/2026 21:01",
         "verified": false
+      },
+      {
+        "name": "KMTC HAIPHONG",
+        "code": "2607S / 2607N",
+        "eta": "19/09/2026 03:00",
+        "etd": "19/09/2026 19:30",
+        "openstack": "14/09/2026 09:00",
+        "closeC": "19/09/2026 03:00",
+        "closeD": "19/09/2026 06:00",
+        "verified": false,
+        "mmsi": "538007503",
+        "imo": "9793806",
+        "location": "Java Sea"
       },
       {
         "name": "KOTA MACHAN",
