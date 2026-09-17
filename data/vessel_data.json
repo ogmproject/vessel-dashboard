@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T08:00:50+00:00",
+  "generated_at": "2026-09-17T08:15:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -162,20 +162,20 @@
         "verified": false
       },
       {
-        "name": "THE WHALE SHARK",
-        "code": "2426S / 2426S",
+        "name": "EVER OASIS",
+        "code": "0493-092S / 0493-092N",
         "eta": "21/09/2026 23:00",
-        "etd": "22/09/2026 17:30",
+        "etd": "22/09/2026 18:30",
         "openstack": "16/09/2026 23:00",
         "closeC": "21/09/2026 17:00",
         "closeD": "21/09/2026 20:00",
         "verified": false
       },
       {
-        "name": "EVER OASIS",
-        "code": "0493-092S / 0493-092N",
-        "eta": "21/09/2026 23:00",
-        "etd": "22/09/2026 18:30",
+        "name": "THE WHALE SHARK",
+        "code": "2426S / 2426S",
+        "eta": "22/09/2026 04:00",
+        "etd": "22/09/2026 18:00",
         "openstack": "16/09/2026 23:00",
         "closeC": "21/09/2026 17:00",
         "closeD": "21/09/2026 20:00",
@@ -277,8 +277,10 @@
         "etd": "17/09/2026 18:00"
       },
       {
-        "name": "ITAL BONUS",
-        "code": "ITBO009",
+        "name": "4926",
+        "code": "4926",
+        "carrier": "PT. TEMAS SHIPPING",
+        "voyage": "ITAL BONUS / ITBO009",
         "type": "INTERNATIONAL"
       },
       {
@@ -304,16 +306,6 @@
         "location": "Java Sea"
       },
       {
-        "name": "MARINA ATHENA",
-        "code": "MAAT010",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "18/09/2026 13:00",
-        "etd": "18/09/2026 07:30",
-        "openstack": "13/09/2026 13:00",
-        "closeC": "18/09/2026 03:00"
-      },
-      {
         "name": "2636S",
         "code": "2636N",
         "type": "INTERNATIONAL",
@@ -322,6 +314,16 @@
         "etd": "19/09/2026 11:00",
         "openstack": "13/09/2026 10:00",
         "closeC": "17/09/2026 12:00"
+      },
+      {
+        "name": "MARINA ATHENA",
+        "code": "MAAT010",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "18/09/2026 13:00",
+        "etd": "18/09/2026 07:30",
+        "openstack": "13/09/2026 13:00",
+        "closeC": "18/09/2026 03:00"
       },
       {
         "name": "SURABAYA VOYAGER",
