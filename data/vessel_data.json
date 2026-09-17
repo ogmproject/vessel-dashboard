@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-17T15:45:43+00:00",
+  "generated_at": "2026-09-17T16:00:47+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - MYD ZHANGZHOU",
         "code": "CS2080S / CS2090N",
         "atb": "17/09/2026 06:00",
-        "etd": "18/09/2026 04:00",
+        "etd": "18/09/2026 08:00",
         "verified": false
       },
       {
@@ -20,7 +20,7 @@
         "name": "I2 - CMA CGM FORT JAMES",
         "code": "0XLCHS / 0XLCIN",
         "atb": "17/09/2026 15:32",
-        "etd": "18/09/2026 23:00",
+        "etd": "18/09/2026 16:00",
         "verified": false
       },
       {
