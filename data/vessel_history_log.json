@@ -1039,8 +1039,8 @@
     "vessel_name": "TS NAGOYA",
     "terminal": "TPS",
     "arrival": "2026-09-17T05:45:00",
-    "departure": null,
-    "recorded_at": "2026-09-16T23:00:51.480743"
+    "departure": "2026-09-18T06:34:00",
+    "recorded_at": "2026-09-17T23:45:45.321922"
   },
   {
     "vessel_name": "MYD ZHANGZHOU",
