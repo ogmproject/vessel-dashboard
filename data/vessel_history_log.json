@@ -1055,5 +1055,12 @@
     "arrival": "2026-09-17T08:49:00",
     "departure": null,
     "recorded_at": "2026-09-17T02:15:42.886133"
+  },
+  {
+    "vessel_name": "CMA CGM FORT JAMES",
+    "terminal": "TPS",
+    "arrival": "2026-09-17T15:32:00",
+    "departure": null,
+    "recorded_at": "2026-09-17T08:45:37.306167"
   }
 ]
