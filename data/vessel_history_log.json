@@ -1025,8 +1025,8 @@
     "vessel_name": "HONG TAI 656",
     "terminal": "TPS",
     "arrival": "2026-09-16T16:05:00",
-    "departure": null,
-    "recorded_at": "2026-09-16T09:45:52.237614"
+    "departure": "2026-09-17T17:50:00",
+    "recorded_at": "2026-09-17T11:15:37.634621"
   },
   {
     "vessel_name": "CHENNAI VOYAGER",
