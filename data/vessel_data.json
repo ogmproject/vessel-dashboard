@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T08:15:38+00:00",
+  "generated_at": "2026-09-18T08:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -260,16 +260,10 @@
         "etd": "19/09/2026 08:00"
       },
       {
-        "name": "SEABREEZE",
-        "code": "SEZE002",
-        "voyage": "0002S        / 0002N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "18/09/2026 03:45",
-        "etd": "19/09/2026 23:55",
-        "mmsi": "636021108",
-        "imo": "9472579",
-        "location": "Java Sea"
+        "name": "5726",
+        "code": "5726",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "4626",
