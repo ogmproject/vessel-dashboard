@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T06:00:41+00:00",
+  "generated_at": "2026-09-18T06:15:31+00:00",
   "tps": {
     "alongside": [
       {
@@ -186,6 +186,26 @@
         "openstack": "18/09/2026 08:00",
         "closeC": "23/09/2026 02:00",
         "closeD": "23/09/2026 05:00",
+        "verified": false
+      },
+      {
+        "name": "MSC CHERYL 3",
+        "code": "HC635A / HC637R",
+        "eta": "24/09/2026 00:00",
+        "etd": "25/09/2026 07:30",
+        "openstack": "21/09/2026 00:00",
+        "closeC": "23/09/2026 18:00",
+        "closeD": "23/09/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "MSC AMEERA III",
+        "code": "HV638R / HV638R",
+        "eta": "24/09/2026 02:00",
+        "etd": "25/09/2026 09:30",
+        "openstack": "11/09/2026 02:00",
+        "closeC": "15/09/2026 20:00",
+        "closeD": "15/09/2026 23:00",
         "verified": false
       }
     ],
