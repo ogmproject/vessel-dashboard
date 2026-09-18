@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:45:39+00:00",
+  "generated_at": "2026-09-18T17:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -244,24 +244,6 @@
         "name": "SITC SHEKOU",
         "berth": "16/09/2026 08:45",
         "dep": "17/09/2026 01:30"
-      },
-      {
-        "name": "SINAR BANDA",
-        "berth": "16/09/2026 05:17",
-        "dep": "16/09/2026 12:42"
-      },
-      {
-        "name": "COSCO HAIFA",
-        "berth": "15/09/2026 07:46",
-        "dep": "16/09/2026 07:03"
-      },
-      {
-        "name": "WAN HAI 327",
-        "berth": "14/09/2026 23:05",
-        "dep": "16/09/2026 05:50",
-        "mmsi": "563124300",
-        "imo": "9871490",
-        "location": "Java Sea"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
