@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:45:39+00:00",
+  "generated_at": "2026-09-18T14:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -369,15 +369,6 @@
         "type": "INTERNATIONAL",
         "atb": "17/09/2026 08:49",
         "atd": "18/09/2026 10:14"
-      },
-      {
-        "name": "CHENNAI VOYAGER",
-        "code": "CHVO010",
-        "voyage": "2608S        / 2608N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "atb": "16/09/2026 23:10",
-        "atd": "17/09/2026 20:47"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
