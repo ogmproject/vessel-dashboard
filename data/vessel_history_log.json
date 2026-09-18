@@ -1053,8 +1053,8 @@
     "vessel_name": "ITAL BONUS",
     "terminal": "TL",
     "arrival": "2026-09-17T08:49:00",
-    "departure": null,
-    "recorded_at": "2026-09-17T02:15:42.886133"
+    "departure": "2026-09-18T10:14:00",
+    "recorded_at": "2026-09-18T03:30:39.833841"
   },
   {
     "vessel_name": "CMA CGM FORT JAMES",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T03:15:33+00:00",
+  "generated_at": "2026-09-18T03:30:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -251,13 +251,6 @@
         "carrier": "PT. TEMAS SHIPPING",
         "voyage": "SEABREEZE / SEZE002",
         "type": "INTERNATIONAL"
-      },
-      {
-        "name": "4926",
-        "code": "4926",
-        "carrier": "PT. TEMAS SHIPPING",
-        "voyage": "ITAL BONUS / ITBO009",
-        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
@@ -335,6 +328,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "ITAL BONUS",
+        "code": "ITBO009",
+        "voyage": "S125         / N125",
+        "type": "INTERNATIONAL",
+        "atb": "17/09/2026 08:49",
+        "atd": "18/09/2026 10:14"
+      },
       {
         "name": "CHENNAI VOYAGER",
         "code": "CHVO010",
