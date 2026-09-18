@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-18T01:30:39+00:00",
+  "generated_at": "2026-09-18T01:45:33+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - MYD ZHANGZHOU",
         "code": "CS2080S / CS2090N",
         "atb": "17/09/2026 06:00",
-        "etd": "18/09/2026 14:00",
+        "etd": "18/09/2026 15:00",
         "verified": false
       },
       {
         "name": "I3 - KMTC INCHEON",
         "code": "2608S / 2608N",
         "atb": "17/09/2026 21:00",
-        "etd": "18/09/2026 12:00",
+        "etd": "18/09/2026 15:00",
         "verified": false
       },
       {
