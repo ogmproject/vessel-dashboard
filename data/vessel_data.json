@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-18T13:00:47+00:00",
+  "generated_at": "2026-09-18T13:15:38+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - MTT SANDAKAN",
         "code": "80E / 80W",
         "atb": "18/09/2026 18:25",
-        "etd": "19/09/2026 23:00",
+        "etd": "19/09/2026 13:00",
         "verified": false
       },
       {
         "name": "I1 - EVER CONSIST",
         "code": "0553-069S / 0553-069N",
         "atb": "18/09/2026 08:58",
-        "etd": "19/09/2026 02:00",
+        "etd": "18/09/2026 23:00",
         "verified": false
       }
     ],
