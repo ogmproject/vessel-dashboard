@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T18:01:09+00:00",
+  "generated_at": "2026-09-18T18:15:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -200,8 +200,7 @@
         "closeD": "25/09/2026 05:00",
         "verified": false,
         "mmsi": "563169200",
-        "imo": "9771664",
-        "location": "Philippine Sea"
+        "imo": "9771664"
       }
     ],
     "movement": [
