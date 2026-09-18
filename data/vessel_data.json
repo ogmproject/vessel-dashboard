@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-18T10:15:39+00:00",
+  "generated_at": "2026-09-18T10:30:49+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - MYD ZHANGZHOU",
-        "code": "CS2080S / CS2090N",
-        "atb": "17/09/2026 06:00",
-        "etd": "18/09/2026 15:00",
-        "verified": false
-      },
       {
         "name": "I1 - EVER CONSIST",
         "code": "0553-069S / 0553-069N",
@@ -222,6 +215,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MYD ZHANGZHOU",
+        "berth": "17/09/2026 06:00",
+        "dep": "18/09/2026 17:22"
+      },
       {
         "name": "KMTC INCHEON",
         "berth": "17/09/2026 21:00",
