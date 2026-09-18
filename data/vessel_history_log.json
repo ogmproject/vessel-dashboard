@@ -1078,10 +1078,24 @@
     "recorded_at": "2026-09-17T18:30:45.223293"
   },
   {
+    "vessel_name": "SEABREEZE",
+    "terminal": "TL",
+    "arrival": "2026-09-18T03:45:00",
+    "departure": null,
+    "recorded_at": "2026-09-18T06:45:33.745192"
+  },
+  {
     "vessel_name": "EVER CONSIST",
     "terminal": "TPS",
     "arrival": "2026-09-18T08:58:00",
     "departure": null,
     "recorded_at": "2026-09-18T02:15:45.423875"
+  },
+  {
+    "vessel_name": "2636S",
+    "terminal": "TL",
+    "arrival": "2026-09-18T13:40:00",
+    "departure": null,
+    "recorded_at": "2026-09-18T06:45:33.745192"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T06:30:38+00:00",
+  "generated_at": "2026-09-18T06:45:33+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,7 +20,7 @@
         "name": "I2 - CMA CGM FORT JAMES",
         "code": "0XLCHS / 0XLCIN",
         "atb": "17/09/2026 15:32",
-        "etd": "18/09/2026 16:00",
+        "etd": "18/09/2026 14:00",
         "verified": false
       },
       {
@@ -254,6 +254,26 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "2636S",
+        "code": "2636N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "atb": "18/09/2026 13:40",
+        "etd": "19/09/2026 08:00"
+      },
+      {
+        "name": "SEABREEZE",
+        "code": "SEZE002",
+        "voyage": "0002S        / 0002N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "18/09/2026 03:45",
+        "etd": "19/09/2026 23:55",
+        "mmsi": "636021108",
+        "imo": "9472579",
+        "location": "Java Sea"
+      },
+      {
         "name": "4626",
         "code": "4626",
         "carrier": "PT. TEMAS SHIPPING",
@@ -262,16 +282,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "2636S",
-        "code": "2636N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "18/09/2026 13:00",
-        "etd": "19/09/2026 08:00",
-        "openstack": "13/09/2026 10:00",
-        "closeC": "17/09/2026 12:00"
-      },
       {
         "name": "SURABAYA VOYAGER",
         "code": "SUER008",
