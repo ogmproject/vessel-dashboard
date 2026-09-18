@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T02:30:41+00:00",
+  "generated_at": "2026-09-18T02:45:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -262,16 +262,6 @@
     ],
     "schedule": [
       {
-        "name": "2636S",
-        "code": "2636N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "18/09/2026 13:00",
-        "etd": "19/09/2026 08:00",
-        "openstack": "13/09/2026 10:00",
-        "closeC": "17/09/2026 12:00"
-      },
-      {
         "name": "MARINA ATHENA",
         "code": "MAAT010",
         "type": "INTERNATIONAL",
@@ -280,6 +270,16 @@
         "etd": "18/09/2026 07:30",
         "openstack": "13/09/2026 13:00",
         "closeC": "18/09/2026 19:00"
+      },
+      {
+        "name": "2636S",
+        "code": "2636N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "18/09/2026 13:00",
+        "etd": "19/09/2026 08:00",
+        "openstack": "13/09/2026 10:00",
+        "closeC": "17/09/2026 12:00"
       },
       {
         "name": "SURABAYA VOYAGER",
