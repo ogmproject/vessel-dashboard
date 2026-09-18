@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T04:15:33+00:00",
+  "generated_at": "2026-09-18T04:30:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -234,18 +234,6 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "SEABREEZE",
-        "code": "SEZE002",
-        "voyage": "0002S        / 0002N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "18/09/2026 01:15",
-        "etd": "18/09/2026 17:00",
-        "mmsi": "636021108",
-        "imo": "9472579",
-        "location": "Java Sea"
-      },
-      {
         "name": "4626",
         "code": "4626",
         "carrier": "PT. TEMAS SHIPPING",
@@ -283,7 +271,7 @@
         "etb": "19/09/2026 03:00",
         "etd": "20/09/2026 03:00",
         "openstack": "14/09/2026 03:00",
-        "closeC": "18/09/2026 22:00"
+        "closeC": "19/09/2026 16:00"
       },
       {
         "name": "HUA DA 617",
