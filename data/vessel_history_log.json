@@ -1060,8 +1060,8 @@
     "vessel_name": "CMA CGM FORT JAMES",
     "terminal": "TPS",
     "arrival": "2026-09-17T15:32:00",
-    "departure": null,
-    "recorded_at": "2026-09-17T08:45:37.306167"
+    "departure": "2026-09-18T15:06:00",
+    "recorded_at": "2026-09-18T08:15:38.342255"
   },
   {
     "vessel_name": "KMTC INCHEON",
