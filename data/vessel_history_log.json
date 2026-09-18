@@ -1104,5 +1104,12 @@
     "arrival": "2026-09-18T18:25:00",
     "departure": null,
     "recorded_at": "2026-09-18T11:45:53.981768"
+  },
+  {
+    "vessel_name": "KMTC HAIPHONG",
+    "terminal": "TPS",
+    "arrival": "2026-09-19T04:10:00",
+    "departure": null,
+    "recorded_at": "2026-09-18T21:15:43.781255"
   }
 ]
