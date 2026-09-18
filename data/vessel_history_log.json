@@ -1088,8 +1088,8 @@
     "vessel_name": "EVER CONSIST",
     "terminal": "TPS",
     "arrival": "2026-09-18T08:58:00",
-    "departure": null,
-    "recorded_at": "2026-09-18T02:15:45.423875"
+    "departure": "2026-09-18T23:10:00",
+    "recorded_at": "2026-09-18T16:15:39.737051"
   },
   {
     "vessel_name": "2636S",

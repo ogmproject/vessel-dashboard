@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:00:52+00:00",
+  "generated_at": "2026-09-18T16:15:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "80E / 80W",
         "atb": "18/09/2026 18:25",
         "etd": "19/09/2026 13:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - EVER CONSIST",
-        "code": "0553-069S / 0553-069N",
-        "atb": "18/09/2026 08:58",
-        "etd": "18/09/2026 23:00",
         "verified": false
       }
     ],
@@ -212,6 +205,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER CONSIST",
+        "berth": "18/09/2026 08:58",
+        "dep": "18/09/2026 23:10"
+      },
       {
         "name": "MYD ZHANGZHOU",
         "berth": "17/09/2026 06:00",
