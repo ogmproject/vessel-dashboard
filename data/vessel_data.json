@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-18T11:30:42+00:00",
+  "generated_at": "2026-09-18T11:45:53+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - MTT SANDAKAN",
+        "code": "80E / 80W",
+        "atb": "18/09/2026 18:25",
+        "etd": "19/09/2026 23:00",
+        "verified": false
+      },
       {
         "name": "I1 - EVER CONSIST",
         "code": "0553-069S / 0553-069N",
@@ -11,16 +18,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MTT SANDAKAN",
-        "code": "80E / 80W",
-        "eta": "18/09/2026 17:00",
-        "etd": "19/09/2026 23:00",
-        "openstack": "12/09/2026 17:00",
-        "closeC": "17/09/2026 11:00",
-        "closeD": "17/09/2026 14:00",
-        "verified": false
-      },
       {
         "name": "KMTC HAIPHONG",
         "code": "2607S / 2607N",

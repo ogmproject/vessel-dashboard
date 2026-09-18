@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T11:30:42.209969",
+  "generated_at": "2026-09-18T11:45:53.981768",
   "predictions": [
     {
       "vessel_name": "ES TREASURE",
@@ -53,6 +53,17 @@
       "avg_interval_days": 13.6,
       "interval_stddev_days": 3.5,
       "avg_dwelling_hours": 21.5,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "MTT SANDAKAN",
+      "terminal": "TPS",
+      "last_arrival": "2026-09-18T18:25:00",
+      "predicted_next_arrival": "2026-10-07T04:27:30",
+      "avg_interval_days": 18.4,
+      "interval_stddev_days": 4.9,
+      "avg_dwelling_hours": 23.5,
       "visits_recorded": 3,
       "confidence": "medium"
     }
