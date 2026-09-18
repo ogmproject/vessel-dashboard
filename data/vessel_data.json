@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T08:50:41+00:00",
+  "generated_at": "2026-09-18T09:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -262,13 +262,6 @@
         "code": "5726",
         "carrier": "PT. MENTARI MAS MULTIMODA",
         "type": "INTERNATIONAL"
-      },
-      {
-        "name": "4626",
-        "code": "4626",
-        "carrier": "PT. TEMAS SHIPPING",
-        "voyage": "SEABREEZE / SEZE002",
-        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
@@ -336,6 +329,18 @@
       }
     ],
     "departed": [
+      {
+        "name": "SEABREEZE",
+        "code": "SEZE002",
+        "voyage": "0002S        / 0002N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "18/09/2026 01:15",
+        "atd": "18/09/2026 15:50",
+        "mmsi": "636021108",
+        "imo": "9472579",
+        "location": "Java Sea"
+      },
       {
         "name": "ITAL BONUS",
         "code": "ITBO009",
