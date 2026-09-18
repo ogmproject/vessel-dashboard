@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:30:45+00:00",
+  "generated_at": "2026-09-18T15:45:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -270,14 +270,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "2636S",
-        "code": "2636N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "18/09/2026 13:40",
-        "etd": "19/09/2026 08:00"
-      },
       {
         "name": "5726",
         "code": "5726",
