@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-17T23:45:45+00:00",
+  "generated_at": "2026-09-18T00:00:50+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - MYD ZHANGZHOU",
         "code": "CS2080S / CS2090N",
         "atb": "17/09/2026 06:00",
-        "etd": "18/09/2026 08:00",
+        "etd": "18/09/2026 10:00",
         "verified": false
       },
       {
@@ -257,12 +257,11 @@
         "etd": "18/09/2026 08:00"
       },
       {
-        "name": "SEABREEZE",
-        "code": "SEZE002",
-        "type": "INTERNATIONAL",
-        "mmsi": "636021108",
-        "imo": "9472579",
-        "location": "Java Sea"
+        "name": "4626",
+        "code": "4626",
+        "carrier": "PT. TEMAS SHIPPING",
+        "voyage": "SEABREEZE / SEZE002",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "4926",
@@ -274,16 +273,6 @@
     ],
     "schedule": [
       {
-        "name": "MARINA ATHENA",
-        "code": "MAAT010",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "18/09/2026 13:00",
-        "etd": "18/09/2026 07:30",
-        "openstack": "13/09/2026 13:00",
-        "closeC": "18/09/2026 19:00"
-      },
-      {
         "name": "2636S",
         "code": "2636N",
         "type": "INTERNATIONAL",
@@ -292,6 +281,16 @@
         "etd": "19/09/2026 08:00",
         "openstack": "13/09/2026 10:00",
         "closeC": "17/09/2026 12:00"
+      },
+      {
+        "name": "MARINA ATHENA",
+        "code": "MAAT010",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "18/09/2026 13:00",
+        "etd": "18/09/2026 07:30",
+        "openstack": "13/09/2026 13:00",
+        "closeC": "18/09/2026 19:00"
       },
       {
         "name": "SURABAYA VOYAGER",
