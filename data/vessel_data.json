@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-19T07:15:43+00:00",
+  "generated_at": "2026-09-19T07:30:39+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I3 - KMTC HAIPHONG",
         "code": "2607S / 2607N",
         "atb": "19/09/2026 04:10",
-        "etd": "19/09/2026 16:00",
+        "etd": "19/09/2026 16:30",
         "verified": false
       }
     ],
