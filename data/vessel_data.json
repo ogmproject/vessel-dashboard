@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T11:45:33+00:00",
+  "generated_at": "2026-09-19T12:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -8,19 +8,16 @@
         "atb": "19/09/2026 15:55",
         "etd": "20/09/2026 23:59",
         "verified": false
+      },
+      {
+        "name": "I2 - SEASPAN CALICANTO",
+        "code": "635S / 638N",
+        "atb": "19/09/2026 18:50",
+        "etd": "22/09/2026 09:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "SEASPAN CALICANTO",
-        "code": "635S / 638N",
-        "eta": "19/09/2026 17:00",
-        "etd": "22/09/2026 09:00",
-        "openstack": "14/09/2026 23:00",
-        "closeC": "19/09/2026 17:00",
-        "closeD": "19/09/2026 20:00",
-        "verified": false
-      },
       {
         "name": "EVER BLISS",
         "code": "1209-116A / 1209-116A",
