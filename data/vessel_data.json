@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-19T05:00:53+00:00",
+  "generated_at": "2026-09-19T05:15:34+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - MTT SANDAKAN",
         "code": "80E / 80W",
         "atb": "18/09/2026 18:25",
-        "etd": "19/09/2026 12:00",
+        "etd": "19/09/2026 13:00",
         "verified": false
       },
       {
@@ -317,6 +317,17 @@
         "etd": "25/09/2026 08:00",
         "openstack": "19/09/2026 08:00",
         "closeC": "24/09/2026 03:00"
+      },
+      {
+        "name": "COSCO HOUSTON",
+        "code": "COHO052",
+        "voyage": "143S         / 143N",
+        "type": "INTERNATIONAL",
+        "etb": "25/09/2026 20:00",
+        "etd": "26/09/2026 20:00",
+        "openstack": "20/09/2026 20:00",
+        "closeC": "25/09/2026 15:00",
+        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
       }
     ],
     "departed": [
