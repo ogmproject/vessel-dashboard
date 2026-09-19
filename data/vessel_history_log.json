@@ -1132,5 +1132,12 @@
     "arrival": "2026-09-19T18:50:00",
     "departure": null,
     "recorded_at": "2026-09-19T12:00:51.105667"
+  },
+  {
+    "vessel_name": "EVER BLISS",
+    "terminal": "TPS",
+    "arrival": "2026-09-19T21:25:00",
+    "departure": null,
+    "recorded_at": "2026-09-19T14:45:33.722400"
   }
 ]
