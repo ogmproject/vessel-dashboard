@@ -1109,8 +1109,8 @@
     "vessel_name": "KMTC HAIPHONG",
     "terminal": "TPS",
     "arrival": "2026-09-19T04:10:00",
-    "departure": null,
-    "recorded_at": "2026-09-18T21:15:43.781255"
+    "departure": "2026-09-19T17:32:00",
+    "recorded_at": "2026-09-19T11:00:46.563798"
   },
   {
     "vessel_name": "MARINA ATHENA",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:45:39+00:00",
+  "generated_at": "2026-09-19T11:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "0551S / 0551N",
         "atb": "19/09/2026 15:55",
         "etd": "20/09/2026 23:59",
-        "verified": false
-      },
-      {
-        "name": "I3 - KMTC HAIPHONG",
-        "code": "2607S / 2607N",
-        "atb": "19/09/2026 04:10",
-        "etd": "19/09/2026 16:30",
         "verified": false
       }
     ],
@@ -219,6 +212,14 @@
       }
     ],
     "movement": [
+      {
+        "name": "KMTC HAIPHONG",
+        "berth": "19/09/2026 04:10",
+        "dep": "19/09/2026 17:32",
+        "mmsi": "538007503",
+        "imo": "9793806",
+        "location": "Java Sea"
+      },
       {
         "name": "MTT SANDAKAN",
         "berth": "18/09/2026 18:25",
