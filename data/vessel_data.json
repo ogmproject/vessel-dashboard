@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T05:30:42+00:00",
+  "generated_at": "2026-09-19T05:45:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -243,18 +243,23 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "MARINA ATHENA",
         "code": "MAAT010",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "19/09/2026 13:00",
-        "etd": "20/09/2026 06:00",
-        "openstack": "13/09/2026 13:00",
-        "closeC": "18/09/2026 19:00"
+        "atb": "19/09/2026 12:38",
+        "etd": "20/09/2026 06:00"
       },
+      {
+        "name": "MARINA ATHENA",
+        "code": "MAAT010",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE"
+      }
+    ],
+    "schedule": [
       {
         "name": "HUA DA 617",
         "code": "HUD7001",

@@ -1111,5 +1111,12 @@
     "arrival": "2026-09-19T04:10:00",
     "departure": null,
     "recorded_at": "2026-09-18T21:15:43.781255"
+  },
+  {
+    "vessel_name": "MARINA ATHENA",
+    "terminal": "TL",
+    "arrival": "2026-09-19T12:38:00",
+    "departure": null,
+    "recorded_at": "2026-09-19T05:45:35.476471"
   }
 ]
