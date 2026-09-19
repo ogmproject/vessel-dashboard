@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T03:00:45+00:00",
+  "generated_at": "2026-09-19T03:15:33+00:00",
   "tps": {
     "alongside": [
       {
@@ -339,14 +339,6 @@
         "mmsi": "636021108",
         "imo": "9472579",
         "location": "Java Sea"
-      },
-      {
-        "name": "ITAL BONUS",
-        "code": "ITBO009",
-        "voyage": "S125         / N125",
-        "type": "INTERNATIONAL",
-        "atb": "17/09/2026 08:49",
-        "atd": "18/09/2026 10:14"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
