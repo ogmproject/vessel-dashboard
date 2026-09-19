@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:00:46+00:00",
+  "generated_at": "2026-09-19T18:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -258,11 +258,10 @@
         "etd": "20/09/2026 06:00"
       },
       {
-        "name": "VI511RTN",
-        "code": "ATTVI512",
-        "carrier": "PT ALFA TRANS RAYA",
-        "voyage": "MARINA ATHENA / MAAT010",
-        "type": "INTERNATIONAL"
+        "name": "MARINA ATHENA",
+        "code": "MAAT010",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE"
       }
     ],
     "schedule": [
@@ -295,7 +294,7 @@
         "etb": "20/09/2026 08:00",
         "etd": "21/09/2026 11:00",
         "openstack": "15/09/2026 08:00",
-        "closeC": "20/09/2026 03:00"
+        "closeC": "20/09/2026 08:00"
       },
       {
         "name": "XIN YANG PU",
