@@ -1102,8 +1102,8 @@
     "vessel_name": "MTT SANDAKAN",
     "terminal": "TPS",
     "arrival": "2026-09-18T18:25:00",
-    "departure": null,
-    "recorded_at": "2026-09-18T11:45:53.981768"
+    "departure": "2026-09-19T13:20:00",
+    "recorded_at": "2026-09-19T06:30:41.519672"
   },
   {
     "vessel_name": "KMTC HAIPHONG",

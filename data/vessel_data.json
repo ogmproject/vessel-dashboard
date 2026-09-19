@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-19T06:15:39+00:00",
+  "generated_at": "2026-09-19T06:30:41+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - MTT SANDAKAN",
-        "code": "80E / 80W",
-        "atb": "18/09/2026 18:25",
-        "etd": "19/09/2026 13:00",
-        "verified": false
-      },
       {
         "name": "I3 - KMTC HAIPHONG",
         "code": "2607S / 2607N",
@@ -199,6 +192,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MTT SANDAKAN",
+        "berth": "18/09/2026 18:25",
+        "dep": "19/09/2026 13:20"
+      },
       {
         "name": "EVER CONSIST",
         "berth": "18/09/2026 08:58",
