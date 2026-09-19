@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T08:45:34+00:00",
+  "generated_at": "2026-09-19T09:00:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -337,9 +337,9 @@
         "voyage": "288S         / 288N",
         "type": "INTERNATIONAL",
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "etb": "24/09/2026 08:00",
-        "etd": "25/09/2026 08:00",
-        "openstack": "19/09/2026 08:00",
+        "etb": "23/09/2026 10:00",
+        "etd": "24/09/2026 08:30",
+        "openstack": "18/09/2026 10:00",
         "closeC": "24/09/2026 03:00"
       },
       {
@@ -362,18 +362,6 @@
         "carrier": "SEA CONSORTIUM PTE LTD",
         "atb": "18/09/2026 13:40",
         "atd": "19/09/2026 07:33"
-      },
-      {
-        "name": "SEABREEZE",
-        "code": "SEZE002",
-        "voyage": "0002S        / 0002N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "18/09/2026 01:15",
-        "atd": "18/09/2026 15:50",
-        "mmsi": "636021108",
-        "imo": "9472579",
-        "location": "Java Sea"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
