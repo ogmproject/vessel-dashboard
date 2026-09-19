@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T03:30:42+00:00",
+  "generated_at": "2026-09-19T03:45:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -162,7 +162,7 @@
         "verified": false,
         "mmsi": "370700000",
         "imo": "9787015",
-        "location": "South China Sea"
+        "location": "Java Sea"
       },
       {
         "name": "MSC CHERYL 3",
