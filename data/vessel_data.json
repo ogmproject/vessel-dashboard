@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:01:18+00:00",
+  "generated_at": "2026-09-19T10:15:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -49,7 +49,7 @@
         "verified": false,
         "mmsi": "370616000",
         "imo": "9790062",
-        "location": "South China Sea"
+        "location": "Java Sea"
       },
       {
         "name": "SINAR SULAWESI",
