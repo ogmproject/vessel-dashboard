@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:00:46+00:00",
+  "generated_at": "2026-09-19T07:15:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -251,10 +251,11 @@
         "etd": "20/09/2026 06:00"
       },
       {
-        "name": "MARINA ATHENA",
-        "code": "MAAT010",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE"
+        "name": "VI511RTN",
+        "code": "ATTVI512",
+        "carrier": "PT ALFA TRANS RAYA",
+        "voyage": "MARINA ATHENA / MAAT010",
+        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
