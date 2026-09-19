@@ -1118,5 +1118,12 @@
     "arrival": "2026-09-19T12:38:00",
     "departure": null,
     "recorded_at": "2026-09-19T05:45:35.476471"
+  },
+  {
+    "vessel_name": "KOTA MACHAN",
+    "terminal": "TPS",
+    "arrival": "2026-09-19T15:55:00",
+    "departure": null,
+    "recorded_at": "2026-09-19T09:45:36.857427"
   }
 ]

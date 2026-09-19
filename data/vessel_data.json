@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-19T09:00:43+00:00",
+  "generated_at": "2026-09-19T09:45:36+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - KOTA MACHAN",
+        "code": "0551S / 0551N",
+        "atb": "19/09/2026 15:55",
+        "etd": "20/09/2026 23:59",
+        "verified": false
+      },
       {
         "name": "I3 - KMTC HAIPHONG",
         "code": "2607S / 2607N",
@@ -11,16 +18,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "KOTA MACHAN",
-        "code": "0551S / 0551N",
-        "eta": "19/09/2026 14:00",
-        "etd": "20/09/2026 18:00",
-        "openstack": "15/09/2026 00:00",
-        "closeC": "19/09/2026 18:00",
-        "closeD": "19/09/2026 21:00",
-        "verified": false
-      },
       {
         "name": "SEASPAN CALICANTO",
         "code": "635S / 638N",
@@ -185,6 +182,16 @@
         "openstack": "19/09/2026 15:00",
         "closeC": "24/09/2026 09:00",
         "closeD": "24/09/2026 12:00",
+        "verified": false
+      },
+      {
+        "name": "GSL MAMITSA",
+        "code": "020S / 020N",
+        "eta": "25/09/2026 06:00",
+        "etd": "26/09/2026 01:30",
+        "openstack": "20/09/2026 06:00",
+        "closeC": "25/09/2026 00:00",
+        "closeD": "25/09/2026 03:00",
         "verified": false
       },
       {
