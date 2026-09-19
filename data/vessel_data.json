@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T00:30:39+00:00",
+  "generated_at": "2026-09-19T00:46:14+00:00",
   "tps": {
     "alongside": [
       {
@@ -243,14 +243,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "5726",
-        "code": "5726",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "type": "INTERNATIONAL"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "SURABAYA VOYAGER",
@@ -316,6 +309,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "2636S",
+        "code": "2636N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "atb": "18/09/2026 13:40",
+        "atd": "19/09/2026 07:33"
+      },
       {
         "name": "SEABREEZE",
         "code": "SEZE002",
