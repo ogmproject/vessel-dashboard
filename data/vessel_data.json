@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T21:36:49+00:00",
+  "generated_at": "2026-09-19T21:45:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -255,13 +255,14 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "19/09/2026 12:38",
-        "etd": "20/09/2026 06:00"
+        "etd": "20/09/2026 07:00"
       },
       {
-        "name": "MARINA ATHENA",
-        "code": "MAAT010",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE"
+        "name": "2726",
+        "code": "2726",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "MARINA ATHENA / MAAT010",
+        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
