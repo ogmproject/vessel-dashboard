@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T23:00:44+00:00",
+  "generated_at": "2026-09-19T23:15:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -250,12 +250,26 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "SURABAYA VOYAGER",
+        "code": "SUER008",
+        "voyage": "2612S        / 2612N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "atb": "20/09/2026 06:00",
+        "etd": "20/09/2026 19:00"
+      },
+      {
         "name": "MARINA ATHENA",
         "code": "MAAT010",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "19/09/2026 12:38",
         "etd": "20/09/2026 08:00"
+      },
+      {
+        "name": "SURABAYA VOYAGER",
+        "code": "SUER008",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "2726",
@@ -275,17 +289,6 @@
         "etd": "20/09/2026 14:30",
         "openstack": "14/09/2026 14:00",
         "closeC": "19/09/2026 07:00"
-      },
-      {
-        "name": "SURABAYA VOYAGER",
-        "code": "SUER008",
-        "voyage": "2612S        / 2612N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "20/09/2026 03:00",
-        "etd": "20/09/2026 19:00",
-        "openstack": "14/09/2026 03:00",
-        "closeC": "19/09/2026 16:00"
       },
       {
         "name": "MERATUS KARIMUN",
