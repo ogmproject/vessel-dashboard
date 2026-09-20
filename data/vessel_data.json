@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T16:45:32+00:00",
+  "generated_at": "2026-09-20T17:00:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -217,31 +217,6 @@
         "name": "MTT SANDAKAN",
         "berth": "18/09/2026 18:25",
         "dep": "19/09/2026 13:20"
-      },
-      {
-        "name": "EVER CONSIST",
-        "berth": "18/09/2026 08:58",
-        "dep": "18/09/2026 23:10"
-      },
-      {
-        "name": "MYD ZHANGZHOU",
-        "berth": "17/09/2026 06:00",
-        "dep": "18/09/2026 17:22"
-      },
-      {
-        "name": "KMTC INCHEON",
-        "berth": "17/09/2026 21:00",
-        "dep": "18/09/2026 15:35"
-      },
-      {
-        "name": "CMA CGM FORT JAMES",
-        "berth": "17/09/2026 15:32",
-        "dep": "18/09/2026 15:06"
-      },
-      {
-        "name": "TS NAGOYA",
-        "berth": "17/09/2026 05:45",
-        "dep": "18/09/2026 06:34"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
