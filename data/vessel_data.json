@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T03:00:50+00:00",
+  "generated_at": "2026-09-20T03:15:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -279,23 +279,8 @@
         "etd": "20/09/2026 22:00"
       },
       {
-        "name": "MARINA ATHENA",
-        "code": "MAAT010",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "19/09/2026 12:38",
-        "etd": "20/09/2026 09:00"
-      },
-      {
         "name": "SURABAYA VOYAGER",
         "code": "SUER008",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "2726",
-        "code": "2726",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "MARINA ATHENA / MAAT010",
         "type": "INTERNATIONAL"
       }
     ],
@@ -364,7 +349,16 @@
         "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "MARINA ATHENA",
+        "code": "MAAT010",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "19/09/2026 12:38",
+        "atd": "20/09/2026 09:53"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
