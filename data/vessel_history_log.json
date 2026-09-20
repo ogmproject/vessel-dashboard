@@ -1144,8 +1144,8 @@
     "vessel_name": "SURABAYA VOYAGER",
     "terminal": "TL",
     "arrival": "2026-09-20T06:00:00",
-    "departure": null,
-    "recorded_at": "2026-09-19T23:15:34.173189"
+    "departure": "2026-09-21T02:38:00",
+    "recorded_at": "2026-09-20T19:45:34.225959"
   },
   {
     "vessel_name": "MERATUS KARIMUN",

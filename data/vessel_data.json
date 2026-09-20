@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T19:39:25+00:00",
+  "generated_at": "2026-09-20T19:45:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -222,27 +222,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "MERATUS KARIMUN",
-        "code": "MEIU022",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "20/09/2026 14:44",
-        "etd": "21/09/2026 16:00"
-      },
-      {
-        "name": "MERATUS KARIMUN",
-        "code": "MEIU022",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE"
-      },
-      {
-        "name": "SURABAYA VOYAGER",
-        "code": "SUER008",
-        "type": "INTERNATIONAL"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "HUA DA 617",
@@ -321,6 +301,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "SURABAYA VOYAGER",
+        "code": "SUER008",
+        "voyage": "2612S        / 2612N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "atb": "20/09/2026 06:00",
+        "atd": "21/09/2026 02:38"
+      },
       {
         "name": "MARINA ATHENA",
         "code": "MAAT010",
