@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-20T01:30:41+00:00",
+  "generated_at": "2026-09-20T01:45:34+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - KOTA MACHAN",
         "code": "0551S / 0551N",
         "atb": "19/09/2026 15:55",
-        "etd": "20/09/2026 23:59",
+        "etd": "20/09/2026 16:00",
         "verified": false
       },
       {
         "name": "I3 - EVER BLISS",
         "code": "1209-116A / 1209-116A",
         "atb": "19/09/2026 21:25",
-        "etd": "20/09/2026 19:00",
+        "etd": "20/09/2026 18:00",
         "verified": false
       },
       {
         "name": "I2 - SEASPAN CALICANTO",
         "code": "635S / 638N",
         "atb": "19/09/2026 18:50",
-        "etd": "20/09/2026 10:00",
+        "etd": "20/09/2026 10:30",
         "verified": false
       }
     ],
