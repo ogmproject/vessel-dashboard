@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-20T15:45:32+00:00",
+  "generated_at": "2026-09-20T16:00:54+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - ANL KOKODA",
         "code": "1626S / 1626S",
         "atb": "20/09/2026 20:56",
-        "etd": "21/09/2026 11:00",
+        "etd": "21/09/2026 10:00",
         "verified": false
       },
       {
@@ -20,7 +20,7 @@
         "name": "I1 - SINAR SULAWESI",
         "code": "096S / 096N",
         "atb": "20/09/2026 19:27",
-        "etd": "22/09/2026 07:00",
+        "etd": "22/09/2026 10:00",
         "verified": false
       }
     ],
