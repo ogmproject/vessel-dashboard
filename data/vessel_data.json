@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T00:30:47+00:00",
+  "generated_at": "2026-09-20T00:45:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -344,16 +344,7 @@
         "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
       }
     ],
-    "departed": [
-      {
-        "name": "2636S",
-        "code": "2636N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "18/09/2026 13:40",
-        "atd": "19/09/2026 07:33"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
