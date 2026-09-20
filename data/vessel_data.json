@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T09:00:45+00:00",
+  "generated_at": "2026-09-20T09:30:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -15,22 +15,16 @@
         "atb": "19/09/2026 21:25",
         "etd": "20/09/2026 18:00",
         "verified": false
+      },
+      {
+        "name": "I2 - EVER BUILD",
+        "code": "1210-089A / 1210-089A",
+        "atb": "20/09/2026 16:20",
+        "etd": "21/09/2026 08:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "EVER BUILD",
-        "code": "1210-089A / 1210-089A",
-        "eta": "20/09/2026 15:30",
-        "etd": "21/09/2026 08:00",
-        "openstack": "15/09/2026 14:00",
-        "closeC": "20/09/2026 08:00",
-        "closeD": "20/09/2026 11:00",
-        "verified": false,
-        "mmsi": "370616000",
-        "imo": "9790062",
-        "location": "Java Sea"
-      },
       {
         "name": "ANL KOKODA",
         "code": "1626S / 1626S",
