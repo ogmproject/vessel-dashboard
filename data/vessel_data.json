@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:30:39+00:00",
+  "generated_at": "2026-09-20T11:45:33+00:00",
   "tps": {
     "alongside": [
       {
@@ -266,15 +266,6 @@
         "carrier": "PT. MERATUS LINE",
         "atb": "20/09/2026 14:44",
         "etd": "21/09/2026 18:00"
-      },
-      {
-        "name": "SURABAYA VOYAGER",
-        "code": "SUER008",
-        "voyage": "2612S        / 2612N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "atb": "20/09/2026 06:00",
-        "etd": "21/09/2026 00:00"
       },
       {
         "name": "MERATUS KARIMUN",
