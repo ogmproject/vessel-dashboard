@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T16:00:54+00:00",
+  "generated_at": "2026-09-20T16:15:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "1626S / 1626S",
         "atb": "20/09/2026 20:56",
         "etd": "21/09/2026 10:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - MSC AMEERA III",
+        "code": "HV634A / HV634A",
+        "atb": "20/09/2026 23:08",
+        "etd": "21/09/2026 09:00",
         "verified": false
       },
       {
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MSC AMEERA III",
-        "code": "HV634A / HV634A",
-        "eta": "20/09/2026 20:00",
-        "etd": "21/09/2026 09:00",
-        "openstack": "15/09/2026 16:00",
-        "closeC": "20/09/2026 10:00",
-        "closeD": "20/09/2026 13:00",
-        "verified": false
-      },
       {
         "name": "EVER OASIS",
         "code": "0493-092S / 0493-092N",

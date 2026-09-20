@@ -1174,5 +1174,12 @@
     "arrival": "2026-09-20T20:56:00",
     "departure": null,
     "recorded_at": "2026-09-20T14:15:35.553415"
+  },
+  {
+    "vessel_name": "MSC AMEERA III",
+    "terminal": "TPS",
+    "arrival": "2026-09-20T23:08:00",
+    "departure": null,
+    "recorded_at": "2026-09-20T16:15:36.542592"
   }
 ]
