@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T00:15:35+00:00",
+  "generated_at": "2026-09-20T00:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,7 +20,7 @@
         "name": "I2 - SEASPAN CALICANTO",
         "code": "635S / 638N",
         "atb": "19/09/2026 18:50",
-        "etd": "20/09/2026 12:00",
+        "etd": "20/09/2026 10:00",
         "verified": false
       }
     ],
