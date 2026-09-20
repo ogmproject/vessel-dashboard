@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T12:30:37.232768",
+  "generated_at": "2026-09-20T12:45:34.580282",
   "predictions": [
     {
       "vessel_name": "ES TREASURE",
@@ -24,17 +24,6 @@
       "confidence": "high"
     },
     {
-      "vessel_name": "SINAR SULAWESI",
-      "terminal": "TPS",
-      "last_arrival": "2026-09-12T14:20:00",
-      "predicted_next_arrival": "2026-09-21T01:41:40",
-      "avg_interval_days": 8.5,
-      "interval_stddev_days": 1.0,
-      "avg_dwelling_hours": 37.1,
-      "visits_recorded": 4,
-      "confidence": "high"
-    },
-    {
       "vessel_name": "HONG TAI 656",
       "terminal": "TPS",
       "last_arrival": "2026-09-16T16:05:00",
@@ -55,6 +44,17 @@
       "avg_dwelling_hours": 21.5,
       "visits_recorded": 3,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "SINAR SULAWESI",
+      "terminal": "TPS",
+      "last_arrival": "2026-09-20T19:27:00",
+      "predicted_next_arrival": "2026-09-29T05:15:00",
+      "avg_interval_days": 8.4,
+      "interval_stddev_days": 0.9,
+      "avg_dwelling_hours": 37.1,
+      "visits_recorded": 5,
+      "confidence": "high"
     },
     {
       "vessel_name": "MTT SANDAKAN",

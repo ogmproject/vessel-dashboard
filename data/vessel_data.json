@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T12:30:37+00:00",
+  "generated_at": "2026-09-20T12:45:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -15,6 +15,13 @@
         "atb": "20/09/2026 16:20",
         "etd": "21/09/2026 08:00",
         "verified": false
+      },
+      {
+        "name": "I1 - SINAR SULAWESI",
+        "code": "096S / 096N",
+        "atb": "20/09/2026 19:27",
+        "etd": "22/09/2026 07:00",
+        "verified": false
       }
     ],
     "schedule": [
@@ -26,16 +33,6 @@
         "openstack": "15/09/2026 12:00",
         "closeC": "20/09/2026 06:00",
         "closeD": "20/09/2026 09:00",
-        "verified": false
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "code": "096S / 096N",
-        "eta": "20/09/2026 19:00",
-        "etd": "22/09/2026 07:00",
-        "openstack": "15/09/2026 00:01",
-        "closeC": "19/09/2026 18:01",
-        "closeD": "19/09/2026 21:01",
         "verified": false
       },
       {
