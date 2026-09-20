@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-20T14:00:48+00:00",
+  "generated_at": "2026-09-20T14:15:35+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - ANL KOKODA",
+        "code": "1626S / 1626S",
+        "atb": "20/09/2026 20:56",
+        "etd": "21/09/2026 09:00",
+        "verified": false
+      },
       {
         "name": "I2 - EVER BUILD",
         "code": "1210-089A / 1210-089A",
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "ANL KOKODA",
-        "code": "1626S / 1626S",
-        "eta": "20/09/2026 19:00",
-        "etd": "21/09/2026 09:00",
-        "openstack": "15/09/2026 12:00",
-        "closeC": "20/09/2026 06:00",
-        "closeD": "20/09/2026 09:00",
-        "verified": false
-      },
       {
         "name": "MSC AMEERA III",
         "code": "HV634A / HV634A",

@@ -1167,5 +1167,12 @@
     "arrival": "2026-09-20T19:27:00",
     "departure": null,
     "recorded_at": "2026-09-20T12:45:34.580282"
+  },
+  {
+    "vessel_name": "ANL KOKODA",
+    "terminal": "TPS",
+    "arrival": "2026-09-20T20:56:00",
+    "departure": null,
+    "recorded_at": "2026-09-20T14:15:35.553415"
   }
 ]
