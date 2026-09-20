@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T07:45:39+00:00",
+  "generated_at": "2026-09-20T08:00:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "1209-116A / 1209-116A",
         "atb": "19/09/2026 21:25",
         "etd": "20/09/2026 18:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - SEASPAN CALICANTO",
-        "code": "635S / 638N",
-        "atb": "19/09/2026 18:50",
-        "etd": "20/09/2026 10:30",
         "verified": false
       }
     ],
@@ -227,6 +220,11 @@
     ],
     "movement": [
       {
+        "name": "SEASPAN CALICANTO",
+        "berth": "19/09/2026 18:50",
+        "dep": "20/09/2026 14:50"
+      },
+      {
         "name": "KMTC HAIPHONG",
         "berth": "19/09/2026 04:10",
         "dep": "19/09/2026 17:32",
@@ -270,6 +268,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "MERATUS KARIMUN",
+        "code": "MEIU022",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "20/09/2026 14:44",
+        "etd": "21/09/2026 18:00"
+      },
+      {
         "name": "SURABAYA VOYAGER",
         "code": "SUER008",
         "voyage": "2612S        / 2612N",
@@ -277,6 +283,12 @@
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "20/09/2026 06:00",
         "etd": "21/09/2026 00:00"
+      },
+      {
+        "name": "MERATUS KARIMUN",
+        "code": "MEIU022",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE"
       },
       {
         "name": "SURABAYA VOYAGER",
@@ -294,16 +306,6 @@
         "etd": "20/09/2026 14:30",
         "openstack": "14/09/2026 14:00",
         "closeC": "19/09/2026 07:00"
-      },
-      {
-        "name": "MERATUS KARIMUN",
-        "code": "MEIU022",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "20/09/2026 14:00",
-        "etd": "21/09/2026 18:00",
-        "openstack": "15/09/2026 08:00",
-        "closeC": "20/09/2026 08:00"
       },
       {
         "name": "XIN YANG PU",
