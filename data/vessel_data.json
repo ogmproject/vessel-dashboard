@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T00:00:46+00:00",
+  "generated_at": "2026-09-20T00:15:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -264,7 +264,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "19/09/2026 12:38",
-        "etd": "20/09/2026 08:00"
+        "etd": "20/09/2026 09:00"
       },
       {
         "name": "SURABAYA VOYAGER",
