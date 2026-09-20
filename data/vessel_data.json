@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-20T14:30:40+00:00",
+  "generated_at": "2026-09-20T14:45:32+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - ANL KOKODA",
         "code": "1626S / 1626S",
         "atb": "20/09/2026 20:56",
-        "etd": "21/09/2026 09:00",
+        "etd": "21/09/2026 11:00",
         "verified": false
       },
       {
@@ -257,7 +257,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "20/09/2026 14:44",
-        "etd": "21/09/2026 18:00"
+        "etd": "21/09/2026 16:00"
       },
       {
         "name": "MERATUS KARIMUN",
