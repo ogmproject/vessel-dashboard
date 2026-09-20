@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-20T11:15:31+00:00",
+  "generated_at": "2026-09-20T11:30:39+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - KOTA MACHAN",
-        "code": "0551S / 0551N",
-        "atb": "19/09/2026 15:55",
-        "etd": "20/09/2026 17:00",
-        "verified": false
-      },
       {
         "name": "I3 - EVER BLISS",
         "code": "1209-116A / 1209-116A",
@@ -213,6 +206,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "KOTA MACHAN",
+        "berth": "19/09/2026 15:55",
+        "dep": "20/09/2026 18:20"
+      },
       {
         "name": "SEASPAN CALICANTO",
         "berth": "19/09/2026 18:50",
