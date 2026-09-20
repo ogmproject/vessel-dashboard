@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-20T12:45:34+00:00",
+  "generated_at": "2026-09-20T13:00:43+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I3 - EVER BLISS",
-        "code": "1209-116A / 1209-116A",
-        "atb": "19/09/2026 21:25",
-        "etd": "20/09/2026 18:00",
-        "verified": false
-      },
       {
         "name": "I2 - EVER BUILD",
         "code": "1210-089A / 1210-089A",
@@ -203,6 +196,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER BLISS",
+        "berth": "19/09/2026 21:25",
+        "dep": "20/09/2026 19:47"
+      },
       {
         "name": "KOTA MACHAN",
         "berth": "19/09/2026 15:55",
