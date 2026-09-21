@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-21T14:45:36+00:00",
+  "generated_at": "2026-09-21T15:00:51+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - EVER OASIS",
+        "code": "0493-092S / 0493-092N",
+        "atb": "21/09/2026 21:45",
+        "etd": "22/09/2026 16:00",
+        "verified": false
+      },
       {
         "name": "I1 - SINAR SULAWESI",
         "code": "096S / 096N",
@@ -11,16 +18,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER OASIS",
-        "code": "0493-092S / 0493-092N",
-        "eta": "21/09/2026 20:00",
-        "etd": "22/09/2026 16:00",
-        "openstack": "16/09/2026 23:00",
-        "closeC": "21/09/2026 17:00",
-        "closeD": "21/09/2026 20:00",
-        "verified": false
-      },
       {
         "name": "ES TREASURE",
         "code": "637S / 637S",

@@ -1181,5 +1181,12 @@
     "arrival": "2026-09-20T23:08:00",
     "departure": "2026-09-21T18:30:00",
     "recorded_at": "2026-09-21T12:30:48.950931"
+  },
+  {
+    "vessel_name": "EVER OASIS",
+    "terminal": "TPS",
+    "arrival": "2026-09-21T21:45:00",
+    "departure": null,
+    "recorded_at": "2026-09-21T15:00:51.140244"
   }
 ]
