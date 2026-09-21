@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T04:45:32+00:00",
+  "generated_at": "2026-09-21T05:00:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "HV634A / HV634A",
         "atb": "20/09/2026 23:08",
         "etd": "21/09/2026 16:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - EVER BUILD",
-        "code": "1210-089A / 1210-089A",
-        "atb": "20/09/2026 16:20",
-        "etd": "21/09/2026 09:30",
         "verified": false
       },
       {
@@ -200,6 +193,14 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER BUILD",
+        "berth": "20/09/2026 16:20",
+        "dep": "21/09/2026 11:04",
+        "mmsi": "370616000",
+        "imo": "9790062",
+        "location": "Java Sea"
+      },
       {
         "name": "EVER BLISS",
         "berth": "19/09/2026 21:25",
