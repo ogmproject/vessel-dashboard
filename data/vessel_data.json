@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:15:31+00:00",
+  "generated_at": "2026-09-21T03:30:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "HV634A / HV634A",
         "atb": "20/09/2026 23:08",
         "etd": "21/09/2026 16:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - EVER BLISS",
-        "code": "1209-116A / 1209-116A",
-        "atb": "19/09/2026 21:25",
-        "etd": "20/09/2026 18:00",
         "verified": false
       },
       {
@@ -208,6 +201,11 @@
     ],
     "movement": [
       {
+        "name": "EVER BLISS",
+        "berth": "19/09/2026 21:25",
+        "dep": "20/09/2026 19:47"
+      },
+      {
         "name": "KOTA MACHAN",
         "berth": "19/09/2026 15:55",
         "dep": "20/09/2026 18:20"
@@ -269,16 +267,6 @@
         "closeC": "24/09/2026 03:00"
       },
       {
-        "name": "HUA DA 617",
-        "code": "HUD7001",
-        "voyage": "011E         / 012W",
-        "type": "INTERNATIONAL",
-        "etb": "24/09/2026 10:00",
-        "etd": "25/09/2026 13:00",
-        "openstack": "14/09/2026 14:00",
-        "closeC": "19/09/2026 07:00"
-      },
-      {
         "name": "AS CAROLINA",
         "code": "ASRO007",
         "voyage": "348S         / 348N",
@@ -288,6 +276,16 @@
         "etd": "25/09/2026 06:00",
         "openstack": "19/09/2026 08:00",
         "closeC": "24/09/2026 00:00"
+      },
+      {
+        "name": "HUA DA 617",
+        "code": "HUD7001",
+        "voyage": "011E         / 012W",
+        "type": "INTERNATIONAL",
+        "etb": "24/09/2026 10:00",
+        "etd": "25/09/2026 13:00",
+        "openstack": "14/09/2026 14:00",
+        "closeC": "19/09/2026 07:00"
       },
       {
         "name": "COSCO HOUSTON",
