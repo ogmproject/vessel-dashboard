@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T02:45:32+00:00",
+  "generated_at": "2026-09-21T03:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,6 +14,13 @@
         "code": "HV634A / HV634A",
         "atb": "20/09/2026 23:08",
         "etd": "21/09/2026 16:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - EVER BLISS",
+        "code": "1209-116A / 1209-116A",
+        "atb": "19/09/2026 21:25",
+        "etd": "20/09/2026 18:00",
         "verified": false
       },
       {
@@ -191,11 +198,6 @@
     ],
     "movement": [
       {
-        "name": "EVER BLISS",
-        "berth": "19/09/2026 21:25",
-        "dep": "20/09/2026 19:47"
-      },
-      {
         "name": "KOTA MACHAN",
         "berth": "19/09/2026 15:55",
         "dep": "20/09/2026 18:20"
@@ -308,14 +310,6 @@
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "20/09/2026 06:00",
         "atd": "21/09/2026 02:38"
-      },
-      {
-        "name": "MARINA ATHENA",
-        "code": "MAAT010",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "19/09/2026 12:38",
-        "atd": "20/09/2026 09:53"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
