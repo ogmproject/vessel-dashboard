@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T00:30:39+00:00",
+  "generated_at": "2026-09-21T00:45:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -225,22 +225,12 @@
     "alongside": [],
     "schedule": [
       {
-        "name": "HUA DA 617",
-        "code": "HUD7001",
-        "voyage": "011E         / 012W",
-        "type": "INTERNATIONAL",
-        "etb": "19/09/2026 14:00",
-        "etd": "20/09/2026 14:30",
-        "openstack": "14/09/2026 14:00",
-        "closeC": "19/09/2026 07:00"
-      },
-      {
         "name": "XIN YANG PU",
         "code": "XIPU006",
         "voyage": "205E         / 206W",
         "type": "INTERNATIONAL",
         "etb": "22/09/2026 08:00",
-        "etd": "23/09/2026 13:30",
+        "etd": "23/09/2026 07:00",
         "openstack": "17/09/2026 08:00",
         "closeC": "22/09/2026 03:00"
       },
@@ -267,15 +257,35 @@
         "closeC": "24/09/2026 03:00"
       },
       {
+        "name": "HUA DA 617",
+        "code": "HUD7001",
+        "voyage": "011E         / 012W",
+        "type": "INTERNATIONAL",
+        "etb": "24/09/2026 10:00",
+        "etd": "25/09/2026 13:00",
+        "openstack": "14/09/2026 14:00",
+        "closeC": "19/09/2026 07:00"
+      },
+      {
         "name": "AS CAROLINA",
         "code": "ASRO007",
         "voyage": "348S         / 348N",
         "type": "INTERNATIONAL",
         "carrier": "GOLD STAR LINE LTD",
-        "etb": "24/09/2026 08:00",
-        "etd": "25/09/2026 06:30",
+        "etb": "24/09/2026 10:00",
+        "etd": "25/09/2026 06:00",
         "openstack": "19/09/2026 08:00",
         "closeC": "24/09/2026 00:00"
+      },
+      {
+        "name": "COSCO HOUSTON",
+        "code": "COHO052",
+        "voyage": "143S         / 143N",
+        "type": "INTERNATIONAL",
+        "etb": "25/09/2026 08:00",
+        "etd": "26/09/2026 12:00",
+        "openstack": "20/09/2026 20:00",
+        "closeC": "25/09/2026 15:00"
       },
       {
         "name": "MARINA ONE",
@@ -283,21 +293,10 @@
         "voyage": "0003S        / 0003N",
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
-        "etb": "25/09/2026 12:00",
-        "etd": "26/09/2026 11:30",
+        "etb": "25/09/2026 15:00",
+        "etd": "26/09/2026 12:00",
         "openstack": "20/09/2026 12:00",
         "closeC": "25/09/2026 03:00"
-      },
-      {
-        "name": "COSCO HOUSTON",
-        "code": "COHO052",
-        "voyage": "143S         / 143N",
-        "type": "INTERNATIONAL",
-        "etb": "25/09/2026 20:00",
-        "etd": "26/09/2026 20:00",
-        "openstack": "20/09/2026 20:00",
-        "closeC": "25/09/2026 15:00",
-        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
       }
     ],
     "departed": [
