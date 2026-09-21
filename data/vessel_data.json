@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:30:41+00:00",
+  "generated_at": "2026-09-21T21:45:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "0493-092S / 0493-092N",
         "atb": "21/09/2026 21:45",
         "etd": "22/09/2026 16:30",
-        "verified": false
-      },
-      {
-        "name": "I1 - SINAR SULAWESI",
-        "code": "096S / 096N",
-        "atb": "20/09/2026 19:27",
-        "etd": "22/09/2026 04:30",
         "verified": false
       }
     ],
@@ -216,6 +209,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SINAR SULAWESI",
+        "berth": "20/09/2026 19:27",
+        "dep": "22/09/2026 04:22"
+      },
       {
         "name": "MSC AMEERA III",
         "berth": "20/09/2026 23:08",

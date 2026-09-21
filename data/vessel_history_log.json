@@ -1165,8 +1165,8 @@
     "vessel_name": "SINAR SULAWESI",
     "terminal": "TPS",
     "arrival": "2026-09-20T19:27:00",
-    "departure": null,
-    "recorded_at": "2026-09-20T12:45:34.580282"
+    "departure": "2026-09-22T04:22:00",
+    "recorded_at": "2026-09-21T21:45:35.057925"
   },
   {
     "vessel_name": "ANL KOKODA",
