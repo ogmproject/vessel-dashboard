@@ -1151,8 +1151,8 @@
     "vessel_name": "MERATUS KARIMUN",
     "terminal": "TL",
     "arrival": "2026-09-20T14:44:00",
-    "departure": null,
-    "recorded_at": "2026-09-20T08:00:45.741186"
+    "departure": "2026-09-21T14:32:00",
+    "recorded_at": "2026-09-21T07:45:39.719393"
   },
   {
     "vessel_name": "EVER BUILD",

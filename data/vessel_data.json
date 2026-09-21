@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T07:30:43+00:00",
+  "generated_at": "2026-09-21T07:45:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -36,6 +36,16 @@
         "openstack": "14/09/2026 18:00",
         "closeC": "17/09/2026 12:00",
         "closeD": "17/09/2026 15:00",
+        "verified": false
+      },
+      {
+        "name": "TANTO AMAN",
+        "code": "431 / 431",
+        "eta": "22/09/2026 07:21",
+        "etd": "22/09/2026 14:51",
+        "openstack": "22/09/2026 07:20",
+        "closeC": "22/09/2026 01:21",
+        "closeD": "22/09/2026 04:21",
         "verified": false
       },
       {
@@ -316,9 +326,27 @@
         "etd": "26/09/2026 12:00",
         "openstack": "20/09/2026 12:00",
         "closeC": "25/09/2026 03:00"
+      },
+      {
+        "name": "MERATUS KAIMANA",
+        "code": "MEAI026",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "26/09/2026 22:00",
+        "etd": "27/09/2026 12:30",
+        "openstack": "21/09/2026 22:00",
+        "closeC": "25/09/2026 03:00"
       }
     ],
     "departed": [
+      {
+        "name": "MERATUS KARIMUN",
+        "code": "MEIU022",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "20/09/2026 14:44",
+        "atd": "21/09/2026 14:32"
+      },
       {
         "name": "SURABAYA VOYAGER",
         "code": "SUER008",
