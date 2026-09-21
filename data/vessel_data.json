@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T18:00:46+00:00",
+  "generated_at": "2026-09-21T18:15:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -89,6 +89,16 @@
         "openstack": "18/09/2026 00:00",
         "closeC": "22/09/2026 18:00",
         "closeD": "22/09/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "MSC SPARKLE III",
+        "code": "HV635A / HV635A",
+        "eta": "24/09/2026 02:00",
+        "etd": "25/09/2026 08:30",
+        "openstack": "18/09/2026 02:00",
+        "closeC": "22/09/2026 20:00",
+        "closeD": "22/09/2026 23:00",
         "verified": false
       },
       {
@@ -182,6 +192,16 @@
         "openstack": "21/09/2026 23:00",
         "closeC": "26/09/2026 17:00",
         "closeD": "26/09/2026 20:00",
+        "verified": false
+      },
+      {
+        "name": "MSC SPARKLE III",
+        "code": "HV639R / HV639R",
+        "eta": "27/09/2026 02:00",
+        "etd": "28/09/2026 08:30",
+        "openstack": "25/09/2026 02:00",
+        "closeC": "29/09/2026 20:00",
+        "closeD": "29/09/2026 23:00",
         "verified": false
       },
       {
