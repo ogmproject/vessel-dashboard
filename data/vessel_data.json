@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T08:00:48+00:00",
+  "generated_at": "2026-09-21T08:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -112,16 +112,6 @@
         "verified": false
       },
       {
-        "name": "SMOOTH SAILING",
-        "code": "089S / 089N",
-        "eta": "24/09/2026 15:00",
-        "etd": "25/09/2026 00:30",
-        "openstack": "19/09/2026 15:00",
-        "closeC": "24/09/2026 09:00",
-        "closeD": "24/09/2026 12:00",
-        "verified": false
-      },
-      {
         "name": "GSL MAMITSA",
         "code": "020S / 020N",
         "eta": "25/09/2026 08:00",
@@ -157,31 +147,11 @@
       {
         "name": "EVER OPTIMA",
         "code": "0494-050S / 0494-050N",
-        "eta": "25/09/2026 16:00",
-        "etd": "26/09/2026 08:30",
+        "eta": "25/09/2026 14:00",
+        "etd": "26/09/2026 07:00",
         "openstack": "20/09/2026 16:00",
         "closeC": "25/09/2026 10:00",
         "closeD": "25/09/2026 13:00",
-        "verified": false
-      },
-      {
-        "name": "CMA CGM FORT DIAMANT",
-        "code": "0XLCLS / 0XLCMN",
-        "eta": "25/09/2026 18:00",
-        "etd": "27/09/2026 15:30",
-        "openstack": "20/09/2026 18:00",
-        "closeC": "25/09/2026 12:00",
-        "closeD": "25/09/2026 15:00",
-        "verified": false
-      },
-      {
-        "name": "ZHONG GU FU ZHOU",
-        "code": "CHN060S / CHN070N",
-        "eta": "26/09/2026 02:00",
-        "etd": "27/09/2026 04:30",
-        "openstack": "20/09/2026 18:00",
-        "closeC": "25/09/2026 12:00",
-        "closeD": "25/09/2026 15:00",
         "verified": false
       },
       {
@@ -195,6 +165,26 @@
         "verified": false
       },
       {
+        "name": "SMOOTH SAILING",
+        "code": "089S / 089N",
+        "eta": "26/09/2026 09:00",
+        "etd": "26/09/2026 15:00",
+        "openstack": "19/09/2026 15:00",
+        "closeC": "24/09/2026 09:00",
+        "closeD": "24/09/2026 12:00",
+        "verified": false
+      },
+      {
+        "name": "ZHONG GU FU ZHOU",
+        "code": "CHN060S / CHN070N",
+        "eta": "26/09/2026 11:00",
+        "etd": "27/09/2026 13:00",
+        "openstack": "20/09/2026 18:00",
+        "closeC": "25/09/2026 12:00",
+        "closeD": "25/09/2026 15:00",
+        "verified": false
+      },
+      {
         "name": "AS PIA",
         "code": "636S / 639N",
         "eta": "26/09/2026 20:00",
@@ -202,6 +192,16 @@
         "openstack": "21/09/2026 23:00",
         "closeC": "26/09/2026 17:00",
         "closeD": "26/09/2026 20:00",
+        "verified": false
+      },
+      {
+        "name": "CMA CGM FORT DIAMANT",
+        "code": "0XLCLS / 0XLCMN",
+        "eta": "27/09/2026 15:00",
+        "etd": "29/09/2026 02:00",
+        "openstack": "20/09/2026 18:00",
+        "closeC": "25/09/2026 12:00",
+        "closeD": "25/09/2026 15:00",
         "verified": false
       }
     ],
