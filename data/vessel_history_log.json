@@ -1172,8 +1172,8 @@
     "vessel_name": "ANL KOKODA",
     "terminal": "TPS",
     "arrival": "2026-09-20T20:56:00",
-    "departure": null,
-    "recorded_at": "2026-09-20T14:15:35.553415"
+    "departure": "2026-09-21T12:53:00",
+    "recorded_at": "2026-09-21T07:00:47.709967"
   },
   {
     "vessel_name": "MSC AMEERA III",

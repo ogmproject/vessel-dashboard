@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-21T06:45:36+00:00",
+  "generated_at": "2026-09-21T07:00:47+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - ANL KOKODA",
-        "code": "1626S / 1626S",
-        "atb": "20/09/2026 20:56",
-        "etd": "21/09/2026 11:00",
-        "verified": false
-      },
       {
         "name": "I3 - MSC AMEERA III",
         "code": "HV634A / HV634A",
@@ -193,6 +186,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "ANL KOKODA",
+        "berth": "20/09/2026 20:56",
+        "dep": "21/09/2026 12:53"
+      },
       {
         "name": "EVER BUILD",
         "berth": "20/09/2026 16:20",
