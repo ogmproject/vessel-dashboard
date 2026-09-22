@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T01:00:44+00:00",
+  "generated_at": "2026-09-22T01:15:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -286,16 +286,6 @@
         "closeC": "24/09/2026 03:00"
       },
       {
-        "name": "HUA DA 617",
-        "code": "HUD7001",
-        "voyage": "011E         / 012W",
-        "type": "INTERNATIONAL",
-        "etb": "24/09/2026 10:00",
-        "etd": "25/09/2026 13:00",
-        "openstack": "14/09/2026 14:00",
-        "closeC": "22/09/2026 12:00"
-      },
-      {
         "name": "AS CAROLINA",
         "code": "ASRO007",
         "voyage": "348S         / 348N",
@@ -305,6 +295,16 @@
         "etd": "25/09/2026 06:00",
         "openstack": "19/09/2026 08:00",
         "closeC": "24/09/2026 00:00"
+      },
+      {
+        "name": "HUA DA 617",
+        "code": "HUD7001",
+        "voyage": "011E         / 012W",
+        "type": "INTERNATIONAL",
+        "etb": "24/09/2026 10:00",
+        "etd": "25/09/2026 13:00",
+        "openstack": "14/09/2026 14:00",
+        "closeC": "22/09/2026 12:00"
       },
       {
         "name": "COSCO HOUSTON",
@@ -336,6 +336,17 @@
         "etd": "27/09/2026 12:30",
         "openstack": "21/09/2026 22:00",
         "closeC": "25/09/2026 03:00"
+      },
+      {
+        "name": "YM EFFICIENCY",
+        "code": "YMYM070",
+        "voyage": "207S         / 207N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "etb": "28/09/2026 05:00",
+        "etd": "28/09/2026 05:30",
+        "openstack": "23/09/2026 05:00",
+        "closeC": "28/09/2026 00:00"
       }
     ],
     "departed": [
