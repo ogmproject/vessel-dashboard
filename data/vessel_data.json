@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T21:15:33+00:00",
+  "generated_at": "2026-09-22T21:30:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -230,19 +230,23 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "TIANJIN VOYAGER",
         "code": "TIIN018",
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "HEUNG A LINE CO., LTD.",
-        "etb": "23/09/2026 02:00",
-        "etd": "24/09/2026 06:00",
-        "openstack": "18/09/2026 03:00",
-        "closeC": "21/09/2026 06:00"
+        "atb": "23/09/2026 04:20",
+        "etd": "24/09/2026 06:00"
       },
+      {
+        "name": "TIANJIN VOYAGER",
+        "code": "TIIN018",
+        "type": "INTERNATIONAL"
+      }
+    ],
+    "schedule": [
       {
         "name": "XIN BEI LUN",
         "code": "XIBE039",
