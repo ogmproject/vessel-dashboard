@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-22T07:15:33+00:00",
+  "generated_at": "2026-09-22T07:30:41+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - EVER OASIS",
-        "code": "0493-092S / 0493-092N",
-        "atb": "21/09/2026 21:45",
-        "etd": "22/09/2026 14:00",
-        "verified": false
-      },
       {
         "name": "I3 - ES TREASURE",
         "code": "637S / 637S",
@@ -28,8 +21,8 @@
       {
         "name": "SIMAG SHANGHAI",
         "code": "2629S / 2629S",
-        "eta": "22/09/2026 23:00",
-        "etd": "23/09/2026 09:30",
+        "eta": "23/09/2026 00:01",
+        "etd": "23/09/2026 08:00",
         "openstack": "17/09/2026 12:00",
         "closeC": "22/09/2026 06:00",
         "closeD": "22/09/2026 09:00",
@@ -39,20 +32,10 @@
         "name": "THE WHALE SHARK",
         "code": "2426S / 2426S",
         "eta": "23/09/2026 03:00",
-        "etd": "23/09/2026 17:00",
+        "etd": "23/09/2026 22:00",
         "openstack": "16/09/2026 23:00",
         "closeC": "21/09/2026 17:00",
         "closeD": "21/09/2026 20:00",
-        "verified": false
-      },
-      {
-        "name": "SINAR SUNDA",
-        "code": "243S / 243N",
-        "eta": "23/09/2026 10:00",
-        "etd": "24/09/2026 22:00",
-        "openstack": "18/09/2026 08:00",
-        "closeC": "23/09/2026 02:00",
-        "closeD": "23/09/2026 05:00",
         "verified": false
       },
       {
@@ -69,13 +52,13 @@
         "location": "Java Sea"
       },
       {
-        "name": "KOTA JOHAN",
-        "code": "0079E / 0079W",
-        "eta": "23/09/2026 21:00",
-        "etd": "24/09/2026 18:00",
-        "openstack": "18/09/2026 00:00",
-        "closeC": "22/09/2026 18:00",
-        "closeD": "22/09/2026 21:00",
+        "name": "SINAR SUNDA",
+        "code": "243S / 243N",
+        "eta": "23/09/2026 23:00",
+        "etd": "25/09/2026 11:00",
+        "openstack": "18/09/2026 08:00",
+        "closeC": "23/09/2026 02:00",
+        "closeD": "23/09/2026 05:00",
         "verified": false
       },
       {
@@ -89,10 +72,30 @@
         "verified": false
       },
       {
+        "name": "MSC SPARKLE III",
+        "code": "HV639R / HV639R",
+        "eta": "24/09/2026 07:00",
+        "etd": "24/09/2026 21:00",
+        "openstack": "22/09/2026 02:00",
+        "closeC": "26/09/2026 20:00",
+        "closeD": "26/09/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "KOTA JOHAN",
+        "code": "0079E / 0079W",
+        "eta": "24/09/2026 10:00",
+        "etd": "25/09/2026 08:00",
+        "openstack": "18/09/2026 00:00",
+        "closeC": "22/09/2026 18:00",
+        "closeD": "22/09/2026 21:00",
+        "verified": false
+      },
+      {
         "name": "MSC AMEERA III",
         "code": "HV638R / HV638R",
         "eta": "24/09/2026 10:00",
-        "etd": "25/09/2026 02:00",
+        "etd": "25/09/2026 06:00",
         "openstack": "19/09/2026 02:00",
         "closeC": "23/09/2026 20:00",
         "closeD": "23/09/2026 23:00",
@@ -182,16 +185,6 @@
         "verified": false
       },
       {
-        "name": "MSC SPARKLE III",
-        "code": "HV639R / HV639R",
-        "eta": "27/09/2026 02:00",
-        "etd": "28/09/2026 08:30",
-        "openstack": "22/09/2026 02:00",
-        "closeC": "26/09/2026 20:00",
-        "closeD": "26/09/2026 23:00",
-        "verified": false
-      },
-      {
         "name": "CMA CGM FORT DIAMANT",
         "code": "0XLCLS / 0XLCMN",
         "eta": "27/09/2026 15:00",
@@ -203,6 +196,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER OASIS",
+        "berth": "21/09/2026 21:45",
+        "dep": "22/09/2026 13:57"
+      },
       {
         "name": "SINAR SULAWESI",
         "berth": "20/09/2026 19:27",
@@ -280,6 +278,16 @@
         "closeC": "24/09/2026 03:00"
       },
       {
+        "name": "HUA DA 617",
+        "code": "HUD7001",
+        "voyage": "011E         / 012W",
+        "type": "INTERNATIONAL",
+        "etb": "24/09/2026 10:00",
+        "etd": "25/09/2026 13:00",
+        "openstack": "14/09/2026 14:00",
+        "closeC": "23/09/2026 16:00"
+      },
+      {
         "name": "AS CAROLINA",
         "code": "ASRO007",
         "voyage": "348S         / 348N",
@@ -289,16 +297,6 @@
         "etd": "25/09/2026 06:00",
         "openstack": "19/09/2026 08:00",
         "closeC": "24/09/2026 00:00"
-      },
-      {
-        "name": "HUA DA 617",
-        "code": "HUD7001",
-        "voyage": "011E         / 012W",
-        "type": "INTERNATIONAL",
-        "etb": "24/09/2026 10:00",
-        "etd": "25/09/2026 13:00",
-        "openstack": "14/09/2026 14:00",
-        "closeC": "23/09/2026 16:00"
       },
       {
         "name": "COSCO HOUSTON",
@@ -341,6 +339,17 @@
         "etd": "28/09/2026 05:30",
         "openstack": "23/09/2026 05:00",
         "closeC": "28/09/2026 00:00"
+      },
+      {
+        "name": "WAN HAI 373",
+        "code": "WA73009",
+        "voyage": "S029         / N029",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "etb": "28/09/2026 09:00",
+        "etd": "29/09/2026 06:30",
+        "openstack": "23/09/2026 09:00",
+        "closeC": "28/09/2026 04:00"
       }
     ],
     "departed": [
