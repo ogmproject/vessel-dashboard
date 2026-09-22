@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T08:15:33+00:00",
+  "generated_at": "2026-09-22T08:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -256,23 +256,13 @@
     "alongside": [],
     "schedule": [
       {
-        "name": "XIN YANG PU",
-        "code": "XIPU006",
-        "voyage": "205E         / 206W",
-        "type": "INTERNATIONAL",
-        "etb": "22/09/2026 08:00",
-        "etd": "23/09/2026 07:00",
-        "openstack": "17/09/2026 08:00",
-        "closeC": "22/09/2026 16:00"
-      },
-      {
         "name": "TIANJIN VOYAGER",
         "code": "TIIN018",
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "HEUNG A LINE CO., LTD.",
-        "etb": "23/09/2026 03:00",
-        "etd": "24/09/2026 20:30",
+        "etb": "23/09/2026 02:00",
+        "etd": "24/09/2026 06:00",
         "openstack": "18/09/2026 03:00",
         "closeC": "23/09/2026 18:00"
       },
@@ -288,14 +278,14 @@
         "closeC": "24/09/2026 03:00"
       },
       {
-        "name": "HUA DA 617",
-        "code": "HUD7001",
-        "voyage": "011E         / 012W",
+        "name": "XIN YANG PU",
+        "code": "XIPU006",
+        "voyage": "205E         / 206W",
         "type": "INTERNATIONAL",
-        "etb": "24/09/2026 10:00",
-        "etd": "25/09/2026 13:00",
-        "openstack": "14/09/2026 14:00",
-        "closeC": "23/09/2026 16:00"
+        "etb": "24/09/2026 07:00",
+        "etd": "25/09/2026 14:00",
+        "openstack": "17/09/2026 08:00",
+        "closeC": "22/09/2026 16:00"
       },
       {
         "name": "AS CAROLINA",
@@ -307,6 +297,16 @@
         "etd": "25/09/2026 06:00",
         "openstack": "19/09/2026 08:00",
         "closeC": "24/09/2026 00:00"
+      },
+      {
+        "name": "HUA DA 617",
+        "code": "HUD7001",
+        "voyage": "011E         / 012W",
+        "type": "INTERNATIONAL",
+        "etb": "24/09/2026 10:00",
+        "etd": "25/09/2026 13:00",
+        "openstack": "14/09/2026 14:00",
+        "closeC": "23/09/2026 16:00"
       },
       {
         "name": "COSCO HOUSTON",
