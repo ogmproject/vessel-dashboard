@@ -1193,8 +1193,8 @@
     "vessel_name": "TANTO AMAN",
     "terminal": "TPS",
     "arrival": "2026-09-22T09:50:00",
-    "departure": null,
-    "recorded_at": "2026-09-22T03:30:41.906586"
+    "departure": "2026-09-22T20:55:00",
+    "recorded_at": "2026-09-22T14:24:19.568311"
   },
   {
     "vessel_name": "ES TREASURE",
