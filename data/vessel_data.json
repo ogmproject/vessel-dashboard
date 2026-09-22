@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:00:43+00:00",
+  "generated_at": "2026-09-22T22:15:33+00:00",
   "tps": {
     "alongside": [
       {
@@ -238,7 +238,7 @@
         "type": "INTERNATIONAL",
         "carrier": "HEUNG A LINE CO., LTD.",
         "atb": "23/09/2026 04:20",
-        "etd": "24/09/2026 06:00"
+        "etd": "24/09/2026 08:00"
       },
       {
         "name": "TIANJIN VOYAGER",
