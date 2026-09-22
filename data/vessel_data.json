@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-22T17:15:33+00:00",
+  "generated_at": "2026-09-22T17:30:42+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - THE WHALE SHARK",
+        "code": "2426S / 2426S",
+        "atb": "23/09/2026 00:18",
+        "etd": "23/09/2026 22:00",
+        "verified": false
+      },
       {
         "name": "I3 - ES TREASURE",
         "code": "637S / 637S",
@@ -19,16 +26,6 @@
         "openstack": "17/09/2026 12:00",
         "closeC": "22/09/2026 06:00",
         "closeD": "22/09/2026 09:00",
-        "verified": false
-      },
-      {
-        "name": "THE WHALE SHARK",
-        "code": "2426S / 2426S",
-        "eta": "23/09/2026 03:00",
-        "etd": "23/09/2026 22:00",
-        "openstack": "16/09/2026 23:00",
-        "closeC": "21/09/2026 17:00",
-        "closeD": "21/09/2026 20:00",
         "verified": false
       },
       {
