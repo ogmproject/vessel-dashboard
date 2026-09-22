@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:45:34+00:00",
+  "generated_at": "2026-09-22T08:00:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -155,6 +155,16 @@
         "verified": false
       },
       {
+        "name": "EVER CANDID",
+        "code": "0554-090S / 0554-090N",
+        "eta": "26/09/2026 08:00",
+        "etd": "27/09/2026 03:30",
+        "openstack": "21/09/2026 08:00",
+        "closeC": "26/09/2026 02:00",
+        "closeD": "26/09/2026 05:00",
+        "verified": false
+      },
+      {
         "name": "SMOOTH SAILING",
         "code": "089S / 089N",
         "eta": "26/09/2026 09:00",
@@ -261,10 +271,10 @@
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "HEUNG A LINE CO., LTD.",
-        "etb": "23/09/2026 02:00",
-        "etd": "24/09/2026 06:00",
-        "openstack": "17/09/2026 22:00",
-        "closeC": "22/09/2026 23:59"
+        "etb": "23/09/2026 03:00",
+        "etd": "24/09/2026 20:30",
+        "openstack": "18/09/2026 03:00",
+        "closeC": "23/09/2026 18:00"
       },
       {
         "name": "XIN BEI LUN",
