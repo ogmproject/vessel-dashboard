@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:45:50+00:00",
+  "generated_at": "2026-09-22T17:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -231,21 +231,6 @@
         "mmsi": "370616000",
         "imo": "9790062",
         "location": "Java Sea"
-      },
-      {
-        "name": "EVER BLISS",
-        "berth": "19/09/2026 21:25",
-        "dep": "20/09/2026 19:47"
-      },
-      {
-        "name": "KOTA MACHAN",
-        "berth": "19/09/2026 15:55",
-        "dep": "20/09/2026 18:20"
-      },
-      {
-        "name": "SEASPAN CALICANTO",
-        "berth": "19/09/2026 18:50",
-        "dep": "20/09/2026 14:50"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
