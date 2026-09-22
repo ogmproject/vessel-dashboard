@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T06:15:32+00:00",
+  "generated_at": "2026-09-22T06:30:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -263,8 +263,8 @@
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "HEUNG A LINE CO., LTD.",
-        "etb": "22/09/2026 22:00",
-        "etd": "23/09/2026 23:30",
+        "etb": "23/09/2026 02:00",
+        "etd": "24/09/2026 06:00",
         "openstack": "17/09/2026 22:00",
         "closeC": "22/09/2026 23:59"
       },
@@ -280,16 +280,6 @@
         "closeC": "24/09/2026 03:00"
       },
       {
-        "name": "HUA DA 617",
-        "code": "HUD7001",
-        "voyage": "011E         / 012W",
-        "type": "INTERNATIONAL",
-        "etb": "24/09/2026 10:00",
-        "etd": "25/09/2026 13:00",
-        "openstack": "14/09/2026 14:00",
-        "closeC": "23/09/2026 16:00"
-      },
-      {
         "name": "AS CAROLINA",
         "code": "ASRO007",
         "voyage": "348S         / 348N",
@@ -299,6 +289,16 @@
         "etd": "25/09/2026 06:00",
         "openstack": "19/09/2026 08:00",
         "closeC": "24/09/2026 00:00"
+      },
+      {
+        "name": "HUA DA 617",
+        "code": "HUD7001",
+        "voyage": "011E         / 012W",
+        "type": "INTERNATIONAL",
+        "etb": "24/09/2026 10:00",
+        "etd": "25/09/2026 13:00",
+        "openstack": "14/09/2026 14:00",
+        "closeC": "23/09/2026 16:00"
       },
       {
         "name": "COSCO HOUSTON",
