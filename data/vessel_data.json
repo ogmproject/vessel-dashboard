@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T19:30:38+00:00",
+  "generated_at": "2026-09-22T19:45:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -265,6 +265,16 @@
         "closeC": "23/09/2026 18:00"
       },
       {
+        "name": "HUA DA 617",
+        "code": "HUD7001",
+        "voyage": "011E         / 012W",
+        "type": "INTERNATIONAL",
+        "etb": "24/09/2026 10:00",
+        "etd": "25/09/2026 13:00",
+        "openstack": "14/09/2026 14:00",
+        "closeC": "23/09/2026 16:00"
+      },
+      {
         "name": "AS CAROLINA",
         "code": "ASRO007",
         "voyage": "348S         / 348N",
@@ -274,16 +284,6 @@
         "etd": "25/09/2026 06:00",
         "openstack": "19/09/2026 08:00",
         "closeC": "24/09/2026 00:00"
-      },
-      {
-        "name": "HUA DA 617",
-        "code": "HUD7001",
-        "voyage": "011E         / 012W",
-        "type": "INTERNATIONAL",
-        "etb": "24/09/2026 10:00",
-        "etd": "25/09/2026 13:00",
-        "openstack": "14/09/2026 14:00",
-        "closeC": "23/09/2026 16:00"
       },
       {
         "name": "COSCO HOUSTON",
