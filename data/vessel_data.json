@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T08:30:38+00:00",
+  "generated_at": "2026-09-23T08:46:08+00:00",
   "tps": {
     "alongside": [
       {
@@ -42,7 +42,7 @@
         "name": "MSC AMEERA III",
         "code": "HV638R / HV638R",
         "eta": "24/09/2026 10:00",
-        "etd": "25/09/2026 06:00",
+        "etd": "25/09/2026 11:00",
         "openstack": "19/09/2026 02:00",
         "closeC": "23/09/2026 20:00",
         "closeD": "23/09/2026 23:00",
@@ -61,8 +61,8 @@
       {
         "name": "KOTA JOHAN",
         "code": "0079E / 0079W",
-        "eta": "24/09/2026 12:00",
-        "etd": "25/09/2026 14:30",
+        "eta": "24/09/2026 15:00",
+        "etd": "25/09/2026 14:00",
         "openstack": "18/09/2026 00:00",
         "closeC": "22/09/2026 18:00",
         "closeD": "22/09/2026 21:00",
@@ -79,10 +79,20 @@
         "verified": false
       },
       {
+        "name": "EVER OPTIMA",
+        "code": "0494-050S / 0494-050N",
+        "eta": "25/09/2026 13:00",
+        "etd": "26/09/2026 05:00",
+        "openstack": "20/09/2026 16:00",
+        "closeC": "25/09/2026 10:00",
+        "closeD": "25/09/2026 13:00",
+        "verified": false
+      },
+      {
         "name": "MSC CHERYL 3",
         "code": "HC635A / HC637R",
-        "eta": "25/09/2026 10:00",
-        "etd": "26/09/2026 00:01",
+        "eta": "25/09/2026 13:00",
+        "etd": "26/09/2026 06:00",
         "openstack": "19/09/2026 00:00",
         "closeC": "23/09/2026 18:00",
         "closeD": "23/09/2026 21:00",
@@ -91,8 +101,8 @@
       {
         "name": "INTERASIA ENGAGE",
         "code": "S044 / N044",
-        "eta": "25/09/2026 12:00",
-        "etd": "26/09/2026 09:00",
+        "eta": "25/09/2026 16:00",
+        "etd": "26/09/2026 18:00",
         "openstack": "20/09/2026 08:00",
         "closeC": "25/09/2026 02:00",
         "closeD": "25/09/2026 05:00",
@@ -100,16 +110,6 @@
         "mmsi": "563169200",
         "imo": "9771664",
         "location": "Java Sea"
-      },
-      {
-        "name": "EVER OPTIMA",
-        "code": "0494-050S / 0494-050N",
-        "eta": "25/09/2026 14:00",
-        "etd": "26/09/2026 07:00",
-        "openstack": "20/09/2026 16:00",
-        "closeC": "25/09/2026 10:00",
-        "closeD": "25/09/2026 13:00",
-        "verified": false
       },
       {
         "name": "ES TREASURE",
@@ -260,46 +260,36 @@
     ],
     "schedule": [
       {
-        "name": "XIN BEI LUN",
-        "code": "XIBE039",
-        "voyage": "288S         / 288N",
+        "name": "AS CAROLINA",
+        "code": "ASRO007",
+        "voyage": "348S         / 348N",
         "type": "INTERNATIONAL",
-        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "etb": "23/09/2026 10:00",
-        "etd": "24/09/2026 08:30",
-        "openstack": "18/09/2026 10:00",
-        "closeC": "24/09/2026 03:00"
+        "carrier": "GOLD STAR LINE LTD",
+        "etb": "24/09/2026 02:00",
+        "etd": "25/09/2026 00:00",
+        "openstack": "19/09/2026 08:00",
+        "closeC": "24/09/2026 00:00"
       },
       {
         "name": "XIN YANG PU",
         "code": "XIPU006",
         "voyage": "205E         / 206W",
         "type": "INTERNATIONAL",
-        "etb": "24/09/2026 07:00",
-        "etd": "25/09/2026 14:00",
+        "etb": "24/09/2026 10:00",
+        "etd": "25/09/2026 17:00",
         "openstack": "17/09/2026 08:00",
         "closeC": "23/09/2026 18:00"
       },
       {
-        "name": "HUA DA 617",
-        "code": "HUD7001",
-        "voyage": "011E         / 012W",
+        "name": "XIN BEI LUN",
+        "code": "XIBE039",
+        "voyage": "288S         / 288N",
         "type": "INTERNATIONAL",
-        "etb": "24/09/2026 10:00",
-        "etd": "25/09/2026 13:00",
-        "openstack": "14/09/2026 14:00",
-        "closeC": "23/09/2026 16:00"
-      },
-      {
-        "name": "AS CAROLINA",
-        "code": "ASRO007",
-        "voyage": "348S         / 348N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "etb": "24/09/2026 10:00",
-        "etd": "25/09/2026 06:01",
-        "openstack": "19/09/2026 08:00",
-        "closeC": "24/09/2026 00:00"
+        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
+        "etb": "25/09/2026 02:00",
+        "etd": "26/09/2026 01:00",
+        "openstack": "18/09/2026 10:00",
+        "closeC": "24/09/2026 03:00"
       },
       {
         "name": "COSCO HOUSTON",
@@ -321,6 +311,16 @@
         "etd": "26/09/2026 12:00",
         "openstack": "20/09/2026 12:00",
         "closeC": "25/09/2026 03:00"
+      },
+      {
+        "name": "HUA DA 617",
+        "code": "HUD7001",
+        "voyage": "011E         / 012W",
+        "type": "INTERNATIONAL",
+        "etb": "26/09/2026 03:00",
+        "etd": "27/09/2026 06:00",
+        "openstack": "14/09/2026 14:00",
+        "closeC": "23/09/2026 16:00"
       },
       {
         "name": "MERATUS KAIMANA",
@@ -360,10 +360,10 @@
         "voyage": "2638S       /  2638N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "01/10/2026 00:00",
-        "etd": "01/10/2026 00:30",
-        "openstack": "26/09/2026 00:00",
-        "closeC": "30/09/2026 19:00",
+        "etb": "29/10/2026 10:00",
+        "etd": "30/10/2026 11:30",
+        "openstack": "24/10/2026 10:00",
+        "closeC": "29/10/2026 05:00",
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "South China Sea"
