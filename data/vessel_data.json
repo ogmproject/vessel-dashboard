@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T08:15:30+00:00",
+  "generated_at": "2026-09-23T08:30:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -46,6 +46,16 @@
         "openstack": "19/09/2026 02:00",
         "closeC": "23/09/2026 20:00",
         "closeD": "23/09/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "MSC SPARKLE III",
+        "code": "HV639R / HV639R",
+        "eta": "24/09/2026 11:00",
+        "etd": "25/09/2026 00:01",
+        "openstack": "22/09/2026 02:00",
+        "closeC": "26/09/2026 20:00",
+        "closeD": "26/09/2026 23:00",
         "verified": false
       },
       {
@@ -149,16 +159,6 @@
         "openstack": "21/09/2026 23:00",
         "closeC": "26/09/2026 17:00",
         "closeD": "26/09/2026 20:00",
-        "verified": false
-      },
-      {
-        "name": "MSC SPARKLE III",
-        "code": "HV639R / HV639R",
-        "eta": "27/09/2026 07:00",
-        "etd": "28/09/2026 13:30",
-        "openstack": "22/09/2026 02:00",
-        "closeC": "26/09/2026 20:00",
-        "closeD": "26/09/2026 23:00",
         "verified": false
       },
       {
@@ -281,6 +281,16 @@
         "closeC": "23/09/2026 18:00"
       },
       {
+        "name": "HUA DA 617",
+        "code": "HUD7001",
+        "voyage": "011E         / 012W",
+        "type": "INTERNATIONAL",
+        "etb": "24/09/2026 10:00",
+        "etd": "25/09/2026 13:00",
+        "openstack": "14/09/2026 14:00",
+        "closeC": "23/09/2026 16:00"
+      },
+      {
         "name": "AS CAROLINA",
         "code": "ASRO007",
         "voyage": "348S         / 348N",
@@ -290,16 +300,6 @@
         "etd": "25/09/2026 06:01",
         "openstack": "19/09/2026 08:00",
         "closeC": "24/09/2026 00:00"
-      },
-      {
-        "name": "HUA DA 617",
-        "code": "HUD7001",
-        "voyage": "011E         / 012W",
-        "type": "INTERNATIONAL",
-        "etb": "24/09/2026 10:00",
-        "etd": "25/09/2026 13:00",
-        "openstack": "14/09/2026 14:00",
-        "closeC": "23/09/2026 16:00"
       },
       {
         "name": "COSCO HOUSTON",
@@ -353,6 +353,20 @@
         "etd": "29/09/2026 06:30",
         "openstack": "23/09/2026 09:00",
         "closeC": "28/09/2026 04:00"
+      },
+      {
+        "name": "WANTAI",
+        "code": "WANT007",
+        "voyage": "2638S       /  2638N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "01/10/2026 00:00",
+        "etd": "01/10/2026 00:30",
+        "openstack": "26/09/2026 00:00",
+        "closeC": "30/09/2026 19:00",
+        "mmsi": "636024258",
+        "imo": "9168207",
+        "location": "South China Sea"
       }
     ],
     "departed": [],
