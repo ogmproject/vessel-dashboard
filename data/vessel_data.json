@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T07:15:37+00:00",
+  "generated_at": "2026-09-23T07:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -8,22 +8,16 @@
         "atb": "23/09/2026 00:18",
         "etd": "23/09/2026 18:00",
         "verified": false
+      },
+      {
+        "name": "I3 - EVER BOOMY",
+        "code": "1206-093B / 1206-093B",
+        "atb": "23/09/2026 14:15",
+        "etd": "24/09/2026 06:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "EVER BOOMY",
-        "code": "1206-093B / 1206-093B",
-        "eta": "23/09/2026 14:00",
-        "etd": "24/09/2026 06:00",
-        "openstack": "18/09/2026 20:00",
-        "closeC": "23/09/2026 14:00",
-        "closeD": "23/09/2026 17:00",
-        "verified": false,
-        "mmsi": "370700000",
-        "imo": "9787015",
-        "location": "Java Sea"
-      },
       {
         "name": "SINAR SUNDA",
         "code": "243S / 243N",
