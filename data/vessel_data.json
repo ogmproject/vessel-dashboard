@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:45:32+00:00",
+  "generated_at": "2026-09-23T23:00:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -243,15 +243,10 @@
         "etd": "25/09/2026 00:00"
       },
       {
-        "name": "AS CAROLINA",
-        "code": "ASRO007",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "5126",
-        "code": "5126",
-        "carrier": "PT. TEMAS SHIPPING",
-        "voyage": "TIANJIN VOYAGER / TIIN018",
+        "name": "8026",
+        "code": "8026",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "AS CAROLINA / ASRO007",
         "type": "INTERNATIONAL"
       }
     ],
@@ -355,7 +350,17 @@
         "location": "South China Sea"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "TIANJIN VOYAGER",
+        "code": "TIIN018",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "HEUNG A LINE CO., LTD.",
+        "atb": "23/09/2026 04:20",
+        "atd": "24/09/2026 05:39"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
