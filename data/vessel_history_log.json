@@ -1200,8 +1200,8 @@
     "vessel_name": "ES TREASURE",
     "terminal": "TPS",
     "arrival": "2026-09-22T12:35:00",
-    "departure": null,
-    "recorded_at": "2026-09-22T05:45:34.507726"
+    "departure": "2026-09-23T06:48:00",
+    "recorded_at": "2026-09-23T00:00:45.865525"
   },
   {
     "vessel_name": "THE WHALE SHARK",
