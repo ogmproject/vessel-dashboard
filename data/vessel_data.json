@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T16:45:35+00:00",
+  "generated_at": "2026-09-23T17:00:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -8,19 +8,16 @@
         "atb": "23/09/2026 14:15",
         "etd": "24/09/2026 06:00",
         "verified": false
+      },
+      {
+        "name": "I2 - SINAR SUNDA",
+        "code": "243S / 243N",
+        "atb": "23/09/2026 23:30",
+        "etd": "25/09/2026 11:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "SINAR SUNDA",
-        "code": "243S / 243N",
-        "eta": "23/09/2026 23:00",
-        "etd": "25/09/2026 11:00",
-        "openstack": "18/09/2026 08:00",
-        "closeC": "23/09/2026 02:00",
-        "closeD": "23/09/2026 05:00",
-        "verified": false
-      },
       {
         "name": "MSC SPARKLE III",
         "code": "HV635A / HV635A",
@@ -230,24 +227,6 @@
         "name": "SINAR SULAWESI",
         "berth": "20/09/2026 19:27",
         "dep": "22/09/2026 04:22"
-      },
-      {
-        "name": "MSC AMEERA III",
-        "berth": "20/09/2026 23:08",
-        "dep": "21/09/2026 18:30"
-      },
-      {
-        "name": "ANL KOKODA",
-        "berth": "20/09/2026 20:56",
-        "dep": "21/09/2026 12:53"
-      },
-      {
-        "name": "EVER BUILD",
-        "berth": "20/09/2026 16:20",
-        "dep": "21/09/2026 11:04",
-        "mmsi": "370616000",
-        "imo": "9790062",
-        "location": "Java Sea"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
