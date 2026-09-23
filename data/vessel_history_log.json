@@ -1218,6 +1218,13 @@
     "recorded_at": "2026-09-23T06:30:42.759901"
   },
   {
+    "vessel_name": "MERATUS KELIMUTU",
+    "terminal": "TPS",
+    "arrival": "2026-09-23T02:15:00",
+    "departure": "2026-09-23T16:48:00",
+    "recorded_at": "2026-09-23T10:00:48.735477"
+  },
+  {
     "vessel_name": "TIANJIN VOYAGER",
     "terminal": "TL",
     "arrival": "2026-09-23T04:20:00",

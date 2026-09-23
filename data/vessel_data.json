@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:52:48+00:00",
+  "generated_at": "2026-09-23T10:00:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -193,6 +193,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MERATUS KELIMUTU",
+        "berth": "23/09/2026 02:15",
+        "dep": "23/09/2026 16:48"
+      },
       {
         "name": "SIMAG SHANGHAI",
         "berth": "23/09/2026 01:24",
