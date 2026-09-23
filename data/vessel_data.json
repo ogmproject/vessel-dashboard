@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:00:38+00:00",
+  "generated_at": "2026-09-23T21:15:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -233,15 +233,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "TIANJIN VOYAGER",
-        "code": "TIIN018",
-        "voyage": "2608S        / 2608N",
-        "type": "INTERNATIONAL",
-        "carrier": "HEUNG A LINE CO., LTD.",
-        "atb": "23/09/2026 04:20",
-        "etd": "24/09/2026 05:00"
-      },
       {
         "name": "5126",
         "code": "5126",
