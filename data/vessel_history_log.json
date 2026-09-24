@@ -1263,8 +1263,8 @@
     "vessel_name": "MSC SPARKLE III",
     "terminal": "TPS",
     "arrival": "2026-09-24T11:40:00",
-    "departure": null,
-    "recorded_at": "2026-09-24T05:00:44.667346"
+    "departure": "2026-09-24T23:18:00",
+    "recorded_at": "2026-09-24T16:30:38.753443"
   },
   {
     "vessel_name": "MSC AMEERA III",
