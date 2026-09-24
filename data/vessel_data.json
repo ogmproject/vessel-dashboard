@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T09:15:35+00:00",
+  "generated_at": "2026-09-24T09:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "HV635A / HV635A",
         "atb": "24/09/2026 11:40",
         "etd": "24/09/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - MSC AMEERA III",
+        "code": "HV638R / HV638R",
+        "atb": "24/09/2026 16:15",
+        "etd": "25/09/2026 19:00",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MSC AMEERA III",
-        "code": "HV638R / HV638R",
-        "eta": "24/09/2026 10:00",
-        "etd": "25/09/2026 11:00",
-        "openstack": "19/09/2026 02:00",
-        "closeC": "23/09/2026 20:00",
-        "closeD": "23/09/2026 23:00",
-        "verified": false
-      },
       {
         "name": "KOTA JOHAN",
         "code": "0079E / 0079W",
