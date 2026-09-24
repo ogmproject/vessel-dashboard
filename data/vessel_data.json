@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T01:30:41+00:00",
+  "generated_at": "2026-09-24T01:45:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -165,6 +165,16 @@
         "verified": false
       },
       {
+        "name": "SINAR SULAWESI",
+        "code": "097S / 097N",
+        "eta": "29/09/2026 06:00",
+        "etd": "30/09/2026 22:30",
+        "openstack": "24/09/2026 06:00",
+        "closeC": "29/09/2026 00:01",
+        "closeD": "29/09/2026 03:01",
+        "verified": false
+      },
+      {
         "name": "KOTA GANDING",
         "code": "0537S / 0537N",
         "eta": "30/09/2026 00:00",
@@ -172,16 +182,6 @@
         "openstack": "25/09/2026 00:00",
         "closeC": "29/09/2026 18:00",
         "closeD": "29/09/2026 21:00",
-        "verified": false
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "code": "097S / 097N",
-        "eta": "30/09/2026 00:01",
-        "etd": "01/10/2026 16:31",
-        "openstack": "25/09/2026 00:01",
-        "closeC": "29/09/2026 18:01",
-        "closeD": "29/09/2026 21:01",
         "verified": false
       }
     ],
