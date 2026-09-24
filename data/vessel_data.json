@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-24T04:45:39+00:00",
+  "generated_at": "2026-09-24T05:00:44+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - MSC SPARKLE III",
+        "code": "HV635A / HV635A",
+        "atb": "24/09/2026 11:40",
+        "etd": "26/09/2026 08:30",
+        "verified": false
+      },
       {
         "name": "I2 - SINAR SUNDA",
         "code": "243S / 243N",
@@ -16,16 +23,6 @@
         "code": "HV638R / HV638R",
         "eta": "24/09/2026 10:00",
         "etd": "25/09/2026 11:00",
-        "openstack": "19/09/2026 02:00",
-        "closeC": "23/09/2026 20:00",
-        "closeD": "23/09/2026 23:00",
-        "verified": false
-      },
-      {
-        "name": "MSC SPARKLE III",
-        "code": "HV635A / HV635A",
-        "eta": "24/09/2026 11:00",
-        "etd": "26/09/2026 08:30",
         "openstack": "19/09/2026 02:00",
         "closeC": "23/09/2026 20:00",
         "closeD": "23/09/2026 23:00",
