@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T08:45:41+00:00",
+  "generated_at": "2026-09-24T09:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -351,6 +351,17 @@
         "closeC": "28/09/2026 04:00"
       },
       {
+        "name": "HAPPY LUCKY",
+        "code": "HAKY010",
+        "voyage": "2636S        / 2636N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. FORECASTLE INDONESIA",
+        "etb": "30/09/2026 12:00",
+        "etd": "01/10/2026 07:30",
+        "openstack": "25/09/2026 12:00",
+        "closeC": "30/09/2026 07:00"
+      },
+      {
         "name": "WANTAI",
         "code": "WANT007",
         "voyage": "2638S       /  2638N",
@@ -363,17 +374,6 @@
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "South China Sea"
-      },
-      {
-        "name": "HAPPY LUCKY",
-        "code": "HAKY010",
-        "voyage": "2636S        / 2636N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. FORECASTLE INDONESIA",
-        "etb": "04/10/2026 05:00",
-        "etd": "04/10/2026 05:30",
-        "openstack": "29/09/2026 05:00",
-        "closeC": "04/10/2026 00:00"
       }
     ],
     "departed": [
