@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T07:45:37+00:00",
+  "generated_at": "2026-09-24T08:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -282,20 +282,10 @@
         "voyage": "288S         / 288N",
         "type": "INTERNATIONAL",
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "etb": "25/09/2026 02:00",
-        "etd": "26/09/2026 01:00",
+        "etb": "25/09/2026 05:00",
+        "etd": "26/09/2026 11:00",
         "openstack": "18/09/2026 10:00",
         "closeC": "24/09/2026 03:00"
-      },
-      {
-        "name": "COSCO HOUSTON",
-        "code": "COHO052",
-        "voyage": "143S         / 143N",
-        "type": "INTERNATIONAL",
-        "etb": "25/09/2026 08:00",
-        "etd": "26/09/2026 12:00",
-        "openstack": "20/09/2026 20:00",
-        "closeC": "25/09/2026 15:00"
       },
       {
         "name": "MARINA ONE",
@@ -307,6 +297,16 @@
         "etd": "26/09/2026 12:00",
         "openstack": "20/09/2026 12:00",
         "closeC": "25/09/2026 03:00"
+      },
+      {
+        "name": "COSCO HOUSTON",
+        "code": "COHO052",
+        "voyage": "143S         / 143N",
+        "type": "INTERNATIONAL",
+        "etb": "25/09/2026 17:00",
+        "etd": "26/09/2026 21:00",
+        "openstack": "20/09/2026 20:00",
+        "closeC": "25/09/2026 15:00"
       },
       {
         "name": "HUA DA 617",
