@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T14:15:37+00:00",
+  "generated_at": "2026-09-24T14:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -278,8 +278,8 @@
         "voyage": "288S         / 288N",
         "type": "INTERNATIONAL",
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "etb": "25/09/2026 05:00",
-        "etd": "26/09/2026 11:00",
+        "etb": "25/09/2026 07:00",
+        "etd": "26/09/2026 13:00",
         "openstack": "18/09/2026 10:00",
         "closeC": "24/09/2026 03:00"
       },
