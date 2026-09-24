@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T01:45:35+00:00",
+  "generated_at": "2026-09-24T02:00:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -235,6 +235,19 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "XIN YANG PU",
+        "code": "XIPU006",
+        "voyage": "205E         / 206W",
+        "type": "INTERNATIONAL",
+        "atb": "24/09/2026 08:52",
+        "etd": "25/09/2026 15:00"
+      },
+      {
+        "name": "XIN YANG PU",
+        "code": "XIPU006",
+        "type": "INTERNATIONAL"
+      },
+      {
         "name": "8026",
         "code": "8026",
         "carrier": "PT. MENTARI MAS MULTIMODA",
@@ -243,16 +256,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "XIN YANG PU",
-        "code": "XIPU006",
-        "voyage": "205E         / 206W",
-        "type": "INTERNATIONAL",
-        "etb": "24/09/2026 08:00",
-        "etd": "25/09/2026 15:00",
-        "openstack": "17/09/2026 08:00",
-        "closeC": "24/09/2026 00:00"
-      },
       {
         "name": "XIN BEI LUN",
         "code": "XIBE039",
