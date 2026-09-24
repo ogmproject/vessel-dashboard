@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:00:44+00:00",
+  "generated_at": "2026-09-24T05:15:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -179,6 +179,29 @@
         "openstack": "25/09/2026 00:00",
         "closeC": "29/09/2026 18:00",
         "closeD": "29/09/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "MSC MALENA III",
+        "code": "XF638A / XF638R",
+        "eta": "30/09/2026 02:00",
+        "etd": "01/10/2026 08:30",
+        "openstack": "25/09/2026 02:00",
+        "closeC": "29/09/2026 20:00",
+        "closeD": "29/09/2026 23:00",
+        "verified": false,
+        "mmsi": "636020360",
+        "imo": "9203538",
+        "location": "South China Sea"
+      },
+      {
+        "name": "WAN HAI 376",
+        "code": "S034 / N035",
+        "eta": "30/09/2026 08:00",
+        "etd": "01/10/2026 08:30",
+        "openstack": "25/09/2026 08:00",
+        "closeC": "30/09/2026 02:00",
+        "closeD": "30/09/2026 05:00",
         "verified": false
       }
     ],
