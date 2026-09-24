@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T03:00:47+00:00",
+  "generated_at": "2026-09-24T03:15:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -336,10 +336,10 @@
         "voyage": "2638S       /  2638N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "29/10/2026 10:00",
-        "etd": "30/10/2026 11:30",
-        "openstack": "24/10/2026 10:00",
-        "closeC": "29/10/2026 05:00",
+        "etb": "29/09/2026 10:00",
+        "etd": "30/09/2026 07:30",
+        "openstack": "24/09/2026 10:00",
+        "closeC": "30/09/2026 18:00",
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "South China Sea"
