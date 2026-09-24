@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-24T13:30:41+00:00",
+  "generated_at": "2026-09-24T13:45:38+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - MSC SPARKLE III",
         "code": "HV635A / HV635A",
         "atb": "24/09/2026 11:40",
-        "etd": "24/09/2026 23:00",
+        "etd": "24/09/2026 22:30",
         "verified": false
       },
       {
@@ -22,19 +22,16 @@
         "atb": "23/09/2026 23:30",
         "etd": "25/09/2026 11:00",
         "verified": false
+      },
+      {
+        "name": "I1 - KOTA JOHAN",
+        "code": "0079E / 0079W",
+        "atb": "24/09/2026 20:35",
+        "etd": "25/09/2026 20:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "KOTA JOHAN",
-        "code": "0079E / 0079W",
-        "eta": "24/09/2026 19:30",
-        "etd": "25/09/2026 20:00",
-        "openstack": "18/09/2026 00:00",
-        "closeC": "22/09/2026 18:00",
-        "closeD": "22/09/2026 21:00",
-        "verified": false
-      },
       {
         "name": "GSL MAMITSA",
         "code": "020S / 020N",
