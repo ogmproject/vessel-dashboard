@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T19:00:49+00:00",
+  "generated_at": "2026-09-24T19:16:14+00:00",
   "tps": {
     "alongside": [
       {
@@ -247,10 +247,8 @@
         "type": "INTERNATIONAL"
       },
       {
-        "name": "8026",
-        "code": "8026",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "AS CAROLINA / ASRO007",
+        "name": "AS CAROLINA",
+        "code": "ASRO007",
         "type": "INTERNATIONAL"
       }
     ],
