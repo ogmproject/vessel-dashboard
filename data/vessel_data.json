@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:15:34+00:00",
+  "generated_at": "2026-09-24T10:30:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -260,8 +260,10 @@
         "etd": "25/09/2026 15:00"
       },
       {
-        "name": "XIN YANG PU",
-        "code": "XIPU006",
+        "name": "445",
+        "code": "446",
+        "carrier": "PT PBM TANTOKARYA UTAMA",
+        "voyage": "XIN YANG PU / XIPU006",
         "type": "INTERNATIONAL"
       },
       {
