@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:30:40+00:00",
+  "generated_at": "2026-09-24T22:45:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -342,17 +342,7 @@
         "location": "South China Sea"
       }
     ],
-    "departed": [
-      {
-        "name": "TIANJIN VOYAGER",
-        "code": "TIIN018",
-        "voyage": "2608S        / 2608N",
-        "type": "INTERNATIONAL",
-        "carrier": "HEUNG A LINE CO., LTD.",
-        "atb": "23/09/2026 04:20",
-        "atd": "24/09/2026 05:39"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
