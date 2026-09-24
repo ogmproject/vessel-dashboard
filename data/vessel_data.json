@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T16:45:38+00:00",
+  "generated_at": "2026-09-24T17:00:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -225,21 +225,6 @@
         "name": "ES TREASURE",
         "berth": "22/09/2026 12:35",
         "dep": "23/09/2026 06:48"
-      },
-      {
-        "name": "TANTO AMAN",
-        "berth": "22/09/2026 09:50",
-        "dep": "22/09/2026 20:55"
-      },
-      {
-        "name": "EVER OASIS",
-        "berth": "21/09/2026 21:45",
-        "dep": "22/09/2026 13:57"
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "berth": "20/09/2026 19:27",
-        "dep": "22/09/2026 04:22"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
