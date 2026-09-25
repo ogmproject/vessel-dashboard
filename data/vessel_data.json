@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T20:30:41+00:00",
+  "generated_at": "2026-09-25T20:45:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "020S / 020N",
         "atb": "25/09/2026 08:55",
         "etd": "26/09/2026 04:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - ES TREASURE",
+        "code": "638N / 638N",
+        "atb": "26/09/2026 03:20",
+        "etd": "27/09/2026 03:15",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "ES TREASURE",
-        "code": "638N / 638N",
-        "eta": "25/09/2026 21:00",
-        "etd": "27/09/2026 03:15",
-        "openstack": "20/09/2026 18:00",
-        "closeC": "25/09/2026 12:00",
-        "closeD": "25/09/2026 15:00",
-        "verified": false
-      },
       {
         "name": "INTERASIA ENGAGE",
         "code": "S044 / N044",
