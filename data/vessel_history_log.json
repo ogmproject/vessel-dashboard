@@ -1277,8 +1277,8 @@
     "vessel_name": "KOTA JOHAN",
     "terminal": "TPS",
     "arrival": "2026-09-24T20:35:00",
-    "departure": null,
-    "recorded_at": "2026-09-24T13:45:38.940456"
+    "departure": "2026-09-26T01:32:00",
+    "recorded_at": "2026-09-25T18:45:33.974492"
   },
   {
     "vessel_name": "GSL MAMITSA",
