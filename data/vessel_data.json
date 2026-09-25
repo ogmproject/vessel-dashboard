@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-25T23:00:47+00:00",
+  "generated_at": "2026-09-25T23:15:32+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - GSL MAMITSA",
-        "code": "020S / 020N",
-        "atb": "25/09/2026 08:55",
-        "etd": "26/09/2026 04:00",
-        "verified": false
-      },
       {
         "name": "I3 - ES TREASURE",
         "code": "638N / 638N",
@@ -177,6 +170,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "GSL MAMITSA",
+        "berth": "25/09/2026 08:55",
+        "dep": "26/09/2026 05:45"
+      },
       {
         "name": "KOTA JOHAN",
         "berth": "24/09/2026 20:35",

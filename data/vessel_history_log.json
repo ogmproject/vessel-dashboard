@@ -1284,8 +1284,8 @@
     "vessel_name": "GSL MAMITSA",
     "terminal": "TPS",
     "arrival": "2026-09-25T08:55:00",
-    "departure": null,
-    "recorded_at": "2026-09-25T02:15:43.181944"
+    "departure": "2026-09-26T05:45:00",
+    "recorded_at": "2026-09-25T23:15:32.306167"
   },
   {
     "vessel_name": "XIN BEI LUN",
