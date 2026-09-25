@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T13:00:50+00:00",
+  "generated_at": "2026-09-25T13:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,7 +20,7 @@
         "name": "I1 - KOTA JOHAN",
         "code": "0079E / 0079W",
         "atb": "24/09/2026 20:35",
-        "etd": "25/09/2026 23:30",
+        "etd": "26/09/2026 01:00",
         "verified": false
       }
     ],
@@ -168,8 +168,7 @@
         "closeD": "29/09/2026 23:00",
         "verified": false,
         "mmsi": "636020360",
-        "imo": "9203538",
-        "location": "South China Sea"
+        "imo": "9203538"
       },
       {
         "name": "WAN HAI 376",
@@ -338,6 +337,16 @@
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "South China Sea"
+      },
+      {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU007",
+        "voyage": "013S         / 013N",
+        "type": "INTERNATIONAL",
+        "etb": "01/10/2026 00:00",
+        "etd": "02/10/2026 00:00",
+        "openstack": "26/09/2026 00:00",
+        "closeC": "30/09/2026 19:00"
       },
       {
         "name": "KMTC HOCHIMINH",
