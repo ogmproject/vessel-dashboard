@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T01:15:34+00:00",
+  "generated_at": "2026-09-25T01:30:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,7 +20,7 @@
         "name": "I1 - KOTA JOHAN",
         "code": "0079E / 0079W",
         "atb": "24/09/2026 20:35",
-        "etd": "25/09/2026 21:00",
+        "etd": "25/09/2026 23:50",
         "verified": false
       }
     ],
@@ -245,11 +245,6 @@
         "carrier": "PT PBM TANTOKARYA UTAMA",
         "voyage": "XIN YANG PU / XIPU006",
         "type": "INTERNATIONAL"
-      },
-      {
-        "name": "AS CAROLINA",
-        "code": "ASRO007",
-        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
@@ -342,7 +337,17 @@
         "location": "South China Sea"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "AS CAROLINA",
+        "code": "ASRO007",
+        "voyage": "348S         / 348N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "atb": "24/09/2026 05:30",
+        "atd": "25/09/2026 08:14"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
