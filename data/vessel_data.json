@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T10:45:35+00:00",
+  "generated_at": "2026-09-25T11:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,21 +13,21 @@
         "name": "I3 - MSC AMEERA III",
         "code": "HV638R / HV638R",
         "atb": "24/09/2026 16:15",
-        "etd": "25/09/2026 19:00",
+        "etd": "25/09/2026 22:00",
         "verified": false
       },
       {
         "name": "I2 - SINAR SUNDA",
         "code": "243S / 243N",
         "atb": "23/09/2026 23:30",
-        "etd": "25/09/2026 16:00",
+        "etd": "25/09/2026 18:00",
         "verified": false
       },
       {
         "name": "I1 - KOTA JOHAN",
         "code": "0079E / 0079W",
         "atb": "24/09/2026 20:35",
-        "etd": "25/09/2026 21:00",
+        "etd": "25/09/2026 23:30",
         "verified": false
       }
     ],
