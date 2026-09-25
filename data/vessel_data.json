@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:45:36+00:00",
+  "generated_at": "2026-09-25T12:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "HV638R / HV638R",
         "atb": "24/09/2026 16:15",
         "etd": "25/09/2026 22:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - SINAR SUNDA",
-        "code": "243S / 243N",
-        "atb": "23/09/2026 23:30",
-        "etd": "25/09/2026 18:00",
         "verified": false
       },
       {
@@ -210,6 +203,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SINAR SUNDA",
+        "berth": "23/09/2026 23:30",
+        "dep": "25/09/2026 18:40"
+      },
       {
         "name": "MSC SPARKLE III",
         "berth": "24/09/2026 11:40",
