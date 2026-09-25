@@ -1256,8 +1256,8 @@
     "vessel_name": "XIN YANG PU",
     "terminal": "TL",
     "arrival": "2026-09-24T08:52:00",
-    "departure": null,
-    "recorded_at": "2026-09-24T02:00:41.217446"
+    "departure": "2026-09-25T15:15:00",
+    "recorded_at": "2026-09-25T08:30:42.912185"
   },
   {
     "vessel_name": "MSC SPARKLE III",

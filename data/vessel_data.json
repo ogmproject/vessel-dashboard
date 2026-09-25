@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T08:15:36+00:00",
+  "generated_at": "2026-09-25T08:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -258,45 +258,19 @@
         "etd": "26/09/2026 16:00"
       },
       {
-        "name": "XIN YANG PU",
-        "code": "XIPU006",
-        "voyage": "205E         / 206W",
-        "type": "INTERNATIONAL",
-        "atb": "24/09/2026 08:52",
-        "etd": "25/09/2026 15:00"
-      },
-      {
         "name": "XIN BEI LUN",
         "code": "XIBE039",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "445",
-        "code": "446",
-        "carrier": "PT PBM TANTOKARYA UTAMA",
-        "voyage": "XIN YANG PU / XIPU006",
         "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
       {
-        "name": "MARINA ONE",
-        "code": "MAON003",
-        "voyage": "0003S        / 0003N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "etb": "25/09/2026 15:00",
-        "etd": "26/09/2026 12:00",
-        "openstack": "20/09/2026 12:00",
-        "closeC": "25/09/2026 03:00"
-      },
-      {
         "name": "COSCO HOUSTON",
         "code": "COHO052",
         "voyage": "143S         / 143N",
         "type": "INTERNATIONAL",
-        "etb": "25/09/2026 17:00",
-        "etd": "26/09/2026 21:00",
+        "etb": "25/09/2026 18:00",
+        "etd": "26/09/2026 22:00",
         "openstack": "20/09/2026 20:00",
         "closeC": "25/09/2026 15:00"
       },
@@ -305,10 +279,21 @@
         "code": "HUD7001",
         "voyage": "011E         / 012W",
         "type": "INTERNATIONAL",
-        "etb": "26/09/2026 03:00",
-        "etd": "27/09/2026 06:00",
+        "etb": "26/09/2026 18:00",
+        "etd": "28/09/2026 08:00",
         "openstack": "14/09/2026 14:00",
         "closeC": "25/09/2026 00:00"
+      },
+      {
+        "name": "MARINA ONE",
+        "code": "MAON003",
+        "voyage": "0003S        / 0003N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "etb": "27/09/2026 08:00",
+        "etd": "28/09/2026 02:00",
+        "openstack": "20/09/2026 12:00",
+        "closeC": "25/09/2026 03:00"
       },
       {
         "name": "YM EFFICIENCY",
@@ -358,6 +343,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "XIN YANG PU",
+        "code": "XIPU006",
+        "voyage": "205E         / 206W",
+        "type": "INTERNATIONAL",
+        "atb": "24/09/2026 08:52",
+        "atd": "25/09/2026 15:15"
+      },
       {
         "name": "AS CAROLINA",
         "code": "ASRO007",
