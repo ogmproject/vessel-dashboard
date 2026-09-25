@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:30:42+00:00",
+  "generated_at": "2026-09-25T11:45:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -340,6 +340,20 @@
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "South China Sea"
+      },
+      {
+        "name": "KMTC HOCHIMINH",
+        "code": "KMHO011",
+        "voyage": "2609S        / 2609N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "etb": "02/10/2026 03:00",
+        "etd": "03/10/2026 03:00",
+        "openstack": "27/09/2026 03:00",
+        "closeC": "01/10/2026 22:00",
+        "mmsi": "440147000",
+        "imo": "9314923",
+        "location": "Singapore Strait"
       }
     ],
     "departed": [
