@@ -1314,5 +1314,12 @@
     "arrival": "2026-09-26T03:20:00",
     "departure": null,
     "recorded_at": "2026-09-25T20:45:36.717966"
+  },
+  {
+    "vessel_name": "INTERASIA ENGAGE",
+    "terminal": "TPS",
+    "arrival": "2026-09-26T05:20:00",
+    "departure": null,
+    "recorded_at": "2026-09-25T22:45:36.729911"
   }
 ]
