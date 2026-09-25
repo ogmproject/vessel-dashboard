@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:45:36+00:00",
+  "generated_at": "2026-09-25T17:00:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -218,26 +218,6 @@
         "mmsi": "370700000",
         "imo": "9787015",
         "location": "Java Sea"
-      },
-      {
-        "name": "THE WHALE SHARK",
-        "berth": "23/09/2026 00:18",
-        "dep": "23/09/2026 22:30"
-      },
-      {
-        "name": "MERATUS KELIMUTU",
-        "berth": "23/09/2026 02:15",
-        "dep": "23/09/2026 16:48"
-      },
-      {
-        "name": "SIMAG SHANGHAI",
-        "berth": "23/09/2026 01:24",
-        "dep": "23/09/2026 12:57"
-      },
-      {
-        "name": "ES TREASURE",
-        "berth": "22/09/2026 12:35",
-        "dep": "23/09/2026 06:48"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
