@@ -1300,5 +1300,12 @@
     "arrival": "2026-09-26T01:05:00",
     "departure": null,
     "recorded_at": "2026-09-25T18:15:38.154260"
+  },
+  {
+    "vessel_name": "EVER OPTIMA",
+    "terminal": "TPS",
+    "arrival": "2026-09-26T01:15:00",
+    "departure": null,
+    "recorded_at": "2026-09-25T18:30:45.879810"
   }
 ]

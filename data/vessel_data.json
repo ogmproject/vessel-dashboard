@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T18:15:38+00:00",
+  "generated_at": "2026-09-25T18:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "020S / 020N",
         "atb": "25/09/2026 08:55",
         "etd": "26/09/2026 04:00",
+        "verified": false
+      },
+      {
+        "name": "I2 - EVER OPTIMA",
+        "code": "0494-050S / 0494-050N",
+        "atb": "26/09/2026 01:15",
+        "etd": "27/09/2026 04:56",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER OPTIMA",
-        "code": "0494-050S / 0494-050N",
-        "eta": "25/09/2026 18:00",
-        "etd": "26/09/2026 10:00",
-        "openstack": "20/09/2026 16:00",
-        "closeC": "25/09/2026 10:00",
-        "closeD": "25/09/2026 13:00",
-        "verified": false
-      },
       {
         "name": "ES TREASURE",
         "code": "638N / 638N",
@@ -225,14 +222,6 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "COSCO HOUSTON",
-        "code": "COHO052",
-        "voyage": "143S         / 143N",
-        "type": "INTERNATIONAL",
-        "atb": "26/09/2026 01:05",
-        "etd": "26/09/2026 22:00"
-      },
-      {
         "name": "XIN BEI LUN",
         "code": "XIBE039",
         "voyage": "288S         / 288N",
@@ -240,11 +229,6 @@
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
         "atb": "25/09/2026 09:45",
         "etd": "26/09/2026 16:00"
-      },
-      {
-        "name": "COSCO HOUSTON",
-        "code": "COHO052",
-        "type": "INTERNATIONAL"
       },
       {
         "name": "5826",
@@ -255,6 +239,16 @@
       }
     ],
     "schedule": [
+      {
+        "name": "COSCO HOUSTON",
+        "code": "COHO052",
+        "voyage": "143S         / 143N",
+        "type": "INTERNATIONAL",
+        "etb": "25/09/2026 18:00",
+        "etd": "26/09/2026 22:00",
+        "openstack": "20/09/2026 20:00",
+        "closeC": "25/09/2026 15:00"
+      },
       {
         "name": "HUA DA 617",
         "code": "HUD7001",
@@ -309,16 +303,6 @@
         "closeC": "30/09/2026 03:00"
       },
       {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU007",
-        "voyage": "013S         / 013N",
-        "type": "INTERNATIONAL",
-        "etb": "01/10/2026 00:00",
-        "etd": "02/10/2026 00:00",
-        "openstack": "26/09/2026 00:00",
-        "closeC": "30/09/2026 19:00"
-      },
-      {
         "name": "WANTAI",
         "code": "WANT007",
         "voyage": "2638S       /  2638N",
@@ -331,6 +315,16 @@
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "South China Sea"
+      },
+      {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU007",
+        "voyage": "013S         / 013N",
+        "type": "INTERNATIONAL",
+        "etb": "01/10/2026 00:00",
+        "etd": "02/10/2026 00:00",
+        "openstack": "26/09/2026 00:00",
+        "closeC": "30/09/2026 19:00"
       },
       {
         "name": "KMTC HOCHIMINH",
