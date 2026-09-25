@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-25T02:00:45+00:00",
+  "generated_at": "2026-09-25T02:15:43+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - GSL MAMITSA",
+        "code": "020S / 020N",
+        "atb": "25/09/2026 08:55",
+        "etd": "26/09/2026 00:01",
+        "verified": false
+      },
       {
         "name": "I3 - MSC AMEERA III",
         "code": "HV638R / HV638R",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "GSL MAMITSA",
-        "code": "020S / 020N",
-        "eta": "25/09/2026 08:00",
-        "etd": "26/09/2026 00:01",
-        "openstack": "20/09/2026 06:00",
-        "closeC": "25/09/2026 00:00",
-        "closeD": "25/09/2026 03:00",
-        "verified": false
-      },
       {
         "name": "EVER OPTIMA",
         "code": "0494-050S / 0494-050N",

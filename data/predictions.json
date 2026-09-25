@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T02:00:45.295852",
+  "generated_at": "2026-09-25T02:15:43.181944",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -86,6 +86,17 @@
       "avg_interval_days": 20.5,
       "interval_stddev_days": 0.0,
       "avg_dwelling_hours": 11.9,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "GSL MAMITSA",
+      "terminal": "TPS",
+      "last_arrival": "2026-09-25T08:55:00",
+      "predicted_next_arrival": "2026-10-14T22:50:00",
+      "avg_interval_days": 19.6,
+      "interval_stddev_days": 0.8,
+      "avg_dwelling_hours": 19.3,
       "visits_recorded": 3,
       "confidence": "medium"
     }

@@ -1279,5 +1279,12 @@
     "arrival": "2026-09-24T20:35:00",
     "departure": null,
     "recorded_at": "2026-09-24T13:45:38.940456"
+  },
+  {
+    "vessel_name": "GSL MAMITSA",
+    "terminal": "TPS",
+    "arrival": "2026-09-25T08:55:00",
+    "departure": null,
+    "recorded_at": "2026-09-25T02:15:43.181944"
   }
 ]
