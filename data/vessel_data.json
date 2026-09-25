@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T02:46:10+00:00",
+  "generated_at": "2026-09-25T03:00:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -229,12 +229,26 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "XIN BEI LUN",
+        "code": "XIBE039",
+        "voyage": "288S         / 288N",
+        "type": "INTERNATIONAL",
+        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
+        "atb": "25/09/2026 09:45",
+        "etd": "26/09/2026 16:00"
+      },
+      {
         "name": "XIN YANG PU",
         "code": "XIPU006",
         "voyage": "205E         / 206W",
         "type": "INTERNATIONAL",
         "atb": "24/09/2026 08:52",
         "etd": "25/09/2026 15:00"
+      },
+      {
+        "name": "XIN BEI LUN",
+        "code": "XIBE039",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "445",
@@ -245,17 +259,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "XIN BEI LUN",
-        "code": "XIBE039",
-        "voyage": "288S         / 288N",
-        "type": "INTERNATIONAL",
-        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "etb": "25/09/2026 10:00",
-        "etd": "26/09/2026 16:00",
-        "openstack": "18/09/2026 10:00",
-        "closeC": "24/09/2026 03:00"
-      },
       {
         "name": "MARINA ONE",
         "code": "MAON003",

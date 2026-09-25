@@ -1286,5 +1286,12 @@
     "arrival": "2026-09-25T08:55:00",
     "departure": null,
     "recorded_at": "2026-09-25T02:15:43.181944"
+  },
+  {
+    "vessel_name": "XIN BEI LUN",
+    "terminal": "TL",
+    "arrival": "2026-09-25T09:45:00",
+    "departure": null,
+    "recorded_at": "2026-09-25T03:00:41.950822"
   }
 ]
