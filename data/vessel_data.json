@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T13:15:37+00:00",
+  "generated_at": "2026-09-25T13:30:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -168,7 +168,8 @@
         "closeD": "29/09/2026 23:00",
         "verified": false,
         "mmsi": "636020360",
-        "imo": "9203538"
+        "imo": "9203538",
+        "location": "South China Sea"
       },
       {
         "name": "WAN HAI 376",
