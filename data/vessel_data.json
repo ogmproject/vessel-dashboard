@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T07:30:42+00:00",
+  "generated_at": "2026-09-25T07:45:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -96,16 +96,6 @@
         "verified": false
       },
       {
-        "name": "AS PIA",
-        "code": "636S / 639N",
-        "eta": "26/09/2026 20:00",
-        "etd": "27/09/2026 12:00",
-        "openstack": "21/09/2026 23:00",
-        "closeC": "26/09/2026 17:00",
-        "closeD": "26/09/2026 20:00",
-        "verified": false
-      },
-      {
         "name": "ZHONG GU FU ZHOU",
         "code": "CHN060S / CHN070N",
         "eta": "27/09/2026 01:00",
@@ -116,9 +106,19 @@
         "verified": false
       },
       {
+        "name": "AS PIA",
+        "code": "636S / 639N",
+        "eta": "27/09/2026 01:00",
+        "etd": "27/09/2026 16:00",
+        "openstack": "21/09/2026 23:00",
+        "closeC": "26/09/2026 17:00",
+        "closeD": "26/09/2026 20:00",
+        "verified": false
+      },
+      {
         "name": "CMA CGM FORT DIAMANT",
         "code": "0XLCLS / 0XLCMN",
-        "eta": "27/09/2026 14:00",
+        "eta": "27/09/2026 12:00",
         "etd": "28/09/2026 20:00",
         "openstack": "20/09/2026 18:00",
         "closeC": "25/09/2026 12:00",
