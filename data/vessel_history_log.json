@@ -1270,8 +1270,8 @@
     "vessel_name": "MSC AMEERA III",
     "terminal": "TPS",
     "arrival": "2026-09-24T16:15:00",
-    "departure": null,
-    "recorded_at": "2026-09-24T09:30:43.407084"
+    "departure": "2026-09-25T22:30:00",
+    "recorded_at": "2026-09-25T15:45:37.294692"
   },
   {
     "vessel_name": "KOTA JOHAN",
