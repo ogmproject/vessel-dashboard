@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T06:31:01+00:00",
+  "generated_at": "2026-09-25T06:45:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -66,6 +66,16 @@
         "verified": false
       },
       {
+        "name": "SMOOTH SAILING",
+        "code": "089S / 089N",
+        "eta": "26/09/2026 03:00",
+        "etd": "26/09/2026 14:00",
+        "openstack": "19/09/2026 15:00",
+        "closeC": "24/09/2026 09:00",
+        "closeD": "24/09/2026 12:00",
+        "verified": false
+      },
+      {
         "name": "EVER CANDID",
         "code": "0554-090S / 0554-090N",
         "eta": "26/09/2026 04:00",
@@ -73,16 +83,6 @@
         "openstack": "21/09/2026 08:00",
         "closeC": "26/09/2026 02:00",
         "closeD": "26/09/2026 05:00",
-        "verified": false
-      },
-      {
-        "name": "SMOOTH SAILING",
-        "code": "089S / 089N",
-        "eta": "26/09/2026 06:00",
-        "etd": "26/09/2026 18:00",
-        "openstack": "19/09/2026 15:00",
-        "closeC": "24/09/2026 09:00",
-        "closeD": "24/09/2026 12:00",
         "verified": false
       },
       {
