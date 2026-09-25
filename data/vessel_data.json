@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T13:30:43+00:00",
+  "generated_at": "2026-09-25T13:45:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -256,8 +256,10 @@
         "etd": "26/09/2026 16:00"
       },
       {
-        "name": "XIN BEI LUN",
-        "code": "XIBE039",
+        "name": "5826",
+        "code": "5826",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "XIN BEI LUN / XIBE039",
         "type": "INTERNATIONAL"
       }
     ],
