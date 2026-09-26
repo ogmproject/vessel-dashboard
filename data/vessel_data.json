@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T09:00:47+00:00",
+  "generated_at": "2026-09-26T09:15:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -136,7 +136,7 @@
         "verified": false,
         "mmsi": "636020360",
         "imo": "9203538",
-        "location": "South China Sea"
+        "location": "Singapore Strait"
       },
       {
         "name": "KOTA GANDING",
@@ -147,6 +147,19 @@
         "closeC": "29/09/2026 18:00",
         "closeD": "29/09/2026 21:00",
         "verified": false
+      },
+      {
+        "name": "CONTSHIP YEN",
+        "code": "2526S / 2526S",
+        "eta": "01/10/2026 22:00",
+        "etd": "02/10/2026 05:30",
+        "openstack": "26/09/2026 22:00",
+        "closeC": "01/10/2026 16:00",
+        "closeD": "01/10/2026 19:00",
+        "verified": false,
+        "mmsi": "209692000",
+        "imo": "9664263",
+        "location": "Java Sea"
       },
       {
         "name": "KMTC SHANGHAI",
