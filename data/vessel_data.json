@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T09:45:37+00:00",
+  "generated_at": "2026-09-26T10:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -222,24 +222,8 @@
         "etd": "27/09/2026 01:00"
       },
       {
-        "name": "XIN BEI LUN",
-        "code": "XIBE039",
-        "voyage": "288S         / 288N",
-        "type": "INTERNATIONAL",
-        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "atb": "25/09/2026 09:45",
-        "etd": "26/09/2026 16:00"
-      },
-      {
         "name": "COSCO HOUSTON",
         "code": "COHO052",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "5826",
-        "code": "5826",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "XIN BEI LUN / XIBE039",
         "type": "INTERNATIONAL"
       }
     ],
@@ -298,16 +282,6 @@
         "closeC": "30/09/2026 03:00"
       },
       {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU007",
-        "voyage": "013S         / 013N",
-        "type": "INTERNATIONAL",
-        "etb": "01/10/2026 00:00",
-        "etd": "02/10/2026 00:00",
-        "openstack": "26/09/2026 00:00",
-        "closeC": "30/09/2026 19:00"
-      },
-      {
         "name": "WANTAI",
         "code": "WANT007",
         "voyage": "2638S       /  2638N",
@@ -320,6 +294,16 @@
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "South China Sea"
+      },
+      {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU007",
+        "voyage": "013S         / 013N",
+        "type": "INTERNATIONAL",
+        "etb": "01/10/2026 00:00",
+        "etd": "02/10/2026 00:00",
+        "openstack": "26/09/2026 00:00",
+        "closeC": "30/09/2026 19:00"
       },
       {
         "name": "KMTC HOCHIMINH",
@@ -336,7 +320,17 @@
         "location": "Singapore Strait"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "XIN BEI LUN",
+        "code": "XIBE039",
+        "voyage": "288S         / 288N",
+        "type": "INTERNATIONAL",
+        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
+        "atb": "25/09/2026 09:45",
+        "atd": "26/09/2026 16:49"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
