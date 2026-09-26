@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-26T15:45:50+00:00",
+  "generated_at": "2026-09-26T16:00:45+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - SMOOTH SAILING",
-        "code": "089S / 089N",
-        "atb": "26/09/2026 07:05",
-        "etd": "26/09/2026 22:00",
-        "verified": false
-      },
       {
         "name": "I3 - ES TREASURE",
         "code": "638N / 638N",
@@ -168,6 +161,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SMOOTH SAILING",
+        "berth": "26/09/2026 07:05",
+        "dep": "26/09/2026 22:49"
+      },
       {
         "name": "EVER OPTIMA",
         "berth": "26/09/2026 01:15",
