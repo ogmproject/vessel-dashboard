@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-26T12:30:44+00:00",
+  "generated_at": "2026-09-26T12:45:35+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SMOOTH SAILING",
         "code": "089S / 089N",
         "atb": "26/09/2026 07:05",
-        "etd": "26/09/2026 21:00",
+        "etd": "26/09/2026 22:00",
         "verified": false
       },
       {
@@ -214,6 +214,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "HUA DA 617",
+        "code": "HUD7001",
+        "voyage": "011E         / 012W",
+        "type": "INTERNATIONAL",
+        "atb": "26/09/2026 19:23",
+        "etd": "28/09/2026 08:00"
+      },
+      {
         "name": "COSCO HOUSTON",
         "code": "COHO052",
         "voyage": "143S         / 143N",
@@ -222,22 +230,17 @@
         "etd": "27/09/2026 04:00"
       },
       {
+        "name": "HUA DA 617",
+        "code": "HUD7001",
+        "type": "INTERNATIONAL"
+      },
+      {
         "name": "COSCO HOUSTON",
         "code": "COHO052",
         "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
-      {
-        "name": "HUA DA 617",
-        "code": "HUD7001",
-        "voyage": "011E         / 012W",
-        "type": "INTERNATIONAL",
-        "etb": "26/09/2026 18:00",
-        "etd": "28/09/2026 08:00",
-        "openstack": "14/09/2026 14:00",
-        "closeC": "25/09/2026 19:00"
-      },
       {
         "name": "MARINA ONE",
         "code": "MAON003",
@@ -282,6 +285,16 @@
         "closeC": "30/09/2026 03:00"
       },
       {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU007",
+        "voyage": "013S         / 013N",
+        "type": "INTERNATIONAL",
+        "etb": "01/10/2026 00:00",
+        "etd": "02/10/2026 00:00",
+        "openstack": "26/09/2026 00:00",
+        "closeC": "30/09/2026 19:00"
+      },
+      {
         "name": "WANTAI",
         "code": "WANT007",
         "voyage": "2638S       /  2638N",
@@ -294,16 +307,6 @@
         "mmsi": "636024258",
         "imo": "9168207",
         "location": "South China Sea"
-      },
-      {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU007",
-        "voyage": "013S         / 013N",
-        "type": "INTERNATIONAL",
-        "etb": "01/10/2026 00:00",
-        "etd": "02/10/2026 00:00",
-        "openstack": "26/09/2026 00:00",
-        "closeC": "30/09/2026 19:00"
       },
       {
         "name": "KMTC HOCHIMINH",
