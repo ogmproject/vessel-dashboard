@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-26T00:01:18+00:00",
+  "generated_at": "2026-09-26T00:15:38+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - SMOOTH SAILING",
+        "code": "089S / 089N",
+        "atb": "26/09/2026 07:05",
+        "etd": "26/09/2026 14:00",
+        "verified": false
+      },
       {
         "name": "I3 - ES TREASURE",
         "code": "638N / 638N",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SMOOTH SAILING",
-        "code": "089S / 089N",
-        "eta": "26/09/2026 03:00",
-        "etd": "26/09/2026 14:00",
-        "openstack": "19/09/2026 15:00",
-        "closeC": "24/09/2026 09:00",
-        "closeD": "24/09/2026 12:00",
-        "verified": false
-      },
       {
         "name": "EVER CANDID",
         "code": "0554-090S / 0554-090N",
