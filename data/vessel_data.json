@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T15:30:41+00:00",
+  "generated_at": "2026-09-26T15:45:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -132,8 +132,7 @@
         "closeD": "29/09/2026 23:00",
         "verified": false,
         "mmsi": "636020360",
-        "imo": "9203538",
-        "location": "Singapore Strait"
+        "imo": "9203538"
       },
       {
         "name": "KOTA GANDING",
@@ -155,8 +154,7 @@
         "closeD": "01/10/2026 19:00",
         "verified": false,
         "mmsi": "209692000",
-        "imo": "9664263",
-        "location": "Java Sea"
+        "imo": "9664263"
       },
       {
         "name": "KMTC SHANGHAI",
@@ -205,8 +203,7 @@
         "berth": "23/09/2026 14:15",
         "dep": "24/09/2026 07:40",
         "mmsi": "370700000",
-        "imo": "9787015",
-        "location": "Java Sea"
+        "imo": "9787015"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
@@ -305,8 +302,7 @@
         "openstack": "26/09/2026 00:00",
         "closeC": "30/09/2026 18:00",
         "mmsi": "636024258",
-        "imo": "9168207",
-        "location": "South China Sea"
+        "imo": "9168207"
       },
       {
         "name": "KMTC HOCHIMINH",
@@ -319,8 +315,7 @@
         "openstack": "27/09/2026 03:00",
         "closeC": "01/10/2026 22:00",
         "mmsi": "440147000",
-        "imo": "9314923",
-        "location": "Singapore Strait"
+        "imo": "9314923"
       }
     ],
     "departed": [
