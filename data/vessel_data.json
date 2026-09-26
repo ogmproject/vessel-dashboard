@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T22:00:48+00:00",
+  "generated_at": "2026-09-26T22:15:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -90,6 +90,16 @@
         "openstack": "24/09/2026 06:00",
         "closeC": "29/09/2026 00:01",
         "closeD": "29/09/2026 03:01",
+        "verified": false
+      },
+      {
+        "name": "MSC KERRY VII",
+        "code": "XI639A / XI639R",
+        "eta": "30/09/2026 02:00",
+        "etd": "02/10/2026 03:30",
+        "openstack": "25/09/2026 02:00",
+        "closeC": "29/09/2026 20:00",
+        "closeD": "29/09/2026 23:00",
         "verified": false
       },
       {
