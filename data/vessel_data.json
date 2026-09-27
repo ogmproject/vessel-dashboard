@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T04:30:37+00:00",
+  "generated_at": "2026-09-27T04:45:31+00:00",
   "tps": {
     "alongside": [
       {
@@ -204,6 +204,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "MARINA ONE",
+        "code": "MAON003",
+        "voyage": "0003S        / 0003N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "27/09/2026 11:00",
+        "etd": "28/09/2026 06:00"
+      },
+      {
         "name": "HUA DA 617",
         "code": "HUD7001",
         "voyage": "011E         / 012W",
@@ -212,23 +221,17 @@
         "etd": "28/09/2026 16:00"
       },
       {
+        "name": "MARINA ONE",
+        "code": "MAON003",
+        "type": "INTERNATIONAL"
+      },
+      {
         "name": "HUA DA 617",
         "code": "HUD7001",
         "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
-      {
-        "name": "MARINA ONE",
-        "code": "MAON003",
-        "voyage": "0003S        / 0003N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "etb": "27/09/2026 13:00",
-        "etd": "28/09/2026 07:00",
-        "openstack": "20/09/2026 12:00",
-        "closeC": "27/09/2026 05:00"
-      },
       {
         "name": "YM EFFICIENCY",
         "code": "YMYM070",
@@ -246,8 +249,8 @@
         "voyage": "S029         / N029",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "28/09/2026 09:00",
-        "etd": "29/09/2026 09:00",
+        "etb": "28/09/2026 08:00",
+        "etd": "29/09/2026 08:00",
         "openstack": "23/09/2026 09:00",
         "closeC": "28/09/2026 04:00"
       },
