@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T23:00:42+00:00",
+  "generated_at": "2026-09-27T23:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -196,14 +196,6 @@
         "carrier": "HMM CO.,LTD",
         "atb": "27/09/2026 11:00",
         "etd": "28/09/2026 13:00"
-      },
-      {
-        "name": "HUA DA 617",
-        "code": "HUD7001",
-        "voyage": "011E         / 012W",
-        "type": "INTERNATIONAL",
-        "atb": "26/09/2026 19:23",
-        "etd": "28/09/2026 16:00"
       },
       {
         "name": "MARINA ONE",
