@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T05:00:41+00:00",
+  "generated_at": "2026-09-27T05:15:31+00:00",
   "tps": {
     "alongside": [
       {
@@ -210,7 +210,7 @@
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
         "atb": "27/09/2026 11:00",
-        "etd": "28/09/2026 06:00"
+        "etd": "28/09/2026 05:00"
       },
       {
         "name": "HUA DA 617",
@@ -249,8 +249,8 @@
         "voyage": "S029         / N029",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "28/09/2026 08:00",
-        "etd": "29/09/2026 08:00",
+        "etb": "28/09/2026 07:00",
+        "etd": "29/09/2026 07:00",
         "openstack": "23/09/2026 09:00",
         "closeC": "28/09/2026 04:00"
       },
