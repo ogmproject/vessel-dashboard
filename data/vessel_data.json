@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T03:15:31+00:00",
+  "generated_at": "2026-09-27T03:30:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -215,11 +215,6 @@
         "name": "HUA DA 617",
         "code": "HUD7001",
         "type": "INTERNATIONAL"
-      },
-      {
-        "name": "COSCO HOUSTON",
-        "code": "COHO052",
-        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
@@ -304,6 +299,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "COSCO HOUSTON",
+        "code": "COHO052",
+        "voyage": "143S         / 143N",
+        "type": "INTERNATIONAL",
+        "atb": "26/09/2026 01:05",
+        "atd": "27/09/2026 10:10"
+      },
       {
         "name": "XIN BEI LUN",
         "code": "XIBE039",
