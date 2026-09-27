@@ -1333,8 +1333,8 @@
     "vessel_name": "EVER CANDID",
     "terminal": "TPS",
     "arrival": "2026-09-26T16:25:00",
-    "departure": null,
-    "recorded_at": "2026-09-26T09:45:37.862327"
+    "departure": "2026-09-27T16:10:00",
+    "recorded_at": "2026-09-27T09:15:36.604998"
   },
   {
     "vessel_name": "HUA DA 617",
