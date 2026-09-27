@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:30:41+00:00",
+  "generated_at": "2026-09-27T09:45:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -231,17 +231,6 @@
     ],
     "schedule": [
       {
-        "name": "YM EFFICIENCY",
-        "code": "YMYM070",
-        "voyage": "207S         / 207N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "28/09/2026 05:00",
-        "etd": "29/09/2026 03:00",
-        "openstack": "23/09/2026 05:00",
-        "closeC": "28/09/2026 00:00"
-      },
-      {
         "name": "WAN HAI 373",
         "code": "WA73009",
         "voyage": "S029         / N029",
@@ -251,6 +240,17 @@
         "etd": "29/09/2026 07:00",
         "openstack": "23/09/2026 09:00",
         "closeC": "28/09/2026 04:00"
+      },
+      {
+        "name": "YM EFFICIENCY",
+        "code": "YMYM070",
+        "voyage": "207S         / 207N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "etb": "29/09/2026 10:00",
+        "etd": "30/09/2026 12:00",
+        "openstack": "23/09/2026 05:00",
+        "closeC": "28/09/2026 00:00"
       },
       {
         "name": "MERATUS KARIMUN",
