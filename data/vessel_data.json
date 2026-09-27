@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:45:32+00:00",
+  "generated_at": "2026-09-27T10:00:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -307,15 +307,6 @@
         "type": "INTERNATIONAL",
         "atb": "26/09/2026 01:05",
         "atd": "27/09/2026 10:10"
-      },
-      {
-        "name": "XIN BEI LUN",
-        "code": "XIBE039",
-        "voyage": "288S         / 288N",
-        "type": "INTERNATIONAL",
-        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "atb": "25/09/2026 09:45",
-        "atd": "26/09/2026 16:49"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
