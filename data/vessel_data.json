@@ -1,33 +1,30 @@
 {
-  "generated_at": "2026-09-27T16:00:42+00:00",
+  "generated_at": "2026-09-27T16:15:36+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - ZHONG GU FU ZHOU",
+        "code": "CHN060S / CHN070N",
+        "atb": "27/09/2026 23:05",
+        "etd": "28/09/2026 23:50",
+        "verified": false
+      },
       {
         "name": "I3 - ES TREASURE",
         "code": "638N / 638N",
         "atb": "26/09/2026 03:20",
-        "etd": "27/09/2026 22:00",
+        "etd": "27/09/2026 23:00",
         "verified": false
       },
       {
         "name": "I2 - AS PIA",
         "code": "636S / 639N",
         "atb": "27/09/2026 18:20",
-        "etd": "28/09/2026 12:00",
+        "etd": "28/09/2026 08:00",
         "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "ZHONG GU FU ZHOU",
-        "code": "CHN060S / CHN070N",
-        "eta": "27/09/2026 07:00",
-        "etd": "28/09/2026 23:50",
-        "openstack": "20/09/2026 18:00",
-        "closeC": "25/09/2026 12:00",
-        "closeD": "25/09/2026 15:00",
-        "verified": false
-      },
       {
         "name": "MSC SPARKLE III",
         "code": "HV639R / HV639R",
