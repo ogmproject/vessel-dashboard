@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-27T12:00:42+00:00",
+  "generated_at": "2026-09-27T12:15:34+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - MSC CHERYL 3",
-        "code": "HC635A / HC637R",
-        "atb": "27/09/2026 03:40",
-        "etd": "27/09/2026 16:00",
-        "verified": false
-      },
       {
         "name": "I3 - ES TREASURE",
         "code": "638N / 638N",
@@ -151,6 +144,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MSC CHERYL 3",
+        "berth": "27/09/2026 03:40",
+        "dep": "27/09/2026 18:50"
+      },
       {
         "name": "EVER CANDID",
         "berth": "26/09/2026 16:25",

@@ -1347,8 +1347,8 @@
     "vessel_name": "MSC CHERYL 3",
     "terminal": "TPS",
     "arrival": "2026-09-27T03:40:00",
-    "departure": null,
-    "recorded_at": "2026-09-26T21:00:42.753869"
+    "departure": "2026-09-27T18:50:00",
+    "recorded_at": "2026-09-27T12:15:34.779131"
   },
   {
     "vessel_name": "MARINA ONE",
