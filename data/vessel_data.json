@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T17:45:36+00:00",
+  "generated_at": "2026-09-27T18:00:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -121,6 +121,16 @@
         "verified": false,
         "mmsi": "209692000",
         "imo": "9664263"
+      },
+      {
+        "name": "HONG TAI 656",
+        "code": "639N / 639N",
+        "eta": "04/10/2026 09:00",
+        "etd": "06/10/2026 17:30",
+        "openstack": "29/09/2026 09:00",
+        "closeC": "04/10/2026 18:00",
+        "closeD": "04/10/2026 21:00",
+        "verified": false
       },
       {
         "name": "KMTC SHANGHAI",
