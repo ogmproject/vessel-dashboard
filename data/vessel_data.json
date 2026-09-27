@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T19:45:36+00:00",
+  "generated_at": "2026-09-27T20:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "CHN060S / CHN070N",
         "atb": "27/09/2026 23:05",
         "etd": "28/09/2026 23:50",
+        "verified": false
+      },
+      {
+        "name": "I3 - MSC SPARKLE III",
+        "code": "HV639R / HV639R",
+        "atb": "28/09/2026 02:45",
+        "etd": "28/09/2026 23:00",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MSC SPARKLE III",
-        "code": "HV639R / HV639R",
-        "eta": "27/09/2026 18:00",
-        "etd": "28/09/2026 23:00",
-        "openstack": "22/09/2026 02:00",
-        "closeC": "26/09/2026 20:00",
-        "closeD": "26/09/2026 23:00",
-        "verified": false
-      },
       {
         "name": "CMA CGM FORT DIAMANT",
         "code": "0XLCLS / 0XLCMN",
