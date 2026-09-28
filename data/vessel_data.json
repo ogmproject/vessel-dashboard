@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-28T21:00:47+00:00",
+  "generated_at": "2026-09-28T21:15:37+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - ZHONG GU FU ZHOU",
-        "code": "CHN060S / CHN070N",
-        "atb": "27/09/2026 23:05",
-        "etd": "29/09/2026 05:00",
-        "verified": false
-      },
       {
         "name": "I2 - CMA CGM FORT DIAMANT",
         "code": "0XLCLS / 0XLCMN",
@@ -174,6 +167,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "ZHONG GU FU ZHOU",
+        "berth": "27/09/2026 23:05",
+        "dep": "29/09/2026 03:57"
+      },
       {
         "name": "MSC SPARKLE III",
         "berth": "28/09/2026 02:45",

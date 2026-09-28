@@ -1375,8 +1375,8 @@
     "vessel_name": "ZHONG GU FU ZHOU",
     "terminal": "TPS",
     "arrival": "2026-09-27T23:05:00",
-    "departure": null,
-    "recorded_at": "2026-09-27T16:15:36.125562"
+    "departure": "2026-09-29T03:57:00",
+    "recorded_at": "2026-09-28T21:15:37.664965"
   },
   {
     "vessel_name": "MSC SPARKLE III",
