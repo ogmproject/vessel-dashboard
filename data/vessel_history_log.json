@@ -1368,8 +1368,8 @@
     "vessel_name": "AS PIA",
     "terminal": "TPS",
     "arrival": "2026-09-27T18:20:00",
-    "departure": null,
-    "recorded_at": "2026-09-27T11:30:40.644720"
+    "departure": "2026-09-28T10:40:00",
+    "recorded_at": "2026-09-28T04:00:45.873737"
   },
   {
     "vessel_name": "ZHONG GU FU ZHOU",
