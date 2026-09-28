@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:45:34+00:00",
+  "generated_at": "2026-09-28T08:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -53,6 +53,16 @@
         "openstack": "25/09/2026 02:00",
         "closeC": "29/09/2026 20:00",
         "closeD": "29/09/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "KOTA GANDING",
+        "code": "0537S / 0537N",
+        "eta": "30/09/2026 15:00",
+        "etd": "01/10/2026 18:00",
+        "openstack": "25/09/2026 00:00",
+        "closeC": "29/09/2026 18:00",
+        "closeD": "29/09/2026 21:00",
         "verified": false
       },
       {
@@ -137,16 +147,6 @@
         "openstack": "02/10/2026 22:00",
         "closeC": "07/10/2026 16:00",
         "closeD": "07/10/2026 19:00",
-        "verified": false
-      },
-      {
-        "name": "KOTA GANDING",
-        "code": "0537S / 0537N",
-        "eta": "30/10/2026 15:00",
-        "etd": "01/11/2026 18:00",
-        "openstack": "25/09/2026 00:00",
-        "closeC": "29/09/2026 18:00",
-        "closeD": "29/09/2026 21:00",
         "verified": false
       }
     ],
@@ -284,9 +284,9 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. FORECASTLE INDONESIA",
         "etb": "03/10/2026 20:00",
-        "etd": "03/10/2026 20:30",
+        "etd": "04/10/2026 15:30",
         "openstack": "28/09/2026 20:00",
-        "closeC": "03/10/2026 15:00"
+        "closeC": "03/10/2026 05:00"
       }
     ],
     "departed": [
