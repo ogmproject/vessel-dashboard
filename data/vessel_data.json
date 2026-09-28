@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:22:23+00:00",
+  "generated_at": "2026-09-28T07:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -29,7 +29,7 @@
         "name": "SINAR SULAWESI",
         "code": "097S / 097N",
         "eta": "29/09/2026 09:00",
-        "etd": "30/10/2026 16:00",
+        "etd": "30/09/2026 16:00",
         "openstack": "24/09/2026 06:00",
         "closeC": "29/09/2026 00:01",
         "closeD": "29/09/2026 03:01",
@@ -54,6 +54,18 @@
         "closeC": "29/09/2026 20:00",
         "closeD": "29/09/2026 23:00",
         "verified": false
+      },
+      {
+        "name": "MSC MALENA III",
+        "code": "XF638A / XF638R",
+        "eta": "30/09/2026 18:00",
+        "etd": "01/10/2026 18:00",
+        "openstack": "25/09/2026 02:00",
+        "closeC": "29/09/2026 20:00",
+        "closeD": "29/09/2026 23:00",
+        "verified": false,
+        "mmsi": "636020360",
+        "imo": "9203538"
       },
       {
         "name": "HONG TAI 656",
@@ -136,18 +148,6 @@
         "closeC": "29/09/2026 18:00",
         "closeD": "29/09/2026 21:00",
         "verified": false
-      },
-      {
-        "name": "MSC MALENA III",
-        "code": "XF638A / XF638R",
-        "eta": "30/10/2026 18:00",
-        "etd": "01/11/2026 18:00",
-        "openstack": "25/09/2026 02:00",
-        "closeC": "29/09/2026 20:00",
-        "closeD": "29/09/2026 23:00",
-        "verified": false,
-        "mmsi": "636020360",
-        "imo": "9203538"
       }
     ],
     "movement": [
@@ -207,15 +207,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "5526",
-        "code": "5526",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "HUA DA 617\t / HUD7001",
-        "type": "INTERNATIONAL"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "WAN HAI 373",
@@ -306,6 +298,14 @@
         "carrier": "HMM CO.,LTD",
         "atb": "27/09/2026 11:00",
         "atd": "28/09/2026 13:42"
+      },
+      {
+        "name": "HUA DA 617",
+        "code": "HUD7001",
+        "voyage": "011E         / 012W",
+        "type": "INTERNATIONAL",
+        "atb": "26/09/2026 19:23",
+        "atd": "28/09/2026 14:20"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
