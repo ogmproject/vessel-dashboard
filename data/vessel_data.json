@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T08:45:37+00:00",
+  "generated_at": "2026-09-28T09:00:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -127,6 +127,16 @@
         "openstack": "27/09/2026 08:00",
         "closeC": "02/10/2026 02:00",
         "closeD": "02/10/2026 05:00",
+        "verified": false
+      },
+      {
+        "name": "CMA CGM SAINTE ANNE",
+        "code": "0XLCJS / 0XLCKN",
+        "eta": "03/10/2026 18:00",
+        "etd": "05/10/2026 15:30",
+        "openstack": "28/09/2026 18:00",
+        "closeC": "03/10/2026 12:00",
+        "closeD": "03/10/2026 15:00",
         "verified": false
       },
       {
