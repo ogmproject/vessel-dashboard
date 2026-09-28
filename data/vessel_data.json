@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T00:45:33+00:00",
+  "generated_at": "2026-09-28T01:00:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -195,7 +195,7 @@
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
         "atb": "27/09/2026 11:00",
-        "etd": "28/09/2026 13:00"
+        "etd": "28/09/2026 16:00"
       },
       {
         "name": "MARINA ONE",
@@ -215,8 +215,8 @@
         "voyage": "S029         / N029",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "28/09/2026 15:00",
-        "etd": "29/09/2026 15:00",
+        "etb": "28/09/2026 18:00",
+        "etd": "29/09/2026 18:00",
         "openstack": "23/09/2026 09:00",
         "closeC": "28/09/2026 04:00"
       },
