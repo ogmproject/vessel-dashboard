@@ -1354,8 +1354,8 @@
     "vessel_name": "MARINA ONE",
     "terminal": "TL",
     "arrival": "2026-09-27T11:00:00",
-    "departure": null,
-    "recorded_at": "2026-09-27T04:45:31.125269"
+    "departure": "2026-09-28T13:42:00",
+    "recorded_at": "2026-09-28T07:00:44.507794"
   },
   {
     "vessel_name": "MERATUS MALINO",

@@ -1,68 +1,58 @@
 {
-  "generated_at": "2026-09-28T06:45:36+00:00",
+  "generated_at": "2026-09-28T07:00:44+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - ZHONG GU FU ZHOU",
         "code": "CHN060S / CHN070N",
         "atb": "27/09/2026 23:05",
-        "etd": "28/09/2026 23:50",
+        "etd": "28/09/2026 22:00",
         "verified": false
       },
       {
         "name": "I3 - MSC SPARKLE III",
         "code": "HV639R / HV639R",
         "atb": "28/09/2026 02:45",
-        "etd": "28/09/2026 23:00",
+        "etd": "29/09/2026 00:01",
         "verified": false
       },
       {
         "name": "I2 - CMA CGM FORT DIAMANT",
         "code": "0XLCLS / 0XLCMN",
         "atb": "28/09/2026 13:17",
-        "etd": "29/10/2026 08:00",
+        "etd": "29/10/2026 18:00",
         "verified": false
       }
     ],
     "schedule": [
       {
-        "name": "JINYUNHE",
-        "code": "455S / 455N",
-        "eta": "28/09/2026 15:00",
-        "etd": "29/09/2026 03:00",
-        "openstack": "23/09/2026 10:00",
-        "closeC": "28/09/2026 04:00",
-        "closeD": "28/09/2026 07:00",
-        "verified": false
-      },
-      {
         "name": "SINAR SULAWESI",
         "code": "097S / 097N",
-        "eta": "29/09/2026 06:00",
-        "etd": "30/09/2026 16:00",
+        "eta": "29/09/2026 09:00",
+        "etd": "30/10/2026 16:00",
         "openstack": "24/09/2026 06:00",
         "closeC": "29/09/2026 00:01",
         "closeD": "29/09/2026 03:01",
         "verified": false
       },
       {
-        "name": "MSC KERRY VII",
-        "code": "XI639A / XI639R",
-        "eta": "30/09/2026 02:00",
-        "etd": "02/10/2026 03:30",
-        "openstack": "25/09/2026 02:00",
-        "closeC": "29/09/2026 20:00",
-        "closeD": "29/09/2026 23:00",
+        "name": "JINYUNHE",
+        "code": "455S / 455N",
+        "eta": "29/09/2026 14:00",
+        "etd": "30/09/2026 00:01",
+        "openstack": "23/09/2026 10:00",
+        "closeC": "28/09/2026 04:00",
+        "closeD": "28/09/2026 07:00",
         "verified": false
       },
       {
-        "name": "WAN HAI 376",
-        "code": "S034 / N035",
-        "eta": "30/09/2026 18:00",
-        "etd": "01/10/2026 10:00",
-        "openstack": "25/09/2026 08:00",
-        "closeC": "30/09/2026 02:00",
-        "closeD": "30/09/2026 05:00",
+        "name": "MSC KERRY VII",
+        "code": "XI639A / XI639R",
+        "eta": "30/09/2026 07:00",
+        "etd": "01/10/2026 04:00",
+        "openstack": "25/09/2026 02:00",
+        "closeC": "29/09/2026 20:00",
+        "closeD": "29/09/2026 23:00",
         "verified": false
       },
       {
@@ -76,32 +66,20 @@
         "verified": false
       },
       {
-        "name": "MSC MALENA III",
-        "code": "XF638A / XF638R",
-        "eta": "01/10/2026 05:00",
-        "etd": "02/10/2026 05:00",
-        "openstack": "25/09/2026 02:00",
-        "closeC": "29/09/2026 20:00",
-        "closeD": "29/09/2026 23:00",
-        "verified": false,
-        "mmsi": "636020360",
-        "imo": "9203538"
-      },
-      {
-        "name": "KOTA GANDING",
-        "code": "0537S / 0537N",
-        "eta": "01/10/2026 12:00",
-        "etd": "02/10/2026 12:00",
-        "openstack": "25/09/2026 00:00",
-        "closeC": "29/09/2026 18:00",
-        "closeD": "29/09/2026 21:00",
+        "name": "WAN HAI 376",
+        "code": "S034 / N035",
+        "eta": "01/10/2026 06:00",
+        "etd": "01/10/2026 22:00",
+        "openstack": "25/09/2026 08:00",
+        "closeC": "30/09/2026 02:00",
+        "closeD": "30/09/2026 05:00",
         "verified": false
       },
       {
         "name": "CONTSHIP YEN",
         "code": "2526S / 2526S",
-        "eta": "01/10/2026 22:00",
-        "etd": "02/10/2026 05:30",
+        "eta": "02/10/2026 00:01",
+        "etd": "02/10/2026 16:00",
         "openstack": "26/09/2026 22:00",
         "closeC": "01/10/2026 16:00",
         "closeD": "01/10/2026 19:00",
@@ -113,7 +91,7 @@
         "name": "INFERRO",
         "code": "047E / 047W",
         "eta": "02/10/2026 08:00",
-        "etd": "03/10/2026 01:30",
+        "etd": "03/10/2026 06:00",
         "openstack": "27/09/2026 08:00",
         "closeC": "02/10/2026 02:00",
         "closeD": "02/10/2026 05:00",
@@ -148,6 +126,28 @@
         "closeC": "07/10/2026 16:00",
         "closeD": "07/10/2026 19:00",
         "verified": false
+      },
+      {
+        "name": "KOTA GANDING",
+        "code": "0537S / 0537N",
+        "eta": "30/10/2026 15:00",
+        "etd": "01/11/2026 18:00",
+        "openstack": "25/09/2026 00:00",
+        "closeC": "29/09/2026 18:00",
+        "closeD": "29/09/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "MSC MALENA III",
+        "code": "XF638A / XF638R",
+        "eta": "30/10/2026 18:00",
+        "etd": "01/11/2026 18:00",
+        "openstack": "25/09/2026 02:00",
+        "closeC": "29/09/2026 20:00",
+        "closeD": "29/09/2026 23:00",
+        "verified": false,
+        "mmsi": "636020360",
+        "imo": "9203538"
       }
     ],
     "movement": [
@@ -209,25 +209,9 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "MARINA ONE",
-        "code": "MAON003",
-        "voyage": "0003S        / 0003N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "27/09/2026 11:00",
-        "etd": "28/09/2026 14:00"
-      },
-      {
         "name": "5526",
         "code": "5526",
         "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "MARINA ONE / MAON003",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "0003S",
-        "code": "0003N",
-        "carrier": "HMM CO.,LTD",
         "voyage": "HUA DA 617\t / HUD7001",
         "type": "INTERNATIONAL"
       }
@@ -313,7 +297,17 @@
         "closeC": "03/10/2026 15:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "MARINA ONE",
+        "code": "MAON003",
+        "voyage": "0003S        / 0003N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "27/09/2026 11:00",
+        "atd": "28/09/2026 13:42"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
