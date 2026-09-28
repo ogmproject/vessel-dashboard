@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T09:15:40+00:00",
+  "generated_at": "2026-09-28T09:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -245,8 +245,8 @@
         "voyage": "S029         / N029",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "28/09/2026 16:00",
-        "etd": "29/09/2026 12:00",
+        "etb": "28/09/2026 17:00",
+        "etd": "29/09/2026 13:00",
         "openstack": "23/09/2026 09:00",
         "closeC": "28/09/2026 04:00"
       },
@@ -267,7 +267,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "etb": "29/09/2026 19:00",
-        "etd": "30/09/2026 20:00",
+        "etd": "30/09/2026 23:00",
         "openstack": "25/09/2026 13:00",
         "closeC": "30/09/2026 03:00"
       },
