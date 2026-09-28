@@ -1384,5 +1384,12 @@
     "arrival": "2026-09-28T02:45:00",
     "departure": null,
     "recorded_at": "2026-09-27T20:00:46.403477"
+  },
+  {
+    "vessel_name": "CMA CGM FORT DIAMANT",
+    "terminal": "TPS",
+    "arrival": "2026-09-28T13:17:00",
+    "departure": null,
+    "recorded_at": "2026-09-28T06:30:42.629892"
   }
 ]

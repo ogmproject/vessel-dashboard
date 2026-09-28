@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:15:40+00:00",
+  "generated_at": "2026-09-28T06:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -15,19 +15,16 @@
         "atb": "28/09/2026 02:45",
         "etd": "28/09/2026 23:00",
         "verified": false
+      },
+      {
+        "name": "I2 - CMA CGM FORT DIAMANT",
+        "code": "0XLCLS / 0XLCMN",
+        "atb": "28/09/2026 13:17",
+        "etd": "29/10/2026 08:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "CMA CGM FORT DIAMANT",
-        "code": "0XLCLS / 0XLCMN",
-        "eta": "28/09/2026 00:01",
-        "etd": "29/10/2026 08:00",
-        "openstack": "20/09/2026 18:00",
-        "closeC": "25/09/2026 12:00",
-        "closeD": "25/09/2026 15:00",
-        "verified": false
-      },
       {
         "name": "JINYUNHE",
         "code": "455S / 455N",
