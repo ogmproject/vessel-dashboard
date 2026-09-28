@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T17:00:44+00:00",
+  "generated_at": "2026-09-28T17:15:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,7 +20,7 @@
         "name": "I2 - CMA CGM FORT DIAMANT",
         "code": "0XLCLS / 0XLCMN",
         "atb": "28/09/2026 13:17",
-        "etd": "29/10/2026 18:00",
+        "etd": "29/10/2026 23:50",
         "verified": false
       }
     ],
