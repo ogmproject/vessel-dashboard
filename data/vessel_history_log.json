@@ -1382,8 +1382,8 @@
     "vessel_name": "MSC SPARKLE III",
     "terminal": "TPS",
     "arrival": "2026-09-28T02:45:00",
-    "departure": null,
-    "recorded_at": "2026-09-27T20:00:46.403477"
+    "departure": "2026-09-29T01:47:00",
+    "recorded_at": "2026-09-28T19:00:48.025423"
   },
   {
     "vessel_name": "CMA CGM FORT DIAMANT",
