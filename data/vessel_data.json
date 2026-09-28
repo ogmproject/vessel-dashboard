@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T04:00:45+00:00",
+  "generated_at": "2026-09-28T04:15:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -218,7 +218,7 @@
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
         "atb": "27/09/2026 11:00",
-        "etd": "28/09/2026 16:00"
+        "etd": "28/09/2026 14:00"
       },
       {
         "name": "5526",
@@ -242,8 +242,8 @@
         "voyage": "S029         / N029",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "28/09/2026 18:00",
-        "etd": "29/09/2026 18:00",
+        "etb": "28/09/2026 16:00",
+        "etd": "29/09/2026 12:00",
         "openstack": "23/09/2026 09:00",
         "closeC": "28/09/2026 04:00"
       },
@@ -253,8 +253,8 @@
         "voyage": "207S         / 207N",
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "29/09/2026 10:00",
-        "etd": "30/09/2026 12:00",
+        "etb": "29/09/2026 08:00",
+        "etd": "30/09/2026 06:00",
         "openstack": "23/09/2026 05:00",
         "closeC": "28/09/2026 08:00"
       },
@@ -263,8 +263,8 @@
         "code": "MEIU023",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "30/09/2026 13:00",
-        "etd": "01/10/2026 00:30",
+        "etb": "29/09/2026 19:00",
+        "etd": "30/09/2026 20:00",
         "openstack": "25/09/2026 13:00",
         "closeC": "30/09/2026 03:00"
       },
