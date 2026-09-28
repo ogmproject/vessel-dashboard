@@ -1358,6 +1358,13 @@
     "recorded_at": "2026-09-27T04:45:31.125269"
   },
   {
+    "vessel_name": "MERATUS MALINO",
+    "terminal": "TPS",
+    "arrival": "2026-09-27T17:00:00",
+    "departure": "2026-09-28T09:20:00",
+    "recorded_at": "2026-09-28T02:45:40.014234"
+  },
+  {
     "vessel_name": "AS PIA",
     "terminal": "TPS",
     "arrival": "2026-09-27T18:20:00",
