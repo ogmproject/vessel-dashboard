@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T02:00:45+00:00",
+  "generated_at": "2026-09-28T02:15:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -205,8 +205,10 @@
         "type": "INTERNATIONAL"
       },
       {
-        "name": "HUA DA 617",
-        "code": "HUD7001",
+        "name": "0003S",
+        "code": "0003N",
+        "carrier": "HMM CO.,LTD",
+        "voyage": "HUA DA 617\t / HUD7001",
         "type": "INTERNATIONAL"
       }
     ],
