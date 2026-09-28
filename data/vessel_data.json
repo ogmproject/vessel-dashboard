@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:15:35+00:00",
+  "generated_at": "2026-09-28T10:30:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -237,19 +237,23 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "WAN HAI 373",
         "code": "WA73009",
         "voyage": "S029         / N029",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "28/09/2026 17:00",
-        "etd": "29/09/2026 13:00",
-        "openstack": "23/09/2026 09:00",
-        "closeC": "28/09/2026 04:00"
+        "atb": "28/09/2026 17:18",
+        "etd": "29/09/2026 13:00"
       },
+      {
+        "name": "WAN HAI 373",
+        "code": "WA73009",
+        "type": "INTERNATIONAL"
+      }
+    ],
+    "schedule": [
       {
         "name": "YM EFFICIENCY",
         "code": "YMYM070",
