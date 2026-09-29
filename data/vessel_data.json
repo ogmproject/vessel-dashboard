@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:15:39+00:00",
+  "generated_at": "2026-09-29T07:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -113,6 +113,16 @@
         "verified": false
       },
       {
+        "name": "EVER CHASTE",
+        "code": "0555-096S / 0555-096N",
+        "eta": "03/10/2026 03:00",
+        "etd": "03/10/2026 16:00",
+        "openstack": "28/09/2026 16:00",
+        "closeC": "03/10/2026 10:00",
+        "closeD": "03/10/2026 13:00",
+        "verified": false
+      },
+      {
         "name": "XIN YAN TAI",
         "code": "274S / 274N",
         "eta": "03/10/2026 08:00",
@@ -123,16 +133,6 @@
         "verified": false,
         "mmsi": "413125000",
         "imo": "9304801"
-      },
-      {
-        "name": "EVER CHASTE",
-        "code": "0555-096S / 0555-096N",
-        "eta": "03/10/2026 16:00",
-        "etd": "04/10/2026 08:30",
-        "openstack": "28/09/2026 16:00",
-        "closeC": "03/10/2026 10:00",
-        "closeD": "03/10/2026 13:00",
-        "verified": false
       },
       {
         "name": "CMA CGM SAINTE ANNE",
@@ -147,8 +147,8 @@
       {
         "name": "ARTOTINA",
         "code": "637S / 640N",
-        "eta": "03/10/2026 23:00",
-        "etd": "05/10/2026 07:30",
+        "eta": "03/10/2026 20:00",
+        "etd": "04/10/2026 13:00",
         "openstack": "28/09/2026 23:00",
         "closeC": "03/11/2026 17:00",
         "closeD": "03/11/2026 20:00",
@@ -167,8 +167,8 @@
       {
         "name": "HONG TAI 656",
         "code": "639N / 639N",
-        "eta": "04/10/2026 09:00",
-        "etd": "06/10/2026 17:30",
+        "eta": "04/10/2026 11:00",
+        "etd": "05/10/2026 11:00",
         "openstack": "29/09/2026 09:00",
         "closeC": "04/10/2026 03:00",
         "closeD": "04/10/2026 06:00",
@@ -339,14 +339,6 @@
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "atb": "28/09/2026 17:18",
         "atd": "29/09/2026 14:05"
-      },
-      {
-        "name": "HUA DA 617",
-        "code": "HUD7001",
-        "voyage": "011E         / 012W",
-        "type": "INTERNATIONAL",
-        "atb": "26/09/2026 19:23",
-        "atd": "28/09/2026 14:20"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
