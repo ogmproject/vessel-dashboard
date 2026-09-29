@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-29T06:30:47+00:00",
+  "generated_at": "2026-09-29T06:45:42+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SINAR SULAWESI",
         "code": "097S / 097N",
         "atb": "29/09/2026 11:02",
-        "etd": "30/09/2026 23:00",
+        "etd": "30/09/2026 22:00",
         "verified": false
       },
       {
         "name": "I2 - CMA CGM FORT DIAMANT",
         "code": "0XLCLS / 0XLCMN",
         "atb": "28/09/2026 13:17",
-        "etd": "29/10/2026 22:30",
+        "etd": "29/10/2026 20:30",
         "verified": false
       }
     ],
@@ -328,15 +328,6 @@
       }
     ],
     "departed": [
-      {
-        "name": "MARINA ONE",
-        "code": "MAON003",
-        "voyage": "0003S        / 0003N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "27/09/2026 11:00",
-        "atd": "28/09/2026 13:42"
-      },
       {
         "name": "HUA DA 617",
         "code": "HUD7001",
