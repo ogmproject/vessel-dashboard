@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T06:00:47+00:00",
+  "generated_at": "2026-09-29T06:15:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -241,15 +241,6 @@
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
         "atb": "29/09/2026 09:00",
         "etd": "30/09/2026 06:00"
-      },
-      {
-        "name": "WAN HAI 373",
-        "code": "WA73009",
-        "voyage": "S029         / N029",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "atb": "28/09/2026 17:18",
-        "etd": "29/09/2026 13:00"
       },
       {
         "name": "YM EFFICIENCY",
