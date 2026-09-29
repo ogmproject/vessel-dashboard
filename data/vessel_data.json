@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:30:45+00:00",
+  "generated_at": "2026-09-29T08:45:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -253,8 +253,10 @@
         "etd": "30/09/2026 06:00"
       },
       {
-        "name": "YM EFFICIENCY",
-        "code": "YMYM070",
+        "name": "1426",
+        "code": "1426",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "YM EFFICIENCY / YMYM070",
         "type": "INTERNATIONAL"
       }
     ],
@@ -264,8 +266,8 @@
         "code": "MEIU023",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "29/09/2026 16:00",
-        "etd": "01/10/2026 01:00",
+        "etb": "29/09/2026 17:00",
+        "etd": "30/09/2026 20:00",
         "openstack": "25/09/2026 13:00",
         "closeC": "30/09/2026 03:00"
       },
@@ -274,8 +276,8 @@
         "code": "ERJU007",
         "voyage": "013S         / 013N",
         "type": "INTERNATIONAL",
-        "etb": "01/10/2026 00:00",
-        "etd": "02/10/2026 00:00",
+        "etb": "30/09/2026 15:00",
+        "etd": "01/10/2026 07:00",
         "openstack": "26/09/2026 00:00",
         "closeC": "30/09/2026 19:00"
       },
