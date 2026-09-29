@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T16:15:41+00:00",
+  "generated_at": "2026-09-29T16:30:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "097S / 097N",
         "atb": "29/09/2026 11:02",
         "etd": "30/09/2026 22:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - JINYUNHE",
-        "code": "455S / 455N",
-        "atb": "29/09/2026 16:40",
-        "etd": "30/09/2026 00:01",
         "verified": false
       }
     ],
@@ -198,6 +191,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "JINYUNHE",
+        "berth": "29/09/2026 16:40",
+        "dep": "29/09/2026 23:12"
+      },
       {
         "name": "CMA CGM FORT DIAMANT",
         "berth": "28/09/2026 13:17",
