@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T10:45:40.422475",
+  "generated_at": "2026-09-29T11:00:50.667366",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -97,6 +97,17 @@
       "avg_interval_days": 19.6,
       "interval_stddev_days": 0.8,
       "avg_dwelling_hours": 19.8,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "MERATUS KARIMUN",
+      "terminal": "TL",
+      "last_arrival": "2026-09-29T17:40:00",
+      "predicted_next_arrival": "2026-10-18T12:02:30",
+      "avg_interval_days": 18.8,
+      "interval_stddev_days": 9.6,
+      "avg_dwelling_hours": 17.1,
       "visits_recorded": 3,
       "confidence": "medium"
     }

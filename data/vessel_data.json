@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T10:45:40+00:00",
+  "generated_at": "2026-09-29T11:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -253,6 +253,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "MERATUS KARIMUN",
+        "code": "MEIU023",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "29/09/2026 17:40",
+        "etd": "30/09/2026 20:00"
+      },
+      {
         "name": "YM EFFICIENCY",
         "code": "YMYM070",
         "voyage": "207S         / 207N",
@@ -260,6 +268,12 @@
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
         "atb": "29/09/2026 09:00",
         "etd": "30/09/2026 06:00"
+      },
+      {
+        "name": "MERATUS KARIMUN",
+        "code": "MEIU023",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE"
       },
       {
         "name": "1426",
@@ -270,16 +284,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MERATUS KARIMUN",
-        "code": "MEIU023",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "29/09/2026 17:00",
-        "etd": "30/09/2026 20:00",
-        "openstack": "25/09/2026 13:00",
-        "closeC": "30/09/2026 03:00"
-      },
       {
         "name": "ERASMUS JUSTICE",
         "code": "ERJU007",
