@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T02:00:49+00:00",
+  "generated_at": "2026-09-29T02:15:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -215,6 +215,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "YM EFFICIENCY",
+        "code": "YMYM070",
+        "voyage": "207S         / 207N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "atb": "29/09/2026 09:00",
+        "etd": "30/09/2026 07:00"
+      },
+      {
         "name": "WAN HAI 373",
         "code": "WA73009",
         "voyage": "S029         / N029",
@@ -222,6 +231,11 @@
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "atb": "28/09/2026 17:18",
         "etd": "29/09/2026 13:00"
+      },
+      {
+        "name": "YM EFFICIENCY",
+        "code": "YMYM070",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "4226",
@@ -232,17 +246,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "YM EFFICIENCY",
-        "code": "YMYM070",
-        "voyage": "207S         / 207N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "29/09/2026 09:00",
-        "etd": "30/09/2026 07:00",
-        "openstack": "24/09/2026 09:00",
-        "closeC": "28/09/2026 08:00"
-      },
       {
         "name": "MERATUS KARIMUN",
         "code": "MEIU023",
