@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:01:08+00:00",
+  "generated_at": "2026-09-29T07:15:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -51,8 +51,8 @@
       {
         "name": "MSC MALENA III",
         "code": "XF638A / XF638R",
-        "eta": "30/09/2026 18:00",
-        "etd": "01/10/2026 18:00",
+        "eta": "01/10/2026 00:00",
+        "etd": "01/10/2026 14:00",
         "openstack": "25/09/2026 02:00",
         "closeC": "29/09/2026 20:00",
         "closeD": "29/09/2026 23:00",
@@ -83,8 +83,8 @@
       {
         "name": "EVER BEFIT",
         "code": "1211-082A / 1211-082A",
-        "eta": "01/10/2026 23:00",
-        "etd": "02/10/2026 19:30",
+        "eta": "01/10/2026 16:00",
+        "etd": "02/10/2026 08:00",
         "openstack": "26/09/2026 23:00",
         "closeC": "01/10/2026 17:00",
         "closeD": "01/10/2026 20:00",
@@ -116,13 +116,23 @@
         "name": "XIN YAN TAI",
         "code": "274S / 274N",
         "eta": "03/10/2026 08:00",
-        "etd": "04/10/2026 23:30",
+        "etd": "04/10/2026 12:00",
         "openstack": "28/09/2026 08:00",
         "closeC": "03/10/2026 02:00",
         "closeD": "03/10/2026 05:00",
         "verified": false,
         "mmsi": "413125000",
         "imo": "9304801"
+      },
+      {
+        "name": "EVER CHASTE",
+        "code": "0555-096S / 0555-096N",
+        "eta": "03/10/2026 16:00",
+        "etd": "04/10/2026 08:30",
+        "openstack": "28/09/2026 16:00",
+        "closeC": "03/10/2026 10:00",
+        "closeD": "03/10/2026 13:00",
+        "verified": false
       },
       {
         "name": "CMA CGM SAINTE ANNE",
@@ -177,11 +187,11 @@
       {
         "name": "KMTC SHANGHAI",
         "code": "2608S / 2608N",
-        "eta": "07/10/2026 22:00",
-        "etd": "08/10/2026 15:30",
-        "openstack": "02/10/2026 22:00",
-        "closeC": "07/10/2026 16:00",
-        "closeD": "07/10/2026 19:00",
+        "eta": "10/10/2026 03:00",
+        "etd": "10/10/2026 20:30",
+        "openstack": "05/10/2026 03:00",
+        "closeC": "09/10/2026 21:00",
+        "closeD": "10/10/2026 00:00",
         "verified": false
       }
     ],
@@ -245,13 +255,6 @@
       {
         "name": "YM EFFICIENCY",
         "code": "YMYM070",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "4226",
-        "code": "4226",
-        "carrier": "PT. TEMAS SHIPPING",
-        "voyage": "WAN HAI 373 / WA73009",
         "type": "INTERNATIONAL"
       }
     ],
@@ -328,6 +331,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "WAN HAI 373",
+        "code": "WA73009",
+        "voyage": "S029         / N029",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "atb": "28/09/2026 17:18",
+        "atd": "29/09/2026 14:05"
+      },
       {
         "name": "HUA DA 617",
         "code": "HUD7001",
