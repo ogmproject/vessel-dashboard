@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:45:37+00:00",
+  "generated_at": "2026-09-29T07:58:00+00:00",
   "tps": {
     "alongside": [
       {
@@ -270,6 +270,16 @@
         "closeC": "30/09/2026 03:00"
       },
       {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU007",
+        "voyage": "013S         / 013N",
+        "type": "INTERNATIONAL",
+        "etb": "01/10/2026 00:00",
+        "etd": "02/10/2026 00:00",
+        "openstack": "26/09/2026 00:00",
+        "closeC": "30/09/2026 19:00"
+      },
+      {
         "name": "WANTAI",
         "code": "WANT007",
         "voyage": "2638S       /  2638N",
@@ -281,16 +291,6 @@
         "closeC": "30/09/2026 18:00",
         "mmsi": "636024258",
         "imo": "9168207"
-      },
-      {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU007",
-        "voyage": "013S         / 013N",
-        "type": "INTERNATIONAL",
-        "etb": "01/10/2026 00:00",
-        "etd": "02/10/2026 00:00",
-        "openstack": "26/09/2026 00:00",
-        "closeC": "30/09/2026 19:00"
       },
       {
         "name": "KMTC HOCHIMINH",
