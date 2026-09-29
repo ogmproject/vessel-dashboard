@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T09:45:40+00:00",
+  "generated_at": "2026-09-29T10:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "097S / 097N",
         "atb": "29/09/2026 11:02",
         "etd": "30/09/2026 22:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - JINYUNHE",
+        "code": "455S / 455N",
+        "atb": "29/09/2026 16:40",
+        "etd": "30/09/2026 00:01",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "JINYUNHE",
-        "code": "455S / 455N",
-        "eta": "29/09/2026 14:00",
-        "etd": "30/09/2026 00:01",
-        "openstack": "23/09/2026 10:00",
-        "closeC": "28/09/2026 04:00",
-        "closeD": "28/09/2026 07:00",
-        "verified": false
-      },
       {
         "name": "MSC KERRY VII",
         "code": "XI639A / XI639R",

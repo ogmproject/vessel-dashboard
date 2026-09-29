@@ -1412,5 +1412,12 @@
     "arrival": "2026-09-29T11:02:00",
     "departure": null,
     "recorded_at": "2026-09-29T04:15:40.466638"
+  },
+  {
+    "vessel_name": "JINYUNHE",
+    "terminal": "TPS",
+    "arrival": "2026-09-29T16:40:00",
+    "departure": null,
+    "recorded_at": "2026-09-29T10:00:52.087609"
   }
 ]
