@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T04:00:50.226621",
+  "generated_at": "2026-09-29T04:15:40.466638",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -35,17 +35,6 @@
       "confidence": "medium"
     },
     {
-      "vessel_name": "SINAR SULAWESI",
-      "terminal": "TPS",
-      "last_arrival": "2026-09-20T19:27:00",
-      "predicted_next_arrival": "2026-09-29T05:15:00",
-      "avg_interval_days": 8.4,
-      "interval_stddev_days": 0.9,
-      "avg_dwelling_hours": 36.3,
-      "visits_recorded": 5,
-      "confidence": "high"
-    },
-    {
       "vessel_name": "ES TREASURE",
       "terminal": "TPS",
       "last_arrival": "2026-09-26T03:20:00",
@@ -66,6 +55,17 @@
       "avg_dwelling_hours": 22.0,
       "visits_recorded": 3,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "SINAR SULAWESI",
+      "terminal": "TPS",
+      "last_arrival": "2026-09-29T11:02:00",
+      "predicted_next_arrival": "2026-10-07T21:59:24",
+      "avg_interval_days": 8.5,
+      "interval_stddev_days": 0.8,
+      "avg_dwelling_hours": 36.3,
+      "visits_recorded": 6,
+      "confidence": "high"
     },
     {
       "vessel_name": "AS CAROLINA",

@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-29T04:00:50+00:00",
+  "generated_at": "2026-09-29T04:15:39+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - SINAR SULAWESI",
+        "code": "097S / 097N",
+        "atb": "29/09/2026 11:02",
+        "etd": "30/09/2026 16:00",
+        "verified": false
+      },
       {
         "name": "I2 - CMA CGM FORT DIAMANT",
         "code": "0XLCLS / 0XLCMN",
@@ -11,16 +18,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SINAR SULAWESI",
-        "code": "097S / 097N",
-        "eta": "29/09/2026 09:00",
-        "etd": "30/09/2026 16:00",
-        "openstack": "24/09/2026 06:00",
-        "closeC": "29/09/2026 00:01",
-        "closeD": "29/09/2026 03:01",
-        "verified": false
-      },
       {
         "name": "JINYUNHE",
         "code": "455S / 455N",
