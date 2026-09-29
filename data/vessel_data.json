@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T21:45:37+00:00",
+  "generated_at": "2026-09-29T22:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -239,13 +239,6 @@
         "code": "MEIU023",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE"
-      },
-      {
-        "name": "1426",
-        "code": "1426",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "YM EFFICIENCY / YMYM070",
-        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
@@ -331,6 +324,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "YM EFFICIENCY",
+        "code": "YMYM070",
+        "voyage": "207S         / 207N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "atb": "29/09/2026 09:00",
+        "atd": "30/09/2026 04:53"
+      },
       {
         "name": "WAN HAI 373",
         "code": "WA73009",

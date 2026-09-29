@@ -1403,8 +1403,8 @@
     "vessel_name": "YM EFFICIENCY",
     "terminal": "TL",
     "arrival": "2026-09-29T09:00:00",
-    "departure": null,
-    "recorded_at": "2026-09-29T02:15:38.237351"
+    "departure": "2026-09-30T04:53:00",
+    "recorded_at": "2026-09-29T22:00:46.526430"
   },
   {
     "vessel_name": "SINAR SULAWESI",
