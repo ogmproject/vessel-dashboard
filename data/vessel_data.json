@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:30:58+00:00",
+  "generated_at": "2026-09-29T15:45:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -257,15 +257,6 @@
         "carrier": "PT. MERATUS LINE",
         "atb": "29/09/2026 17:40",
         "etd": "30/09/2026 20:00"
-      },
-      {
-        "name": "YM EFFICIENCY",
-        "code": "YMYM070",
-        "voyage": "207S         / 207N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "atb": "29/09/2026 09:00",
-        "etd": "30/09/2026 03:00"
       },
       {
         "name": "MERATUS KARIMUN",
