@@ -1389,8 +1389,8 @@
     "vessel_name": "CMA CGM FORT DIAMANT",
     "terminal": "TPS",
     "arrival": "2026-09-28T13:17:00",
-    "departure": null,
-    "recorded_at": "2026-09-28T06:30:42.629892"
+    "departure": "2026-09-29T19:15:00",
+    "recorded_at": "2026-09-29T12:30:47.824584"
   },
   {
     "vessel_name": "WAN HAI 373",

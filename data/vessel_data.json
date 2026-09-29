@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:15:39+00:00",
+  "generated_at": "2026-09-29T12:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "455S / 455N",
         "atb": "29/09/2026 16:40",
         "etd": "30/09/2026 00:01",
-        "verified": false
-      },
-      {
-        "name": "I2 - CMA CGM FORT DIAMANT",
-        "code": "0XLCLS / 0XLCMN",
-        "atb": "28/09/2026 13:17",
-        "etd": "29/10/2026 20:30",
         "verified": false
       }
     ],
@@ -205,6 +198,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "CMA CGM FORT DIAMANT",
+        "berth": "28/09/2026 13:17",
+        "dep": "29/09/2026 19:15"
+      },
       {
         "name": "ZHONG GU FU ZHOU",
         "berth": "27/09/2026 23:05",
