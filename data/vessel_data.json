@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-29T16:45:38+00:00",
+  "generated_at": "2026-09-29T17:00:49+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SINAR SULAWESI",
         "code": "097S / 097N",
         "atb": "29/09/2026 11:02",
-        "etd": "30/09/2026 22:00",
+        "etd": "30/09/2026 14:00",
         "verified": false
       }
     ],
@@ -220,28 +220,6 @@
         "name": "MERATUS MALINO",
         "berth": "27/09/2026 17:00",
         "dep": "28/09/2026 09:20"
-      },
-      {
-        "name": "ES TREASURE",
-        "berth": "26/09/2026 03:20",
-        "dep": "27/09/2026 23:13"
-      },
-      {
-        "name": "MSC CHERYL 3",
-        "berth": "27/09/2026 03:40",
-        "dep": "27/09/2026 18:50"
-      },
-      {
-        "name": "EVER CANDID",
-        "berth": "26/09/2026 16:25",
-        "dep": "27/09/2026 16:10"
-      },
-      {
-        "name": "INTERASIA ENGAGE",
-        "berth": "26/09/2026 05:20",
-        "dep": "27/09/2026 12:07",
-        "mmsi": "563169200",
-        "imo": "9771664"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
