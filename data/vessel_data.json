@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:45:42+00:00",
+  "generated_at": "2026-09-30T17:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -222,16 +222,6 @@
         "name": "MSC SPARKLE III",
         "berth": "28/09/2026 02:45",
         "dep": "29/09/2026 01:47"
-      },
-      {
-        "name": "AS PIA",
-        "berth": "27/09/2026 18:20",
-        "dep": "28/09/2026 10:40"
-      },
-      {
-        "name": "MERATUS MALINO",
-        "berth": "27/09/2026 17:00",
-        "dep": "28/09/2026 09:20"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
