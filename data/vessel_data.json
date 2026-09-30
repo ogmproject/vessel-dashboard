@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T08:45:40+00:00",
+  "generated_at": "2026-09-30T08:53:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -244,22 +244,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "MERATUS KARIMUN",
-        "code": "MEIU023",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "29/09/2026 17:40",
-        "etd": "30/09/2026 19:00"
-      },
-      {
-        "name": "MERATUS KARIMUN",
-        "code": "MEIU023",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "ERASMUS JUSTICE",
