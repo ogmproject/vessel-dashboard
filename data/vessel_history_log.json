@@ -1414,6 +1414,13 @@
     "recorded_at": "2026-09-29T04:15:40.466638"
   },
   {
+    "vessel_name": "ARMADA SEGARA",
+    "terminal": "TPS",
+    "arrival": "2026-09-29T13:45:00",
+    "departure": "2026-09-30T08:25:00",
+    "recorded_at": "2026-09-30T03:15:54.586891"
+  },
+  {
     "vessel_name": "JINYUNHE",
     "terminal": "TPS",
     "arrival": "2026-09-29T16:40:00",
