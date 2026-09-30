@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T00:00:48+00:00",
+  "generated_at": "2026-09-30T00:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -232,7 +232,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "29/09/2026 17:40",
-        "etd": "30/09/2026 20:00"
+        "etd": "30/09/2026 23:00"
       },
       {
         "name": "MERATUS KARIMUN",
