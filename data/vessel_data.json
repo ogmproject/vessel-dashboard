@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T23:15:39+00:00",
+  "generated_at": "2026-09-30T23:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "0537S / 0537N",
         "atb": "30/09/2026 13:50",
         "etd": "01/10/2026 15:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - MSC KERRY VII",
-        "code": "XI639A / XI639R",
-        "atb": "30/09/2026 10:25",
-        "etd": "01/10/2026 02:00",
         "verified": false
       }
     ],
@@ -193,6 +186,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MSC KERRY VII",
+        "berth": "30/09/2026 10:25",
+        "dep": "01/10/2026 06:18"
+      },
       {
         "name": "SINAR SULAWESI",
         "berth": "29/09/2026 11:02",
