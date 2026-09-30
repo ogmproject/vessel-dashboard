@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T10:15:41+00:00",
+  "generated_at": "2026-09-30T10:30:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -281,6 +281,17 @@
         "imo": "9314923"
       },
       {
+        "name": "YONG SHENG",
+        "code": "YONG002",
+        "voyage": "197          / 197",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.LAUTAN LUAS MARITIM",
+        "etb": "02/10/2026 13:00",
+        "etd": "02/10/2026 20:00",
+        "openstack": "27/09/2026 13:00",
+        "closeC": "02/10/2026 08:00"
+      },
+      {
         "name": "HAPPY LUCKY",
         "code": "HAKY011",
         "voyage": "2636S        / 2636N",
@@ -324,19 +335,6 @@
         "imo": "9969948"
       },
       {
-        "name": "YM CENTENNIAL",
-        "code": "YMAL007",
-        "voyage": "071S         / 071N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "05/10/2026 22:00",
-        "etd": "06/10/2026 18:30",
-        "openstack": "30/09/2026 22:00",
-        "closeC": "05/10/2026 17:00",
-        "mmsi": "636019895",
-        "imo": "9864538"
-      },
-      {
         "name": "BELAWAN",
         "code": "BEAN014",
         "voyage": "2609S        / 2609N",
@@ -348,6 +346,19 @@
         "closeC": "05/10/2026 17:00",
         "mmsi": "477883500",
         "imo": "9412828"
+      },
+      {
+        "name": "YM CENTENNIAL",
+        "code": "YMAL007",
+        "voyage": "071S         / 071N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "etb": "05/10/2026 22:00",
+        "etd": "06/10/2026 18:30",
+        "openstack": "30/09/2026 22:00",
+        "closeC": "05/10/2026 17:00",
+        "mmsi": "636019895",
+        "imo": "9864538"
       },
       {
         "name": "HALLEY",
@@ -362,6 +373,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "MERATUS KARIMUN",
+        "code": "MEIU023",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "29/09/2026 17:40",
+        "atd": "30/09/2026 17:24"
+      },
       {
         "name": "YM EFFICIENCY",
         "code": "YMYM070",

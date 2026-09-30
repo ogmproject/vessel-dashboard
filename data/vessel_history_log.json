@@ -1431,8 +1431,8 @@
     "vessel_name": "MERATUS KARIMUN",
     "terminal": "TL",
     "arrival": "2026-09-29T17:40:00",
-    "departure": null,
-    "recorded_at": "2026-09-29T11:00:50.667366"
+    "departure": "2026-09-30T17:24:00",
+    "recorded_at": "2026-09-30T10:30:49.592638"
   },
   {
     "vessel_name": "MSC KERRY VII",
