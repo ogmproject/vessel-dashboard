@@ -1440,5 +1440,12 @@
     "arrival": "2026-09-30T10:25:00",
     "departure": null,
     "recorded_at": "2026-09-30T03:45:42.764980"
+  },
+  {
+    "vessel_name": "KOTA GANDING",
+    "terminal": "TPS",
+    "arrival": "2026-09-30T13:50:00",
+    "departure": null,
+    "recorded_at": "2026-09-30T07:30:48.242852"
   }
 ]
