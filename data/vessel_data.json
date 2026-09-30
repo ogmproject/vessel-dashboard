@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:30:46+00:00",
+  "generated_at": "2026-09-30T09:45:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -324,6 +324,19 @@
         "imo": "9969948"
       },
       {
+        "name": "YM CENTENNIAL",
+        "code": "YMAL007",
+        "voyage": "071S         / 071N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "etb": "05/10/2026 22:00",
+        "etd": "06/10/2026 18:30",
+        "openstack": "30/09/2026 22:00",
+        "closeC": "05/10/2026 17:00",
+        "mmsi": "636019895",
+        "imo": "9864538"
+      },
+      {
         "name": "BELAWAN",
         "code": "BEAN014",
         "voyage": "2609S        / 2609N",
@@ -337,17 +350,15 @@
         "imo": "9412828"
       },
       {
-        "name": "YM CENTENNIAL",
-        "code": "YMAL007",
-        "voyage": "071S         / 071N",
+        "name": "HALLEY",
+        "code": "HALY009",
+        "voyage": "016E         / 017W",
         "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "05/10/2026 22:00",
-        "etd": "06/10/2026 18:30",
-        "openstack": "30/09/2026 22:00",
-        "closeC": "05/10/2026 17:00",
-        "mmsi": "636019895",
-        "imo": "9864538"
+        "etb": "06/10/2026 13:00",
+        "etd": "07/10/2026 13:00",
+        "openstack": "01/10/2026 13:00",
+        "closeC": "06/10/2026 08:00",
+        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
       }
     ],
     "departed": [
