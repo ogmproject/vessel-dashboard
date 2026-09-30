@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:30:43+00:00",
+  "generated_at": "2026-09-30T12:45:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -242,18 +242,22 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "ERASMUS JUSTICE",
         "code": "ERJU007",
         "voyage": "013S         / 013N",
         "type": "INTERNATIONAL",
-        "etb": "30/09/2026 16:00",
-        "etd": "01/10/2026 03:00",
-        "openstack": "26/09/2026 00:00",
-        "closeC": "30/09/2026 19:00"
+        "atb": "30/09/2026 19:33",
+        "etd": "01/10/2026 03:00"
       },
+      {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU007",
+        "type": "INTERNATIONAL"
+      }
+    ],
+    "schedule": [
       {
         "name": "WANTAI",
         "code": "WANT007",
@@ -335,19 +339,6 @@
         "imo": "9969948"
       },
       {
-        "name": "YM CENTENNIAL",
-        "code": "YMAL007",
-        "voyage": "071S         / 071N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "05/10/2026 22:00",
-        "etd": "06/10/2026 18:30",
-        "openstack": "30/09/2026 22:00",
-        "closeC": "05/10/2026 17:00",
-        "mmsi": "636019895",
-        "imo": "9864538"
-      },
-      {
         "name": "BELAWAN",
         "code": "BEAN014",
         "voyage": "2609S        / 2609N",
@@ -359,6 +350,19 @@
         "closeC": "05/10/2026 17:00",
         "mmsi": "477883500",
         "imo": "9412828"
+      },
+      {
+        "name": "YM CENTENNIAL",
+        "code": "YMAL007",
+        "voyage": "071S         / 071N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "etb": "05/10/2026 22:00",
+        "etd": "06/10/2026 18:30",
+        "openstack": "30/09/2026 22:00",
+        "closeC": "05/10/2026 17:00",
+        "mmsi": "636019895",
+        "imo": "9864538"
       },
       {
         "name": "HALLEY",
