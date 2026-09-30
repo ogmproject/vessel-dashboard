@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-30T15:00:58+00:00",
+  "generated_at": "2026-09-30T15:15:43+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - MSC MALENA III",
+        "code": "XF638A / XF638R",
+        "atb": "30/09/2026 22:07",
+        "etd": "01/10/2026 11:00",
+        "verified": false
+      },
       {
         "name": "I3 - KOTA GANDING",
         "code": "0537S / 0537N",
@@ -18,18 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MSC MALENA III",
-        "code": "XF638A / XF638R",
-        "eta": "30/09/2026 18:00",
-        "etd": "01/10/2026 11:00",
-        "openstack": "25/09/2026 02:00",
-        "closeC": "29/09/2026 20:00",
-        "closeD": "29/09/2026 23:00",
-        "verified": false,
-        "mmsi": "636020360",
-        "imo": "9203538"
-      },
       {
         "name": "HONG TAI 656",
         "code": "638S / 638S",
