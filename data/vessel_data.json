@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-09-30T08:53:34+00:00",
+  "generated_at": "2026-09-30T09:00:49+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - SINAR SULAWESI",
-        "code": "097S / 097N",
-        "atb": "29/09/2026 11:02",
-        "etd": "30/09/2026 16:00",
-        "verified": false
-      },
       {
         "name": "I3 - KOTA GANDING",
         "code": "0537S / 0537N",
@@ -205,6 +198,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SINAR SULAWESI",
+        "berth": "29/09/2026 11:02",
+        "dep": "30/09/2026 15:50"
+      },
       {
         "name": "ARMADA SEGARA",
         "berth": "29/09/2026 13:45",

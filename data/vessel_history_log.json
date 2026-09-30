@@ -1410,8 +1410,8 @@
     "vessel_name": "SINAR SULAWESI",
     "terminal": "TPS",
     "arrival": "2026-09-29T11:02:00",
-    "departure": null,
-    "recorded_at": "2026-09-29T04:15:40.466638"
+    "departure": "2026-09-30T15:50:00",
+    "recorded_at": "2026-09-30T09:00:49.541251"
   },
   {
     "vessel_name": "ARMADA SEGARA",
