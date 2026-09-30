@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:00:54+00:00",
+  "generated_at": "2026-09-30T14:15:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -249,7 +249,7 @@
         "voyage": "013S         / 013N",
         "type": "INTERNATIONAL",
         "atb": "30/09/2026 19:33",
-        "etd": "01/10/2026 03:00"
+        "etd": "01/10/2026 06:00"
       },
       {
         "name": "ERASMUS JUSTICE",
@@ -372,8 +372,7 @@
         "etb": "06/10/2026 13:00",
         "etd": "07/10/2026 13:00",
         "openstack": "01/10/2026 13:00",
-        "closeC": "06/10/2026 08:00",
-        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
+        "closeC": "06/10/2026 08:00"
       }
     ],
     "departed": [
