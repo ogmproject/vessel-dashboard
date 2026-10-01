@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:45:45+00:00",
+  "generated_at": "2026-10-01T17:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -259,26 +259,6 @@
         "name": "ARMADA SEGARA",
         "berth": "29/09/2026 13:45",
         "dep": "30/09/2026 08:25"
-      },
-      {
-        "name": "JINYUNHE",
-        "berth": "29/09/2026 16:40",
-        "dep": "29/09/2026 23:12"
-      },
-      {
-        "name": "CMA CGM FORT DIAMANT",
-        "berth": "28/09/2026 13:17",
-        "dep": "29/09/2026 19:15"
-      },
-      {
-        "name": "ZHONG GU FU ZHOU",
-        "berth": "27/09/2026 23:05",
-        "dep": "29/09/2026 03:57"
-      },
-      {
-        "name": "MSC SPARKLE III",
-        "berth": "28/09/2026 02:45",
-        "dep": "29/09/2026 01:47"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
