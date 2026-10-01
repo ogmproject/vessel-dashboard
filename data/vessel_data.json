@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:00:48+00:00",
+  "generated_at": "2026-10-01T05:15:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -239,21 +239,27 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "WANTAI",
         "code": "WANT007",
         "voyage": "2638S       /  2638N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "01/10/2026 11:30",
+        "atb": "01/10/2026 11:50",
         "etd": "02/10/2026 03:30",
-        "openstack": "26/09/2026 00:00",
-        "closeC": "30/09/2026 18:00",
         "mmsi": "636024258",
         "imo": "9168207"
       },
+      {
+        "name": "WANTAI",
+        "code": "WANT007",
+        "type": "INTERNATIONAL",
+        "mmsi": "636024258",
+        "imo": "9168207"
+      }
+    ],
+    "schedule": [
       {
         "name": "KMTC HOCHIMINH",
         "code": "KMHO011",

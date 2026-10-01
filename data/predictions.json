@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:00:48.295096",
+  "generated_at": "2026-10-01T05:15:43.946884",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -108,6 +108,17 @@
       "avg_interval_days": 18.8,
       "interval_stddev_days": 9.6,
       "avg_dwelling_hours": 19.3,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "WANTAI",
+      "terminal": "TL",
+      "last_arrival": "2026-10-01T11:50:00",
+      "predicted_next_arrival": "2026-10-22T11:44:00",
+      "avg_interval_days": 21.0,
+      "interval_stddev_days": 1.2,
+      "avg_dwelling_hours": 15.2,
       "visits_recorded": 3,
       "confidence": "medium"
     }

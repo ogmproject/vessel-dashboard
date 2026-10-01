@@ -1475,5 +1475,12 @@
     "arrival": "2026-10-01T10:50:00",
     "departure": null,
     "recorded_at": "2026-10-01T04:00:47.522366"
+  },
+  {
+    "vessel_name": "WANTAI",
+    "terminal": "TL",
+    "arrival": "2026-10-01T11:50:00",
+    "departure": null,
+    "recorded_at": "2026-10-01T05:15:43.946884"
   }
 ]
