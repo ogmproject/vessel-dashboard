@@ -1452,8 +1452,8 @@
     "vessel_name": "ERASMUS JUSTICE",
     "terminal": "TL",
     "arrival": "2026-09-30T19:33:00",
-    "departure": null,
-    "recorded_at": "2026-09-30T12:45:40.082389"
+    "departure": "2026-10-01T07:08:00",
+    "recorded_at": "2026-10-01T00:15:39.192599"
   },
   {
     "vessel_name": "MSC MALENA III",

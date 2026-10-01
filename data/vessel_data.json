@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T00:00:48+00:00",
+  "generated_at": "2026-10-01T00:15:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -225,23 +225,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU007",
-        "voyage": "013S         / 013N",
-        "type": "INTERNATIONAL",
-        "atb": "30/09/2026 19:33",
-        "etd": "01/10/2026 07:00"
-      },
-      {
-        "name": "5126",
-        "code": "5126",
-        "carrier": "PT. TEMAS SHIPPING",
-        "voyage": "ERASMUS JUSTICE / ERJU007",
-        "type": "INTERNATIONAL"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "WANTAI",
@@ -361,6 +345,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU007",
+        "voyage": "013S         / 013N",
+        "type": "INTERNATIONAL",
+        "atb": "30/09/2026 19:33",
+        "atd": "01/10/2026 07:08"
+      },
       {
         "name": "MERATUS KARIMUN",
         "code": "MEIU023",
