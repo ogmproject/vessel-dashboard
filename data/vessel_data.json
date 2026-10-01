@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T03:45:37+00:00",
+  "generated_at": "2026-10-01T04:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -17,6 +17,13 @@
         "verified": false
       },
       {
+        "name": "I2 - WAN HAI 376",
+        "code": "S034 / N035",
+        "atb": "01/10/2026 10:50",
+        "etd": "02/10/2026 03:00",
+        "verified": false
+      },
+      {
         "name": "I1 - HONG TAI 656",
         "code": "638S / 638S",
         "atb": "01/10/2026 09:50",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "WAN HAI 376",
-        "code": "S034 / N035",
-        "eta": "01/10/2026 09:00",
-        "etd": "02/10/2026 03:00",
-        "openstack": "25/09/2026 08:00",
-        "closeC": "30/09/2026 02:00",
-        "closeD": "30/09/2026 05:00",
-        "verified": false
-      },
       {
         "name": "EVER BEFIT",
         "code": "1211-082A / 1211-082A",
