@@ -1482,5 +1482,12 @@
     "arrival": "2026-10-01T11:50:00",
     "departure": null,
     "recorded_at": "2026-10-01T05:15:43.946884"
+  },
+  {
+    "vessel_name": "EVER BEFIT",
+    "terminal": "TPS",
+    "arrival": "2026-10-01T16:50:00",
+    "departure": null,
+    "recorded_at": "2026-10-01T10:00:52.210855"
   }
 ]

@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-01T09:45:40+00:00",
+  "generated_at": "2026-10-01T10:00:52+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - EVER BEFIT",
+        "code": "1211-082A / 1211-082A",
+        "atb": "01/10/2026 16:50",
+        "etd": "02/10/2026 16:00",
+        "verified": false
+      },
       {
         "name": "I3 - KOTA GANDING",
         "code": "0537S / 0537N",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER BEFIT",
-        "code": "1211-082A / 1211-082A",
-        "eta": "01/10/2026 16:00",
-        "etd": "02/10/2026 16:00",
-        "openstack": "26/09/2026 23:00",
-        "closeC": "01/10/2026 17:00",
-        "closeD": "01/10/2026 20:00",
-        "verified": false
-      },
       {
         "name": "EVER CHASTE",
         "code": "0555-096S / 0555-096N",
@@ -189,6 +186,16 @@
         "openstack": "02/10/2026 02:00",
         "closeC": "06/10/2026 20:00",
         "closeD": "06/10/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "ANL DHAMBI",
+        "code": "1726S / 1726S",
+        "eta": "07/10/2026 06:00",
+        "etd": "07/10/2026 13:30",
+        "openstack": "02/10/2026 06:00",
+        "closeC": "07/10/2026 00:00",
+        "closeD": "07/10/2026 03:00",
         "verified": false
       },
       {
