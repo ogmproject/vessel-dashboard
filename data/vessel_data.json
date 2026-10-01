@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-10-01T08:45:41+00:00",
+  "generated_at": "2026-10-01T09:00:50+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - MSC MALENA III",
-        "code": "XF638A / XF638R",
-        "atb": "30/09/2026 22:07",
-        "etd": "01/10/2026 11:00",
-        "verified": false
-      },
       {
         "name": "I3 - KOTA GANDING",
         "code": "0537S / 0537N",
@@ -220,6 +213,13 @@
       }
     ],
     "movement": [
+      {
+        "name": "MSC MALENA III",
+        "berth": "30/09/2026 22:07",
+        "dep": "01/10/2026 13:30",
+        "mmsi": "636020360",
+        "imo": "9203538"
+      },
       {
         "name": "MSC KERRY VII",
         "berth": "30/09/2026 10:25",
