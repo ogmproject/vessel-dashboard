@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:30:43+00:00",
+  "generated_at": "2026-10-01T07:45:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -186,6 +186,26 @@
         "openstack": "01/10/2026 12:00",
         "closeC": "06/10/2026 06:00",
         "closeD": "06/10/2026 09:00",
+        "verified": false
+      },
+      {
+        "name": "MSC CHERYL 3",
+        "code": "XF639A / XF639R",
+        "eta": "07/10/2026 02:00",
+        "etd": "08/10/2026 08:30",
+        "openstack": "02/10/2026 02:00",
+        "closeC": "06/10/2026 20:00",
+        "closeD": "06/10/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "STARSHIP VENUS",
+        "code": "2608S / 2608N",
+        "eta": "07/10/2026 12:00",
+        "etd": "08/10/2026 16:30",
+        "openstack": "07/10/2026 12:00",
+        "closeC": "07/10/2026 06:00",
+        "closeD": "07/10/2026 09:00",
         "verified": false
       },
       {
