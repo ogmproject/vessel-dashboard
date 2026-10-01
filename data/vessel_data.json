@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:30:49+00:00",
+  "generated_at": "2026-10-01T13:45:25+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "1211-082A / 1211-082A",
         "atb": "01/10/2026 16:50",
         "etd": "02/10/2026 16:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - KOTA GANDING",
-        "code": "0537S / 0537N",
-        "atb": "30/09/2026 13:50",
-        "etd": "01/10/2026 20:00",
         "verified": false
       },
       {
@@ -240,6 +233,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "KOTA GANDING",
+        "berth": "30/09/2026 13:50",
+        "dep": "01/10/2026 20:30"
+      },
       {
         "name": "MSC MALENA III",
         "berth": "30/09/2026 22:07",
