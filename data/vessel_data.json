@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:15:44+00:00",
+  "generated_at": "2026-10-01T20:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -266,6 +266,24 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "KMTC HOCHIMINH",
+        "code": "KMHO011",
+        "voyage": "2609S        / 2609N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "02/10/2026 03:10",
+        "etd": "03/10/2026 04:00",
+        "mmsi": "440147000",
+        "imo": "9314923"
+      },
+      {
+        "name": "KMTC HOCHIMINH",
+        "code": "KMHO011",
+        "type": "INTERNATIONAL",
+        "mmsi": "440147000",
+        "imo": "9314923"
+      },
+      {
         "name": "WANTAI",
         "code": "WANT007",
         "type": "INTERNATIONAL",
@@ -274,19 +292,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "KMTC HOCHIMINH",
-        "code": "KMHO011",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "02/10/2026 03:00",
-        "etd": "03/10/2026 04:00",
-        "openstack": "27/09/2026 03:00",
-        "closeC": "01/10/2026 22:00",
-        "mmsi": "440147000",
-        "imo": "9314923"
-      },
       {
         "name": "YONG SHENG",
         "code": "YONG002",
