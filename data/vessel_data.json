@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:15:42+00:00",
+  "generated_at": "2026-10-01T18:30:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -265,17 +265,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "WANTAI",
-        "code": "WANT007",
-        "voyage": "2638S       /  2638N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "01/10/2026 11:50",
-        "etd": "02/10/2026 04:00",
-        "mmsi": "636024258",
-        "imo": "9168207"
-      },
       {
         "name": "WANTAI",
         "code": "WANT007",
