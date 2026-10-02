@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:00:52+00:00",
+  "generated_at": "2026-10-02T12:15:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -295,17 +295,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "KMTC HOCHIMINH",
-        "code": "KMHO011",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "02/10/2026 03:10",
-        "etd": "03/10/2026 04:00",
-        "mmsi": "440147000",
-        "imo": "9314923"
-      },
       {
         "name": "KMTC HOCHIMINH",
         "code": "KMHO011",
