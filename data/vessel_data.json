@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T00:00:51+00:00",
+  "generated_at": "2026-10-02T00:15:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -387,14 +387,6 @@
         "atd": "02/10/2026 03:40",
         "mmsi": "636024258",
         "imo": "9168207"
-      },
-      {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU007",
-        "voyage": "013S         / 013N",
-        "type": "INTERNATIONAL",
-        "atb": "30/09/2026 19:33",
-        "atd": "01/10/2026 07:08"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
