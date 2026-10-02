@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T15:45:42+00:00",
+  "generated_at": "2026-10-02T16:00:55+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -307,11 +307,11 @@
         "type": "INTERNATIONAL"
       },
       {
-        "name": "KMTC HOCHIMINH",
-        "code": "KMHO011",
-        "type": "INTERNATIONAL",
-        "mmsi": "440147000",
-        "imo": "9314923"
+        "name": "3226",
+        "code": "3226",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "KMTC HOCHIMINH / KMHO011",
+        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
