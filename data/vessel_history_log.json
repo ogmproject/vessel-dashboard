@@ -1466,8 +1466,8 @@
     "vessel_name": "HONG TAI 656",
     "terminal": "TPS",
     "arrival": "2026-10-01T09:50:00",
-    "departure": null,
-    "recorded_at": "2026-10-01T03:01:05.965239"
+    "departure": "2026-10-02T09:51:00",
+    "recorded_at": "2026-10-02T03:00:50.144525"
   },
   {
     "vessel_name": "WAN HAI 376",
