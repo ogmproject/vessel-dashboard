@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:15:43+00:00",
+  "generated_at": "2026-10-02T18:30:58+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -288,20 +288,6 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "YONG SHENG",
-        "code": "YONG002",
-        "voyage": "197          / 197",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.LAUTAN LUAS MARITIM",
-        "atb": "02/10/2026 22:15",
-        "etd": "03/10/2026 05:00"
-      },
-      {
-        "name": "YONG SHENG",
-        "code": "YONG002",
-        "type": "INTERNATIONAL"
-      },
-      {
         "name": "3226",
         "code": "3226",
         "carrier": "PT. MENTARI MAS MULTIMODA",
@@ -437,6 +423,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "YONG SHENG",
+        "code": "YONG002",
+        "voyage": "197          / 197",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.LAUTAN LUAS MARITIM",
+        "atb": "02/10/2026 22:15",
+        "atd": "03/10/2026 01:14"
+      },
       {
         "name": "WANTAI",
         "code": "WANT007",
