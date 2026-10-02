@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T20:30:48+00:00",
+  "generated_at": "2026-10-02T20:45:54+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -434,17 +434,6 @@
         "atd": "03/10/2026 03:10",
         "mmsi": "440147000",
         "imo": "9314923"
-      },
-      {
-        "name": "WANTAI",
-        "code": "WANT007",
-        "voyage": "2638S       /  2638N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "01/10/2026 11:50",
-        "atd": "02/10/2026 03:40",
-        "mmsi": "636024258",
-        "imo": "9168207"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
