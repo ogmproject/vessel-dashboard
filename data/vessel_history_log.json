@@ -1473,8 +1473,8 @@
     "vessel_name": "WAN HAI 376",
     "terminal": "TPS",
     "arrival": "2026-10-01T10:50:00",
-    "departure": null,
-    "recorded_at": "2026-10-01T04:00:47.522366"
+    "departure": "2026-10-02T15:41:00",
+    "recorded_at": "2026-10-02T10:15:42.552643"
   },
   {
     "vessel_name": "WANTAI",
