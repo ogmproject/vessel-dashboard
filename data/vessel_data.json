@@ -1,15 +1,7 @@
 {
-  "generated_at": "2026-10-02T13:15:43+00:00",
+  "generated_at": "2026-10-02T13:30:45+00:00",
   "tps": {
-    "alongside": [
-      {
-        "name": "I4 - EVER BEFIT",
-        "code": "1211-082A / 1211-082A",
-        "atb": "01/10/2026 16:50",
-        "etd": "02/10/2026 19:00",
-        "verified": false
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "EVER CHASTE",
@@ -253,6 +245,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER BEFIT",
+        "berth": "01/10/2026 16:50",
+        "dep": "02/10/2026 20:14"
+      },
       {
         "name": "WAN HAI 376",
         "berth": "01/10/2026 10:50",
