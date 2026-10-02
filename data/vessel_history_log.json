@@ -1496,5 +1496,12 @@
     "arrival": "2026-10-02T03:10:00",
     "departure": null,
     "recorded_at": "2026-10-01T20:30:45.573630"
+  },
+  {
+    "vessel_name": "YONG SHENG",
+    "terminal": "TL",
+    "arrival": "2026-10-02T22:15:00",
+    "departure": null,
+    "recorded_at": "2026-10-02T15:26:48.095844"
   }
 ]

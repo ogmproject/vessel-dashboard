@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T15:15:42+00:00",
+  "generated_at": "2026-10-02T15:26:47+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -293,6 +293,20 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "YONG SHENG",
+        "code": "YONG002",
+        "voyage": "197          / 197",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.LAUTAN LUAS MARITIM",
+        "atb": "02/10/2026 22:15",
+        "etd": "03/10/2026 05:00"
+      },
+      {
+        "name": "YONG SHENG",
+        "code": "YONG002",
+        "type": "INTERNATIONAL"
+      },
+      {
         "name": "KMTC HOCHIMINH",
         "code": "KMHO011",
         "type": "INTERNATIONAL",
@@ -301,17 +315,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "YONG SHENG",
-        "code": "YONG002",
-        "voyage": "197          / 197",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.LAUTAN LUAS MARITIM",
-        "etb": "02/10/2026 22:00",
-        "etd": "03/10/2026 05:00",
-        "openstack": "27/09/2026 13:00",
-        "closeC": "02/10/2026 08:00"
-      },
       {
         "name": "ITAL BONNY",
         "code": "ITNY010",
@@ -402,16 +405,6 @@
         "closeC": "06/10/2026 05:00"
       },
       {
-        "name": "2639S",
-        "code": "2639N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "08/10/2026 08:00",
-        "etd": "09/10/2026 06:30",
-        "openstack": "03/10/2026 08:00",
-        "closeC": "07/10/2026 18:00"
-      },
-      {
         "name": "SEASPAN EMERALD",
         "code": "SEEM011",
         "voyage": "48S          / 48N",
@@ -423,6 +416,16 @@
         "closeC": "08/10/2026 03:00",
         "mmsi": "563279800",
         "imo": "9407134"
+      },
+      {
+        "name": "2639S",
+        "code": "2639N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "08/10/2026 08:00",
+        "etd": "09/10/2026 06:30",
+        "openstack": "03/10/2026 08:00",
+        "closeC": "07/10/2026 18:00"
       },
       {
         "name": "WAN HANG HENG YUAN",
