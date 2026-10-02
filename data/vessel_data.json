@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T20:15:45+00:00",
+  "generated_at": "2026-10-02T20:30:48+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -286,15 +286,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "3226",
-        "code": "3226",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "KMTC HOCHIMINH / KMHO011",
-        "type": "INTERNATIONAL"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "ITAL BONNY",
@@ -431,6 +423,17 @@
         "carrier": "PT.LAUTAN LUAS MARITIM",
         "atb": "02/10/2026 22:15",
         "atd": "03/10/2026 01:14"
+      },
+      {
+        "name": "KMTC HOCHIMINH",
+        "code": "KMHO011",
+        "voyage": "2609S        / 2609N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "02/10/2026 03:10",
+        "atd": "03/10/2026 03:10",
+        "mmsi": "440147000",
+        "imo": "9314923"
       },
       {
         "name": "WANTAI",

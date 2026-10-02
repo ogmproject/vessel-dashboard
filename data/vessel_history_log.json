@@ -1494,8 +1494,8 @@
     "vessel_name": "KMTC HOCHIMINH",
     "terminal": "TL",
     "arrival": "2026-10-02T03:10:00",
-    "departure": null,
-    "recorded_at": "2026-10-01T20:30:45.573630"
+    "departure": "2026-10-03T03:10:00",
+    "recorded_at": "2026-10-02T20:30:48.579554"
   },
   {
     "vessel_name": "BALI KUTA",
