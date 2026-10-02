@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T07:45:44+00:00",
+  "generated_at": "2026-10-02T08:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -329,17 +329,6 @@
         "closeC": "02/10/2026 08:00"
       },
       {
-        "name": "HAPPY LUCKY",
-        "code": "HAKY011",
-        "voyage": "2636S        / 2636N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. FORECASTLE INDONESIA",
-        "etb": "03/10/2026 20:00",
-        "etd": "04/10/2026 15:30",
-        "openstack": "28/09/2026 20:00",
-        "closeC": "03/10/2026 05:00"
-      },
-      {
         "name": "ITAL BONNY",
         "code": "ITNY010",
         "voyage": "S105         / N105",
@@ -358,6 +347,17 @@
         "etd": "06/10/2026 00:00",
         "openstack": "30/09/2026 00:00",
         "closeC": "04/10/2026 19:00"
+      },
+      {
+        "name": "HAPPY LUCKY",
+        "code": "HAKY011",
+        "voyage": "2636S        / 2636N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. FORECASTLE INDONESIA",
+        "etb": "05/10/2026 05:00",
+        "etd": "06/10/2026 00:00",
+        "openstack": "28/09/2026 20:00",
+        "closeC": "03/10/2026 05:00"
       },
       {
         "name": "CELSIUS EINDHOVEN",
@@ -425,7 +425,7 @@
         "etb": "08/10/2026 08:00",
         "etd": "09/10/2026 06:30",
         "openstack": "03/10/2026 08:00",
-        "closeC": "08/10/2026 03:00"
+        "closeC": "07/10/2026 18:00"
       },
       {
         "name": "SEASPAN EMERALD",
