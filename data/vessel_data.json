@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:45:43+00:00",
+  "generated_at": "2026-10-02T17:00:55+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -246,6 +246,11 @@
     ],
     "movement": [
       {
+        "name": "BALI KUTA",
+        "berth": "02/10/2026 16:30",
+        "dep": "02/10/2026 23:53"
+      },
+      {
         "name": "EVER BEFIT",
         "berth": "01/10/2026 16:50",
         "dep": "02/10/2026 20:14"
@@ -276,16 +281,6 @@
         "name": "MSC KERRY VII",
         "berth": "30/09/2026 10:25",
         "dep": "01/10/2026 06:18"
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "berth": "29/09/2026 11:02",
-        "dep": "30/09/2026 15:50"
-      },
-      {
-        "name": "ARMADA SEGARA",
-        "berth": "29/09/2026 13:45",
-        "dep": "30/09/2026 08:25"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
