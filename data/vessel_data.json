@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T12:15:42+00:00",
+  "generated_at": "2026-10-03T12:30:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -8,21 +8,16 @@
         "atb": "03/10/2026 12:05",
         "etd": "03/10/2026 22:00",
         "verified": false
+      },
+      {
+        "name": "I1 - CONTSHIP YEN",
+        "code": "2526S / 2526S",
+        "atb": "03/10/2026 19:10",
+        "etd": "04/10/2026 06:30",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "CONTSHIP YEN",
-        "code": "2526S / 2526S",
-        "eta": "03/10/2026 18:00",
-        "etd": "04/10/2026 06:30",
-        "openstack": "26/09/2026 22:00",
-        "closeC": "01/10/2026 16:00",
-        "closeD": "01/10/2026 19:00",
-        "verified": false,
-        "mmsi": "209692000",
-        "imo": "9664263"
-      },
       {
         "name": "SINAR SUNDA",
         "code": "244S / 244N",

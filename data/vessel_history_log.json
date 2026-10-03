@@ -1517,5 +1517,12 @@
     "arrival": "2026-10-03T12:05:00",
     "departure": null,
     "recorded_at": "2026-10-03T05:16:18.233978"
+  },
+  {
+    "vessel_name": "CONTSHIP YEN",
+    "terminal": "TPS",
+    "arrival": "2026-10-03T19:10:00",
+    "departure": null,
+    "recorded_at": "2026-10-03T12:30:56.832163"
   }
 ]
