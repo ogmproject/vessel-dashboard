@@ -1522,8 +1522,8 @@
     "vessel_name": "CONTSHIP YEN",
     "terminal": "TPS",
     "arrival": "2026-10-03T19:10:00",
-    "departure": null,
-    "recorded_at": "2026-10-03T12:30:56.832163"
+    "departure": "2026-10-04T04:45:00",
+    "recorded_at": "2026-10-03T21:58:08.616161"
   },
   {
     "vessel_name": "SINAR SUNDA",
