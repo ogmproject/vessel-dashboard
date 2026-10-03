@@ -1515,8 +1515,8 @@
     "vessel_name": "EVER CHASTE",
     "terminal": "TPS",
     "arrival": "2026-10-03T12:05:00",
-    "departure": null,
-    "recorded_at": "2026-10-03T05:16:18.233978"
+    "departure": "2026-10-03T22:38:00",
+    "recorded_at": "2026-10-03T15:45:45.554501"
   },
   {
     "vessel_name": "CONTSHIP YEN",

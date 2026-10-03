@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-10-03T15:30:49+00:00",
+  "generated_at": "2026-10-03T15:45:45+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I2 - EVER CHASTE",
-        "code": "0555-096S / 0555-096N",
-        "atb": "03/10/2026 12:05",
-        "etd": "03/10/2026 21:00",
-        "verified": false
-      },
       {
         "name": "I1 - CONTSHIP YEN",
         "code": "2526S / 2526S",
@@ -259,6 +252,11 @@
     ],
     "movement": [
       {
+        "name": "EVER CHASTE",
+        "berth": "03/10/2026 12:05",
+        "dep": "03/10/2026 22:38"
+      },
+      {
         "name": "BALI KUTA",
         "berth": "02/10/2026 16:30",
         "dep": "02/10/2026 23:53"
@@ -391,6 +389,16 @@
         "closeC": "06/10/2026 05:00"
       },
       {
+        "name": "2639S",
+        "code": "2639N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "08/10/2026 08:00",
+        "etd": "09/10/2026 06:30",
+        "openstack": "03/10/2026 08:00",
+        "closeC": "07/10/2026 18:00"
+      },
+      {
         "name": "SEASPAN EMERALD",
         "code": "SEEM011",
         "voyage": "48S          / 48N",
@@ -402,16 +410,6 @@
         "closeC": "08/10/2026 03:00",
         "mmsi": "563279800",
         "imo": "9407134"
-      },
-      {
-        "name": "2639S",
-        "code": "2639N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "08/10/2026 08:00",
-        "etd": "09/10/2026 06:30",
-        "openstack": "03/10/2026 08:00",
-        "closeC": "07/10/2026 18:00"
       },
       {
         "name": "WAN HANG HENG YUAN",
