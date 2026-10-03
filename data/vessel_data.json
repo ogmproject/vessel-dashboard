@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T08:45:43+00:00",
+  "generated_at": "2026-10-03T09:00:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -396,16 +396,6 @@
         "closeC": "06/10/2026 05:00"
       },
       {
-        "name": "2639S",
-        "code": "2639N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "08/10/2026 08:00",
-        "etd": "09/10/2026 06:30",
-        "openstack": "03/10/2026 08:00",
-        "closeC": "07/10/2026 18:00"
-      },
-      {
         "name": "SEASPAN EMERALD",
         "code": "SEEM011",
         "voyage": "48S          / 48N",
@@ -417,6 +407,16 @@
         "closeC": "08/10/2026 03:00",
         "mmsi": "563279800",
         "imo": "9407134"
+      },
+      {
+        "name": "2639S",
+        "code": "2639N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "08/10/2026 08:00",
+        "etd": "09/10/2026 06:30",
+        "openstack": "03/10/2026 08:00",
+        "closeC": "07/10/2026 18:00"
       },
       {
         "name": "WAN HANG HENG YUAN",
