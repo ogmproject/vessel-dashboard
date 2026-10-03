@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:45:41+00:00",
+  "generated_at": "2026-10-03T17:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -272,23 +272,6 @@
         "name": "HONG TAI 656",
         "berth": "01/10/2026 09:50",
         "dep": "02/10/2026 09:51"
-      },
-      {
-        "name": "KOTA GANDING",
-        "berth": "30/09/2026 13:50",
-        "dep": "01/10/2026 20:30"
-      },
-      {
-        "name": "MSC MALENA III",
-        "berth": "30/09/2026 22:07",
-        "dep": "01/10/2026 13:30",
-        "mmsi": "636020360",
-        "imo": "9203538"
-      },
-      {
-        "name": "MSC KERRY VII",
-        "berth": "30/09/2026 10:25",
-        "dep": "01/10/2026 06:18"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
