@@ -1,18 +1,16 @@
 {
-  "generated_at": "2026-10-03T05:00:52+00:00",
+  "generated_at": "2026-10-03T05:16:17+00:00",
   "tps": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
-        "name": "EVER CHASTE",
+        "name": "I2 - EVER CHASTE",
         "code": "0555-096S / 0555-096N",
-        "eta": "03/10/2026 12:00",
+        "atb": "03/10/2026 12:05",
         "etd": "04/10/2026 02:00",
-        "openstack": "28/09/2026 16:00",
-        "closeC": "03/10/2026 10:00",
-        "closeD": "03/10/2026 13:00",
         "verified": false
-      },
+      }
+    ],
+    "schedule": [
       {
         "name": "CONTSHIP YEN",
         "code": "2526S / 2526S",
