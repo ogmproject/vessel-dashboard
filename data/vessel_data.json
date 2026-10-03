@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:00:47+00:00",
+  "generated_at": "2026-10-03T20:15:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,7 +20,7 @@
         "name": "I1 - CONTSHIP YEN",
         "code": "2526S / 2526S",
         "atb": "03/10/2026 19:10",
-        "etd": "04/10/2026 04:30",
+        "etd": "04/10/2026 03:30",
         "verified": false
       }
     ],
@@ -401,19 +401,7 @@
         "imo": "1115565"
       }
     ],
-    "departed": [
-      {
-        "name": "KMTC HOCHIMINH",
-        "code": "KMHO011",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "02/10/2026 03:10",
-        "atd": "03/10/2026 03:10",
-        "mmsi": "440147000",
-        "imo": "9314923"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
