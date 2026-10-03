@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-03T16:15:45+00:00",
+  "generated_at": "2026-10-03T16:30:48+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - SINAR SUNDA",
+        "code": "244S / 244N",
+        "atb": "03/10/2026 23:20",
+        "etd": "05/10/2026 08:00",
+        "verified": false
+      },
       {
         "name": "I1 - CONTSHIP YEN",
         "code": "2526S / 2526S",
@@ -11,16 +18,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SINAR SUNDA",
-        "code": "244S / 244N",
-        "eta": "03/10/2026 21:00",
-        "etd": "05/10/2026 08:00",
-        "openstack": "28/09/2026 22:00",
-        "closeC": "03/10/2026 16:00",
-        "closeD": "03/10/2026 19:00",
-        "verified": false
-      },
       {
         "name": "ARTOTINA",
         "code": "637S / 640N",

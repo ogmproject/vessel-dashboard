@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:15:45.295364",
+  "generated_at": "2026-10-03T16:30:48.882879",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -75,6 +75,17 @@
       "avg_interval_days": 17.4,
       "interval_stddev_days": 0.4,
       "avg_dwelling_hours": 18.1,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "SINAR SUNDA",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-03T23:20:00",
+      "predicted_next_arrival": "2026-10-12T20:29:00",
+      "avg_interval_days": 8.9,
+      "interval_stddev_days": 1.1,
+      "avg_dwelling_hours": 38.0,
       "visits_recorded": 3,
       "confidence": "medium"
     },
