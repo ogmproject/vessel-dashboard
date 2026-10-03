@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:00:51+00:00",
+  "generated_at": "2026-10-03T18:15:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "244S / 244N",
         "atb": "03/10/2026 23:20",
         "etd": "05/10/2026 18:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - ARTOTINA",
+        "code": "637S / 640N",
+        "atb": "04/10/2026 01:00",
+        "etd": "04/10/2026 15:00",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "ARTOTINA",
-        "code": "637S / 640N",
-        "eta": "03/10/2026 22:00",
-        "etd": "04/10/2026 15:00",
-        "openstack": "28/09/2026 23:00",
-        "closeC": "03/10/2026 17:00",
-        "closeD": "03/10/2026 20:00",
-        "verified": false
-      },
       {
         "name": "XIN YAN TAI",
         "code": "274S / 274N",
@@ -405,15 +402,6 @@
       }
     ],
     "departed": [
-      {
-        "name": "YONG SHENG",
-        "code": "YONG002",
-        "voyage": "197          / 197",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.LAUTAN LUAS MARITIM",
-        "atb": "02/10/2026 22:15",
-        "atd": "03/10/2026 01:14"
-      },
       {
         "name": "KMTC HOCHIMINH",
         "code": "KMHO011",
