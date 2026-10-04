@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T09:30:46+00:00",
+  "generated_at": "2026-10-04T09:45:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -215,6 +215,16 @@
         "imo": "9958121"
       },
       {
+        "name": "CMA CGM POINTE DU PITON",
+        "code": "0XLCNS / 0XLCON",
+        "eta": "09/10/2026 16:00",
+        "etd": "11/10/2026 12:30",
+        "openstack": "04/10/2026 16:00",
+        "closeC": "09/10/2026 10:00",
+        "closeD": "09/10/2026 13:00",
+        "verified": false
+      },
+      {
         "name": "KMTC SHANGHAI",
         "code": "2608S / 2608N",
         "eta": "12/10/2026 00:30",
@@ -298,7 +308,7 @@
         "etb": "05/10/2026 05:00",
         "etd": "06/10/2026 03:00",
         "openstack": "28/09/2026 20:00",
-        "closeC": "04/10/2026 00:00"
+        "closeC": "05/10/2026 00:00"
       },
       {
         "name": "CELSIUS EINDHOVEN",
