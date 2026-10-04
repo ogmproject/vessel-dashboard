@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T04:45:39+00:00",
+  "generated_at": "2026-10-04T05:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -15,21 +15,16 @@
         "atb": "04/10/2026 01:00",
         "etd": "04/10/2026 15:00",
         "verified": false
+      },
+      {
+        "name": "I2 - XIN YAN TAI",
+        "code": "274S / 274N",
+        "atb": "04/10/2026 11:50",
+        "etd": "05/10/2026 23:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "XIN YAN TAI",
-        "code": "274S / 274N",
-        "eta": "04/10/2026 12:00",
-        "etd": "05/10/2026 23:00",
-        "openstack": "28/09/2026 08:00",
-        "closeC": "03/10/2026 02:00",
-        "closeD": "03/10/2026 05:00",
-        "verified": false,
-        "mmsi": "413125000",
-        "imo": "9304801"
-      },
       {
         "name": "INFERRO",
         "code": "047E / 047W",
