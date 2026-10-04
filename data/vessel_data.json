@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:15:39+00:00",
+  "generated_at": "2026-10-04T15:30:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "244S / 244N",
         "atb": "03/10/2026 23:20",
         "etd": "05/10/2026 12:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - SITC BATANGAS",
+        "code": "2618S / 2619N",
+        "atb": "04/10/2026 22:25",
+        "etd": "05/10/2026 23:30",
         "verified": false
       },
       {
@@ -18,18 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SITC BATANGAS",
-        "code": "2618S / 2619N",
-        "eta": "04/10/2026 18:00",
-        "etd": "05/10/2026 23:30",
-        "openstack": "29/09/2026 20:00",
-        "closeC": "04/10/2026 14:00",
-        "closeD": "04/10/2026 17:00",
-        "verified": false,
-        "mmsi": "477401900",
-        "imo": "9845738"
-      },
       {
         "name": "MSC VAIGA III",
         "code": "HV640R / HV640R",

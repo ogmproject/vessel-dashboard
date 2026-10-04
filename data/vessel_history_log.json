@@ -1545,5 +1545,12 @@
     "arrival": "2026-10-04T11:50:00",
     "departure": null,
     "recorded_at": "2026-10-04T05:00:51.961160"
+  },
+  {
+    "vessel_name": "SITC BATANGAS",
+    "terminal": "TPS",
+    "arrival": "2026-10-04T22:25:00",
+    "departure": null,
+    "recorded_at": "2026-10-04T15:30:43.429102"
   }
 ]
