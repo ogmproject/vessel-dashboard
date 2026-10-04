@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T09:15:39+00:00",
+  "generated_at": "2026-10-04T09:30:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -399,10 +399,10 @@
         "voyage": "0015S        / 0015N",
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
-        "etb": "10/10/2026 15:00",
-        "etd": "11/10/2026 15:00",
-        "openstack": "05/10/2026 15:00",
-        "closeC": "10/10/2026 10:00"
+        "etb": "09/10/2026 10:00",
+        "etd": "10/10/2026 06:30",
+        "openstack": "04/10/2026 10:00",
+        "closeC": "09/10/2026 05:00"
       },
       {
         "name": "SHANGHAI VOYAGER",
