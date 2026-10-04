@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:45:37+00:00",
+  "generated_at": "2026-10-04T17:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -247,26 +247,6 @@
         "name": "EVER CHASTE",
         "berth": "03/10/2026 12:05",
         "dep": "03/10/2026 22:38"
-      },
-      {
-        "name": "BALI KUTA",
-        "berth": "02/10/2026 16:30",
-        "dep": "02/10/2026 23:53"
-      },
-      {
-        "name": "EVER BEFIT",
-        "berth": "01/10/2026 16:50",
-        "dep": "02/10/2026 20:14"
-      },
-      {
-        "name": "WAN HAI 376",
-        "berth": "01/10/2026 10:50",
-        "dep": "02/10/2026 15:41"
-      },
-      {
-        "name": "HONG TAI 656",
-        "berth": "01/10/2026 09:50",
-        "dep": "02/10/2026 09:51"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
