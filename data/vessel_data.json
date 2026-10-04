@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T19:30:46+00:00",
+  "generated_at": "2026-10-04T19:45:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,19 +22,16 @@
         "atb": "04/10/2026 11:50",
         "etd": "05/10/2026 12:00",
         "verified": false
+      },
+      {
+        "name": "I1 - MSC VAIGA III",
+        "code": "HV640R / HV640R",
+        "atb": "05/10/2026 02:40",
+        "etd": "06/10/2026 00:30",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "MSC VAIGA III",
-        "code": "HV640R / HV640R",
-        "eta": "05/10/2026 00:00",
-        "etd": "06/10/2026 00:30",
-        "openstack": "30/09/2026 02:00",
-        "closeC": "04/10/2026 20:00",
-        "closeD": "04/10/2026 23:00",
-        "verified": false
-      },
       {
         "name": "HONG TAI 656",
         "code": "639N / 639N",

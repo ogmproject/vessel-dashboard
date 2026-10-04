@@ -1559,5 +1559,12 @@
     "arrival": "2026-10-05T00:14:00",
     "departure": null,
     "recorded_at": "2026-10-04T17:15:38.934000"
+  },
+  {
+    "vessel_name": "MSC VAIGA III",
+    "terminal": "TPS",
+    "arrival": "2026-10-05T02:40:00",
+    "departure": null,
+    "recorded_at": "2026-10-04T19:45:39.234762"
   }
 ]
