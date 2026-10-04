@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T22:15:38+00:00",
+  "generated_at": "2026-10-04T22:30:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -282,7 +282,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. FORECASTLE INDONESIA",
         "etb": "05/10/2026 05:00",
-        "etd": "06/10/2026 03:00",
+        "etd": "06/10/2026 06:00",
         "openstack": "28/09/2026 20:00",
         "closeC": "04/10/2026 00:00"
       },
