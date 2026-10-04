@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:00:46+00:00",
+  "generated_at": "2026-10-04T17:15:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -252,18 +252,22 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "ITAL BONNY",
         "code": "ITNY010",
         "voyage": "S105         / N105",
         "type": "INTERNATIONAL",
-        "etb": "04/10/2026 23:00",
-        "etd": "05/10/2026 16:00",
-        "openstack": "29/09/2026 23:00",
-        "closeC": "04/10/2026 18:00"
+        "atb": "05/10/2026 00:14",
+        "etd": "05/10/2026 16:00"
       },
+      {
+        "name": "ITAL BONNY",
+        "code": "ITNY010",
+        "type": "INTERNATIONAL"
+      }
+    ],
+    "schedule": [
       {
         "name": "MERATUS KAIMANA",
         "code": "MEAI027",
