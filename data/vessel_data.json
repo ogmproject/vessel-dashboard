@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T22:15:46+00:00",
+  "generated_at": "2026-10-05T22:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -286,24 +286,8 @@
         "etd": "07/10/2026 01:00"
       },
       {
-        "name": "HAPPY LUCKY",
-        "code": "HAKY011",
-        "voyage": "2636S        / 2636N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. FORECASTLE INDONESIA",
-        "atb": "05/10/2026 08:30",
-        "etd": "06/10/2026 04:00"
-      },
-      {
         "name": "HALLEY",
         "code": "HALY009",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "VI512RTN",
-        "code": "ATTVI513",
-        "carrier": "PT ALFA TRANS RAYA",
-        "voyage": "HAPPY LUCKY / HAKY011",
         "type": "INTERNATIONAL"
       }
     ],
@@ -436,6 +420,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "HAPPY LUCKY",
+        "code": "HAKY011",
+        "voyage": "2636S        / 2636N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. FORECASTLE INDONESIA",
+        "atb": "05/10/2026 08:30",
+        "atd": "06/10/2026 04:48"
+      },
       {
         "name": "ITAL BONNY",
         "code": "ITNY010",

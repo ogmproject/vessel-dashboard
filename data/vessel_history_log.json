@@ -1571,8 +1571,8 @@
     "vessel_name": "HAPPY LUCKY",
     "terminal": "TL",
     "arrival": "2026-10-05T08:30:00",
-    "departure": null,
-    "recorded_at": "2026-10-05T01:45:38.984701"
+    "departure": "2026-10-06T04:48:00",
+    "recorded_at": "2026-10-05T22:30:48.299367"
   },
   {
     "vessel_name": "HONG TAI 656",
