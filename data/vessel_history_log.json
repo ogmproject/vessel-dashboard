@@ -1566,5 +1566,12 @@
     "arrival": "2026-10-05T02:40:00",
     "departure": null,
     "recorded_at": "2026-10-04T19:45:39.234762"
+  },
+  {
+    "vessel_name": "HAPPY LUCKY",
+    "terminal": "TL",
+    "arrival": "2026-10-05T08:30:00",
+    "departure": null,
+    "recorded_at": "2026-10-05T01:45:38.984701"
   }
 ]

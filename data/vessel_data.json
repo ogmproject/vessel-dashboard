@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T01:30:42+00:00",
+  "generated_at": "2026-10-05T01:45:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -251,12 +251,26 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "HAPPY LUCKY",
+        "code": "HAKY011",
+        "voyage": "2636S        / 2636N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. FORECASTLE INDONESIA",
+        "atb": "05/10/2026 08:30",
+        "etd": "06/10/2026 06:00"
+      },
+      {
         "name": "ITAL BONNY",
         "code": "ITNY010",
         "voyage": "S105         / N105",
         "type": "INTERNATIONAL",
         "atb": "05/10/2026 00:14",
         "etd": "05/10/2026 16:00"
+      },
+      {
+        "name": "HAPPY LUCKY",
+        "code": "HAKY011",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "ITAL BONNY",
@@ -274,17 +288,6 @@
         "etd": "06/10/2026 00:00",
         "openstack": "30/09/2026 00:00",
         "closeC": "07/10/2026 08:00"
-      },
-      {
-        "name": "HAPPY LUCKY",
-        "code": "HAKY011",
-        "voyage": "2636S        / 2636N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. FORECASTLE INDONESIA",
-        "etb": "05/10/2026 05:00",
-        "etd": "06/10/2026 06:00",
-        "openstack": "28/09/2026 20:00",
-        "closeC": "04/10/2026 00:00"
       },
       {
         "name": "CELSIUS EINDHOVEN",
@@ -319,7 +322,7 @@
         "etb": "06/10/2026 13:00",
         "etd": "07/10/2026 13:00",
         "openstack": "01/10/2026 13:00",
-        "closeC": "06/10/2026 08:00"
+        "closeC": "05/10/2026 18:00"
       },
       {
         "name": "BELAWAN",
@@ -345,6 +348,16 @@
         "closeC": "06/10/2026 05:00"
       },
       {
+        "name": "2639S",
+        "code": "2639N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "08/10/2026 08:00",
+        "etd": "09/10/2026 06:30",
+        "openstack": "03/10/2026 08:00",
+        "closeC": "07/10/2026 18:00"
+      },
+      {
         "name": "SEASPAN EMERALD",
         "code": "SEEM011",
         "voyage": "48S          / 48N",
@@ -356,16 +369,6 @@
         "closeC": "08/10/2026 03:00",
         "mmsi": "563279800",
         "imo": "9407134"
-      },
-      {
-        "name": "2639S",
-        "code": "2639N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "08/10/2026 08:00",
-        "etd": "09/10/2026 06:30",
-        "openstack": "03/10/2026 08:00",
-        "closeC": "07/10/2026 18:00"
       },
       {
         "name": "WAN HANG HENG YUAN",
