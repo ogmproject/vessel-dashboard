@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:15:41+00:00",
+  "generated_at": "2026-10-05T16:30:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -279,7 +279,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. FORECASTLE INDONESIA",
         "atb": "05/10/2026 08:30",
-        "etd": "06/10/2026 05:00"
+        "etd": "06/10/2026 04:00"
       },
       {
         "name": "VI512RTN",
