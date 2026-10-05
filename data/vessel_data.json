@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T09:15:39+00:00",
+  "generated_at": "2026-10-05T09:30:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -290,21 +290,8 @@
         "etd": "06/10/2026 07:00"
       },
       {
-        "name": "ITAL BONNY",
-        "code": "ITNY010",
-        "voyage": "S105         / N105",
-        "type": "INTERNATIONAL",
-        "atb": "05/10/2026 00:14",
-        "etd": "05/10/2026 16:30"
-      },
-      {
         "name": "HAPPY LUCKY",
         "code": "HAKY011",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "ITAL BONNY",
-        "code": "ITNY010",
         "type": "INTERNATIONAL"
       }
     ],
@@ -443,10 +430,19 @@
         "etb": "11/10/2026 13:00",
         "etd": "12/10/2026 10:30",
         "openstack": "06/10/2026 13:00",
-        "closeC": "08/10/2026 05:00"
+        "closeC": "11/10/2026 07:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "ITAL BONNY",
+        "code": "ITNY010",
+        "voyage": "S105         / N105",
+        "type": "INTERNATIONAL",
+        "atb": "05/10/2026 00:14",
+        "atd": "05/10/2026 16:21"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }

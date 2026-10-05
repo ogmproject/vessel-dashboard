@@ -1557,8 +1557,8 @@
     "vessel_name": "ITAL BONNY",
     "terminal": "TL",
     "arrival": "2026-10-05T00:14:00",
-    "departure": null,
-    "recorded_at": "2026-10-04T17:15:38.934000"
+    "departure": "2026-10-05T16:21:00",
+    "recorded_at": "2026-10-05T09:30:44.203015"
   },
   {
     "vessel_name": "MSC VAIGA III",
