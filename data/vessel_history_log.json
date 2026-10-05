@@ -1580,5 +1580,12 @@
     "arrival": "2026-10-05T18:05:00",
     "departure": null,
     "recorded_at": "2026-10-05T11:15:38.930907"
+  },
+  {
+    "vessel_name": "INFERRO",
+    "terminal": "TPS",
+    "arrival": "2026-10-05T20:20:00",
+    "departure": null,
+    "recorded_at": "2026-10-05T13:30:47.700398"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T13:15:42.790410",
+  "generated_at": "2026-10-05T13:30:47.700398",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -152,6 +152,17 @@
       "avg_interval_days": 25.2,
       "interval_stddev_days": 3.5,
       "avg_dwelling_hours": 11.7,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "INFERRO",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-05T20:20:00",
+      "predicted_next_arrival": "2026-10-31T06:14:00",
+      "avg_interval_days": 25.4,
+      "interval_stddev_days": 0.3,
+      "avg_dwelling_hours": 24.0,
       "visits_recorded": 3,
       "confidence": "medium"
     }
