@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T02:15:43+00:00",
+  "generated_at": "2026-10-05T02:30:59+00:00",
   "tps": {
     "alongside": [
       {
@@ -217,13 +217,23 @@
         "verified": false
       },
       {
+        "name": "MARSA PRIDE",
+        "code": "638S / 641N",
+        "eta": "10/10/2026 23:00",
+        "etd": "12/10/2026 08:30",
+        "openstack": "02/11/2026 23:00",
+        "closeC": "07/11/2026 17:00",
+        "closeD": "07/11/2026 20:00",
+        "verified": false
+      },
+      {
         "name": "MSC VOYAGER III",
         "code": "HV641R / HV641R",
         "eta": "11/10/2026 02:00",
         "etd": "12/10/2026 09:30",
-        "openstack": "30/10/2026 02:00",
-        "closeC": "03/11/2026 20:00",
-        "closeD": "03/11/2026 23:00",
+        "openstack": "06/10/2026 02:00",
+        "closeC": "10/10/2026 20:00",
+        "closeD": "10/10/2026 23:00",
         "verified": false
       },
       {
