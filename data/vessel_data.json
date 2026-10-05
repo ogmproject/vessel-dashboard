@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T02:00:48+00:00",
+  "generated_at": "2026-10-05T02:15:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -214,6 +214,16 @@
         "openstack": "04/10/2026 16:00",
         "closeC": "09/10/2026 10:00",
         "closeD": "09/10/2026 13:00",
+        "verified": false
+      },
+      {
+        "name": "MSC VOYAGER III",
+        "code": "HV641R / HV641R",
+        "eta": "11/10/2026 02:00",
+        "etd": "12/10/2026 09:30",
+        "openstack": "30/10/2026 02:00",
+        "closeC": "03/11/2026 20:00",
+        "closeD": "03/11/2026 23:00",
         "verified": false
       },
       {
