@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-05T14:45:39+00:00",
+  "generated_at": "2026-10-05T15:00:53+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - INFERRO",
         "code": "047E / 047W",
         "atb": "05/10/2026 20:20",
-        "etd": "06/10/2026 18:00",
+        "etd": "06/10/2026 18:30",
         "verified": false
       },
       {
@@ -282,8 +282,10 @@
         "etd": "06/10/2026 05:00"
       },
       {
-        "name": "HAPPY LUCKY",
-        "code": "HAKY011",
+        "name": "VI512RTN",
+        "code": "ATTVI513",
+        "carrier": "PT ALFA TRANS RAYA",
+        "voyage": "HAPPY LUCKY / HAKY011",
         "type": "INTERNATIONAL"
       }
     ],
