@@ -1543,8 +1543,8 @@
     "vessel_name": "XIN YAN TAI",
     "terminal": "TPS",
     "arrival": "2026-10-04T11:50:00",
-    "departure": null,
-    "recorded_at": "2026-10-04T05:00:51.961160"
+    "departure": "2026-10-05T14:43:00",
+    "recorded_at": "2026-10-05T08:00:49.587809"
   },
   {
     "vessel_name": "SITC BATANGAS",

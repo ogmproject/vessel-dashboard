@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:45:40+00:00",
+  "generated_at": "2026-10-05T08:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -17,13 +17,6 @@
         "verified": false
       },
       {
-        "name": "I2 - XIN YAN TAI",
-        "code": "274S / 274N",
-        "atb": "04/10/2026 11:50",
-        "etd": "05/10/2026 12:00",
-        "verified": false
-      },
-      {
         "name": "I1 - MSC VAIGA III",
         "code": "HV640R / HV640R",
         "atb": "05/10/2026 02:40",
@@ -35,8 +28,8 @@
       {
         "name": "HONG TAI 656",
         "code": "639N / 639N",
-        "eta": "05/10/2026 12:00",
-        "etd": "06/10/2026 14:30",
+        "eta": "05/10/2026 16:00",
+        "etd": "06/10/2026 16:00",
         "openstack": "29/09/2026 09:00",
         "closeC": "04/10/2026 03:00",
         "closeD": "04/10/2026 06:00",
@@ -85,8 +78,8 @@
       {
         "name": "CMA CGM SAINTE ANNE",
         "code": "0XLCJS / 0XLCKN",
-        "eta": "06/10/2026 14:00",
-        "etd": "08/10/2026 00:30",
+        "eta": "06/10/2026 18:00",
+        "etd": "08/10/2026 00:01",
         "openstack": "28/09/2026 18:00",
         "closeC": "03/10/2026 12:00",
         "closeD": "03/10/2026 15:00",
@@ -95,31 +88,31 @@
       {
         "name": "APL PUSAN",
         "code": "CS20C0S / CS20D0N",
-        "eta": "06/10/2026 18:00",
-        "etd": "07/10/2026 16:00",
+        "eta": "06/10/2026 20:00",
+        "etd": "08/10/2026 00:01",
         "openstack": "30/09/2026 18:00",
         "closeC": "05/10/2026 12:00",
         "closeD": "05/10/2026 15:00",
         "verified": false
       },
       {
-        "name": "SINAR SULAWESI",
-        "code": "098S / 098N",
-        "eta": "07/10/2026 00:01",
-        "etd": "08/10/2026 12:00",
-        "openstack": "02/10/2026 00:00",
-        "closeC": "06/10/2026 18:00",
-        "closeD": "06/10/2026 21:00",
-        "verified": false
-      },
-      {
         "name": "MSC CHERYL 3",
         "code": "XF639A / XF639R",
-        "eta": "07/10/2026 10:00",
-        "etd": "08/10/2026 10:00",
+        "eta": "06/10/2026 20:00",
+        "etd": "07/10/2026 22:00",
         "openstack": "02/10/2026 02:00",
         "closeC": "06/10/2026 20:00",
         "closeD": "06/10/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "SINAR SULAWESI",
+        "code": "098S / 098N",
+        "eta": "07/10/2026 09:00",
+        "etd": "08/10/2026 22:00",
+        "openstack": "02/10/2026 00:00",
+        "closeC": "06/10/2026 18:00",
+        "closeD": "06/10/2026 21:00",
         "verified": false
       },
       {
@@ -249,6 +242,13 @@
     ],
     "movement": [
       {
+        "name": "XIN YAN TAI",
+        "berth": "04/10/2026 11:50",
+        "dep": "05/10/2026 14:43",
+        "mmsi": "413125000",
+        "imo": "9304801"
+      },
+      {
         "name": "ARTOTINA",
         "berth": "04/10/2026 01:00",
         "dep": "04/10/2026 14:03"
@@ -277,7 +277,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. FORECASTLE INDONESIA",
         "atb": "05/10/2026 08:30",
-        "etd": "06/10/2026 06:00"
+        "etd": "06/10/2026 07:00"
       },
       {
         "name": "ITAL BONNY",
@@ -322,27 +322,27 @@
         "imo": "9969948"
       },
       {
+        "name": "HALLEY",
+        "code": "HALY009",
+        "voyage": "016E         / 017W",
+        "type": "INTERNATIONAL",
+        "etb": "06/10/2026 01:00",
+        "etd": "07/10/2026 01:00",
+        "openstack": "01/10/2026 13:00",
+        "closeC": "05/10/2026 18:00"
+      },
+      {
         "name": "YM CENTENNIAL",
         "code": "YMAL007",
         "voyage": "071S         / 071N",
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "05/10/2026 22:00",
-        "etd": "06/10/2026 18:30",
+        "etb": "06/10/2026 09:00",
+        "etd": "07/10/2026 04:00",
         "openstack": "30/09/2026 22:00",
         "closeC": "05/10/2026 17:00",
         "mmsi": "636019895",
         "imo": "9864538"
-      },
-      {
-        "name": "HALLEY",
-        "code": "HALY009",
-        "voyage": "016E         / 017W",
-        "type": "INTERNATIONAL",
-        "etb": "06/10/2026 13:00",
-        "etd": "07/10/2026 13:00",
-        "openstack": "01/10/2026 13:00",
-        "closeC": "05/10/2026 18:00"
       },
       {
         "name": "BELAWAN",
