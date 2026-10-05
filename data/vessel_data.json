@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:15:41+00:00",
+  "generated_at": "2026-10-05T14:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -279,7 +279,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. FORECASTLE INDONESIA",
         "atb": "05/10/2026 08:30",
-        "etd": "06/10/2026 07:00"
+        "etd": "06/10/2026 05:00"
       },
       {
         "name": "HAPPY LUCKY",
@@ -326,8 +326,8 @@
         "voyage": "071S         / 071N",
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "06/10/2026 09:00",
-        "etd": "07/10/2026 04:00",
+        "etb": "06/10/2026 07:00",
+        "etd": "07/10/2026 02:00",
         "openstack": "30/09/2026 22:00",
         "closeC": "05/10/2026 17:00",
         "mmsi": "636019895",
