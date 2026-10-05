@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T02:30:59+00:00",
+  "generated_at": "2026-10-05T02:45:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -103,16 +103,6 @@
         "verified": false
       },
       {
-        "name": "XIN YAN TIAN",
-        "code": "121S / 121N",
-        "eta": "06/10/2026 19:00",
-        "etd": "07/10/2026 20:00",
-        "openstack": "01/10/2026 12:00",
-        "closeC": "06/10/2026 06:00",
-        "closeD": "06/10/2026 09:00",
-        "verified": false
-      },
-      {
         "name": "SINAR SULAWESI",
         "code": "098S / 098N",
         "eta": "07/10/2026 00:01",
@@ -195,6 +185,16 @@
         "verified": false
       },
       {
+        "name": "XIN YAN TIAN",
+        "code": "121S / 121N",
+        "eta": "09/10/2026 08:00",
+        "etd": "11/10/2026 00:30",
+        "openstack": "01/10/2026 12:00",
+        "closeC": "06/10/2026 06:00",
+        "closeD": "06/10/2026 09:00",
+        "verified": false
+      },
+      {
         "name": "WAN HAI 375",
         "code": "S022 / N023",
         "eta": "09/10/2026 08:00",
@@ -221,9 +221,9 @@
         "code": "638S / 641N",
         "eta": "10/10/2026 23:00",
         "etd": "12/10/2026 08:30",
-        "openstack": "02/11/2026 23:00",
-        "closeC": "07/11/2026 17:00",
-        "closeD": "07/11/2026 20:00",
+        "openstack": "05/10/2026 23:00",
+        "closeC": "10/10/2026 17:00",
+        "closeD": "10/10/2026 20:00",
         "verified": false
       },
       {
@@ -419,10 +419,10 @@
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "10/10/2026 19:00",
-        "etd": "11/10/2026 20:00",
-        "openstack": "05/10/2026 19:00",
-        "closeC": "09/10/2026 12:00"
+        "etb": "09/10/2026 18:00",
+        "etd": "10/10/2026 19:30",
+        "openstack": "04/10/2026 18:00",
+        "closeC": "09/10/2026 13:00"
       }
     ],
     "departed": [],
