@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:45:42+00:00",
+  "generated_at": "2026-10-05T17:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -261,11 +261,6 @@
         "dep": "04/10/2026 04:45",
         "mmsi": "209692000",
         "imo": "9664263"
-      },
-      {
-        "name": "EVER CHASTE",
-        "berth": "03/10/2026 12:05",
-        "dep": "03/10/2026 22:38"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
