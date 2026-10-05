@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:15:40+00:00",
+  "generated_at": "2026-10-05T08:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -56,16 +56,6 @@
         "verified": false
       },
       {
-        "name": "BRIGHT COSMOS",
-        "code": "033S / 033N",
-        "eta": "06/10/2026 07:00",
-        "etd": "06/10/2026 21:00",
-        "openstack": "01/10/2026 07:00",
-        "closeC": "06/10/2026 01:00",
-        "closeD": "06/10/2026 04:00",
-        "verified": false
-      },
-      {
         "name": "EVER BLINK",
         "code": "1207-084B / 1207-084B",
         "eta": "06/10/2026 08:00",
@@ -116,33 +106,23 @@
         "verified": false
       },
       {
-        "name": "ES TREASURE",
-        "code": "639S / 639S",
-        "eta": "07/10/2026 14:00",
-        "etd": "07/10/2026 15:30",
-        "openstack": "02/10/2026 14:00",
-        "closeC": "07/10/2026 08:00",
-        "closeD": "07/10/2026 11:00",
+        "name": "EVER BEAMY",
+        "code": "1212-083A / 1212-083A",
+        "eta": "07/10/2026 22:00",
+        "etd": "08/10/2026 18:00",
+        "openstack": "02/10/2026 23:00",
+        "closeC": "07/10/2026 17:00",
+        "closeD": "07/10/2026 20:00",
         "verified": false
       },
       {
         "name": "ANL DHAMBI",
         "code": "1726S / 1726S",
-        "eta": "07/10/2026 20:00",
-        "etd": "08/10/2026 06:00",
+        "eta": "08/10/2026 02:00",
+        "etd": "08/10/2026 18:00",
         "openstack": "02/10/2026 06:00",
         "closeC": "07/10/2026 00:00",
         "closeD": "07/10/2026 03:00",
-        "verified": false
-      },
-      {
-        "name": "EVER BEAMY",
-        "code": "1212-083A / 1212-083A",
-        "eta": "07/10/2026 23:00",
-        "etd": "08/10/2026 23:30",
-        "openstack": "02/10/2026 23:00",
-        "closeC": "07/10/2026 17:00",
-        "closeD": "07/10/2026 20:00",
         "verified": false
       },
       {
@@ -168,6 +148,26 @@
         "verified": false
       },
       {
+        "name": "ES TREASURE",
+        "code": "639S / 639S",
+        "eta": "08/10/2026 10:00",
+        "etd": "09/10/2026 08:00",
+        "openstack": "02/10/2026 14:00",
+        "closeC": "07/10/2026 08:00",
+        "closeD": "07/10/2026 11:00",
+        "verified": false
+      },
+      {
+        "name": "BRIGHT COSMOS",
+        "code": "033S / 033N",
+        "eta": "08/10/2026 12:00",
+        "etd": "09/10/2026 04:00",
+        "openstack": "01/10/2026 07:00",
+        "closeC": "06/10/2026 01:00",
+        "closeD": "06/10/2026 04:00",
+        "verified": false
+      },
+      {
         "name": "MSC CARLA III",
         "code": "HS638A / HS640R",
         "eta": "08/10/2026 14:00",
@@ -180,8 +180,8 @@
       {
         "name": "XIN YAN TIAN",
         "code": "121S / 121N",
-        "eta": "09/10/2026 08:00",
-        "etd": "11/10/2026 00:30",
+        "eta": "09/10/2026 06:00",
+        "etd": "10/10/2026 06:00",
         "openstack": "01/10/2026 12:00",
         "closeC": "06/10/2026 06:00",
         "closeD": "06/10/2026 09:00",
@@ -368,16 +368,6 @@
         "closeC": "07/10/2026 16:00"
       },
       {
-        "name": "2639S",
-        "code": "2639N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "08/10/2026 08:00",
-        "etd": "09/10/2026 06:30",
-        "openstack": "03/10/2026 08:00",
-        "closeC": "07/10/2026 18:00"
-      },
-      {
         "name": "SEASPAN EMERALD",
         "code": "SEEM011",
         "voyage": "48S          / 48N",
@@ -389,6 +379,16 @@
         "closeC": "08/10/2026 03:00",
         "mmsi": "563279800",
         "imo": "9407134"
+      },
+      {
+        "name": "2639S",
+        "code": "2639N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "08/10/2026 08:00",
+        "etd": "09/10/2026 06:30",
+        "openstack": "03/10/2026 08:00",
+        "closeC": "07/10/2026 18:00"
       },
       {
         "name": "WAN HANG HENG YUAN",
