@@ -1529,8 +1529,8 @@
     "vessel_name": "SINAR SUNDA",
     "terminal": "TPS",
     "arrival": "2026-10-03T23:20:00",
-    "departure": null,
-    "recorded_at": "2026-10-03T16:30:48.882879"
+    "departure": "2026-10-05T19:22:00",
+    "recorded_at": "2026-10-05T12:45:40.287743"
   },
   {
     "vessel_name": "ARTOTINA",
