@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T11:00:47+00:00",
+  "generated_at": "2026-10-05T11:15:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -17,6 +17,13 @@
         "verified": false
       },
       {
+        "name": "I2 - HONG TAI 656",
+        "code": "639N / 639N",
+        "atb": "05/10/2026 18:05",
+        "etd": "06/10/2026 16:00",
+        "verified": false
+      },
+      {
         "name": "I1 - MSC VAIGA III",
         "code": "HV640R / HV640R",
         "atb": "05/10/2026 02:40",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "HONG TAI 656",
-        "code": "639N / 639N",
-        "eta": "05/10/2026 16:00",
-        "etd": "06/10/2026 16:00",
-        "openstack": "29/09/2026 09:00",
-        "closeC": "04/10/2026 03:00",
-        "closeD": "04/10/2026 06:00",
-        "verified": false
-      },
       {
         "name": "INFERRO",
         "code": "047E / 047W",

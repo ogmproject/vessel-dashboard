@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T11:00:47.901420",
+  "generated_at": "2026-10-05T11:15:38.930907",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -57,17 +57,6 @@
       "confidence": "high"
     },
     {
-      "vessel_name": "HONG TAI 656",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-01T09:50:00",
-      "predicted_next_arrival": "2026-10-09T03:51:40",
-      "avg_interval_days": 7.8,
-      "interval_stddev_days": 4.1,
-      "avg_dwelling_hours": 23.4,
-      "visits_recorded": 7,
-      "confidence": "medium"
-    },
-    {
       "vessel_name": "AS CAROLINA",
       "terminal": "TL",
       "last_arrival": "2026-09-24T05:30:00",
@@ -87,6 +76,17 @@
       "interval_stddev_days": 1.1,
       "avg_dwelling_hours": 38.0,
       "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "HONG TAI 656",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-05T18:05:00",
+      "predicted_next_arrival": "2026-10-13T00:25:42.857143",
+      "avg_interval_days": 7.3,
+      "interval_stddev_days": 4.0,
+      "avg_dwelling_hours": 23.4,
+      "visits_recorded": 8,
       "confidence": "medium"
     },
     {
