@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T21:45:44+00:00",
+  "generated_at": "2026-10-05T22:00:55+00:00",
   "tps": {
     "alongside": [
       {
@@ -278,6 +278,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "HALLEY",
+        "code": "HALY009",
+        "voyage": "016E         / 017W",
+        "type": "INTERNATIONAL",
+        "atb": "06/10/2026 04:35",
+        "etd": "07/10/2026 01:00"
+      },
+      {
         "name": "HAPPY LUCKY",
         "code": "HAKY011",
         "voyage": "2636S        / 2636N",
@@ -285,6 +293,11 @@
         "carrier": "PT. FORECASTLE INDONESIA",
         "atb": "05/10/2026 08:30",
         "etd": "06/10/2026 04:00"
+      },
+      {
+        "name": "HALLEY",
+        "code": "HALY009",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "VI512RTN",
@@ -316,16 +329,6 @@
         "closeC": "06/10/2026 07:00",
         "mmsi": "538011074",
         "imo": "9969948"
-      },
-      {
-        "name": "HALLEY",
-        "code": "HALY009",
-        "voyage": "016E         / 017W",
-        "type": "INTERNATIONAL",
-        "etb": "06/10/2026 01:00",
-        "etd": "07/10/2026 01:00",
-        "openstack": "01/10/2026 13:00",
-        "closeC": "05/10/2026 18:30"
       },
       {
         "name": "YM CENTENNIAL",
@@ -364,16 +367,6 @@
         "closeC": "07/10/2026 16:00"
       },
       {
-        "name": "2639S",
-        "code": "2639N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "08/10/2026 08:00",
-        "etd": "09/10/2026 06:30",
-        "openstack": "03/10/2026 08:00",
-        "closeC": "07/10/2026 18:00"
-      },
-      {
         "name": "SEASPAN EMERALD",
         "code": "SEEM011",
         "voyage": "48S          / 48N",
@@ -385,6 +378,16 @@
         "closeC": "08/10/2026 03:00",
         "mmsi": "563279800",
         "imo": "9407134"
+      },
+      {
+        "name": "2639S",
+        "code": "2639N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "08/10/2026 08:00",
+        "etd": "09/10/2026 06:30",
+        "openstack": "03/10/2026 08:00",
+        "closeC": "07/10/2026 18:00"
       },
       {
         "name": "WAN HANG HENG YUAN",
