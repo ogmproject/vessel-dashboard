@@ -1564,8 +1564,8 @@
     "vessel_name": "MSC VAIGA III",
     "terminal": "TPS",
     "arrival": "2026-10-05T02:40:00",
-    "departure": null,
-    "recorded_at": "2026-10-04T19:45:39.234762"
+    "departure": "2026-10-06T09:48:00",
+    "recorded_at": "2026-10-06T03:15:45.939247"
   },
   {
     "vessel_name": "HAPPY LUCKY",

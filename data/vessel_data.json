@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T03:01:03+00:00",
+  "generated_at": "2026-10-06T03:15:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "639N / 639N",
         "atb": "05/10/2026 18:05",
         "etd": "06/10/2026 16:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - MSC VAIGA III",
-        "code": "HV640R / HV640R",
-        "atb": "05/10/2026 02:40",
-        "etd": "06/10/2026 04:00",
         "verified": false
       }
     ],
@@ -241,6 +234,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MSC VAIGA III",
+        "berth": "05/10/2026 02:40",
+        "dep": "06/10/2026 09:48"
+      },
       {
         "name": "SITC BATANGAS",
         "berth": "04/10/2026 22:25",
