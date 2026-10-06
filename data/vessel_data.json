@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T20:00:47+00:00",
+  "generated_at": "2026-10-06T20:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -281,28 +281,10 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "YM CENTENNIAL",
-        "code": "YMAL007",
-        "voyage": "071S         / 071N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "atb": "06/10/2026 08:12",
-        "etd": "07/10/2026 06:00",
-        "mmsi": "636019895",
-        "imo": "9864538"
-      },
-      {
         "name": "74",
         "code": "74",
         "carrier": "FREEPORT INDONESIA PT.",
         "voyage": "YM CENTENNIAL / YMAL007",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "071S",
-        "code": "071N",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "voyage": "HALLEY / HALY009",
         "type": "INTERNATIONAL"
       }
     ],
@@ -432,6 +414,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "HALLEY",
+        "code": "HALY009",
+        "voyage": "016E         / 017W",
+        "type": "INTERNATIONAL",
+        "atb": "06/10/2026 04:35",
+        "atd": "07/10/2026 03:08"
+      },
       {
         "name": "HAPPY LUCKY",
         "code": "HAKY011",
