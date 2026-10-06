@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T05:15:45.546870",
+  "generated_at": "2026-10-06T05:30:49.956292",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -141,6 +141,17 @@
       "avg_interval_days": 21.8,
       "interval_stddev_days": 1.2,
       "avg_dwelling_hours": 13.3,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "KOTA HIDAYAH",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-06T12:22:00",
+      "predicted_next_arrival": "2026-10-27T22:18:00",
+      "avg_interval_days": 21.4,
+      "interval_stddev_days": 0.9,
+      "avg_dwelling_hours": 13.4,
       "visits_recorded": 3,
       "confidence": "medium"
     },

@@ -1601,5 +1601,12 @@
     "arrival": "2026-10-06T08:12:00",
     "departure": null,
     "recorded_at": "2026-10-06T01:30:51.333518"
+  },
+  {
+    "vessel_name": "KOTA HIDAYAH",
+    "terminal": "TPS",
+    "arrival": "2026-10-06T12:22:00",
+    "departure": null,
+    "recorded_at": "2026-10-06T05:30:49.956292"
   }
 ]
