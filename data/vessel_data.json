@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T03:30:46+00:00",
+  "generated_at": "2026-10-06T03:45:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -285,14 +285,6 @@
         "etd": "07/10/2026 02:00",
         "mmsi": "636019895",
         "imo": "9864538"
-      },
-      {
-        "name": "HALLEY",
-        "code": "HALY009",
-        "voyage": "016E         / 017W",
-        "type": "INTERNATIONAL",
-        "atb": "06/10/2026 04:35",
-        "etd": "07/10/2026 01:00"
       },
       {
         "name": "YM CENTENNIAL",
