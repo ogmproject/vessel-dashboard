@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:47:50+00:00",
+  "generated_at": "2026-10-06T15:00:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -301,7 +301,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
         "atb": "06/10/2026 08:12",
-        "etd": "07/10/2026 05:00",
+        "etd": "07/10/2026 06:00",
         "mmsi": "636019895",
         "imo": "9864538"
       },
@@ -338,8 +338,8 @@
         "code": "MEAI027",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "07/10/2026 01:00",
-        "etd": "08/10/2026 03:00",
+        "etb": "07/10/2026 03:00",
+        "etd": "08/10/2026 05:00",
         "openstack": "30/09/2026 00:00",
         "closeC": "07/10/2026 08:00"
       },
@@ -359,8 +359,8 @@
         "voyage": "2609S        / 2609N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "07/10/2026 07:00",
-        "etd": "08/10/2026 00:00",
+        "etb": "07/10/2026 08:00",
+        "etd": "08/10/2026 01:00",
         "openstack": "02/10/2026 09:00",
         "closeC": "07/10/2026 07:00",
         "mmsi": "477883500",
