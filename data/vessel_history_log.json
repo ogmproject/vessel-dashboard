@@ -1606,8 +1606,8 @@
     "vessel_name": "KOTA HIDAYAH",
     "terminal": "TPS",
     "arrival": "2026-10-06T12:22:00",
-    "departure": null,
-    "recorded_at": "2026-10-06T05:30:49.956292"
+    "departure": "2026-10-07T03:41:00",
+    "recorded_at": "2026-10-06T21:15:41.096646"
   },
   {
     "vessel_name": "EVER BLINK",
