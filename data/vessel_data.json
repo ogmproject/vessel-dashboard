@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T08:30:52+00:00",
+  "generated_at": "2026-10-06T08:45:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -438,6 +438,16 @@
         "etd": "12/10/2026 10:30",
         "openstack": "06/10/2026 13:00",
         "closeC": "11/10/2026 07:00"
+      },
+      {
+        "name": "MERATUS LAMPUNG",
+        "code": "MEPN001",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "11/10/2026 20:00",
+        "etd": "12/10/2026 21:30",
+        "openstack": "06/10/2026 20:00",
+        "closeC": "08/10/2026 05:00"
       }
     ],
     "departed": [
