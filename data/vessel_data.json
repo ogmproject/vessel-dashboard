@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T09:15:45+00:00",
+  "generated_at": "2026-10-06T09:30:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -459,14 +459,6 @@
         "carrier": "PT. FORECASTLE INDONESIA",
         "atb": "05/10/2026 08:30",
         "atd": "06/10/2026 04:48"
-      },
-      {
-        "name": "ITAL BONNY",
-        "code": "ITNY010",
-        "voyage": "S105         / N105",
-        "type": "INTERNATIONAL",
-        "atb": "05/10/2026 00:14",
-        "atd": "05/10/2026 16:21"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
