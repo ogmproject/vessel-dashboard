@@ -1594,5 +1594,12 @@
     "arrival": "2026-10-06T04:35:00",
     "departure": null,
     "recorded_at": "2026-10-05T22:00:59.234586"
+  },
+  {
+    "vessel_name": "YM CENTENNIAL",
+    "terminal": "TL",
+    "arrival": "2026-10-06T08:12:00",
+    "departure": null,
+    "recorded_at": "2026-10-06T01:30:51.333518"
   }
 ]
