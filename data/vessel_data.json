@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T05:45:44+00:00",
+  "generated_at": "2026-10-06T06:01:28+00:00",
   "tps": {
     "alongside": [
       {
@@ -284,11 +284,11 @@
         "imo": "9864538"
       },
       {
-        "name": "YM CENTENNIAL",
-        "code": "YMAL007",
-        "type": "INTERNATIONAL",
-        "mmsi": "636019895",
-        "imo": "9864538"
+        "name": "74",
+        "code": "74",
+        "carrier": "FREEPORT INDONESIA PT.",
+        "voyage": "YM CENTENNIAL / YMAL007",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "071S",
