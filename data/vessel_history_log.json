@@ -1578,8 +1578,8 @@
     "vessel_name": "HONG TAI 656",
     "terminal": "TPS",
     "arrival": "2026-10-05T18:05:00",
-    "departure": null,
-    "recorded_at": "2026-10-05T11:15:38.930907"
+    "departure": "2026-10-07T02:16:00",
+    "recorded_at": "2026-10-06T19:30:47.259417"
   },
   {
     "vessel_name": "INFERRO",
