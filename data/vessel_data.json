@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-07T16:45:40+00:00",
+  "generated_at": "2026-10-07T17:15:43+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - EVER BEAMY",
         "code": "1212-083A / 1212-083A",
         "atb": "07/10/2026 17:10",
-        "etd": "08/10/2026 14:00",
+        "etd": "08/10/2026 18:00",
         "verified": false
       },
       {
         "name": "I3 - SINAR SULAWESI",
         "code": "098S / 098N",
         "atb": "07/10/2026 14:30",
-        "etd": "08/10/2026 23:00",
+        "etd": "10/10/2026 23:00",
         "verified": false
       },
       {
@@ -27,7 +27,7 @@
         "name": "I1 - APL PUSAN",
         "code": "CS20C0S / CS20D0N",
         "atb": "07/10/2026 07:10",
-        "etd": "08/10/2026 04:00",
+        "etd": "08/10/2026 08:30",
         "verified": false
       }
     ],
@@ -237,25 +237,6 @@
         "name": "MSC VAIGA III",
         "berth": "05/10/2026 02:40",
         "dep": "06/10/2026 09:48"
-      },
-      {
-        "name": "SITC BATANGAS",
-        "berth": "04/10/2026 22:25",
-        "dep": "05/10/2026 23:58",
-        "mmsi": "477401900",
-        "imo": "9845738"
-      },
-      {
-        "name": "SINAR SUNDA",
-        "berth": "03/10/2026 23:20",
-        "dep": "05/10/2026 19:22"
-      },
-      {
-        "name": "XIN YAN TAI",
-        "berth": "04/10/2026 11:50",
-        "dep": "05/10/2026 14:43",
-        "mmsi": "413125000",
-        "imo": "9304801"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
