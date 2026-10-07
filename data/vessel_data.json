@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T20:00:48+00:00",
+  "generated_at": "2026-10-07T20:15:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -415,14 +415,6 @@
         "atd": "07/10/2026 07:05",
         "mmsi": "636019895",
         "imo": "9864538"
-      },
-      {
-        "name": "HALLEY",
-        "code": "HALY009",
-        "voyage": "016E         / 017W",
-        "type": "INTERNATIONAL",
-        "atb": "06/10/2026 04:35",
-        "atd": "07/10/2026 03:08"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
