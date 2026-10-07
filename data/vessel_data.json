@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T04:00:51+00:00",
+  "generated_at": "2026-10-07T04:30:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "XF639A / XF639R",
         "atb": "06/10/2026 20:00",
         "etd": "07/10/2026 12:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - EVER BLINK",
-        "code": "1207-084B / 1207-084B",
-        "atb": "06/10/2026 14:55",
-        "etd": "07/10/2026 10:00",
         "verified": false
       },
       {
@@ -228,6 +221,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER BLINK",
+        "berth": "06/10/2026 14:55",
+        "dep": "07/10/2026 10:40"
+      },
       {
         "name": "KOTA HIDAYAH",
         "berth": "06/10/2026 12:22",
