@@ -1664,5 +1664,12 @@
     "arrival": "2026-10-07T14:30:00",
     "departure": null,
     "recorded_at": "2026-10-07T07:45:43.128477"
+  },
+  {
+    "vessel_name": "EVER BEAMY",
+    "terminal": "TPS",
+    "arrival": "2026-10-07T17:10:00",
+    "departure": null,
+    "recorded_at": "2026-10-07T10:45:43.417345"
   }
 ]

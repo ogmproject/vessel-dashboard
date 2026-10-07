@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T10:30:46.556743",
+  "generated_at": "2026-10-07T10:45:43.417345",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -185,6 +185,17 @@
       "avg_interval_days": 27.4,
       "interval_stddev_days": 0.3,
       "avg_dwelling_hours": 29.0,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "EVER BEAMY",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-07T17:10:00",
+      "predicted_next_arrival": "2026-11-04T19:07:30",
+      "avg_interval_days": 28.1,
+      "interval_stddev_days": 2.2,
+      "avg_dwelling_hours": 20.4,
       "visits_recorded": 3,
       "confidence": "medium"
     }
