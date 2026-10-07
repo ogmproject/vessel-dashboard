@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:30:52.947473",
+  "generated_at": "2026-10-07T07:45:43.128477",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -44,17 +44,6 @@
       "avg_dwelling_hours": 22.0,
       "visits_recorded": 3,
       "confidence": "medium"
-    },
-    {
-      "vessel_name": "SINAR SULAWESI",
-      "terminal": "TPS",
-      "last_arrival": "2026-09-29T11:02:00",
-      "predicted_next_arrival": "2026-10-07T21:59:24",
-      "avg_interval_days": 8.5,
-      "interval_stddev_days": 0.8,
-      "avg_dwelling_hours": 35.0,
-      "visits_recorded": 6,
-      "confidence": "high"
     },
     {
       "vessel_name": "AS CAROLINA",
@@ -110,6 +99,17 @@
       "avg_dwelling_hours": 19.8,
       "visits_recorded": 3,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "SINAR SULAWESI",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-07T14:30:00",
+      "predicted_next_arrival": "2026-10-16T00:12:30",
+      "avg_interval_days": 8.4,
+      "interval_stddev_days": 0.8,
+      "avg_dwelling_hours": 35.0,
+      "visits_recorded": 7,
+      "confidence": "high"
     },
     {
       "vessel_name": "MERATUS KARIMUN",
