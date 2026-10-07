@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T00:00:48+00:00",
+  "generated_at": "2026-10-07T00:16:23+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - MSC CHERYL 3",
         "code": "XF639A / XF639R",
         "atb": "06/10/2026 20:00",
-        "etd": "09/10/2026 20:00",
+        "etd": "07/10/2026 12:00",
         "verified": false
       },
       {
@@ -22,19 +22,16 @@
         "atb": "07/10/2026 06:20",
         "etd": "08/10/2026 23:00",
         "verified": false
+      },
+      {
+        "name": "I1 - APL PUSAN",
+        "code": "CS20C0S / CS20D0N",
+        "atb": "07/10/2026 07:10",
+        "etd": "08/10/2026 01:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "APL PUSAN",
-        "code": "CS20C0S / CS20D0N",
-        "eta": "06/10/2026 23:00",
-        "etd": "08/10/2026 01:00",
-        "openstack": "30/09/2026 18:00",
-        "closeC": "05/10/2026 12:00",
-        "closeD": "05/10/2026 15:00",
-        "verified": false
-      },
       {
         "name": "SINAR SULAWESI",
         "code": "098S / 098N",
@@ -302,13 +299,6 @@
         "code": "MEAI027",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE"
-      },
-      {
-        "name": "74",
-        "code": "74",
-        "carrier": "FREEPORT INDONESIA PT.",
-        "voyage": "YM CENTENNIAL / YMAL007",
-        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
@@ -417,6 +407,17 @@
       }
     ],
     "departed": [
+      {
+        "name": "YM CENTENNIAL",
+        "code": "YMAL007",
+        "voyage": "071S         / 071N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "atb": "06/10/2026 08:12",
+        "atd": "07/10/2026 07:05",
+        "mmsi": "636019895",
+        "imo": "9864538"
+      },
       {
         "name": "HALLEY",
         "code": "HALY009",
