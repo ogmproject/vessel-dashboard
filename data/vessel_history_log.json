@@ -1648,8 +1648,8 @@
     "vessel_name": "APL PUSAN",
     "terminal": "TPS",
     "arrival": "2026-10-07T07:10:00",
-    "departure": null,
-    "recorded_at": "2026-10-07T00:16:23.403959"
+    "departure": "2026-10-08T16:10:00",
+    "recorded_at": "2026-10-08T10:00:49.913458"
   },
   {
     "vessel_name": "BELAWAN",
