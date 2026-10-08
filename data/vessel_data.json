@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T07:45:43+00:00",
+  "generated_at": "2026-10-08T08:01:06+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "098S / 098N",
         "atb": "07/10/2026 14:30",
         "etd": "09/10/2026 03:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - CMA CGM SAINTE ANNE",
-        "code": "0XLCJS / 0XLCKN",
-        "atb": "07/10/2026 06:20",
-        "etd": "08/10/2026 12:00",
         "verified": false
       },
       {
@@ -228,6 +221,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "CMA CGM SAINTE ANNE",
+        "berth": "07/10/2026 06:20",
+        "dep": "08/10/2026 14:35"
+      },
       {
         "name": "MSC CHERYL 3",
         "berth": "06/10/2026 20:00",
