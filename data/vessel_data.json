@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T00:15:44+00:00",
+  "generated_at": "2026-10-08T00:30:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -242,22 +242,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI027",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "07/10/2026 05:15",
-        "etd": "08/10/2026 07:00"
-      },
-      {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI027",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "CELSIUS EINDHOVEN",
