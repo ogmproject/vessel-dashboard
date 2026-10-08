@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-08T17:00:53+00:00",
+  "generated_at": "2026-10-08T17:15:42+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - ANL DHAMBI",
         "code": "1726S / 1726S",
         "atb": "08/10/2026 23:50",
-        "etd": "09/10/2026 04:00",
+        "etd": "09/10/2026 05:00",
         "verified": false
       },
       {
         "name": "I3 - SINAR SULAWESI",
         "code": "098S / 098N",
         "atb": "07/10/2026 14:30",
-        "etd": "10/10/2026 03:00",
+        "etd": "10/10/2026 05:00",
         "verified": false
       },
       {
@@ -27,7 +27,7 @@
         "name": "I1 - BRIGHT COSMOS",
         "code": "033S / 033N",
         "atb": "08/10/2026 19:27",
-        "etd": "09/10/2026 02:00",
+        "etd": "10/10/2026 02:00",
         "verified": false
       }
     ],
