@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T08:30:46+00:00",
+  "generated_at": "2026-10-08T08:45:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -394,6 +394,30 @@
         "etd": "13/10/2026 23:30",
         "openstack": "08/10/2026 16:00",
         "closeC": "07/10/2026 12:00"
+      },
+      {
+        "name": "EVER BURLY",
+        "code": "EVLY007",
+        "voyage": "S094         / N094",
+        "type": "INTERNATIONAL",
+        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
+        "etb": "13/10/2026 18:00",
+        "etd": "13/10/2026 18:30",
+        "openstack": "08/10/2026 18:00",
+        "closeC": "13/10/2026 13:00"
+      },
+      {
+        "name": "SEABREEZE",
+        "code": "SEZE003",
+        "voyage": "0003S        / 0003N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "etb": "14/10/2026 08:00",
+        "etd": "14/10/2026 08:30",
+        "openstack": "09/10/2026 08:00",
+        "closeC": "14/10/2026 03:00",
+        "mmsi": "636021108",
+        "imo": "9472579"
       }
     ],
     "departed": [
