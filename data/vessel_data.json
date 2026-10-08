@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:45:39+00:00",
+  "generated_at": "2026-10-08T23:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -255,7 +255,7 @@
         "voyage": "034E         / 035W",
         "type": "INTERNATIONAL",
         "atb": "08/10/2026 10:07",
-        "etd": "09/10/2026 16:00",
+        "etd": "09/10/2026 22:00",
         "mmsi": "538011074",
         "imo": "9969948"
       },
@@ -287,18 +287,6 @@
         "closeC": "09/10/2026 05:00"
       },
       {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN006",
-        "voyage": "012S         / 012N",
-        "type": "INTERNATIONAL",
-        "etb": "09/10/2026 18:00",
-        "etd": "10/10/2026 06:00",
-        "openstack": "04/10/2026 05:00",
-        "closeC": "09/10/2026 00:00",
-        "mmsi": "352006269",
-        "imo": "1115565"
-      },
-      {
         "name": "SHANGHAI VOYAGER",
         "code": "SHVO013",
         "voyage": "2608S        / 2608N",
@@ -315,9 +303,21 @@
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "etb": "09/10/2026 20:00",
-        "etd": "10/10/2026 17:00",
+        "etd": "10/10/2026 18:00",
         "openstack": "03/10/2026 08:00",
         "closeC": "08/10/2026 10:00"
+      },
+      {
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN006",
+        "voyage": "012S         / 012N",
+        "type": "INTERNATIONAL",
+        "etb": "10/10/2026 00:00",
+        "etd": "10/10/2026 12:00",
+        "openstack": "04/10/2026 05:00",
+        "closeC": "09/10/2026 00:00",
+        "mmsi": "352006269",
+        "imo": "1115565"
       },
       {
         "name": "KMTC YOKOHAMA",
