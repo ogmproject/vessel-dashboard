@@ -1699,5 +1699,12 @@
     "arrival": "2026-10-08T19:27:00",
     "departure": null,
     "recorded_at": "2026-10-08T12:45:43.726017"
+  },
+  {
+    "vessel_name": "ANL DHAMBI",
+    "terminal": "TPS",
+    "arrival": "2026-10-08T23:50:00",
+    "departure": null,
+    "recorded_at": "2026-10-08T17:00:53.452760"
   }
 ]
