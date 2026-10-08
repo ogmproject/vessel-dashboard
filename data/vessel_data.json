@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:15:40+00:00",
+  "generated_at": "2026-10-08T23:30:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -398,17 +398,6 @@
       }
     ],
     "departed": [
-      {
-        "name": "BELAWAN",
-        "code": "BEAN014",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "07/10/2026 08:55",
-        "atd": "08/10/2026 06:16",
-        "mmsi": "477883500",
-        "imo": "9412828"
-      },
       {
         "name": "MERATUS KUTAI",
         "code": "MEKI006",
