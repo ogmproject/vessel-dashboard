@@ -1678,5 +1678,12 @@
     "arrival": "2026-10-08T10:07:00",
     "departure": null,
     "recorded_at": "2026-10-08T03:15:51.454623"
+  },
+  {
+    "vessel_name": "SEASPAN EMERALD",
+    "terminal": "TL",
+    "arrival": "2026-10-08T12:12:00",
+    "departure": null,
+    "recorded_at": "2026-10-08T05:30:40.798152"
   }
 ]
