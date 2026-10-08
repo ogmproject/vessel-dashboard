@@ -1634,8 +1634,8 @@
     "vessel_name": "MERATUS KUTAI",
     "terminal": "TL",
     "arrival": "2026-10-07T05:45:00",
-    "departure": null,
-    "recorded_at": "2026-10-06T23:00:47.666768"
+    "departure": "2026-10-08T06:46:00",
+    "recorded_at": "2026-10-08T00:00:47.758616"
   },
   {
     "vessel_name": "CMA CGM SAINTE ANNE",
@@ -1655,8 +1655,8 @@
     "vessel_name": "BELAWAN",
     "terminal": "TL",
     "arrival": "2026-10-07T08:55:00",
-    "departure": null,
-    "recorded_at": "2026-10-07T02:00:56.469741"
+    "departure": "2026-10-08T06:16:00",
+    "recorded_at": "2026-10-08T00:00:47.758616"
   },
   {
     "vessel_name": "SINAR SULAWESI",

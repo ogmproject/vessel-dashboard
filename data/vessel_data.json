@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T23:45:37+00:00",
+  "generated_at": "2026-10-08T00:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -244,45 +244,12 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "BELAWAN",
-        "code": "BEAN014",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "07/10/2026 08:55",
-        "etd": "08/10/2026 05:00",
-        "mmsi": "477883500",
-        "imo": "9412828"
-      },
-      {
-        "name": "MERATUS KUTAI",
-        "code": "MEKI006",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "07/10/2026 05:45",
-        "etd": "08/10/2026 06:00"
-      },
-      {
         "name": "MERATUS KAIMANA",
         "code": "MEAI027",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "07/10/2026 05:15",
         "etd": "08/10/2026 07:00"
-      },
-      {
-        "name": "BELAWAN",
-        "code": "BEAN014",
-        "type": "INTERNATIONAL",
-        "mmsi": "477883500",
-        "imo": "9412828"
-      },
-      {
-        "name": "2609S",
-        "code": "2609N",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "voyage": "MERATUS KUTAI / MEKI006",
-        "type": "INTERNATIONAL"
       },
       {
         "name": "MERATUS KAIMANA",
@@ -405,6 +372,25 @@
       }
     ],
     "departed": [
+      {
+        "name": "BELAWAN",
+        "code": "BEAN014",
+        "voyage": "2609S        / 2609N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "07/10/2026 08:55",
+        "atd": "08/10/2026 06:16",
+        "mmsi": "477883500",
+        "imo": "9412828"
+      },
+      {
+        "name": "MERATUS KUTAI",
+        "code": "MEKI006",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "07/10/2026 05:45",
+        "atd": "08/10/2026 06:46"
+      },
       {
         "name": "YM CENTENNIAL",
         "code": "YMAL007",
