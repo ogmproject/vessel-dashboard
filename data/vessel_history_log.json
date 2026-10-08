@@ -1669,8 +1669,8 @@
     "vessel_name": "EVER BEAMY",
     "terminal": "TPS",
     "arrival": "2026-10-07T17:10:00",
-    "departure": null,
-    "recorded_at": "2026-10-07T10:45:43.417345"
+    "departure": "2026-10-08T22:45:00",
+    "recorded_at": "2026-10-08T16:00:50.606543"
   },
   {
     "vessel_name": "CELSIUS EINDHOVEN",

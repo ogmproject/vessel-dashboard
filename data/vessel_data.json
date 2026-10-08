@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-10-08T15:45:38+00:00",
+  "generated_at": "2026-10-08T16:00:50+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - EVER BEAMY",
-        "code": "1212-083A / 1212-083A",
-        "atb": "07/10/2026 17:10",
-        "etd": "08/10/2026 18:00",
-        "verified": false
-      },
       {
         "name": "I3 - SINAR SULAWESI",
         "code": "098S / 098N",
@@ -208,6 +201,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER BEAMY",
+        "berth": "07/10/2026 17:10",
+        "dep": "08/10/2026 22:45"
+      },
       {
         "name": "APL PUSAN",
         "berth": "07/10/2026 07:10",
