@@ -1697,8 +1697,8 @@
     "vessel_name": "BRIGHT COSMOS",
     "terminal": "TPS",
     "arrival": "2026-10-08T19:27:00",
-    "departure": null,
-    "recorded_at": "2026-10-08T12:45:43.726017"
+    "departure": "2026-10-09T06:33:00",
+    "recorded_at": "2026-10-08T23:45:37.114324"
   },
   {
     "vessel_name": "ANL DHAMBI",
