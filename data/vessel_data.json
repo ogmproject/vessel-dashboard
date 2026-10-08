@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T03:00:50+00:00",
+  "generated_at": "2026-10-08T03:15:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -242,20 +242,26 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "CELSIUS EINDHOVEN",
         "code": "CEUS012",
         "voyage": "034E         / 035W",
         "type": "INTERNATIONAL",
-        "etb": "08/10/2026 05:00",
+        "atb": "08/10/2026 10:07",
         "etd": "09/10/2026 09:00",
-        "openstack": "30/09/2026 12:00",
-        "closeC": "06/10/2026 14:00",
         "mmsi": "538011074",
         "imo": "9969948"
       },
+      {
+        "name": "CELSIUS EINDHOVEN",
+        "code": "CEUS012",
+        "type": "INTERNATIONAL",
+        "mmsi": "538011074",
+        "imo": "9969948"
+      }
+    ],
+    "schedule": [
       {
         "name": "2639S",
         "code": "2639N",
@@ -332,7 +338,7 @@
         "etb": "11/10/2026 20:00",
         "etd": "12/10/2026 21:30",
         "openstack": "06/10/2026 20:00",
-        "closeC": "11/10/2026 16:00"
+        "closeC": "10/10/2026 20:00"
       },
       {
         "name": "MARINA AURORA",
