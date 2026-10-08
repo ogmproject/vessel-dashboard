@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T08:45:43+00:00",
+  "generated_at": "2026-10-08T09:00:54+00:00",
   "tps": {
     "alongside": [
       {
@@ -268,7 +268,7 @@
         "type": "INTERNATIONAL",
         "carrier": "GOLD STAR LINE LTD",
         "atb": "08/10/2026 12:12",
-        "etd": "09/10/2026 15:00",
+        "etd": "09/10/2026 18:00",
         "mmsi": "563279800",
         "imo": "9407134"
       },
@@ -283,11 +283,11 @@
         "imo": "9969948"
       },
       {
-        "name": "SEASPAN EMERALD",
-        "code": "SEEM011",
-        "type": "INTERNATIONAL",
-        "mmsi": "563279800",
-        "imo": "9407134"
+        "name": "447",
+        "code": "448",
+        "carrier": "PT PBM TANTOKARYA UTAMA",
+        "voyage": "SEASPAN EMERALD / SEEM011",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "CELSIUS EINDHOVEN",
@@ -298,28 +298,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "2639S",
-        "code": "2639N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "08/10/2026 08:00",
-        "etd": "09/10/2026 06:30",
-        "openstack": "03/10/2026 08:00",
-        "closeC": "08/10/2026 10:00"
-      },
-      {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN006",
-        "voyage": "012S         / 012N",
-        "type": "INTERNATIONAL",
-        "etb": "09/10/2026 05:00",
-        "etd": "10/10/2026 05:00",
-        "openstack": "04/10/2026 05:00",
-        "closeC": "09/10/2026 00:00",
-        "mmsi": "352006269",
-        "imo": "1115565"
-      },
       {
         "name": "HMM HARVEST",
         "code": "HMAR006",
@@ -332,6 +310,18 @@
         "closeC": "09/10/2026 05:00"
       },
       {
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN006",
+        "voyage": "012S         / 012N",
+        "type": "INTERNATIONAL",
+        "etb": "09/10/2026 16:00",
+        "etd": "10/10/2026 04:00",
+        "openstack": "04/10/2026 05:00",
+        "closeC": "09/10/2026 00:00",
+        "mmsi": "352006269",
+        "imo": "1115565"
+      },
+      {
         "name": "SHANGHAI VOYAGER",
         "code": "SHVO013",
         "voyage": "2608S        / 2608N",
@@ -340,7 +330,17 @@
         "etb": "09/10/2026 18:00",
         "etd": "10/10/2026 19:30",
         "openstack": "04/10/2026 18:00",
-        "closeC": "09/10/2026 13:00"
+        "closeC": "10/10/2026 04:00"
+      },
+      {
+        "name": "2639S",
+        "code": "2639N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "09/10/2026 20:00",
+        "etd": "10/10/2026 17:00",
+        "openstack": "03/10/2026 08:00",
+        "closeC": "08/10/2026 10:00"
       },
       {
         "name": "KMTC YOKOHAMA",
@@ -401,10 +401,10 @@
         "voyage": "S094         / N094",
         "type": "INTERNATIONAL",
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "etb": "13/10/2026 18:00",
-        "etd": "13/10/2026 18:30",
-        "openstack": "08/10/2026 18:00",
-        "closeC": "13/10/2026 13:00"
+        "etb": "13/10/2026 20:00",
+        "etd": "15/10/2026 20:30",
+        "openstack": "08/10/2026 20:00",
+        "closeC": "13/10/2026 15:00"
       },
       {
         "name": "SEABREEZE",
@@ -413,9 +413,9 @@
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
         "etb": "14/10/2026 08:00",
-        "etd": "14/10/2026 08:30",
+        "etd": "15/10/2026 05:30",
         "openstack": "09/10/2026 08:00",
-        "closeC": "14/10/2026 03:00",
+        "closeC": "14/10/2026 04:00",
         "mmsi": "636021108",
         "imo": "9472579"
       }
