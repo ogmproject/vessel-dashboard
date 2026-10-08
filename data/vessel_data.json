@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T10:15:42+00:00",
+  "generated_at": "2026-10-08T10:30:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -15,19 +15,16 @@
         "atb": "07/10/2026 14:30",
         "etd": "09/10/2026 03:00",
         "verified": false
+      },
+      {
+        "name": "I2 - ES TREASURE",
+        "code": "639S / 639S",
+        "atb": "08/10/2026 17:12",
+        "etd": "09/10/2026 07:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "ES TREASURE",
-        "code": "639S / 639S",
-        "eta": "08/10/2026 15:00",
-        "etd": "09/10/2026 07:00",
-        "openstack": "02/10/2026 14:00",
-        "closeC": "07/10/2026 08:00",
-        "closeD": "07/10/2026 11:00",
-        "verified": false
-      },
       {
         "name": "BRIGHT COSMOS",
         "code": "033S / 033N",
