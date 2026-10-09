@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-10-09T01:45:40+00:00",
+  "generated_at": "2026-10-09T02:00:54+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - ANL DHAMBI",
-        "code": "1726S / 1726S",
-        "atb": "08/10/2026 23:50",
-        "etd": "09/10/2026 08:00",
-        "verified": false
-      },
       {
         "name": "I2 - ES TREASURE",
         "code": "639S / 639S",
@@ -184,6 +177,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "ANL DHAMBI",
+        "berth": "08/10/2026 23:50",
+        "dep": "09/10/2026 08:48"
+      },
       {
         "name": "SINAR SULAWESI",
         "berth": "07/10/2026 14:30",
