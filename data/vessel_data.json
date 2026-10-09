@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T08:00:46+00:00",
+  "generated_at": "2026-10-09T08:15:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -263,7 +263,7 @@
         "voyage": "034E         / 035W",
         "type": "INTERNATIONAL",
         "atb": "08/10/2026 10:07",
-        "etd": "09/10/2026 22:00",
+        "etd": "10/10/2026 00:00",
         "mmsi": "538011074",
         "imo": "9969948"
       },
@@ -295,37 +295,48 @@
         "closeC": "09/10/2026 13:00"
       },
       {
-        "name": "SHANGHAI VOYAGER",
-        "code": "SHVO013",
-        "voyage": "2608S        / 2608N",
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN006",
+        "voyage": "012S         / 012N",
         "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "09/10/2026 18:00",
-        "etd": "10/10/2026 19:30",
-        "openstack": "04/10/2026 18:00",
-        "closeC": "10/10/2026 04:00"
+        "etb": "09/10/2026 22:00",
+        "etd": "10/10/2026 10:00",
+        "openstack": "04/10/2026 05:00",
+        "closeC": "09/10/2026 00:00",
+        "mmsi": "352006269",
+        "imo": "1115565"
       },
       {
         "name": "2639S",
         "code": "2639N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "09/10/2026 20:00",
-        "etd": "10/10/2026 18:00",
+        "etb": "10/10/2026 02:00",
+        "etd": "11/10/2026 00:00",
         "openstack": "03/10/2026 08:00",
         "closeC": "08/10/2026 10:00"
       },
       {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN006",
-        "voyage": "012S         / 012N",
+        "name": "GLOBAL 88",
+        "code": "GL88002",
+        "voyage": "021          / 022",
         "type": "INTERNATIONAL",
-        "etb": "10/10/2026 00:00",
-        "etd": "10/10/2026 12:00",
-        "openstack": "04/10/2026 05:00",
-        "closeC": "09/10/2026 00:00",
-        "mmsi": "352006269",
-        "imo": "1115565"
+        "carrier": "PT. ANDALAN PACIFIC LINE",
+        "etb": "10/10/2026 07:00",
+        "etd": "10/10/2026 14:00",
+        "openstack": "08/10/2026 16:00",
+        "closeC": "07/10/2026 12:00"
+      },
+      {
+        "name": "SHANGHAI VOYAGER",
+        "code": "SHVO013",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "etb": "10/10/2026 12:00",
+        "etd": "11/10/2026 06:00",
+        "openstack": "04/10/2026 18:00",
+        "closeC": "10/10/2026 04:00"
       },
       {
         "name": "KMTC YOKOHAMA",
@@ -368,17 +379,6 @@
         "etd": "13/10/2026 20:30",
         "openstack": "07/10/2026 20:00",
         "closeC": "12/10/2026 15:00"
-      },
-      {
-        "name": "GLOBAL 88",
-        "code": "GL88002",
-        "voyage": "021          / 022",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. ANDALAN PACIFIC LINE",
-        "etb": "13/10/2026 16:00",
-        "etd": "13/10/2026 23:30",
-        "openstack": "08/10/2026 16:00",
-        "closeC": "07/10/2026 12:00"
       },
       {
         "name": "EVER BURLY",
