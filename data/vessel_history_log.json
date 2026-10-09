@@ -1715,6 +1715,13 @@
     "recorded_at": "2026-10-09T04:15:36.146971"
   },
   {
+    "vessel_name": "MERATUS MAMIRI",
+    "terminal": "TPS",
+    "arrival": "2026-10-09T11:30:00",
+    "departure": "2026-10-09T23:24:00",
+    "recorded_at": "2026-10-09T17:00:51.027273"
+  },
+  {
     "vessel_name": "MSC CARLA III",
     "terminal": "TPS",
     "arrival": "2026-10-09T14:00:00",

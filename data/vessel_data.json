@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:45:47+00:00",
+  "generated_at": "2026-10-09T17:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -222,6 +222,11 @@
     ],
     "movement": [
       {
+        "name": "MERATUS MAMIRI",
+        "berth": "09/10/2026 11:30",
+        "dep": "09/10/2026 23:24"
+      },
+      {
         "name": "ES TREASURE",
         "berth": "08/10/2026 17:12",
         "dep": "09/10/2026 09:38"
@@ -255,26 +260,6 @@
         "name": "CMA CGM SAINTE ANNE",
         "berth": "07/10/2026 06:20",
         "dep": "08/10/2026 14:35"
-      },
-      {
-        "name": "MSC CHERYL 3",
-        "berth": "06/10/2026 20:00",
-        "dep": "07/10/2026 14:45"
-      },
-      {
-        "name": "EVER BLINK",
-        "berth": "06/10/2026 14:55",
-        "dep": "07/10/2026 10:40"
-      },
-      {
-        "name": "KOTA HIDAYAH",
-        "berth": "06/10/2026 12:22",
-        "dep": "07/10/2026 03:41"
-      },
-      {
-        "name": "HONG TAI 656",
-        "berth": "05/10/2026 18:05",
-        "dep": "07/10/2026 02:16"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
