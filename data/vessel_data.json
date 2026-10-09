@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:21:48+00:00",
+  "generated_at": "2026-10-09T17:30:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -267,21 +267,21 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "CELSIUS EINDHOVEN",
-        "code": "CEUS012",
-        "voyage": "034E         / 035W",
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN006",
+        "voyage": "012S         / 012N",
         "type": "INTERNATIONAL",
-        "atb": "08/10/2026 10:07",
-        "etd": "09/10/2026 23:00",
-        "mmsi": "538011074",
-        "imo": "9969948"
+        "atb": "10/10/2026 00:01",
+        "etd": "10/10/2026 11:00",
+        "mmsi": "352006269",
+        "imo": "1115565"
       },
       {
-        "name": "CELSIUS EINDHOVEN",
-        "code": "CEUS012",
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN006",
         "type": "INTERNATIONAL",
-        "mmsi": "538011074",
-        "imo": "9969948"
+        "mmsi": "352006269",
+        "imo": "1115565"
       }
     ],
     "schedule": [
@@ -295,18 +295,6 @@
         "etd": "10/10/2026 08:00",
         "openstack": "04/10/2026 10:00",
         "closeC": "09/10/2026 13:00"
-      },
-      {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN006",
-        "voyage": "012S         / 012N",
-        "type": "INTERNATIONAL",
-        "etb": "09/10/2026 23:00",
-        "etd": "10/10/2026 11:00",
-        "openstack": "04/10/2026 05:00",
-        "closeC": "09/10/2026 00:00",
-        "mmsi": "352006269",
-        "imo": "1115565"
       },
       {
         "name": "2639S",
@@ -418,6 +406,16 @@
         "atd": "09/10/2026 21:45",
         "mmsi": "563279800",
         "imo": "9407134"
+      },
+      {
+        "name": "CELSIUS EINDHOVEN",
+        "code": "CEUS012",
+        "voyage": "034E         / 035W",
+        "type": "INTERNATIONAL",
+        "atb": "08/10/2026 10:07",
+        "atd": "10/10/2026 00:16",
+        "mmsi": "538011074",
+        "imo": "9969948"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."

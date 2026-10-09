@@ -1676,8 +1676,8 @@
     "vessel_name": "CELSIUS EINDHOVEN",
     "terminal": "TL",
     "arrival": "2026-10-08T10:07:00",
-    "departure": null,
-    "recorded_at": "2026-10-08T03:15:51.454623"
+    "departure": "2026-10-10T00:16:00",
+    "recorded_at": "2026-10-09T17:30:49.806759"
   },
   {
     "vessel_name": "SEASPAN EMERALD",
@@ -1734,5 +1734,12 @@
     "arrival": "2026-10-09T21:15:00",
     "departure": null,
     "recorded_at": "2026-10-09T14:30:45.272170"
+  },
+  {
+    "vessel_name": "WAN HANG HENG YUAN",
+    "terminal": "TL",
+    "arrival": "2026-10-10T00:01:00",
+    "departure": null,
+    "recorded_at": "2026-10-09T17:30:49.806759"
   }
 ]
