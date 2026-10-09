@@ -1662,8 +1662,8 @@
     "vessel_name": "SINAR SULAWESI",
     "terminal": "TPS",
     "arrival": "2026-10-07T14:30:00",
-    "departure": null,
-    "recorded_at": "2026-10-07T07:45:43.128477"
+    "departure": "2026-10-09T08:07:00",
+    "recorded_at": "2026-10-09T01:15:37.726247"
   },
   {
     "vessel_name": "EVER BEAMY",

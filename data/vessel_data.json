@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T01:00:47+00:00",
+  "generated_at": "2026-10-09T01:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "1726S / 1726S",
         "atb": "08/10/2026 23:50",
         "etd": "09/10/2026 08:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - SINAR SULAWESI",
-        "code": "098S / 098N",
-        "atb": "07/10/2026 14:30",
-        "etd": "09/10/2026 07:00",
         "verified": false
       },
       {
@@ -191,6 +184,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SINAR SULAWESI",
+        "berth": "07/10/2026 14:30",
+        "dep": "09/10/2026 08:07"
+      },
       {
         "name": "BRIGHT COSMOS",
         "berth": "08/10/2026 19:27",
