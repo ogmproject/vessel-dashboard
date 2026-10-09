@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-09T07:00:46+00:00",
+  "generated_at": "2026-10-09T07:15:38+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - MSC CARLA III",
+        "code": "HS638A / HS640R",
+        "atb": "09/10/2026 14:00",
+        "etd": "11/10/2026 03:30",
+        "verified": false
+      },
       {
         "name": "I1 - STARSHIP VENUS",
         "code": "2608S / 2608N",
@@ -11,16 +18,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MSC CARLA III",
-        "code": "HS638A / HS640R",
-        "eta": "09/10/2026 06:00",
-        "etd": "11/10/2026 03:30",
-        "openstack": "03/10/2026 02:00",
-        "closeC": "07/10/2026 20:00",
-        "closeD": "07/10/2026 23:00",
-        "verified": false
-      },
       {
         "name": "WAN HAI 375",
         "code": "S022 / N023",

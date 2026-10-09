@@ -1713,5 +1713,12 @@
     "arrival": "2026-10-09T10:55:00",
     "departure": null,
     "recorded_at": "2026-10-09T04:15:36.146971"
+  },
+  {
+    "vessel_name": "MSC CARLA III",
+    "terminal": "TPS",
+    "arrival": "2026-10-09T14:00:00",
+    "departure": null,
+    "recorded_at": "2026-10-09T07:15:38.305804"
   }
 ]
