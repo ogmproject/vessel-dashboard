@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T19:45:40+00:00",
+  "generated_at": "2026-10-09T20:00:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -267,6 +267,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "2639S",
+        "code": "2639N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "atb": "10/10/2026 02:36",
+        "etd": "11/10/2026 00:00"
+      },
+      {
         "name": "WAN HANG HENG YUAN",
         "code": "WAAN006",
         "voyage": "012S         / 012N",
@@ -277,11 +285,19 @@
         "imo": "1115565"
       },
       {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN006",
+        "name": "037B",
+        "code": "26",
         "type": "INTERNATIONAL",
-        "mmsi": "352006269",
-        "imo": "1115565"
+        "carrier": "PERUSAHAAN PELAYARAN NUSANTARA PANURJWAN, PT",
+        "atb": "09/10/2026 21:36",
+        "etd": "12/10/2026 23:59"
+      },
+      {
+        "name": "2639S",
+        "code": "2639N",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "voyage": "WAN HANG HENG YUAN / WAAN006",
+        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
@@ -295,16 +311,6 @@
         "etd": "10/10/2026 08:00",
         "openstack": "04/10/2026 10:00",
         "closeC": "09/10/2026 13:00"
-      },
-      {
-        "name": "2639S",
-        "code": "2639N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "10/10/2026 02:00",
-        "etd": "11/10/2026 00:00",
-        "openstack": "03/10/2026 08:00",
-        "closeC": "08/10/2026 10:00"
       },
       {
         "name": "GLOBAL 88",

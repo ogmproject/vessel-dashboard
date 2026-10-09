@@ -1736,10 +1736,24 @@
     "recorded_at": "2026-10-09T14:30:45.272170"
   },
   {
+    "vessel_name": "037B",
+    "terminal": "TL",
+    "arrival": "2026-10-09T21:36:00",
+    "departure": null,
+    "recorded_at": "2026-10-09T20:00:46.065685"
+  },
+  {
     "vessel_name": "WAN HANG HENG YUAN",
     "terminal": "TL",
     "arrival": "2026-10-10T00:01:00",
     "departure": null,
     "recorded_at": "2026-10-09T17:30:49.806759"
+  },
+  {
+    "vessel_name": "2639S",
+    "terminal": "TL",
+    "arrival": "2026-10-10T02:36:00",
+    "departure": null,
+    "recorded_at": "2026-10-09T20:00:46.065685"
   }
 ]
