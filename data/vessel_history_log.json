@@ -1683,8 +1683,8 @@
     "vessel_name": "SEASPAN EMERALD",
     "terminal": "TL",
     "arrival": "2026-10-08T12:12:00",
-    "departure": null,
-    "recorded_at": "2026-10-08T05:30:40.798152"
+    "departure": "2026-10-09T21:45:00",
+    "recorded_at": "2026-10-09T15:00:47.409652"
   },
   {
     "vessel_name": "ES TREASURE",

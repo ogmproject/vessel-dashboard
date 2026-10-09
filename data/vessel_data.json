@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T14:45:38+00:00",
+  "generated_at": "2026-10-09T15:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -282,17 +282,6 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "SEASPAN EMERALD",
-        "code": "SEEM011",
-        "voyage": "48S          / 48N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "atb": "08/10/2026 12:12",
-        "etd": "09/10/2026 21:00",
-        "mmsi": "563279800",
-        "imo": "9407134"
-      },
-      {
         "name": "CELSIUS EINDHOVEN",
         "code": "CEUS012",
         "voyage": "034E         / 035W",
@@ -301,13 +290,6 @@
         "etd": "09/10/2026 23:00",
         "mmsi": "538011074",
         "imo": "9969948"
-      },
-      {
-        "name": "SEASPAN EMERALD",
-        "code": "SEEM011",
-        "type": "INTERNATIONAL",
-        "mmsi": "563279800",
-        "imo": "9407134"
       },
       {
         "name": "CELSIUS EINDHOVEN",
@@ -440,7 +422,19 @@
         "imo": "9472579"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "SEASPAN EMERALD",
+        "code": "SEEM011",
+        "voyage": "48S          / 48N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "atb": "08/10/2026 12:12",
+        "atd": "09/10/2026 21:45",
+        "mmsi": "563279800",
+        "imo": "9407134"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
