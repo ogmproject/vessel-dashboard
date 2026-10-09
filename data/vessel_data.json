@@ -1,15 +1,7 @@
 {
-  "generated_at": "2026-10-09T02:45:36+00:00",
+  "generated_at": "2026-10-09T03:00:45+00:00",
   "tps": {
-    "alongside": [
-      {
-        "name": "I2 - ES TREASURE",
-        "code": "639S / 639S",
-        "atb": "08/10/2026 17:12",
-        "etd": "09/10/2026 08:00",
-        "verified": false
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "STARSHIP VENUS",
@@ -177,6 +169,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "ES TREASURE",
+        "berth": "08/10/2026 17:12",
+        "dep": "09/10/2026 09:38"
+      },
       {
         "name": "ANL DHAMBI",
         "berth": "08/10/2026 23:50",
@@ -391,16 +388,7 @@
         "imo": "9472579"
       }
     ],
-    "departed": [
-      {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI027",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "07/10/2026 05:15",
-        "atd": "08/10/2026 09:53"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
