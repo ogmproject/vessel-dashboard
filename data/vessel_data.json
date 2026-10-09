@@ -1,18 +1,16 @@
 {
-  "generated_at": "2026-10-09T04:00:46+00:00",
+  "generated_at": "2026-10-09T04:15:36+00:00",
   "tps": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
-        "name": "STARSHIP VENUS",
+        "name": "I1 - STARSHIP VENUS",
         "code": "2608S / 2608N",
-        "eta": "09/10/2026 04:00",
+        "atb": "09/10/2026 10:55",
         "etd": "10/10/2026 11:00",
-        "openstack": "02/10/2026 12:00",
-        "closeC": "07/10/2026 06:00",
-        "closeD": "07/10/2026 09:00",
         "verified": false
-      },
+      }
+    ],
+    "schedule": [
       {
         "name": "MSC CARLA III",
         "code": "HS638A / HS640R",
