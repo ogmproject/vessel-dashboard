@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:45:37+00:00",
+  "generated_at": "2026-10-09T00:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -396,14 +396,6 @@
       }
     ],
     "departed": [
-      {
-        "name": "MERATUS KUTAI",
-        "code": "MEKI006",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "07/10/2026 05:45",
-        "atd": "08/10/2026 06:46"
-      },
       {
         "name": "MERATUS KAIMANA",
         "code": "MEAI027",
