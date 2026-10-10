@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T14:36:28+00:00",
+  "generated_at": "2026-10-10T14:45:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -412,17 +412,6 @@
         "atd": "10/10/2026 14:54",
         "mmsi": "352006269",
         "imo": "1115565"
-      },
-      {
-        "name": "SEASPAN EMERALD",
-        "code": "SEEM011",
-        "voyage": "48S          / 48N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "atb": "08/10/2026 12:12",
-        "atd": "09/10/2026 21:45",
-        "mmsi": "563279800",
-        "imo": "9407134"
       },
       {
         "name": "CELSIUS EINDHOVEN",
