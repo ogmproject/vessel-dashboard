@@ -1762,5 +1762,12 @@
     "arrival": "2026-10-10T03:30:00",
     "departure": null,
     "recorded_at": "2026-10-09T20:45:36.527377"
+  },
+  {
+    "vessel_name": "GLOBAL 88",
+    "terminal": "TL",
+    "arrival": "2026-10-10T07:33:00",
+    "departure": null,
+    "recorded_at": "2026-10-10T00:45:35.473137"
   }
 ]
