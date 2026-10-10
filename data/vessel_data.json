@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T01:33:00+00:00",
+  "generated_at": "2026-10-10T01:45:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -266,7 +266,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. ANDALAN PACIFIC LINE",
         "atb": "10/10/2026 07:33",
-        "etd": "10/10/2026 15:00"
+        "etd": "10/10/2026 14:00"
       },
       {
         "name": "2639S",
@@ -307,24 +307,13 @@
     ],
     "schedule": [
       {
-        "name": "HMM HARVEST",
-        "code": "HMAR006",
-        "voyage": "0015S        / 0015N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "etb": "09/10/2026 12:00",
-        "etd": "10/10/2026 08:00",
-        "openstack": "04/10/2026 10:00",
-        "closeC": "09/10/2026 13:00"
-      },
-      {
         "name": "SHANGHAI VOYAGER",
         "code": "SHVO013",
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "etb": "10/10/2026 13:00",
-        "etd": "11/10/2026 07:00",
+        "etd": "11/10/2026 10:00",
         "openstack": "04/10/2026 18:00",
         "closeC": "10/10/2026 04:00"
       },
@@ -334,10 +323,21 @@
         "voyage": "2609E        / 2610W",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "11/10/2026 13:00",
-        "etd": "12/10/2026 10:30",
+        "etb": "11/10/2026 10:00",
+        "etd": "12/10/2026 12:00",
         "openstack": "06/10/2026 13:00",
         "closeC": "11/10/2026 07:00"
+      },
+      {
+        "name": "HMM HARVEST",
+        "code": "HMAR006",
+        "voyage": "0015S        / 0015N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "etb": "11/10/2026 12:00",
+        "etd": "12/10/2026 08:00",
+        "openstack": "04/10/2026 10:00",
+        "closeC": "09/10/2026 13:00"
       },
       {
         "name": "MERATUS LAMPUNG",
