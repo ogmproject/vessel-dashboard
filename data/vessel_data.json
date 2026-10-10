@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-10-10T20:45:30+00:00",
+  "generated_at": "2026-10-10T21:00:42+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - XIN YAN TIAN",
-        "code": "121S / 121N",
-        "atb": "10/10/2026 10:05",
-        "etd": "11/10/2026 02:30",
-        "verified": false
-      },
       {
         "name": "I3 - WAN HAI 375",
         "code": "S022 / N023",
@@ -20,7 +13,7 @@
         "name": "I2 - MARSA PRIDE",
         "code": "638S / 641N",
         "atb": "10/10/2026 20:10",
-        "etd": "11/10/2026 10:00",
+        "etd": "11/10/2026 08:00",
         "verified": false
       }
     ],
@@ -209,6 +202,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "XIN YAN TIAN",
+        "berth": "10/10/2026 10:05",
+        "dep": "11/10/2026 03:38"
+      },
       {
         "name": "WAN HAI 327",
         "berth": "09/10/2026 21:15",
