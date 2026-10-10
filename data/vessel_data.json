@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T06:15:33+00:00",
+  "generated_at": "2026-10-10T06:30:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -275,15 +275,6 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "GLOBAL 88",
-        "code": "GL88002",
-        "voyage": "021          / 022",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. ANDALAN PACIFIC LINE",
-        "atb": "10/10/2026 07:33",
-        "etd": "10/10/2026 13:30"
-      },
-      {
         "name": "2639S",
         "code": "2639N",
         "type": "INTERNATIONAL",
@@ -302,11 +293,6 @@
         "imo": "1115565"
       },
       {
-        "name": "GLOBAL 88",
-        "code": "GL88002",
-        "type": "INTERNATIONAL"
-      },
-      {
         "name": "6026",
         "code": "6026",
         "carrier": "PT. MENTARI MAS MULTIMODA",
@@ -318,6 +304,15 @@
         "carrier": "SEA CONSORTIUM PTE LTD",
         "voyage": "WAN HANG HENG YUAN / WAAN006",
         "type": "INTERNATIONAL"
+      },
+      {
+        "name": "GLOBAL 88",
+        "code": "GL88002",
+        "voyage": "021          / 022",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. ANDALAN PACIFIC LINE",
+        "atb": "10/10/2026 07:33",
+        "etd": "10/10/2026 13:30"
       }
     ],
     "schedule": [
@@ -408,6 +403,28 @@
         "closeC": "14/10/2026 04:00",
         "mmsi": "636021108",
         "imo": "9472579"
+      },
+      {
+        "name": "KMTC SHIMIZU",
+        "code": "KMZU029",
+        "voyage": "2609S        / 2609N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "etb": "15/10/2026 22:00",
+        "etd": "16/10/2026 17:30",
+        "openstack": "10/10/2026 22:00",
+        "closeC": "15/10/2026 17:00"
+      },
+      {
+        "name": "AS CAROLINA",
+        "code": "ASRO008",
+        "voyage": "349S         / 349N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "etb": "16/10/2026 02:00",
+        "etd": "16/10/2026 22:30",
+        "openstack": "11/10/2026 02:00",
+        "closeC": "15/10/2026 21:00"
       }
     ],
     "departed": [
