@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T09:00:42+00:00",
+  "generated_at": "2026-10-10T09:15:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -206,8 +206,8 @@
         "eta": "16/10/2026 22:30",
         "etd": "17/10/2026 14:00",
         "openstack": "11/10/2026 22:30",
-        "closeC": "16/10/2026 17:00",
-        "closeD": "16/10/2026 20:00",
+        "closeC": "16/10/2026 16:30",
+        "closeD": "16/10/2026 19:30",
         "verified": false
       }
     ],
@@ -275,12 +275,26 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "SHANGHAI VOYAGER",
+        "code": "SHVO013",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "atb": "10/10/2026 16:05",
+        "etd": "11/10/2026 14:00"
+      },
+      {
         "name": "2639S",
         "code": "2639N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "atb": "10/10/2026 02:36",
         "etd": "11/10/2026 00:00"
+      },
+      {
+        "name": "SHANGHAI VOYAGER",
+        "code": "SHVO013",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "6026",
@@ -299,17 +313,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SHANGHAI VOYAGER",
-        "code": "SHVO013",
-        "voyage": "2608S        / 2608N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "10/10/2026 17:00",
-        "etd": "11/10/2026 14:00",
-        "openstack": "04/10/2026 18:00",
-        "closeC": "10/10/2026 04:00"
-      },
       {
         "name": "KMTC YOKOHAMA",
         "code": "KMHA031",
