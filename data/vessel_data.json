@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T21:45:32+00:00",
+  "generated_at": "2026-10-10T22:00:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -285,7 +285,7 @@
         "voyage": "2609E        / 2610W",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "11/10/2026 03:00",
+        "etb": "11/10/2026 05:00",
         "etd": "12/10/2026 05:00",
         "openstack": "06/10/2026 13:00",
         "closeC": "11/10/2026 00:00"
@@ -297,7 +297,7 @@
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
         "etb": "11/10/2026 16:00",
-        "etd": "12/10/2026 05:00",
+        "etd": "12/10/2026 06:00",
         "openstack": "04/10/2026 10:00",
         "closeC": "09/10/2026 13:00"
       },
