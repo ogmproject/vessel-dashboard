@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T17:15:32+00:00",
+  "generated_at": "2026-10-10T17:30:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -397,16 +397,6 @@
         "atd": "10/10/2026 14:54",
         "mmsi": "352006269",
         "imo": "1115565"
-      },
-      {
-        "name": "CELSIUS EINDHOVEN",
-        "code": "CEUS012",
-        "voyage": "034E         / 035W",
-        "type": "INTERNATIONAL",
-        "atb": "08/10/2026 10:07",
-        "atd": "10/10/2026 00:16",
-        "mmsi": "538011074",
-        "imo": "9969948"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
