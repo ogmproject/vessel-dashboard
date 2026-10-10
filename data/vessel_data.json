@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T08:00:43+00:00",
+  "generated_at": "2026-10-10T08:10:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -283,26 +283,9 @@
         "etd": "11/10/2026 00:00"
       },
       {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN006",
-        "voyage": "012S         / 012N",
-        "type": "INTERNATIONAL",
-        "atb": "10/10/2026 00:01",
-        "etd": "10/10/2026 15:00",
-        "mmsi": "352006269",
-        "imo": "1115565"
-      },
-      {
         "name": "6026",
         "code": "6026",
         "carrier": "PT. MENTARI MAS MULTIMODA",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "2639S",
-        "code": "2639N",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "voyage": "WAN HANG HENG YUAN / WAAN006",
         "type": "INTERNATIONAL"
       },
       {
@@ -428,6 +411,16 @@
       }
     ],
     "departed": [
+      {
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN006",
+        "voyage": "012S         / 012N",
+        "type": "INTERNATIONAL",
+        "atb": "10/10/2026 00:01",
+        "atd": "10/10/2026 14:54",
+        "mmsi": "352006269",
+        "imo": "1115565"
+      },
       {
         "name": "SEASPAN EMERALD",
         "code": "SEEM011",

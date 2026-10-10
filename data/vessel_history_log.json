@@ -1746,8 +1746,8 @@
     "vessel_name": "WAN HANG HENG YUAN",
     "terminal": "TL",
     "arrival": "2026-10-10T00:01:00",
-    "departure": null,
-    "recorded_at": "2026-10-09T17:30:49.806759"
+    "departure": "2026-10-10T14:54:00",
+    "recorded_at": "2026-10-10T08:10:38.385539"
   },
   {
     "vessel_name": "2639S",
