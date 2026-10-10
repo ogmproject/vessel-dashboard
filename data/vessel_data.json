@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T22:30:37+00:00",
+  "generated_at": "2026-10-10T22:45:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -203,6 +203,11 @@
     ],
     "movement": [
       {
+        "name": "SPIL HANA",
+        "berth": "10/10/2026 13:50",
+        "dep": "11/10/2026 05:30"
+      },
+      {
         "name": "XIN YAN TIAN",
         "berth": "10/10/2026 10:05",
         "dep": "11/10/2026 03:38"
@@ -255,6 +260,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "KMTC YOKOHAMA",
+        "code": "KMHA031",
+        "voyage": "2609E        / 2610W",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "11/10/2026 05:06",
+        "etd": "12/10/2026 05:00"
+      },
+      {
         "name": "SHANGHAI VOYAGER",
         "code": "SHVO013",
         "voyage": "2608S        / 2608N",
@@ -262,6 +276,13 @@
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "10/10/2026 16:05",
         "etd": "11/10/2026 14:00"
+      },
+      {
+        "name": "3126",
+        "code": "3126",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "KMTC YOKOHAMA / KMHA031",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "SHANGHAI VOYAGER",
@@ -279,17 +300,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "KMTC YOKOHAMA",
-        "code": "KMHA031",
-        "voyage": "2609E        / 2610W",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "11/10/2026 03:00",
-        "etd": "12/10/2026 05:00",
-        "openstack": "06/10/2026 13:00",
-        "closeC": "11/10/2026 00:00"
-      },
       {
         "name": "HMM HARVEST",
         "code": "HMAR006",
