@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T11:45:36+00:00",
+  "generated_at": "2026-10-10T12:00:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -282,14 +282,6 @@
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "10/10/2026 16:05",
         "etd": "11/10/2026 14:00"
-      },
-      {
-        "name": "2639S",
-        "code": "2639N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "10/10/2026 02:36",
-        "etd": "11/10/2026 00:00"
       },
       {
         "name": "SHANGHAI VOYAGER",
