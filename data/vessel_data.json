@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T05:00:44+00:00",
+  "generated_at": "2026-10-10T05:15:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -21,13 +21,6 @@
         "code": "S069 / N069",
         "atb": "09/10/2026 21:15",
         "etd": "10/10/2026 12:30",
-        "verified": false
-      },
-      {
-        "name": "I1 - STARSHIP VENUS",
-        "code": "2608S / 2608N",
-        "atb": "09/10/2026 10:55",
-        "etd": "10/10/2026 10:30",
         "verified": false
       }
     ],
@@ -205,6 +198,16 @@
         "imo": "9632741"
       },
       {
+        "name": "TS NAGOYA",
+        "code": "2633S / 2633N",
+        "eta": "16/10/2026 12:00",
+        "etd": "17/10/2026 12:30",
+        "openstack": "11/10/2026 12:00",
+        "closeC": "16/10/2026 06:00",
+        "closeD": "16/10/2026 09:00",
+        "verified": false
+      },
+      {
         "name": "KMTC INCHEON",
         "code": "2609S / 2609N",
         "eta": "16/10/2026 22:30",
@@ -216,6 +219,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "STARSHIP VENUS",
+        "berth": "09/10/2026 10:55",
+        "dep": "10/10/2026 11:10"
+      },
       {
         "name": "MSC CARLA III",
         "berth": "09/10/2026 14:00",
