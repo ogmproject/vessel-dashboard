@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:45:31+00:00",
+  "generated_at": "2026-10-10T17:00:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -250,21 +250,6 @@
         "name": "BRIGHT COSMOS",
         "berth": "08/10/2026 19:27",
         "dep": "09/10/2026 06:33"
-      },
-      {
-        "name": "EVER BEAMY",
-        "berth": "07/10/2026 17:10",
-        "dep": "08/10/2026 22:45"
-      },
-      {
-        "name": "APL PUSAN",
-        "berth": "07/10/2026 07:10",
-        "dep": "08/10/2026 16:10"
-      },
-      {
-        "name": "CMA CGM SAINTE ANNE",
-        "berth": "07/10/2026 06:20",
-        "dep": "08/10/2026 14:35"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
