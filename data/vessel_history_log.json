@@ -1753,8 +1753,8 @@
     "vessel_name": "2639S",
     "terminal": "TL",
     "arrival": "2026-10-10T02:36:00",
-    "departure": null,
-    "recorded_at": "2026-10-09T20:00:46.065685"
+    "departure": "2026-10-11T00:58:00",
+    "recorded_at": "2026-10-10T18:15:30.410463"
   },
   {
     "vessel_name": "WAN HAI 375",

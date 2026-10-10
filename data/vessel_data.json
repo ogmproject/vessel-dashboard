@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T17:45:32+00:00",
+  "generated_at": "2026-10-10T18:15:30+00:00",
   "tps": {
     "alongside": [
       {
@@ -271,12 +271,6 @@
         "type": "INTERNATIONAL"
       },
       {
-        "name": "6026",
-        "code": "6026",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "type": "INTERNATIONAL"
-      },
-      {
         "name": "GLOBAL 88",
         "code": "GL88002",
         "voyage": "021          / 022",
@@ -388,6 +382,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "2639S",
+        "code": "2639N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "atb": "10/10/2026 02:36",
+        "atd": "11/10/2026 00:58"
+      },
       {
         "name": "WAN HANG HENG YUAN",
         "code": "WAAN006",
