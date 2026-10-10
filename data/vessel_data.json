@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-10T03:00:45+00:00",
+  "generated_at": "2026-10-10T03:15:42+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - XIN YAN TIAN",
+        "code": "121S / 121N",
+        "atb": "10/10/2026 10:05",
+        "etd": "11/10/2026 04:00",
+        "verified": false
+      },
       {
         "name": "I3 - WAN HAI 375",
         "code": "S022 / N023",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "XIN YAN TIAN",
-        "code": "121S / 121N",
-        "eta": "10/10/2026 10:00",
-        "etd": "11/10/2026 04:00",
-        "openstack": "01/10/2026 12:00",
-        "closeC": "06/10/2026 06:00",
-        "closeD": "06/10/2026 09:00",
-        "verified": false
-      },
       {
         "name": "CMA CGM POINTE DU PITON",
         "code": "0XLCNS / 0XLCON",

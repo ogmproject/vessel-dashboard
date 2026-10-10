@@ -1769,5 +1769,12 @@
     "arrival": "2026-10-10T07:33:00",
     "departure": null,
     "recorded_at": "2026-10-10T00:45:35.473137"
+  },
+  {
+    "vessel_name": "XIN YAN TIAN",
+    "terminal": "TPS",
+    "arrival": "2026-10-10T10:05:00",
+    "departure": null,
+    "recorded_at": "2026-10-10T03:15:42.832453"
   }
 ]
