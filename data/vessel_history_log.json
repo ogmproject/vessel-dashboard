@@ -1725,8 +1725,8 @@
     "vessel_name": "MSC CARLA III",
     "terminal": "TPS",
     "arrival": "2026-10-09T14:00:00",
-    "departure": null,
-    "recorded_at": "2026-10-09T07:15:38.305804"
+    "departure": "2026-10-10T07:42:00",
+    "recorded_at": "2026-10-10T01:00:42.981625"
   },
   {
     "vessel_name": "WAN HAI 327",
