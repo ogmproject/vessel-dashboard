@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T06:00:41+00:00",
+  "generated_at": "2026-10-10T06:15:33+00:00",
   "tps": {
     "alongside": [
       {
@@ -275,6 +275,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "GLOBAL 88",
+        "code": "GL88002",
+        "voyage": "021          / 022",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. ANDALAN PACIFIC LINE",
+        "atb": "10/10/2026 07:33",
+        "etd": "10/10/2026 13:30"
+      },
+      {
         "name": "2639S",
         "code": "2639N",
         "type": "INTERNATIONAL",
@@ -288,9 +297,14 @@
         "voyage": "012S         / 012N",
         "type": "INTERNATIONAL",
         "atb": "10/10/2026 00:01",
-        "etd": "10/10/2026 14:00",
+        "etd": "10/10/2026 15:00",
         "mmsi": "352006269",
         "imo": "1115565"
+      },
+      {
+        "name": "GLOBAL 88",
+        "code": "GL88002",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "6026",
@@ -304,15 +318,6 @@
         "carrier": "SEA CONSORTIUM PTE LTD",
         "voyage": "WAN HANG HENG YUAN / WAAN006",
         "type": "INTERNATIONAL"
-      },
-      {
-        "name": "GLOBAL 88",
-        "code": "GL88002",
-        "voyage": "021          / 022",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. ANDALAN PACIFIC LINE",
-        "atb": "10/10/2026 07:33",
-        "etd": "10/10/2026 14:00"
       }
     ],
     "schedule": [
@@ -322,8 +327,8 @@
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "10/10/2026 13:00",
-        "etd": "11/10/2026 10:00",
+        "etb": "10/10/2026 17:00",
+        "etd": "11/10/2026 14:00",
         "openstack": "04/10/2026 18:00",
         "closeC": "10/10/2026 04:00"
       },
@@ -333,8 +338,8 @@
         "voyage": "2609E        / 2610W",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "11/10/2026 10:00",
-        "etd": "12/10/2026 12:00",
+        "etb": "11/10/2026 03:00",
+        "etd": "12/10/2026 05:00",
         "openstack": "06/10/2026 13:00",
         "closeC": "11/10/2026 07:00"
       },
@@ -344,8 +349,8 @@
         "voyage": "0015S        / 0015N",
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
-        "etb": "11/10/2026 12:00",
-        "etd": "12/10/2026 08:00",
+        "etb": "11/10/2026 16:00",
+        "etd": "12/10/2026 12:00",
         "openstack": "04/10/2026 10:00",
         "closeC": "09/10/2026 13:00"
       },
