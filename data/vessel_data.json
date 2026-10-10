@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:00:43+00:00",
+  "generated_at": "2026-10-10T13:15:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -15,19 +15,16 @@
         "atb": "10/10/2026 03:30",
         "etd": "11/10/2026 00:00",
         "verified": false
+      },
+      {
+        "name": "I2 - MARSA PRIDE",
+        "code": "638S / 641N",
+        "atb": "10/10/2026 20:10",
+        "etd": "11/10/2026 10:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "MARSA PRIDE",
-        "code": "638S / 641N",
-        "eta": "10/10/2026 20:00",
-        "etd": "11/10/2026 10:00",
-        "openstack": "05/10/2026 23:00",
-        "closeC": "10/10/2026 17:00",
-        "closeD": "10/10/2026 20:00",
-        "verified": false
-      },
       {
         "name": "CMA CGM POINTE DU PITON",
         "code": "0XLCNS / 0XLCON",
