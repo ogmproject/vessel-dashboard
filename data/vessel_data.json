@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T04:45:32+00:00",
+  "generated_at": "2026-10-10T05:00:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,7 +20,7 @@
         "name": "I2 - WAN HAI 327",
         "code": "S069 / N069",
         "atb": "09/10/2026 21:15",
-        "etd": "10/10/2026 12:00",
+        "etd": "10/10/2026 12:30",
         "verified": false
       },
       {
@@ -267,15 +267,6 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "GLOBAL 88",
-        "code": "GL88002",
-        "voyage": "021          / 022",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. ANDALAN PACIFIC LINE",
-        "atb": "10/10/2026 07:33",
-        "etd": "10/10/2026 14:00"
-      },
-      {
         "name": "2639S",
         "code": "2639N",
         "type": "INTERNATIONAL",
@@ -294,11 +285,6 @@
         "imo": "1115565"
       },
       {
-        "name": "GLOBAL 88",
-        "code": "GL88002",
-        "type": "INTERNATIONAL"
-      },
-      {
         "name": "6026",
         "code": "6026",
         "carrier": "PT. MENTARI MAS MULTIMODA",
@@ -310,6 +296,15 @@
         "carrier": "SEA CONSORTIUM PTE LTD",
         "voyage": "WAN HANG HENG YUAN / WAAN006",
         "type": "INTERNATIONAL"
+      },
+      {
+        "name": "GLOBAL 88",
+        "code": "GL88002",
+        "voyage": "021          / 022",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. ANDALAN PACIFIC LINE",
+        "atb": "10/10/2026 07:33",
+        "etd": "10/10/2026 14:00"
       }
     ],
     "schedule": [
