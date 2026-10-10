@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T09:30:41+00:00",
+  "generated_at": "2026-10-10T09:45:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -309,7 +309,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. ANDALAN PACIFIC LINE",
         "atb": "10/10/2026 07:33",
-        "etd": "10/10/2026 13:30"
+        "etd": "16/10/2026 23:30"
       }
     ],
     "schedule": [
