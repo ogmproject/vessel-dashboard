@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T17:45:31+00:00",
+  "generated_at": "2026-10-11T18:00:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -361,14 +361,6 @@
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "10/10/2026 16:05",
         "atd": "11/10/2026 15:50"
-      },
-      {
-        "name": "2639S",
-        "code": "2639N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "10/10/2026 02:36",
-        "atd": "11/10/2026 00:58"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
