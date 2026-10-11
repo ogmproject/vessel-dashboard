@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T07:30:35+00:00",
+  "generated_at": "2026-10-11T07:45:33+00:00",
   "tps": {
     "alongside": [
       {
@@ -17,6 +17,13 @@
         "verified": false
       },
       {
+        "name": "I2 - SONGA SUCCESS",
+        "code": "0056S / 0056N",
+        "atb": "11/10/2026 14:30",
+        "etd": "11/10/2026 16:00",
+        "verified": false
+      },
+      {
         "name": "I1 - KMTC SHANGHAI",
         "code": "2608S / 2608N",
         "atb": "11/10/2026 11:05",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SONGA SUCCESS",
-        "code": "0056S / 0056N",
-        "eta": "11/10/2026 04:00",
-        "etd": "11/10/2026 16:00",
-        "openstack": "06/10/2026 01:00",
-        "closeC": "10/10/2026 19:00",
-        "closeD": "10/10/2026 22:00",
-        "verified": false
-      },
       {
         "name": "MSC VOYAGER III",
         "code": "HV641R / HV641R",
