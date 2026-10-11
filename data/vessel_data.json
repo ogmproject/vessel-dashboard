@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:15:29+00:00",
+  "generated_at": "2026-10-11T08:22:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,28 +20,18 @@
         "name": "I2 - SONGA SUCCESS",
         "code": "0056S / 0056N",
         "atb": "11/10/2026 14:30",
-        "etd": "11/10/2026 16:00",
+        "etd": "12/10/2026 02:00",
         "verified": false
       },
       {
         "name": "I1 - KMTC SHANGHAI",
         "code": "2608S / 2608N",
         "atb": "11/10/2026 11:05",
-        "etd": "11/10/2026 22:00",
+        "etd": "12/10/2026 02:00",
         "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "MSC VOYAGER III",
-        "code": "HV641R / HV641R",
-        "eta": "11/10/2026 16:00",
-        "etd": "12/10/2026 12:00",
-        "openstack": "06/10/2026 02:00",
-        "closeC": "10/10/2026 20:00",
-        "closeD": "10/10/2026 23:00",
-        "verified": false
-      },
       {
         "name": "SIMAG SHANGHAI",
         "code": "2631S / 2631S",
@@ -73,10 +63,20 @@
         "verified": false
       },
       {
+        "name": "MSC VOYAGER III",
+        "code": "HV641R / HV641R",
+        "eta": "12/10/2026 04:00",
+        "etd": "13/10/2026 00:30",
+        "openstack": "06/10/2026 02:00",
+        "closeC": "10/10/2026 20:00",
+        "closeD": "10/10/2026 23:00",
+        "verified": false
+      },
+      {
         "name": "ES TREASURE",
         "code": "641N / 641N",
-        "eta": "12/10/2026 02:00",
-        "etd": "13/10/2026 01:00",
+        "eta": "12/10/2026 06:00",
+        "etd": "13/10/2026 08:30",
         "openstack": "07/10/2026 00:00",
         "closeC": "11/10/2026 18:00",
         "closeD": "11/10/2026 21:00",
