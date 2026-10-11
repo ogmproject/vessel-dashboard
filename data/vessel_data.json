@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T11:45:34+00:00",
+  "generated_at": "2026-10-11T12:00:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -265,8 +265,10 @@
         "etd": "12/10/2026 06:00"
       },
       {
-        "name": "HMM HARVEST",
-        "code": "HMAR006",
+        "name": "6026",
+        "code": "6026",
+        "carrier": "PT. TEMAS SHIPPING",
+        "voyage": "HMM HARVEST / HMAR006",
         "type": "INTERNATIONAL"
       },
       {
