@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:22:41+00:00",
+  "generated_at": "2026-10-11T08:30:33+00:00",
   "tps": {
     "alongside": [
       {
@@ -43,26 +43,6 @@
         "verified": false
       },
       {
-        "name": "AS CASPRIA",
-        "code": "381S / 381N",
-        "eta": "11/10/2026 21:00",
-        "etd": "12/10/2026 22:00",
-        "openstack": "05/10/2026 21:00",
-        "closeC": "10/10/2026 15:00",
-        "closeD": "10/10/2026 18:00",
-        "verified": false
-      },
-      {
-        "name": "SINAR SUNDA",
-        "code": "245S / 245N",
-        "eta": "11/10/2026 23:00",
-        "etd": "13/10/2026 12:00",
-        "openstack": "06/10/2026 22:00",
-        "closeC": "11/10/2026 16:00",
-        "closeD": "11/10/2026 19:00",
-        "verified": false
-      },
-      {
         "name": "MSC VOYAGER III",
         "code": "HV641R / HV641R",
         "eta": "12/10/2026 04:00",
@@ -80,6 +60,26 @@
         "openstack": "07/10/2026 00:00",
         "closeC": "11/10/2026 18:00",
         "closeD": "11/10/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "SINAR SUNDA",
+        "code": "245S / 245N",
+        "eta": "12/10/2026 16:00",
+        "etd": "14/10/2026 09:30",
+        "openstack": "06/10/2026 22:00",
+        "closeC": "11/10/2026 16:00",
+        "closeD": "11/10/2026 19:00",
+        "verified": false
+      },
+      {
+        "name": "AS CASPRIA",
+        "code": "381S / 381N",
+        "eta": "12/10/2026 21:00",
+        "etd": "13/10/2026 22:30",
+        "openstack": "05/10/2026 21:00",
+        "closeC": "10/10/2026 15:00",
+        "closeD": "10/10/2026 18:00",
         "verified": false
       },
       {
