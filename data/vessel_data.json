@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:45:31+00:00",
+  "generated_at": "2026-10-11T17:00:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -224,31 +224,6 @@
         "name": "MSC CARLA III",
         "berth": "09/10/2026 14:00",
         "dep": "10/10/2026 07:42"
-      },
-      {
-        "name": "MERATUS MAMIRI",
-        "berth": "09/10/2026 11:30",
-        "dep": "09/10/2026 23:24"
-      },
-      {
-        "name": "ES TREASURE",
-        "berth": "08/10/2026 17:12",
-        "dep": "09/10/2026 09:38"
-      },
-      {
-        "name": "ANL DHAMBI",
-        "berth": "08/10/2026 23:50",
-        "dep": "09/10/2026 08:48"
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "berth": "07/10/2026 14:30",
-        "dep": "09/10/2026 08:07"
-      },
-      {
-        "name": "BRIGHT COSMOS",
-        "berth": "08/10/2026 19:27",
-        "dep": "09/10/2026 06:33"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
