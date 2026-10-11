@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T14:15:35+00:00",
+  "generated_at": "2026-10-11T14:30:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -265,15 +265,6 @@
         "etd": "12/10/2026 09:00"
       },
       {
-        "name": "KMTC YOKOHAMA",
-        "code": "KMHA031",
-        "voyage": "2609E        / 2610W",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "11/10/2026 05:06",
-        "etd": "12/10/2026 03:00"
-      },
-      {
         "name": "6026",
         "code": "6026",
         "carrier": "PT. TEMAS SHIPPING",
@@ -288,11 +279,13 @@
         "type": "INTERNATIONAL"
       },
       {
-        "name": "2609E",
-        "code": "2610W",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "voyage": "GLOBAL 88 / GL88002",
-        "type": "INTERNATIONAL"
+        "name": "GLOBAL 88",
+        "code": "GL88002",
+        "voyage": "021          / 022",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. ANDALAN PACIFIC LINE",
+        "atb": "10/10/2026 07:33",
+        "etd": "10/10/2026 13:30"
       }
     ],
     "schedule": [
