@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:30:33+00:00",
+  "generated_at": "2026-10-11T08:45:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "0XLCNS / 0XLCON",
         "atb": "11/10/2026 11:10",
         "etd": "12/10/2026 15:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - WAN HAI 375",
-        "code": "S022 / N023",
-        "atb": "10/10/2026 03:30",
-        "etd": "11/10/2026 14:00",
         "verified": false
       },
       {
@@ -197,6 +190,13 @@
     ],
     "movement": [
       {
+        "name": "WAN HAI 375",
+        "berth": "10/10/2026 03:30",
+        "dep": "11/10/2026 15:29",
+        "mmsi": "563232800",
+        "imo": "9958121"
+      },
+      {
         "name": "MARSA PRIDE",
         "berth": "10/10/2026 20:10",
         "dep": "11/10/2026 11:30"
@@ -275,8 +275,10 @@
         "type": "INTERNATIONAL"
       },
       {
-        "name": "SHANGHAI VOYAGER",
-        "code": "SHVO013",
+        "name": "2609E",
+        "code": "2610W",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "voyage": "SHANGHAI VOYAGER / SHVO013",
         "type": "INTERNATIONAL"
       },
       {
