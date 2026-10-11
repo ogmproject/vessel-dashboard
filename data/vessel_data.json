@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:30:37+00:00",
+  "generated_at": "2026-10-11T05:45:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -263,15 +263,6 @@
         "etd": "12/10/2026 05:00"
       },
       {
-        "name": "SHANGHAI VOYAGER",
-        "code": "SHVO013",
-        "voyage": "2608S        / 2608N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "atb": "10/10/2026 16:05",
-        "etd": "11/10/2026 14:00"
-      },
-      {
         "name": "3126",
         "code": "3126",
         "carrier": "PT. MENTARI MAS MULTIMODA",
@@ -284,11 +275,13 @@
         "type": "INTERNATIONAL"
       },
       {
-        "name": "2608S",
-        "code": "2608N",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "voyage": "GLOBAL 88 / GL88002",
-        "type": "INTERNATIONAL"
+        "name": "GLOBAL 88",
+        "code": "GL88002",
+        "voyage": "021          / 022",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. ANDALAN PACIFIC LINE",
+        "atb": "10/10/2026 07:33",
+        "etd": "10/10/2026 13:30"
       }
     ],
     "schedule": [
