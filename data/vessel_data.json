@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:15:32+00:00",
+  "generated_at": "2026-10-11T21:30:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,20 +14,6 @@
         "code": "2631S / 2631S",
         "atb": "11/10/2026 18:10",
         "etd": "12/10/2026 05:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - SONGA SUCCESS",
-        "code": "0056S / 0056N",
-        "atb": "11/10/2026 14:30",
-        "etd": "12/10/2026 03:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - KMTC SHANGHAI",
-        "code": "2608S / 2608N",
-        "atb": "11/10/2026 11:05",
-        "etd": "12/10/2026 02:00",
         "verified": false
       }
     ],
@@ -186,6 +172,16 @@
       }
     ],
     "movement": [
+      {
+        "name": "SONGA SUCCESS",
+        "berth": "11/10/2026 14:30",
+        "dep": "12/10/2026 03:55"
+      },
+      {
+        "name": "KMTC SHANGHAI",
+        "berth": "11/10/2026 11:05",
+        "dep": "12/10/2026 03:35"
+      },
       {
         "name": "WAN HAI 375",
         "berth": "10/10/2026 03:30",
