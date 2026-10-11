@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T09:00:41+00:00",
+  "generated_at": "2026-10-11T09:15:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -259,26 +259,10 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "KMTC YOKOHAMA",
-        "code": "KMHA031",
-        "voyage": "2609E        / 2610W",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "11/10/2026 05:06",
-        "etd": "12/10/2026 05:00"
-      },
-      {
         "name": "3126",
         "code": "3126",
         "carrier": "PT. MENTARI MAS MULTIMODA",
         "voyage": "KMTC YOKOHAMA / KMHA031",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "2609E",
-        "code": "2610W",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "voyage": "SHANGHAI VOYAGER / SHVO013",
         "type": "INTERNATIONAL"
       },
       {
@@ -379,9 +363,28 @@
         "etd": "16/10/2026 22:30",
         "openstack": "11/10/2026 02:00",
         "closeC": "15/10/2026 21:00"
+      },
+      {
+        "name": "MERATUS KAIMANA",
+        "code": "MEAI028",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "17/10/2026 08:00",
+        "etd": "18/10/2026 08:00",
+        "openstack": "12/10/2026 08:00",
+        "closeC": "17/10/2026 03:00"
       }
     ],
     "departed": [
+      {
+        "name": "SHANGHAI VOYAGER",
+        "code": "SHVO013",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "atb": "10/10/2026 16:05",
+        "atd": "11/10/2026 15:50"
+      },
       {
         "name": "2639S",
         "code": "2639N",
