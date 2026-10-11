@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-11T10:15:32+00:00",
+  "generated_at": "2026-10-11T10:30:46+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - CMA CGM POINTE DU PITON",
         "code": "0XLCNS / 0XLCON",
         "atb": "11/10/2026 11:10",
-        "etd": "12/10/2026 15:00",
+        "etd": "12/10/2026 09:00",
         "verified": false
       },
       {
         "name": "I2 - SONGA SUCCESS",
         "code": "0056S / 0056N",
         "atb": "11/10/2026 14:30",
-        "etd": "12/10/2026 02:00",
+        "etd": "12/10/2026 03:00",
         "verified": false
       },
       {
         "name": "I1 - KMTC SHANGHAI",
         "code": "2608S / 2608N",
         "atb": "11/10/2026 11:05",
-        "etd": "12/10/2026 02:00",
+        "etd": "12/10/2026 00:00",
         "verified": false
       }
     ],
@@ -295,7 +295,7 @@
         "etb": "12/10/2026 04:00",
         "etd": "12/10/2026 13:00",
         "openstack": "06/10/2026 20:00",
-        "closeC": "10/10/2026 20:00"
+        "closeC": "11/10/2026 20:00"
       },
       {
         "name": "MARINA AURORA",
