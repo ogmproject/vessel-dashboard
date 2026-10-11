@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T07:45:33+00:00",
+  "generated_at": "2026-10-11T08:00:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -387,16 +387,6 @@
         "carrier": "SEA CONSORTIUM PTE LTD",
         "atb": "10/10/2026 02:36",
         "atd": "11/10/2026 00:58"
-      },
-      {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN006",
-        "voyage": "012S         / 012N",
-        "type": "INTERNATIONAL",
-        "atb": "10/10/2026 00:01",
-        "atd": "10/10/2026 14:54",
-        "mmsi": "352006269",
-        "imo": "1115565"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
