@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T18:45:32+00:00",
+  "generated_at": "2026-10-11T19:00:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -247,13 +247,6 @@
         "type": "INTERNATIONAL"
       },
       {
-        "name": "3126",
-        "code": "3126",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "KMTC YOKOHAMA / KMHA031",
-        "type": "INTERNATIONAL"
-      },
-      {
         "name": "GLOBAL 88",
         "code": "GL88002",
         "voyage": "021          / 022",
@@ -353,6 +346,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "KMTC YOKOHAMA",
+        "code": "KMHA031",
+        "voyage": "2609E        / 2610W",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "11/10/2026 05:06",
+        "atd": "12/10/2026 01:40"
+      },
       {
         "name": "SHANGHAI VOYAGER",
         "code": "SHVO013",
