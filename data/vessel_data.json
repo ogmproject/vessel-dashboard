@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T11:15:31+00:00",
+  "generated_at": "2026-10-11T11:30:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "0XLCNS / 0XLCON",
         "atb": "11/10/2026 11:10",
         "etd": "12/10/2026 09:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - SIMAG SHANGHAI",
+        "code": "2631S / 2631S",
+        "atb": "11/10/2026 18:10",
+        "etd": "12/10/2026 04:00",
         "verified": false
       },
       {
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SIMAG SHANGHAI",
-        "code": "2631S / 2631S",
-        "eta": "11/10/2026 18:00",
-        "etd": "12/10/2026 04:00",
-        "openstack": "06/10/2026 21:00",
-        "closeC": "11/10/2026 15:00",
-        "closeD": "11/10/2026 18:00",
-        "verified": false
-      },
       {
         "name": "MSC VOYAGER III",
         "code": "HV641R / HV641R",
@@ -259,6 +256,20 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "HMM HARVEST",
+        "code": "HMAR006",
+        "voyage": "0015S        / 0015N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "11/10/2026 18:25",
+        "etd": "12/10/2026 06:00"
+      },
+      {
+        "name": "HMM HARVEST",
+        "code": "HMAR006",
+        "type": "INTERNATIONAL"
+      },
+      {
         "name": "3126",
         "code": "3126",
         "carrier": "PT. MENTARI MAS MULTIMODA",
@@ -276,17 +287,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "HMM HARVEST",
-        "code": "HMAR006",
-        "voyage": "0015S        / 0015N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "etb": "11/10/2026 16:00",
-        "etd": "12/10/2026 06:00",
-        "openstack": "04/10/2026 10:00",
-        "closeC": "09/10/2026 13:00"
-      },
       {
         "name": "MERATUS LAMPUNG",
         "code": "MEPN001",

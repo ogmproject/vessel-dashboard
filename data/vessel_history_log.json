@@ -1832,5 +1832,19 @@
     "arrival": "2026-10-11T14:30:00",
     "departure": null,
     "recorded_at": "2026-10-11T07:45:33.502793"
+  },
+  {
+    "vessel_name": "SIMAG SHANGHAI",
+    "terminal": "TPS",
+    "arrival": "2026-10-11T18:10:00",
+    "departure": null,
+    "recorded_at": "2026-10-11T11:30:38.940012"
+  },
+  {
+    "vessel_name": "HMM HARVEST",
+    "terminal": "TL",
+    "arrival": "2026-10-11T18:25:00",
+    "departure": null,
+    "recorded_at": "2026-10-11T11:30:38.940012"
   }
 ]
