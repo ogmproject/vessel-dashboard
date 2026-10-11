@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T23:30:35+00:00",
+  "generated_at": "2026-10-11T23:45:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -227,6 +227,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "MERATUS LAMPUNG",
+        "code": "MEPN001",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "12/10/2026 06:38",
+        "etd": "12/10/2026 13:00"
+      },
+      {
         "name": "HMM HARVEST",
         "code": "HMAR006",
         "voyage": "0015S        / 0015N",
@@ -234,6 +242,12 @@
         "carrier": "HMM CO.,LTD",
         "atb": "11/10/2026 18:25",
         "etd": "12/10/2026 07:00"
+      },
+      {
+        "name": "MERATUS LAMPUNG",
+        "code": "MEPN001",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE"
       },
       {
         "name": "6026",
@@ -253,16 +267,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MERATUS LAMPUNG",
-        "code": "MEPN001",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "12/10/2026 04:00",
-        "etd": "12/10/2026 13:00",
-        "openstack": "06/10/2026 20:00",
-        "closeC": "10/10/2026 20:00"
-      },
       {
         "name": "MARINA AURORA",
         "code": "MAAU012",

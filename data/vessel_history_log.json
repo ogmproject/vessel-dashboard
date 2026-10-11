@@ -1846,5 +1846,12 @@
     "arrival": "2026-10-11T18:25:00",
     "departure": null,
     "recorded_at": "2026-10-11T11:30:38.940012"
+  },
+  {
+    "vessel_name": "MERATUS LAMPUNG",
+    "terminal": "TL",
+    "arrival": "2026-10-12T06:38:00",
+    "departure": null,
+    "recorded_at": "2026-10-11T23:45:32.723696"
   }
 ]
