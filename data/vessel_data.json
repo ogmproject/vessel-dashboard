@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-11T04:00:39+00:00",
+  "generated_at": "2026-10-11T04:15:35+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - AS CASPRIA",
+        "code": "381S / 381N",
+        "atb": "11/10/2026 11:10",
+        "etd": "12/10/2026 22:00",
+        "verified": false
+      },
       {
         "name": "I3 - WAN HAI 375",
         "code": "S022 / N023",
@@ -66,16 +73,6 @@
         "openstack": "06/10/2026 21:00",
         "closeC": "11/10/2026 15:00",
         "closeD": "11/10/2026 18:00",
-        "verified": false
-      },
-      {
-        "name": "AS CASPRIA",
-        "code": "381S / 381N",
-        "eta": "11/10/2026 21:00",
-        "etd": "12/10/2026 22:00",
-        "openstack": "05/10/2026 21:00",
-        "closeC": "10/10/2026 15:00",
-        "closeD": "10/10/2026 18:00",
         "verified": false
       },
       {
