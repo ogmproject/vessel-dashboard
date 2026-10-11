@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-11T15:15:33+00:00",
+  "generated_at": "2026-10-11T15:30:37+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - CMA CGM POINTE DU PITON",
         "code": "0XLCNS / 0XLCON",
         "atb": "11/10/2026 11:10",
-        "etd": "12/10/2026 09:00",
+        "etd": "12/10/2026 11:00",
         "verified": false
       },
       {
         "name": "I3 - SIMAG SHANGHAI",
         "code": "2631S / 2631S",
         "atb": "11/10/2026 18:10",
-        "etd": "12/10/2026 03:00",
+        "etd": "12/10/2026 05:00",
         "verified": false
       },
       {
