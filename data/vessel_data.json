@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:00:44+00:00",
+  "generated_at": "2026-10-12T00:15:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -244,10 +244,11 @@
         "etd": "12/10/2026 07:00"
       },
       {
-        "name": "MERATUS LAMPUNG",
-        "code": "MEPN001",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE"
+        "name": "5826",
+        "code": "5826",
+        "carrier": "PT. TEMAS SHIPPING",
+        "voyage": "MERATUS LAMPUNG / MEPN001",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "6026",
