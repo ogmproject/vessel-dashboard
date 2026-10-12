@@ -1874,5 +1874,12 @@
     "arrival": "2026-10-12T16:55:00",
     "departure": null,
     "recorded_at": "2026-10-12T10:00:43.465685"
+  },
+  {
+    "vessel_name": "EVER CONSIST",
+    "terminal": "TPS",
+    "arrival": "2026-10-12T21:15:00",
+    "departure": null,
+    "recorded_at": "2026-10-12T14:30:38.893195"
   }
 ]
