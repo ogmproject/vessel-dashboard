@@ -1851,8 +1851,8 @@
     "vessel_name": "MERATUS LAMPUNG",
     "terminal": "TL",
     "arrival": "2026-10-12T06:38:00",
-    "departure": null,
-    "recorded_at": "2026-10-11T23:45:32.723696"
+    "departure": "2026-10-12T23:52:00",
+    "recorded_at": "2026-10-12T17:15:35.123617"
   },
   {
     "vessel_name": "ES TREASURE",

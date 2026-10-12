@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:00:46+00:00",
+  "generated_at": "2026-10-12T17:15:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -334,6 +334,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "MERATUS LAMPUNG",
+        "code": "MEPN001",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "12/10/2026 06:38",
+        "atd": "12/10/2026 23:52"
+      },
       {
         "name": "HMM HARVEST",
         "code": "HMAR006",
