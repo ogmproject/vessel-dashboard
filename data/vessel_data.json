@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T05:15:34+00:00",
+  "generated_at": "2026-10-12T05:30:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -149,6 +149,26 @@
         "closeC": "16/10/2026 16:30",
         "closeD": "16/10/2026 19:30",
         "verified": false
+      },
+      {
+        "name": "MTT SANDAKAN",
+        "code": "81E / 81W",
+        "eta": "17/10/2026 22:00",
+        "etd": "19/10/2026 02:30",
+        "openstack": "12/10/2026 22:00",
+        "closeC": "17/10/2026 16:00",
+        "closeD": "17/10/2026 19:00",
+        "verified": false
+      },
+      {
+        "name": "NIKEN",
+        "code": "639S / 642N",
+        "eta": "17/10/2026 23:00",
+        "etd": "19/10/2026 07:30",
+        "openstack": "12/10/2026 23:00",
+        "closeC": "14/11/2026 17:00",
+        "closeD": "14/11/2026 20:00",
+        "verified": false
       }
     ],
     "movement": [
@@ -222,7 +242,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "12/10/2026 06:38",
-        "etd": "12/10/2026 20:00"
+        "etd": "12/10/2026 19:00"
       },
       {
         "name": "5826",
@@ -258,8 +278,8 @@
         "voyage": "S048         / W049",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "12/10/2026 20:00",
-        "etd": "13/10/2026 20:30",
+        "etb": "13/10/2026 14:00",
+        "etd": "14/10/2026 18:00",
         "openstack": "07/10/2026 20:00",
         "closeC": "12/10/2026 15:00"
       },
@@ -270,7 +290,7 @@
         "type": "INTERNATIONAL",
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
         "etb": "13/10/2026 20:00",
-        "etd": "15/10/2026 20:30",
+        "etd": "14/10/2026 19:00",
         "openstack": "08/10/2026 20:00",
         "closeC": "13/10/2026 15:00"
       },
