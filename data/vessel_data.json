@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T03:00:43+00:00",
+  "generated_at": "2026-10-12T03:15:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "0XLCNS / 0XLCON",
         "atb": "11/10/2026 11:10",
         "etd": "12/10/2026 10:00",
+        "verified": false
+      },
+      {
+        "name": "I2 - MSC VOYAGER III",
+        "code": "HV641R / HV641R",
+        "atb": "12/10/2026 10:00",
+        "etd": "14/10/2026 00:30",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MSC VOYAGER III",
-        "code": "HV641R / HV641R",
-        "eta": "12/10/2026 04:00",
-        "etd": "14/10/2026 00:30",
-        "openstack": "06/10/2026 02:00",
-        "closeC": "10/10/2026 20:00",
-        "closeD": "10/10/2026 23:00",
-        "verified": false
-      },
       {
         "name": "SINAR SUNDA",
         "code": "245S / 245N",

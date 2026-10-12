@@ -1860,5 +1860,12 @@
     "arrival": "2026-10-12T07:26:00",
     "departure": null,
     "recorded_at": "2026-10-12T00:45:33.921754"
+  },
+  {
+    "vessel_name": "MSC VOYAGER III",
+    "terminal": "TPS",
+    "arrival": "2026-10-12T10:00:00",
+    "departure": null,
+    "recorded_at": "2026-10-12T03:15:35.359608"
   }
 ]
