@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-12T11:00:48+00:00",
+  "generated_at": "2026-10-12T11:15:32+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SINAR SUNDA",
         "code": "245S / 245N",
         "atb": "12/10/2026 16:55",
-        "etd": "14/10/2026 10:00",
+        "etd": "14/10/2026 11:00",
         "verified": false
       },
       {
         "name": "I2 - MSC VOYAGER III",
         "code": "HV641R / HV641R",
         "atb": "12/10/2026 10:00",
-        "etd": "14/10/2026 00:30",
+        "etd": "14/10/2026 04:00",
         "verified": false
       },
       {
