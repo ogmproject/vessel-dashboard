@@ -1837,15 +1837,15 @@
     "vessel_name": "SIMAG SHANGHAI",
     "terminal": "TPS",
     "arrival": "2026-10-11T18:10:00",
-    "departure": null,
-    "recorded_at": "2026-10-11T11:30:38.940012"
+    "departure": "2026-10-12T07:12:00",
+    "recorded_at": "2026-10-12T00:30:41.689215"
   },
   {
     "vessel_name": "HMM HARVEST",
     "terminal": "TL",
     "arrival": "2026-10-11T18:25:00",
-    "departure": null,
-    "recorded_at": "2026-10-11T11:30:38.940012"
+    "departure": "2026-10-12T07:12:00",
+    "recorded_at": "2026-10-12T00:30:41.689215"
   },
   {
     "vessel_name": "MERATUS LAMPUNG",

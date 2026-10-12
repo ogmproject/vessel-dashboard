@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:15:34+00:00",
+  "generated_at": "2026-10-12T00:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "0XLCNS / 0XLCON",
         "atb": "11/10/2026 11:10",
         "etd": "12/10/2026 11:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - SIMAG SHANGHAI",
-        "code": "2631S / 2631S",
-        "atb": "11/10/2026 18:10",
-        "etd": "12/10/2026 05:00",
         "verified": false
       }
     ],
@@ -173,6 +166,11 @@
     ],
     "movement": [
       {
+        "name": "SIMAG SHANGHAI",
+        "berth": "11/10/2026 18:10",
+        "dep": "12/10/2026 07:12"
+      },
+      {
         "name": "SONGA SUCCESS",
         "berth": "11/10/2026 14:30",
         "dep": "12/10/2026 03:55"
@@ -235,26 +233,10 @@
         "etd": "12/10/2026 13:00"
       },
       {
-        "name": "HMM HARVEST",
-        "code": "HMAR006",
-        "voyage": "0015S        / 0015N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "11/10/2026 18:25",
-        "etd": "12/10/2026 07:00"
-      },
-      {
         "name": "5826",
         "code": "5826",
         "carrier": "PT. TEMAS SHIPPING",
         "voyage": "MERATUS LAMPUNG / MEPN001",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "6026",
-        "code": "6026",
-        "carrier": "PT. TEMAS SHIPPING",
-        "voyage": "HMM HARVEST / HMAR006",
         "type": "INTERNATIONAL"
       },
       {
@@ -347,6 +329,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "HMM HARVEST",
+        "code": "HMAR006",
+        "voyage": "0015S        / 0015N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "11/10/2026 18:25",
+        "atd": "12/10/2026 07:12"
+      },
       {
         "name": "KMTC YOKOHAMA",
         "code": "KMHA031",
