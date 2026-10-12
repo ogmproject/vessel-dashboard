@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T10:30:40+00:00",
+  "generated_at": "2026-10-12T10:45:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -148,6 +148,16 @@
         "verified": false
       },
       {
+        "name": "SINAR SOLO",
+        "code": "022S / 022N",
+        "eta": "17/10/2026 18:00",
+        "etd": "18/10/2026 07:30",
+        "openstack": "12/10/2026 18:00",
+        "closeC": "17/10/2026 12:00",
+        "closeD": "17/10/2026 15:00",
+        "verified": false
+      },
+      {
         "name": "MTT SANDAKAN",
         "code": "81E / 81W",
         "eta": "17/10/2026 22:00",
@@ -165,6 +175,16 @@
         "openstack": "12/10/2026 23:00",
         "closeC": "17/10/2026 17:00",
         "closeD": "17/10/2026 20:00",
+        "verified": false
+      },
+      {
+        "name": "MSC CHERYL 3",
+        "code": "XF640R / XF640R",
+        "eta": "18/10/2026 02:00",
+        "etd": "19/10/2026 08:30",
+        "openstack": "13/10/2026 02:00",
+        "closeC": "17/10/2026 20:00",
+        "closeD": "17/10/2026 23:00",
         "verified": false
       }
     ],
