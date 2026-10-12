@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T06:45:38+00:00",
+  "generated_at": "2026-10-12T07:00:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -278,8 +278,8 @@
         "voyage": "S048         / W049",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "13/10/2026 14:00",
-        "etd": "14/10/2026 18:00",
+        "etb": "13/10/2026 15:00",
+        "etd": "14/10/2026 19:00",
         "openstack": "07/10/2026 20:00",
         "closeC": "12/10/2026 15:00"
       },
