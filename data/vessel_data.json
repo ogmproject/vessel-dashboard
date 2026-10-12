@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:45:31+00:00",
+  "generated_at": "2026-10-12T17:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -227,23 +227,6 @@
         "name": "XIN YAN TIAN",
         "berth": "10/10/2026 10:05",
         "dep": "11/10/2026 03:38"
-      },
-      {
-        "name": "WAN HAI 327",
-        "berth": "09/10/2026 21:15",
-        "dep": "10/10/2026 14:20",
-        "mmsi": "563124300",
-        "imo": "9871490"
-      },
-      {
-        "name": "STARSHIP VENUS",
-        "berth": "09/10/2026 10:55",
-        "dep": "10/10/2026 11:10"
-      },
-      {
-        "name": "MSC CARLA III",
-        "berth": "09/10/2026 14:00",
-        "dep": "10/10/2026 07:42"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
