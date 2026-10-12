@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-10-12T04:45:31+00:00",
+  "generated_at": "2026-10-12T05:00:48+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - CMA CGM POINTE DU PITON",
-        "code": "0XLCNS / 0XLCON",
-        "atb": "11/10/2026 11:10",
-        "etd": "12/10/2026 10:00",
-        "verified": false
-      },
       {
         "name": "I2 - MSC VOYAGER III",
         "code": "HV641R / HV641R",
@@ -159,6 +152,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "CMA CGM POINTE DU PITON",
+        "berth": "11/10/2026 11:10",
+        "dep": "12/10/2026 11:53"
+      },
       {
         "name": "SIMAG SHANGHAI",
         "berth": "11/10/2026 18:10",

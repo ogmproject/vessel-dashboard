@@ -1823,8 +1823,8 @@
     "vessel_name": "CMA CGM POINTE DU PITON",
     "terminal": "TPS",
     "arrival": "2026-10-11T11:10:00",
-    "departure": null,
-    "recorded_at": "2026-10-11T04:30:40.913334"
+    "departure": "2026-10-12T11:53:00",
+    "recorded_at": "2026-10-12T05:00:48.356864"
   },
   {
     "vessel_name": "SONGA SUCCESS",
