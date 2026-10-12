@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:30:41.689215",
+  "generated_at": "2026-10-12T00:45:33.921754",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -90,17 +90,6 @@
       "confidence": "high"
     },
     {
-      "vessel_name": "ES TREASURE",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-08T17:12:00",
-      "predicted_next_arrival": "2026-10-16T01:25:40",
-      "avg_interval_days": 7.3,
-      "interval_stddev_days": 3.9,
-      "avg_dwelling_hours": 26.6,
-      "visits_recorded": 7,
-      "confidence": "medium"
-    },
-    {
       "vessel_name": "MERATUS KARIMUN",
       "terminal": "TL",
       "last_arrival": "2026-09-29T17:40:00",
@@ -109,6 +98,17 @@
       "interval_stddev_days": 9.6,
       "avg_dwelling_hours": 19.3,
       "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "ES TREASURE",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-12T07:26:00",
+      "predicted_next_arrival": "2026-10-19T02:48:17.142857",
+      "avg_interval_days": 6.8,
+      "interval_stddev_days": 3.8,
+      "avg_dwelling_hours": 26.6,
+      "visits_recorded": 8,
       "confidence": "medium"
     },
     {
