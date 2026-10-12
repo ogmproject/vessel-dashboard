@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T09:45:32.941771",
+  "generated_at": "2026-10-12T10:00:43.465685",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -42,17 +42,6 @@
       "avg_interval_days": 17.4,
       "interval_stddev_days": 0.4,
       "avg_dwelling_hours": 18.1,
-      "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "SINAR SUNDA",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-03T23:20:00",
-      "predicted_next_arrival": "2026-10-12T20:29:00",
-      "avg_interval_days": 8.9,
-      "interval_stddev_days": 1.1,
-      "avg_dwelling_hours": 40.0,
       "visits_recorded": 3,
       "confidence": "medium"
     },
@@ -110,6 +99,17 @@
       "avg_dwelling_hours": 26.6,
       "visits_recorded": 8,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "SINAR SUNDA",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-12T16:55:00",
+      "predicted_next_arrival": "2026-10-21T12:52:40",
+      "avg_interval_days": 8.8,
+      "interval_stddev_days": 0.9,
+      "avg_dwelling_hours": 40.0,
+      "visits_recorded": 4,
+      "confidence": "high"
     },
     {
       "vessel_name": "WANTAI",
