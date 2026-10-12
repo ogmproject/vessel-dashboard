@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-12T00:45:33+00:00",
+  "generated_at": "2026-10-12T01:00:41+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - CMA CGM POINTE DU PITON",
         "code": "0XLCNS / 0XLCON",
         "atb": "11/10/2026 11:10",
-        "etd": "12/10/2026 11:00",
+        "etd": "12/10/2026 10:00",
         "verified": false
       },
       {
