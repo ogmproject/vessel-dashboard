@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:30:37+00:00",
+  "generated_at": "2026-10-13T22:45:30+00:00",
   "tps": {
     "alongside": [
       {
@@ -257,11 +257,13 @@
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "atb": "13/10/2026 15:24",
-        "etd": "14/10/2026 15:00"
+        "etd": "14/10/2026 12:00"
       },
       {
-        "name": "EVER BURLY",
-        "code": "EVLY007",
+        "name": "5526",
+        "code": "5526",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "EVER BURLY / EVLY007",
         "type": "INTERNATIONAL"
       },
       {
