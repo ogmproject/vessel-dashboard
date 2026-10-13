@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T12:15:36+00:00",
+  "generated_at": "2026-10-13T12:30:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -192,6 +192,16 @@
         "openstack": "13/10/2026 02:00",
         "closeC": "17/10/2026 20:00",
         "closeD": "17/10/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "MYD ZHANGZHOU",
+        "code": "CS20H0N / CS20H0N",
+        "eta": "19/10/2026 00:00",
+        "etd": "20/10/2026 03:30",
+        "openstack": "14/10/2026 00:00",
+        "closeC": "18/10/2026 18:00",
+        "closeD": "18/10/2026 21:00",
         "verified": false
       },
       {
