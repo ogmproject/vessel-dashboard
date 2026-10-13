@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T09:05:36+00:00",
+  "generated_at": "2026-10-13T09:15:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -264,7 +264,7 @@
       {
         "name": "WAN HAI 351",
         "code": "WA51019",
-        "voyage": "S048         / W049",
+        "voyage": "E048         / W049",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "atb": "13/10/2026 15:24",
