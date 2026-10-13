@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T03:00:41+00:00",
+  "generated_at": "2026-10-13T03:15:29+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "0556-070S / 0556-070N",
         "atb": "12/10/2026 21:15",
         "etd": "13/10/2026 17:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - MSC VOYAGER III",
-        "code": "HV641R / HV641R",
-        "atb": "12/10/2026 10:00",
-        "etd": "13/10/2026 08:30",
         "verified": false
       },
       {
@@ -186,6 +179,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MSC VOYAGER III",
+        "berth": "12/10/2026 10:00",
+        "dep": "13/10/2026 10:01"
+      },
       {
         "name": "CMA CGM POINTE DU PITON",
         "berth": "11/10/2026 11:10",
