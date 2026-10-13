@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T05:15:32+00:00",
+  "generated_at": "2026-10-13T05:30:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -243,16 +243,6 @@
     ],
     "schedule": [
       {
-        "name": "MARINA AURORA",
-        "code": "MAAU012",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "12/10/2026 16:00",
-        "etd": "13/10/2026 05:30",
-        "openstack": "07/10/2026 16:00",
-        "closeC": "14/10/2026 21:00"
-      },
-      {
         "name": "WAN HAI 351",
         "code": "WA51019",
         "voyage": "S048         / W049",
@@ -286,6 +276,16 @@
         "closeC": "14/10/2026 04:00",
         "mmsi": "636021108",
         "imo": "9472579"
+      },
+      {
+        "name": "MARINA AURORA",
+        "code": "MAAU012",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "14/10/2026 17:00",
+        "etd": "15/10/2026 06:30",
+        "openstack": "09/10/2026 17:00",
+        "closeC": "14/10/2026 21:00"
       },
       {
         "name": "KMTC SHIMIZU",
