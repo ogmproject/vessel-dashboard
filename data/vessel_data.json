@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T19:30:34+00:00",
+  "generated_at": "2026-10-13T19:45:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,7 +13,7 @@
         "name": "I3 - SITC SHEKOU",
         "code": "2620S / 2621N",
         "atb": "14/10/2026 00:55",
-        "etd": "14/10/2026 20:00",
+        "etd": "14/10/2026 16:00",
         "verified": false
       },
       {
@@ -242,6 +242,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "EVER BURLY",
+        "code": "EVLY007",
+        "voyage": "S094         / N094",
+        "type": "INTERNATIONAL",
+        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
+        "atb": "14/10/2026 02:40",
+        "etd": "14/10/2026 23:00"
+      },
+      {
         "name": "WAN HAI 351",
         "code": "WA51019",
         "voyage": "E048         / W049",
@@ -251,8 +260,15 @@
         "etd": "14/10/2026 15:00"
       },
       {
-        "name": "WAN HAI 351",
-        "code": "WA51019",
+        "name": "EVER BURLY",
+        "code": "EVLY007",
+        "type": "INTERNATIONAL"
+      },
+      {
+        "name": "S094",
+        "code": "N094",
+        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
+        "voyage": "WAN HAI 351 / WA51019",
         "type": "INTERNATIONAL"
       },
       {
@@ -266,17 +282,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER BURLY",
-        "code": "EVLY007",
-        "voyage": "S094         / N094",
-        "type": "INTERNATIONAL",
-        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "etb": "14/10/2026 00:00",
-        "etd": "14/10/2026 23:00",
-        "openstack": "08/10/2026 20:00",
-        "closeC": "13/10/2026 17:00"
-      },
       {
         "name": "SEABREEZE",
         "code": "SEZE003",
