@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T06:15:31+00:00",
+  "generated_at": "2026-10-13T06:30:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -249,7 +249,7 @@
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "etb": "13/10/2026 15:00",
-        "etd": "14/10/2026 19:00",
+        "etd": "14/10/2026 15:00",
         "openstack": "07/10/2026 20:00",
         "closeC": "13/10/2026 09:00"
       },
@@ -259,8 +259,8 @@
         "voyage": "S094         / N094",
         "type": "INTERNATIONAL",
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "etb": "13/10/2026 20:00",
-        "etd": "14/10/2026 19:00",
+        "etb": "14/10/2026 00:00",
+        "etd": "14/10/2026 23:00",
         "openstack": "08/10/2026 20:00",
         "closeC": "13/10/2026 15:00"
       },
