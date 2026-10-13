@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T00:00:41+00:00",
+  "generated_at": "2026-10-13T00:15:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,7 +13,7 @@
         "name": "I3 - EVER CONSIST",
         "code": "0556-070S / 0556-070N",
         "atb": "12/10/2026 21:15",
-        "etd": "13/10/2026 16:00",
+        "etd": "13/10/2026 18:00",
         "verified": false
       },
       {
@@ -27,7 +27,7 @@
         "name": "I1 - ES TREASURE",
         "code": "641N / 641N",
         "atb": "12/10/2026 07:26",
-        "etd": "13/10/2026 12:00",
+        "etd": "13/10/2026 20:00",
         "verified": false
       }
     ],
@@ -341,15 +341,6 @@
         "carrier": "PT. MERATUS LINE",
         "atb": "12/10/2026 06:38",
         "atd": "12/10/2026 23:52"
-      },
-      {
-        "name": "HMM HARVEST",
-        "code": "HMAR006",
-        "voyage": "0015S        / 0015N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "11/10/2026 18:25",
-        "atd": "12/10/2026 07:12"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
