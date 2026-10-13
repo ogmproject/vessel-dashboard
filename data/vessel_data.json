@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:45:33+00:00",
+  "generated_at": "2026-10-13T17:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -238,28 +238,6 @@
         "name": "KMTC SHANGHAI",
         "berth": "11/10/2026 11:05",
         "dep": "12/10/2026 03:35"
-      },
-      {
-        "name": "WAN HAI 375",
-        "berth": "10/10/2026 03:30",
-        "dep": "11/10/2026 15:29",
-        "mmsi": "563232800",
-        "imo": "9958121"
-      },
-      {
-        "name": "MARSA PRIDE",
-        "berth": "10/10/2026 20:10",
-        "dep": "11/10/2026 11:30"
-      },
-      {
-        "name": "SPIL HANA",
-        "berth": "10/10/2026 13:50",
-        "dep": "11/10/2026 05:30"
-      },
-      {
-        "name": "XIN YAN TIAN",
-        "berth": "10/10/2026 10:05",
-        "dep": "11/10/2026 03:38"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
@@ -369,16 +347,7 @@
         "closeC": "17/10/2026 10:00"
       }
     ],
-    "departed": [
-      {
-        "name": "MERATUS LAMPUNG",
-        "code": "MEPN001",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "12/10/2026 06:38",
-        "atd": "12/10/2026 23:52"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
