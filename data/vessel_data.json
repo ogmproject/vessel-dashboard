@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T08:15:31+00:00",
+  "generated_at": "2026-10-13T08:30:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -138,6 +138,16 @@
         "verified": false
       },
       {
+        "name": "EVER ORIENT",
+        "code": "0495-113S / 0495-113N",
+        "eta": "17/10/2026 12:00",
+        "etd": "18/10/2026 07:30",
+        "openstack": "12/10/2026 12:00",
+        "closeC": "17/10/2026 06:00",
+        "closeD": "17/10/2026 09:00",
+        "verified": false
+      },
+      {
         "name": "EVER BIRTH",
         "code": "1213-111A / 1213-111A",
         "eta": "17/10/2026 16:00",
@@ -242,6 +252,20 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "WAN HAI 351",
+        "code": "WA51019",
+        "voyage": "S048         / W049",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "atb": "13/10/2026 15:24",
+        "etd": "14/10/2026 15:00"
+      },
+      {
+        "name": "WAN HAI 351",
+        "code": "WA51019",
+        "type": "INTERNATIONAL"
+      },
+      {
         "name": "GLOBAL 88",
         "code": "GL88002",
         "voyage": "021          / 022",
@@ -252,17 +276,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "WAN HAI 351",
-        "code": "WA51019",
-        "voyage": "S048         / W049",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "13/10/2026 15:00",
-        "etd": "14/10/2026 15:00",
-        "openstack": "07/10/2026 20:00",
-        "closeC": "13/10/2026 09:00"
-      },
       {
         "name": "EVER BURLY",
         "code": "EVLY007",
