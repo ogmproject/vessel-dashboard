@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-13T19:15:31+00:00",
+  "generated_at": "2026-10-13T19:30:34+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SINAR SUNDA",
         "code": "245S / 245N",
         "atb": "12/10/2026 16:55",
-        "etd": "14/10/2026 10:00",
+        "etd": "14/10/2026 12:00",
         "verified": false
       },
       {
@@ -20,14 +20,14 @@
         "name": "I2 - AS CASPRIA",
         "code": "381S / 381N",
         "atb": "13/10/2026 16:30",
-        "etd": "14/10/2026 12:00",
+        "etd": "14/10/2026 14:00",
         "verified": false
       },
       {
         "name": "I1 - ES TREASURE",
         "code": "641N / 641N",
         "atb": "12/10/2026 07:26",
-        "etd": "14/10/2026 03:00",
+        "etd": "14/10/2026 04:00",
         "verified": false
       }
     ],
