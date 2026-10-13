@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T09:30:39.970214",
+  "generated_at": "2026-10-13T09:45:38.630142",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -163,6 +163,17 @@
       "avg_interval_days": 25.4,
       "interval_stddev_days": 0.3,
       "avg_dwelling_hours": 23.3,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "AS CASPRIA",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-13T16:30:00",
+      "predicted_next_arrival": "2026-10-31T14:15:00",
+      "avg_interval_days": 17.9,
+      "interval_stddev_days": 15.7,
+      "avg_dwelling_hours": 34.8,
       "visits_recorded": 3,
       "confidence": "medium"
     },

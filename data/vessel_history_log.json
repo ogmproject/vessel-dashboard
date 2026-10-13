@@ -1888,5 +1888,12 @@
     "arrival": "2026-10-13T15:24:00",
     "departure": null,
     "recorded_at": "2026-10-13T08:30:37.297922"
+  },
+  {
+    "vessel_name": "AS CASPRIA",
+    "terminal": "TPS",
+    "arrival": "2026-10-13T16:30:00",
+    "departure": null,
+    "recorded_at": "2026-10-13T09:45:38.630142"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T09:30:39+00:00",
+  "generated_at": "2026-10-13T09:45:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -17,24 +17,21 @@
         "verified": false
       },
       {
+        "name": "I2 - AS CASPRIA",
+        "code": "381S / 381N",
+        "atb": "13/10/2026 16:30",
+        "etd": "14/10/2026 12:00",
+        "verified": false
+      },
+      {
         "name": "I1 - ES TREASURE",
         "code": "641N / 641N",
         "atb": "12/10/2026 07:26",
-        "etd": "13/10/2026 23:59",
+        "etd": "14/10/2026 01:30",
         "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "AS CASPRIA",
-        "code": "381S / 381N",
-        "eta": "13/10/2026 16:00",
-        "etd": "14/10/2026 12:00",
-        "openstack": "05/10/2026 21:00",
-        "closeC": "10/10/2026 15:00",
-        "closeD": "10/10/2026 18:00",
-        "verified": false
-      },
       {
         "name": "SITC SHEKOU",
         "code": "2620S / 2621N",
