@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T07:00:40+00:00",
+  "generated_at": "2026-10-13T07:15:30+00:00",
   "tps": {
     "alongside": [
       {
@@ -28,21 +28,11 @@
       {
         "name": "AS CASPRIA",
         "code": "381S / 381N",
-        "eta": "12/10/2026 21:00",
-        "etd": "14/10/2026 08:30",
+        "eta": "13/10/2026 16:00",
+        "etd": "14/10/2026 12:00",
         "openstack": "05/10/2026 21:00",
         "closeC": "10/10/2026 15:00",
         "closeD": "10/10/2026 18:00",
-        "verified": false
-      },
-      {
-        "name": "SITC SHEKOU",
-        "code": "2620S / 2621N",
-        "eta": "13/10/2026 10:00",
-        "etd": "14/10/2026 00:01",
-        "openstack": "08/10/2026 13:00",
-        "closeC": "13/10/2026 07:00",
-        "closeD": "13/10/2026 10:00",
         "verified": false
       },
       {
@@ -53,6 +43,16 @@
         "openstack": "08/10/2026 18:00",
         "closeC": "13/10/2026 12:00",
         "closeD": "13/10/2026 15:00",
+        "verified": false
+      },
+      {
+        "name": "SITC SHEKOU",
+        "code": "2620S / 2621N",
+        "eta": "13/10/2026 18:00",
+        "etd": "14/10/2026 10:00",
+        "openstack": "08/10/2026 13:00",
+        "closeC": "13/10/2026 07:00",
+        "closeD": "13/10/2026 10:00",
         "verified": false
       },
       {
@@ -288,17 +288,6 @@
         "closeC": "14/10/2026 21:00"
       },
       {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU029",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "15/10/2026 22:00",
-        "etd": "16/10/2026 17:30",
-        "openstack": "10/10/2026 22:00",
-        "closeC": "15/10/2026 17:00"
-      },
-      {
         "name": "AS CAROLINA",
         "code": "ASRO008",
         "voyage": "349S         / 349N",
@@ -329,6 +318,17 @@
         "etd": "18/10/2026 12:30",
         "openstack": "12/10/2026 14:00",
         "closeC": "16/10/2026 17:00"
+      },
+      {
+        "name": "KMTC SHIMIZU",
+        "code": "KMZU029",
+        "voyage": "2609S        / 2609N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "etb": "17/10/2026 21:00",
+        "etd": "18/10/2026 22:00",
+        "openstack": "12/10/2026 21:00",
+        "closeC": "15/10/2026 17:00"
       }
     ],
     "departed": [
