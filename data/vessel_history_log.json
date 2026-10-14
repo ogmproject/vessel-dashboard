@@ -1900,8 +1900,8 @@
     "vessel_name": "SITC SHEKOU",
     "terminal": "TPS",
     "arrival": "2026-10-14T00:55:00",
-    "departure": null,
-    "recorded_at": "2026-10-13T18:15:33.368030"
+    "departure": "2026-10-14T20:44:00",
+    "recorded_at": "2026-10-14T14:00:49.066558"
   },
   {
     "vessel_name": "EVER BURLY",
