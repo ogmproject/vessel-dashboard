@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T18:00:43+00:00",
+  "generated_at": "2026-10-14T18:15:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -257,13 +257,6 @@
         "carrier": "PT. MERATUS LINE"
       },
       {
-        "name": "5526",
-        "code": "5526",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "EVER BURLY / EVLY007",
-        "type": "INTERNATIONAL"
-      },
-      {
         "name": "GLOBAL 88",
         "code": "GL88002",
         "voyage": "021          / 022",
@@ -332,6 +325,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "EVER BURLY",
+        "code": "EVLY007",
+        "voyage": "S094         / N094",
+        "type": "INTERNATIONAL",
+        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
+        "atb": "14/10/2026 02:40",
+        "atd": "15/10/2026 00:52"
+      },
       {
         "name": "WAN HAI 351",
         "code": "WA51019",

@@ -1907,8 +1907,8 @@
     "vessel_name": "EVER BURLY",
     "terminal": "TL",
     "arrival": "2026-10-14T02:40:00",
-    "departure": null,
-    "recorded_at": "2026-10-13T19:45:44.637226"
+    "departure": "2026-10-15T00:52:00",
+    "recorded_at": "2026-10-14T18:15:32.455602"
   },
   {
     "vessel_name": "EVER OBEY",
