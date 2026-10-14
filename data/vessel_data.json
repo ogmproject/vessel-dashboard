@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T05:45:30+00:00",
+  "generated_at": "2026-10-14T05:56:17+00:00",
   "tps": {
     "alongside": [
       {
@@ -278,26 +278,10 @@
         "etd": "14/10/2026 23:00"
       },
       {
-        "name": "WAN HAI 351",
-        "code": "WA51019",
-        "voyage": "E048         / W049",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "atb": "13/10/2026 15:24",
-        "etd": "14/10/2026 12:00"
-      },
-      {
         "name": "5526",
         "code": "5526",
         "carrier": "PT. MENTARI MAS MULTIMODA",
         "voyage": "EVER BURLY / EVLY007",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "S094",
-        "code": "N094",
-        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "voyage": "WAN HAI 351 / WA51019",
         "type": "INTERNATIONAL"
       },
       {
@@ -378,7 +362,17 @@
         "closeC": "17/10/2026 10:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "WAN HAI 351",
+        "code": "WA51019",
+        "voyage": "E048         / W049",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "atb": "13/10/2026 15:24",
+        "atd": "14/10/2026 12:34"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }

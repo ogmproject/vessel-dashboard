@@ -1886,8 +1886,8 @@
     "vessel_name": "WAN HAI 351",
     "terminal": "TL",
     "arrival": "2026-10-13T15:24:00",
-    "departure": null,
-    "recorded_at": "2026-10-13T08:30:37.297922"
+    "departure": "2026-10-14T12:34:00",
+    "recorded_at": "2026-10-14T05:56:18.097743"
   },
   {
     "vessel_name": "AS CASPRIA",
