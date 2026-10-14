@@ -1914,8 +1914,8 @@
     "vessel_name": "EVER OBEY",
     "terminal": "TPS",
     "arrival": "2026-10-14T08:25:00",
-    "departure": null,
-    "recorded_at": "2026-10-14T01:45:31.791828"
+    "departure": "2026-10-15T02:37:00",
+    "recorded_at": "2026-10-14T20:00:41.542674"
   },
   {
     "vessel_name": "MARINA AURORA",

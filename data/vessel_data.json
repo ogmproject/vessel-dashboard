@@ -1,15 +1,7 @@
 {
-  "generated_at": "2026-10-14T19:45:31+00:00",
+  "generated_at": "2026-10-14T20:00:41+00:00",
   "tps": {
-    "alongside": [
-      {
-        "name": "I1 - EVER OBEY",
-        "code": "0496-058S / 0496-058N",
-        "atb": "14/10/2026 08:25",
-        "etd": "15/10/2026 01:30",
-        "verified": false
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "SMOOTH SAILING",
@@ -207,6 +199,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER OBEY",
+        "berth": "14/10/2026 08:25",
+        "dep": "15/10/2026 02:37"
+      },
       {
         "name": "SITC SHEKOU",
         "berth": "14/10/2026 00:55",
