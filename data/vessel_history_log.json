@@ -1872,8 +1872,8 @@
     "vessel_name": "SINAR SUNDA",
     "terminal": "TPS",
     "arrival": "2026-10-12T16:55:00",
-    "departure": null,
-    "recorded_at": "2026-10-12T10:00:43.465685"
+    "departure": "2026-10-14T13:17:00",
+    "recorded_at": "2026-10-14T06:30:35.052660"
   },
   {
     "vessel_name": "EVER CONSIST",

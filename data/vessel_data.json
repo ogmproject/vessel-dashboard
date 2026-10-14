@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-10-14T06:15:34+00:00",
+  "generated_at": "2026-10-14T06:30:34+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - SINAR SUNDA",
-        "code": "245S / 245N",
-        "atb": "12/10/2026 16:55",
-        "etd": "14/10/2026 12:00",
-        "verified": false
-      },
       {
         "name": "I3 - SITC SHEKOU",
         "code": "2620S / 2621N",
@@ -228,6 +221,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SINAR SUNDA",
+        "berth": "12/10/2026 16:55",
+        "dep": "14/10/2026 13:17"
+      },
       {
         "name": "ES TREASURE",
         "berth": "12/10/2026 07:26",
