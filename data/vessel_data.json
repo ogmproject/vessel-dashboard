@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T11:15:31+00:00",
+  "generated_at": "2026-10-14T11:28:19+00:00",
   "tps": {
     "alongside": [
       {
@@ -265,6 +265,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "MARINA AURORA",
+        "code": "MAAU012",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "14/10/2026 18:15",
+        "etd": "15/10/2026 16:00"
+      },
+      {
         "name": "EVER BURLY",
         "code": "EVLY007",
         "voyage": "S094         / N094",
@@ -272,6 +280,12 @@
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
         "atb": "14/10/2026 02:40",
         "etd": "14/10/2026 23:00"
+      },
+      {
+        "name": "MARINA AURORA",
+        "code": "MAAU012",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE"
       },
       {
         "name": "5526",
@@ -291,16 +305,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MARINA AURORA",
-        "code": "MAAU012",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "14/10/2026 18:00",
-        "etd": "15/10/2026 16:00",
-        "openstack": "09/10/2026 18:00",
-        "closeC": "14/10/2026 21:00"
-      },
       {
         "name": "SEABREEZE",
         "code": "SEZE003",
