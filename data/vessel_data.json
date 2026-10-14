@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T16:45:34+00:00",
+  "generated_at": "2026-10-14T17:00:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -236,26 +236,6 @@
         "name": "MSC VOYAGER III",
         "berth": "12/10/2026 10:00",
         "dep": "13/10/2026 10:01"
-      },
-      {
-        "name": "CMA CGM POINTE DU PITON",
-        "berth": "11/10/2026 11:10",
-        "dep": "12/10/2026 11:53"
-      },
-      {
-        "name": "SIMAG SHANGHAI",
-        "berth": "11/10/2026 18:10",
-        "dep": "12/10/2026 07:12"
-      },
-      {
-        "name": "SONGA SUCCESS",
-        "berth": "11/10/2026 14:30",
-        "dep": "12/10/2026 03:55"
-      },
-      {
-        "name": "KMTC SHANGHAI",
-        "berth": "11/10/2026 11:05",
-        "dep": "12/10/2026 03:35"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
