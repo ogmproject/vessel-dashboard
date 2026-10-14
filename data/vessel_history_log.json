@@ -1893,8 +1893,8 @@
     "vessel_name": "AS CASPRIA",
     "terminal": "TPS",
     "arrival": "2026-10-13T16:30:00",
-    "departure": null,
-    "recorded_at": "2026-10-13T09:45:38.630142"
+    "departure": "2026-10-14T16:17:00",
+    "recorded_at": "2026-10-14T09:30:38.525505"
   },
   {
     "vessel_name": "SITC SHEKOU",
