@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T22:45:31+00:00",
+  "generated_at": "2026-10-14T23:00:47+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -199,6 +199,16 @@
       }
     ],
     "movement": [
+      {
+        "name": "RED ROCK",
+        "berth": "14/10/2026 16:35",
+        "dep": "15/10/2026 05:00"
+      },
+      {
+        "name": "MERATUS PROJECT TANGGUH",
+        "berth": "14/10/2026 19:20",
+        "dep": "15/10/2026 04:40"
+      },
       {
         "name": "EVER OBEY",
         "berth": "14/10/2026 08:25",

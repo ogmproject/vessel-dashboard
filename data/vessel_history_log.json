@@ -1918,10 +1918,24 @@
     "recorded_at": "2026-10-14T20:00:41.542674"
   },
   {
+    "vessel_name": "RED ROCK",
+    "terminal": "TPS",
+    "arrival": "2026-10-14T16:35:00",
+    "departure": "2026-10-15T05:00:00",
+    "recorded_at": "2026-10-14T23:00:47.841160"
+  },
+  {
     "vessel_name": "MARINA AURORA",
     "terminal": "TL",
     "arrival": "2026-10-14T18:15:00",
     "departure": null,
     "recorded_at": "2026-10-14T11:28:20.026379"
+  },
+  {
+    "vessel_name": "MERATUS PROJECT TANGGUH",
+    "terminal": "TPS",
+    "arrival": "2026-10-14T19:20:00",
+    "departure": "2026-10-15T04:40:00",
+    "recorded_at": "2026-10-14T23:00:47.841160"
   }
 ]
