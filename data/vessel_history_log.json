@@ -1960,6 +1960,13 @@
     "recorded_at": "2026-10-15T09:00:43.584002"
   },
   {
+    "vessel_name": "BALI GIANYAR",
+    "terminal": "TPS",
+    "arrival": "2026-10-15T16:05:00",
+    "departure": "2026-10-16T01:13:00",
+    "recorded_at": "2026-10-15T18:30:38.316550"
+  },
+  {
     "vessel_name": "HONG TAI 656",
     "terminal": "TPS",
     "arrival": "2026-10-15T20:43:00",

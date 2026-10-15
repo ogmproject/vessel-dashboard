@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:15:30+00:00",
+  "generated_at": "2026-10-15T18:30:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -249,6 +249,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "BALI GIANYAR",
+        "berth": "15/10/2026 16:05",
+        "dep": "16/10/2026 01:13"
+      },
       {
         "name": "SMOOTH SAILING",
         "berth": "15/10/2026 09:14",
