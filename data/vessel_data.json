@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:46:01+00:00",
+  "generated_at": "2026-10-15T14:01:14+00:00",
   "tps": {
     "alongside": [
       {
@@ -8,19 +8,16 @@
         "atb": "15/10/2026 09:14",
         "etd": "15/10/2026 20:00",
         "verified": false
+      },
+      {
+        "name": "I1 - HONG TAI 656",
+        "code": "641S / 641S",
+        "atb": "15/10/2026 20:43",
+        "etd": "16/10/2026 16:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "HONG TAI 656",
-        "code": "641S / 641S",
-        "eta": "15/10/2026 20:00",
-        "etd": "16/10/2026 16:00",
-        "openstack": "05/10/2026 18:00",
-        "closeC": "08/10/2026 12:00",
-        "closeD": "08/10/2026 15:00",
-        "verified": false
-      },
       {
         "name": "SINAR SULAWESI",
         "code": "099S / 099N",
