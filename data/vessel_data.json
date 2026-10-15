@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:45:34+00:00",
+  "generated_at": "2026-10-15T18:00:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -391,15 +391,6 @@
         "carrier": "PT. MERATUS LINE",
         "atb": "14/10/2026 18:15",
         "atd": "15/10/2026 16:26"
-      },
-      {
-        "name": "EVER BURLY",
-        "code": "EVLY007",
-        "voyage": "S094         / N094",
-        "type": "INTERNATIONAL",
-        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "atb": "14/10/2026 02:40",
-        "atd": "15/10/2026 00:52"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
