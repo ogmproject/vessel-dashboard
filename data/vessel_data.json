@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:15:34+00:00",
+  "generated_at": "2026-10-15T21:30:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -305,6 +305,20 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "AS CAROLINA",
+        "code": "ASRO008",
+        "voyage": "349S         / 349N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "atb": "16/10/2026 04:13",
+        "etd": "16/10/2026 21:00"
+      },
+      {
+        "name": "AS CAROLINA",
+        "code": "ASRO008",
+        "type": "INTERNATIONAL"
+      },
+      {
         "name": "1826",
         "code": "1826",
         "carrier": "PT. MENTARI MAS MULTIMODA",
@@ -322,17 +336,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "AS CAROLINA",
-        "code": "ASRO008",
-        "voyage": "349S         / 349N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "etb": "16/10/2026 03:00",
-        "etd": "16/10/2026 21:00",
-        "openstack": "11/10/2026 02:00",
-        "closeC": "15/10/2026 21:00"
-      },
       {
         "name": "MERATUS KAIMANA",
         "code": "MEAI028",

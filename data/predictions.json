@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:15:35.282324",
+  "generated_at": "2026-10-15T21:30:35.936051",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -31,17 +31,6 @@
       "avg_interval_days": 18.4,
       "interval_stddev_days": 4.9,
       "avg_dwelling_hours": 22.0,
-      "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "AS CAROLINA",
-      "terminal": "TL",
-      "last_arrival": "2026-09-24T05:30:00",
-      "predicted_next_arrival": "2026-10-11T15:24:00",
-      "avg_interval_days": 17.4,
-      "interval_stddev_days": 0.4,
-      "avg_dwelling_hours": 18.1,
       "visits_recorded": 3,
       "confidence": "medium"
     },
@@ -219,6 +208,17 @@
       "interval_stddev_days": 0.3,
       "avg_dwelling_hours": 30.3,
       "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "AS CAROLINA",
+      "terminal": "TL",
+      "last_arrival": "2026-10-16T04:13:00",
+      "predicted_next_arrival": "2026-11-04T02:23:20",
+      "avg_interval_days": 18.9,
+      "interval_stddev_days": 2.2,
+      "avg_dwelling_hours": 18.1,
+      "visits_recorded": 4,
       "confidence": "medium"
     },
     {
