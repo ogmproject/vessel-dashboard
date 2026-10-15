@@ -1949,8 +1949,8 @@
     "vessel_name": "SMOOTH SAILING",
     "terminal": "TPS",
     "arrival": "2026-10-15T09:14:00",
-    "departure": null,
-    "recorded_at": "2026-10-15T02:30:36.350905"
+    "departure": "2026-10-15T21:00:00",
+    "recorded_at": "2026-10-15T14:15:33.980670"
   },
   {
     "vessel_name": "SEABREEZE",
