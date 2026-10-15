@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T05:30:35+00:00",
+  "generated_at": "2026-10-15T05:45:31+00:00",
   "tps": {
     "alongside": [
       {
@@ -339,15 +339,6 @@
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
         "atb": "14/10/2026 02:40",
         "atd": "15/10/2026 00:52"
-      },
-      {
-        "name": "WAN HAI 351",
-        "code": "WA51019",
-        "voyage": "E048         / W049",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "atb": "13/10/2026 15:24",
-        "atd": "14/10/2026 12:34"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
