@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T14:30:40+00:00",
+  "generated_at": "2026-10-15T14:46:00+00:00",
   "tps": {
     "alongside": [
       {
@@ -309,17 +309,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "SEABREEZE",
-        "code": "SEZE003",
-        "voyage": "0003S        / 0003N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "15/10/2026 15:46",
-        "etd": "16/10/2026 09:00",
-        "mmsi": "636021108",
-        "imo": "9472579"
-      },
       {
         "name": "1826",
         "code": "1826",
