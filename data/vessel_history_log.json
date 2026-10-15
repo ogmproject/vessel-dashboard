@@ -1937,5 +1937,12 @@
     "arrival": "2026-10-14T19:20:00",
     "departure": "2026-10-15T04:40:00",
     "recorded_at": "2026-10-14T23:00:47.841160"
+  },
+  {
+    "vessel_name": "SMOOTH SAILING",
+    "terminal": "TPS",
+    "arrival": "2026-10-15T09:14:00",
+    "departure": null,
+    "recorded_at": "2026-10-15T02:30:36.350905"
   }
 ]

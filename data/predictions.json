@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T02:15:30.719082",
+  "generated_at": "2026-10-15T02:30:36.350905",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -207,6 +207,17 @@
       "avg_interval_days": 27.4,
       "interval_stddev_days": 0.3,
       "avg_dwelling_hours": 30.3,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "SMOOTH SAILING",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-15T09:14:00",
+      "predicted_next_arrival": "2026-11-04T16:19:00",
+      "avg_interval_days": 20.3,
+      "interval_stddev_days": 1.2,
+      "avg_dwelling_hours": 11.4,
       "visits_recorded": 3,
       "confidence": "medium"
     },
