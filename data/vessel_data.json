@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:30:38+00:00",
+  "generated_at": "2026-10-15T10:45:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -306,11 +306,11 @@
         "imo": "9472579"
       },
       {
-        "name": "SEABREEZE",
-        "code": "SEZE003",
-        "type": "INTERNATIONAL",
-        "mmsi": "636021108",
-        "imo": "9472579"
+        "name": "1826",
+        "code": "1826",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "SEABREEZE / SEZE003",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "GLOBAL 88",
