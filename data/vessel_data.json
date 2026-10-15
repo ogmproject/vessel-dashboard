@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:00:43+00:00",
+  "generated_at": "2026-10-15T04:15:29+00:00",
   "tps": {
     "alongside": [
       {
@@ -257,20 +257,6 @@
   },
   "teluk_lamong": {
     "alongside": [
-      {
-        "name": "MARINA AURORA",
-        "code": "MAAU012",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "14/10/2026 18:15",
-        "etd": "15/10/2026 12:00"
-      },
-      {
-        "name": "MARINA AURORA",
-        "code": "MAAU012",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE"
-      },
       {
         "name": "GLOBAL 88",
         "code": "GL88002",
