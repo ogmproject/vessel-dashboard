@@ -1928,8 +1928,8 @@
     "vessel_name": "MARINA AURORA",
     "terminal": "TL",
     "arrival": "2026-10-14T18:15:00",
-    "departure": null,
-    "recorded_at": "2026-10-14T11:28:20.026379"
+    "departure": "2026-10-15T16:26:00",
+    "recorded_at": "2026-10-15T10:00:43.486122"
   },
   {
     "vessel_name": "MERATUS PROJECT TANGGUH",
