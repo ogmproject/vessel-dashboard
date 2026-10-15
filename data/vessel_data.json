@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:45:33+00:00",
+  "generated_at": "2026-10-15T17:00:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -293,16 +293,6 @@
         "name": "ES TREASURE",
         "berth": "12/10/2026 07:26",
         "dep": "14/10/2026 06:00"
-      },
-      {
-        "name": "EVER CONSIST",
-        "berth": "12/10/2026 21:15",
-        "dep": "13/10/2026 19:54"
-      },
-      {
-        "name": "MSC VOYAGER III",
-        "berth": "12/10/2026 10:00",
-        "dep": "13/10/2026 10:01"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
