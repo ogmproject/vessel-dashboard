@@ -1951,5 +1951,12 @@
     "arrival": "2026-10-15T09:14:00",
     "departure": null,
     "recorded_at": "2026-10-15T02:30:36.350905"
+  },
+  {
+    "vessel_name": "SEABREEZE",
+    "terminal": "TL",
+    "arrival": "2026-10-15T15:46:00",
+    "departure": null,
+    "recorded_at": "2026-10-15T09:00:43.584002"
   }
 ]
