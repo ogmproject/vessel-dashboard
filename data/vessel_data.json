@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:15:35+00:00",
+  "generated_at": "2026-10-15T09:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -365,6 +365,28 @@
         "etd": "18/10/2026 22:00",
         "openstack": "12/10/2026 21:00",
         "closeC": "17/10/2026 10:00"
+      },
+      {
+        "name": "INTERASIA TRIUMPH",
+        "code": "INTR001",
+        "voyage": "E017         / W018",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "etb": "20/10/2026 18:00",
+        "etd": "21/10/2026 18:00",
+        "openstack": "15/10/2026 18:00",
+        "closeC": "20/10/2026 13:00"
+      },
+      {
+        "name": "ITAL BONUS",
+        "code": "ITBO010",
+        "voyage": "S126         / N126",
+        "type": "INTERNATIONAL",
+        "etb": "21/10/2026 08:00",
+        "etd": "21/10/2026 08:30",
+        "openstack": "16/10/2026 08:00",
+        "closeC": "21/10/2026 03:00",
+        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
       }
     ],
     "departed": [
