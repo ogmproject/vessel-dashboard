@@ -2000,5 +2000,12 @@
     "arrival": "2026-10-16T21:20:00",
     "departure": null,
     "recorded_at": "2026-10-16T14:30:38.874144"
+  },
+  {
+    "vessel_name": "KOTA MANIS",
+    "terminal": "TPS",
+    "arrival": "2026-10-17T00:33:00",
+    "departure": null,
+    "recorded_at": "2026-10-16T17:39:31.376447"
   }
 ]

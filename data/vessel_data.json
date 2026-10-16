@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-16T17:30:36+00:00",
+  "generated_at": "2026-10-16T17:39:31+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - KOTA MANIS",
+        "code": "0629S / 0629N",
+        "atb": "17/10/2026 00:33",
+        "etd": "19/10/2026 06:00",
+        "verified": false
+      },
       {
         "name": "I3 - KMTC INCHEON",
         "code": "2609S / 2609N",
@@ -25,18 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "KOTA MANIS",
-        "code": "0629S / 0629N",
-        "eta": "17/10/2026 00:01",
-        "etd": "19/10/2026 06:00",
-        "openstack": "11/10/2026 00:00",
-        "closeC": "15/10/2026 18:00",
-        "closeD": "15/10/2026 21:00",
-        "verified": false,
-        "mmsi": "566773000",
-        "imo": "9632741"
-      },
       {
         "name": "TS NAGOYA",
         "code": "2633S / 2633N",
