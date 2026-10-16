@@ -1970,8 +1970,8 @@
     "vessel_name": "HONG TAI 656",
     "terminal": "TPS",
     "arrival": "2026-10-15T20:43:00",
-    "departure": null,
-    "recorded_at": "2026-10-15T14:01:14.275923"
+    "departure": "2026-10-16T18:03:00",
+    "recorded_at": "2026-10-16T11:45:32.081042"
   },
   {
     "vessel_name": "AS CAROLINA",
