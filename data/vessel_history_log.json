@@ -1991,8 +1991,8 @@
     "vessel_name": "KMTC INCHEON",
     "terminal": "TPS",
     "arrival": "2026-10-16T18:54:00",
-    "departure": null,
-    "recorded_at": "2026-10-16T12:15:33.302082"
+    "departure": "2026-10-17T05:59:00",
+    "recorded_at": "2026-10-16T23:15:32.962519"
   },
   {
     "vessel_name": "THE WHALE SHARK",
