@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:15:41.437856",
+  "generated_at": "2026-10-16T14:30:38.874144",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -262,6 +262,17 @@
       "avg_interval_days": 29.3,
       "interval_stddev_days": 0.8,
       "avg_dwelling_hours": 20.4,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "THE WHALE SHARK",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-16T21:20:00",
+      "predicted_next_arrival": "2026-11-18T03:47:30",
+      "avg_interval_days": 32.3,
+      "interval_stddev_days": 8.4,
+      "avg_dwelling_hours": 20.0,
       "visits_recorded": 3,
       "confidence": "medium"
     }

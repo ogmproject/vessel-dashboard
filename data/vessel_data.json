@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:15:41+00:00",
+  "generated_at": "2026-10-16T14:30:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -15,19 +15,16 @@
         "atb": "16/10/2026 08:18",
         "etd": "17/10/2026 22:00",
         "verified": false
+      },
+      {
+        "name": "I1 - THE WHALE SHARK",
+        "code": "2626S / 2626S",
+        "atb": "16/10/2026 21:20",
+        "etd": "17/10/2026 07:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "THE WHALE SHARK",
-        "code": "2626S / 2626S",
-        "eta": "16/10/2026 19:30",
-        "etd": "17/10/2026 07:00",
-        "openstack": "10/10/2026 01:00",
-        "closeC": "14/10/2026 19:00",
-        "closeD": "14/10/2026 22:00",
-        "verified": false
-      },
       {
         "name": "KOTA MANIS",
         "code": "0629S / 0629N",

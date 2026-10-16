@@ -1993,5 +1993,12 @@
     "arrival": "2026-10-16T18:54:00",
     "departure": null,
     "recorded_at": "2026-10-16T12:15:33.302082"
+  },
+  {
+    "vessel_name": "THE WHALE SHARK",
+    "terminal": "TPS",
+    "arrival": "2026-10-16T21:20:00",
+    "departure": null,
+    "recorded_at": "2026-10-16T14:30:38.874144"
   }
 ]
