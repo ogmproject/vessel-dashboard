@@ -1977,8 +1977,8 @@
     "vessel_name": "AS CAROLINA",
     "terminal": "TL",
     "arrival": "2026-10-16T04:13:00",
-    "departure": null,
-    "recorded_at": "2026-10-15T21:30:35.936051"
+    "departure": "2026-10-17T01:02:00",
+    "recorded_at": "2026-10-16T18:15:31.511888"
   },
   {
     "vessel_name": "SINAR SULAWESI",

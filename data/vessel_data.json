@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:00:41+00:00",
+  "generated_at": "2026-10-16T18:15:31+00:00",
   "tps": {
     "alongside": [
       {
@@ -277,24 +277,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "AS CAROLINA",
-        "code": "ASRO008",
-        "voyage": "349S         / 349N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "atb": "16/10/2026 04:13",
-        "etd": "17/10/2026 00:00"
-      },
-      {
-        "name": "260",
-        "code": "261",
-        "carrier": "PT PBM TANTOKARYA UTAMA",
-        "voyage": "AS CAROLINA / ASRO008",
-        "type": "INTERNATIONAL"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "MERATUS KAIMANA",
@@ -362,6 +345,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "AS CAROLINA",
+        "code": "ASRO008",
+        "voyage": "349S         / 349N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "atb": "16/10/2026 04:13",
+        "atd": "17/10/2026 01:02"
+      },
       {
         "name": "SEABREEZE",
         "code": "SEZE003",
