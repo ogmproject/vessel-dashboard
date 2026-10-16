@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-16T01:15:33+00:00",
+  "generated_at": "2026-10-16T01:30:38+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I2 - SINAR SULAWESI",
+        "code": "099S / 099N",
+        "atb": "16/10/2026 08:18",
+        "etd": "18/10/2026 07:00",
+        "verified": false
+      },
       {
         "name": "I1 - HONG TAI 656",
         "code": "641S / 641S",
@@ -11,16 +18,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SINAR SULAWESI",
-        "code": "099S / 099N",
-        "eta": "16/10/2026 07:30",
-        "etd": "18/10/2026 00:00",
-        "openstack": "10/10/2026 00:00",
-        "closeC": "14/10/2026 18:00",
-        "closeD": "14/10/2026 21:00",
-        "verified": false
-      },
       {
         "name": "KMTC INCHEON",
         "code": "2609S / 2609N",
