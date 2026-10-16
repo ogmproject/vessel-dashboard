@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T02:45:30+00:00",
+  "generated_at": "2026-10-16T03:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -235,6 +235,16 @@
         "verified": false
       },
       {
+        "name": "FENG HAI 98",
+        "code": "SAU1016 / SAU1016",
+        "eta": "21/10/2026 12:00",
+        "etd": "22/10/2026 03:30",
+        "openstack": "16/10/2026 12:00",
+        "closeC": "21/10/2026 06:00",
+        "closeD": "21/10/2026 09:00",
+        "verified": false
+      },
+      {
         "name": "SINAR SUNDA",
         "code": "246S / 246N",
         "eta": "21/10/2026 14:00",
@@ -316,13 +326,6 @@
         "type": "INTERNATIONAL"
       },
       {
-        "name": "1826",
-        "code": "1826",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "SEABREEZE / SEZE003",
-        "type": "INTERNATIONAL"
-      },
-      {
         "name": "GLOBAL 88",
         "code": "GL88002",
         "voyage": "021          / 022",
@@ -389,6 +392,17 @@
       }
     ],
     "departed": [
+      {
+        "name": "SEABREEZE",
+        "code": "SEZE003",
+        "voyage": "0003S        / 0003N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "15/10/2026 15:46",
+        "atd": "16/10/2026 09:36",
+        "mmsi": "636021108",
+        "imo": "9472579"
+      },
       {
         "name": "MARINA AURORA",
         "code": "MAAU012",
