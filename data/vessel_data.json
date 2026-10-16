@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-10-16T18:30:36+00:00",
+  "generated_at": "2026-10-16T18:45:31+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - KOTA MANIS",
         "code": "0629S / 0629N",
         "atb": "17/10/2026 00:33",
-        "etd": "19/10/2026 06:00",
+        "etd": "18/10/2026 08:00",
         "verified": false
       },
       {
         "name": "I3 - KMTC INCHEON",
         "code": "2609S / 2609N",
         "atb": "16/10/2026 18:54",
-        "etd": "17/10/2026 06:00",
+        "etd": "17/10/2026 05:00",
         "verified": false
       },
       {
         "name": "I2 - SINAR SULAWESI",
         "code": "099S / 099N",
         "atb": "16/10/2026 08:18",
-        "etd": "17/10/2026 22:00",
+        "etd": "17/10/2026 16:00",
         "verified": false
       },
       {
         "name": "I1 - THE WHALE SHARK",
         "code": "2626S / 2626S",
         "atb": "16/10/2026 21:20",
-        "etd": "17/10/2026 16:00",
+        "etd": "17/10/2026 13:00",
         "verified": false
       }
     ],
