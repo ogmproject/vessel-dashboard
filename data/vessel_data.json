@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:45:35+00:00",
+  "generated_at": "2026-10-16T17:00:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -277,26 +277,6 @@
         "name": "EVER OBEY",
         "berth": "14/10/2026 08:25",
         "dep": "15/10/2026 02:37"
-      },
-      {
-        "name": "SITC SHEKOU",
-        "berth": "14/10/2026 00:55",
-        "dep": "14/10/2026 20:44"
-      },
-      {
-        "name": "AS CASPRIA",
-        "berth": "13/10/2026 16:30",
-        "dep": "14/10/2026 16:17"
-      },
-      {
-        "name": "SINAR SUNDA",
-        "berth": "12/10/2026 16:55",
-        "dep": "14/10/2026 13:17"
-      },
-      {
-        "name": "ES TREASURE",
-        "berth": "12/10/2026 07:26",
-        "dep": "14/10/2026 06:00"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
