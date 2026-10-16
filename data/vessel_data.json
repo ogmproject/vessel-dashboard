@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:15:34+00:00",
+  "generated_at": "2026-10-16T15:30:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -310,7 +310,7 @@
         "type": "INTERNATIONAL",
         "carrier": "GOLD STAR LINE LTD",
         "atb": "16/10/2026 04:13",
-        "etd": "16/10/2026 23:00"
+        "etd": "17/10/2026 00:00"
       },
       {
         "name": "AS CAROLINA",
