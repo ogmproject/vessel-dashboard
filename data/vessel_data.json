@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:30:36+00:00",
+  "generated_at": "2026-10-16T16:45:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -313,8 +313,10 @@
         "etd": "17/10/2026 00:00"
       },
       {
-        "name": "AS CAROLINA",
-        "code": "ASRO008",
+        "name": "260",
+        "code": "261",
+        "carrier": "PT PBM TANTOKARYA UTAMA",
+        "voyage": "AS CAROLINA / ASRO008",
         "type": "INTERNATIONAL"
       }
     ],
