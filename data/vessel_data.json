@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T09:00:48+00:00",
+  "generated_at": "2026-10-16T09:15:31+00:00",
   "tps": {
     "alongside": [
       {
@@ -326,9 +326,9 @@
         "type": "INTERNATIONAL"
       },
       {
-        "name": "426",
-        "code": "427",
-        "carrier": "PT PBM TANTOKARYA UTAMA",
+        "name": "5126",
+        "code": "5126",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
         "voyage": "GLOBAL 88 / GL88002",
         "type": "INTERNATIONAL"
       }
