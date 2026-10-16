@@ -1767,8 +1767,8 @@
     "vessel_name": "GLOBAL 88",
     "terminal": "TL",
     "arrival": "2026-10-10T07:33:00",
-    "departure": null,
-    "recorded_at": "2026-10-10T00:45:35.473137"
+    "departure": "2026-10-16T21:07:00",
+    "recorded_at": "2026-10-16T14:15:41.437856"
   },
   {
     "vessel_name": "XIN YAN TIAN",
