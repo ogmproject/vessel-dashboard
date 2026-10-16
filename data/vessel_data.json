@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T07:45:34+00:00",
+  "generated_at": "2026-10-16T08:00:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -387,8 +387,18 @@
         "etb": "21/10/2026 08:00",
         "etd": "22/10/2026 08:00",
         "openstack": "16/10/2026 08:00",
-        "closeC": "21/10/2026 03:00",
-        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
+        "closeC": "21/10/2026 03:00"
+      },
+      {
+        "name": "CHENNAI VOYAGER",
+        "code": "CHVO011",
+        "voyage": "2609S        / 2609N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "etb": "22/10/2026 14:00",
+        "etd": "23/10/2026 13:30",
+        "openstack": "17/10/2026 14:00",
+        "closeC": "22/10/2026 10:00"
       }
     ],
     "departed": [
