@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T08:30:38+00:00",
+  "generated_at": "2026-10-16T08:45:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -326,13 +326,11 @@
         "type": "INTERNATIONAL"
       },
       {
-        "name": "GLOBAL 88",
-        "code": "GL88002",
-        "voyage": "021          / 022",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. ANDALAN PACIFIC LINE",
-        "atb": "10/10/2026 07:33",
-        "etd": "16/10/2026 21:30"
+        "name": "426",
+        "code": "427",
+        "carrier": "PT PBM TANTOKARYA UTAMA",
+        "voyage": "GLOBAL 88 / GL88002",
+        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
