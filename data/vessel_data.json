@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T09:15:31+00:00",
+  "generated_at": "2026-10-16T09:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -410,14 +410,6 @@
         "atd": "16/10/2026 09:36",
         "mmsi": "636021108",
         "imo": "9472579"
-      },
-      {
-        "name": "MARINA AURORA",
-        "code": "MAAU012",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "14/10/2026 18:15",
-        "atd": "15/10/2026 16:26"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
