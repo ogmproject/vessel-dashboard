@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T13:00:41+00:00",
+  "generated_at": "2026-10-17T13:15:31+00:00",
   "tps": {
     "alongside": [
       {
@@ -304,7 +304,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "17/10/2026 10:08",
-        "etd": "18/10/2026 08:00"
+        "etd": "18/10/2026 05:00"
       },
       {
         "name": "MERATUS KAIMANA",
@@ -315,26 +315,26 @@
     ],
     "schedule": [
       {
-        "name": "XIN BEI LUN",
-        "code": "XIBE040",
-        "voyage": "289S         / 289N",
-        "type": "INTERNATIONAL",
-        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "etb": "17/10/2026 14:00",
-        "etd": "18/10/2026 12:30",
-        "openstack": "12/10/2026 14:00",
-        "closeC": "17/10/2026 06:00"
-      },
-      {
         "name": "KMTC SHIMIZU",
         "code": "KMZU029",
         "voyage": "2609S        / 2609N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "17/10/2026 21:00",
-        "etd": "18/10/2026 22:00",
+        "etb": "18/10/2026 10:00",
+        "etd": "19/10/2026 07:00",
         "openstack": "12/10/2026 21:00",
         "closeC": "17/10/2026 10:00"
+      },
+      {
+        "name": "XIN BEI LUN",
+        "code": "XIBE040",
+        "voyage": "289S         / 289N",
+        "type": "INTERNATIONAL",
+        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
+        "etb": "19/10/2026 09:00",
+        "etd": "20/10/2026 12:00",
+        "openstack": "12/10/2026 14:00",
+        "closeC": "17/10/2026 06:00"
       },
       {
         "name": "INTERASIA TRIUMPH",
