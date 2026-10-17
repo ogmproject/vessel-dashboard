@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:45:29+00:00",
+  "generated_at": "2026-10-17T11:00:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "2633S / 2633N",
         "atb": "17/10/2026 08:52",
         "etd": "18/10/2026 02:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - SINAR SULAWESI",
-        "code": "099S / 099N",
-        "atb": "16/10/2026 08:18",
-        "etd": "17/10/2026 18:00",
         "verified": false
       },
       {
@@ -250,6 +243,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SINAR SULAWESI",
+        "berth": "16/10/2026 08:18",
+        "dep": "17/10/2026 17:38"
+      },
       {
         "name": "THE WHALE SHARK",
         "berth": "16/10/2026 21:20",
