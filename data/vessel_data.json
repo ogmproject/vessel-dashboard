@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T02:30:39+00:00",
+  "generated_at": "2026-10-17T02:45:29+00:00",
   "tps": {
     "alongside": [
       {
@@ -348,17 +348,6 @@
         "carrier": "GOLD STAR LINE LTD",
         "atb": "16/10/2026 04:13",
         "atd": "17/10/2026 01:02"
-      },
-      {
-        "name": "SEABREEZE",
-        "code": "SEZE003",
-        "voyage": "0003S        / 0003N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "15/10/2026 15:46",
-        "atd": "16/10/2026 09:36",
-        "mmsi": "636021108",
-        "imo": "9472579"
       },
       {
         "name": "GLOBAL 88",
