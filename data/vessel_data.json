@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T06:15:29+00:00",
+  "generated_at": "2026-10-17T06:30:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -21,13 +21,6 @@
         "code": "099S / 099N",
         "atb": "16/10/2026 08:18",
         "etd": "17/10/2026 18:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - THE WHALE SHARK",
-        "code": "2626S / 2626S",
-        "atb": "16/10/2026 21:20",
-        "etd": "17/10/2026 13:00",
         "verified": false
       }
     ],
@@ -228,6 +221,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "THE WHALE SHARK",
+        "berth": "16/10/2026 21:20",
+        "dep": "17/10/2026 13:18"
+      },
       {
         "name": "KMTC INCHEON",
         "berth": "16/10/2026 18:54",
