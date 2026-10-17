@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T16:52:25+00:00",
+  "generated_at": "2026-10-17T17:00:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -27,7 +27,7 @@
         "name": "I1 - EVER BIRTH",
         "code": "1213-111A / 1213-111A",
         "atb": "17/10/2026 15:40",
-        "etd": "18/10/2026 13:00",
+        "etd": "19/10/2026 13:00",
         "verified": false
       }
     ],
@@ -264,31 +264,6 @@
         "name": "BALI GIANYAR",
         "berth": "15/10/2026 16:05",
         "dep": "16/10/2026 01:13"
-      },
-      {
-        "name": "SMOOTH SAILING",
-        "berth": "15/10/2026 09:14",
-        "dep": "15/10/2026 21:00"
-      },
-      {
-        "name": "PEKAN TIRTA",
-        "berth": "14/10/2026 23:01",
-        "dep": "15/10/2026 11:34"
-      },
-      {
-        "name": "RED ROCK",
-        "berth": "14/10/2026 16:35",
-        "dep": "15/10/2026 05:00"
-      },
-      {
-        "name": "MERATUS PROJECT TANGGUH",
-        "berth": "14/10/2026 19:20",
-        "dep": "15/10/2026 04:40"
-      },
-      {
-        "name": "EVER OBEY",
-        "berth": "14/10/2026 08:25",
-        "dep": "15/10/2026 02:37"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
