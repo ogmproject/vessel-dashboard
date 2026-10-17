@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-17T18:00:41+00:00",
+  "generated_at": "2026-10-17T18:15:32+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - KOTA MANIS",
         "code": "0629S / 0629N",
         "atb": "17/10/2026 00:33",
-        "etd": "18/10/2026 08:00",
+        "etd": "18/10/2026 07:00",
         "verified": false
       },
       {
@@ -27,7 +27,7 @@
         "name": "I1 - EVER BIRTH",
         "code": "1213-111A / 1213-111A",
         "atb": "17/10/2026 15:40",
-        "etd": "18/10/2026 14:00",
+        "etd": "18/10/2026 12:00",
         "verified": false
       }
     ],
@@ -352,17 +352,7 @@
         "closeC": "22/10/2026 15:00"
       }
     ],
-    "departed": [
-      {
-        "name": "AS CAROLINA",
-        "code": "ASRO008",
-        "voyage": "349S         / 349N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "atb": "16/10/2026 04:13",
-        "atd": "17/10/2026 01:02"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
