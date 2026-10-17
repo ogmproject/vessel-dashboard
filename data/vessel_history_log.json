@@ -2007,5 +2007,12 @@
     "arrival": "2026-10-17T00:33:00",
     "departure": null,
     "recorded_at": "2026-10-16T17:39:31.376447"
+  },
+  {
+    "vessel_name": "TS NAGOYA",
+    "terminal": "TPS",
+    "arrival": "2026-10-17T08:52:00",
+    "departure": null,
+    "recorded_at": "2026-10-17T02:00:45.564734"
   }
 ]
