@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T22:45:32+00:00",
+  "generated_at": "2026-10-17T23:00:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -275,13 +275,6 @@
         "carrier": "PT. MERATUS LINE",
         "atb": "17/10/2026 10:08",
         "etd": "18/10/2026 06:00"
-      },
-      {
-        "name": "8926",
-        "code": "8926",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "MERATUS KAIMANA / MEAI028",
-        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
