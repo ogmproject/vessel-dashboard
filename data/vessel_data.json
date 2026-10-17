@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T21:15:31+00:00",
+  "generated_at": "2026-10-17T21:30:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "0629S / 0629N",
         "atb": "17/10/2026 00:33",
         "etd": "18/10/2026 07:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - TS NAGOYA",
-        "code": "2633S / 2633N",
-        "atb": "17/10/2026 08:52",
-        "etd": "18/10/2026 03:00",
         "verified": false
       },
       {
@@ -241,6 +234,11 @@
     ],
     "movement": [
       {
+        "name": "TS NAGOYA",
+        "berth": "17/10/2026 08:52",
+        "dep": "18/10/2026 04:05"
+      },
+      {
         "name": "SINAR SULAWESI",
         "berth": "16/10/2026 08:18",
         "dep": "17/10/2026 17:38"
@@ -279,10 +277,11 @@
         "etd": "18/10/2026 05:00"
       },
       {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI028",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE"
+        "name": "8926",
+        "code": "8926",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "MERATUS KAIMANA / MEAI028",
+        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [

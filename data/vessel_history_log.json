@@ -2012,8 +2012,8 @@
     "vessel_name": "TS NAGOYA",
     "terminal": "TPS",
     "arrival": "2026-10-17T08:52:00",
-    "departure": null,
-    "recorded_at": "2026-10-17T02:00:45.564734"
+    "departure": "2026-10-18T04:05:00",
+    "recorded_at": "2026-10-17T21:30:37.264155"
   },
   {
     "vessel_name": "MERATUS KAIMANA",
