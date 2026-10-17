@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T14:00:39+00:00",
+  "generated_at": "2026-10-17T14:15:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -386,15 +386,6 @@
         "carrier": "GOLD STAR LINE LTD",
         "atb": "16/10/2026 04:13",
         "atd": "17/10/2026 01:02"
-      },
-      {
-        "name": "GLOBAL 88",
-        "code": "GL88002",
-        "voyage": "021          / 022",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. ANDALAN PACIFIC LINE",
-        "atb": "10/10/2026 07:33",
-        "atd": "16/10/2026 21:07"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
