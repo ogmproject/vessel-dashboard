@@ -2047,8 +2047,8 @@
     "vessel_name": "EVER ORIENT",
     "terminal": "TPS",
     "arrival": "2026-10-18T10:10:00",
-    "departure": null,
-    "recorded_at": "2026-10-18T03:25:03.744669"
+    "departure": "2026-10-18T20:25:00",
+    "recorded_at": "2026-10-18T13:45:34.749849"
   },
   {
     "vessel_name": "KMTC SHIMIZU",

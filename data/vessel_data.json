@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-10-18T13:30:37+00:00",
+  "generated_at": "2026-10-18T13:45:34+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - EVER ORIENT",
-        "code": "0495-113S / 0495-113N",
-        "atb": "18/10/2026 10:10",
-        "etd": "18/10/2026 22:00",
-        "verified": false
-      },
       {
         "name": "I3 - WAN HAI 313",
         "code": "S284 / N285",
@@ -196,6 +189,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER ORIENT",
+        "berth": "18/10/2026 10:10",
+        "dep": "18/10/2026 20:25"
+      },
       {
         "name": "SINAR SOLO",
         "berth": "18/10/2026 13:50",
