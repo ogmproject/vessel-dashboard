@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-10-18T01:00:42+00:00",
+  "generated_at": "2026-10-18T01:15:33+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - KOTA MANIS",
-        "code": "0629S / 0629N",
-        "atb": "17/10/2026 00:33",
-        "etd": "18/10/2026 07:00",
-        "verified": false
-      },
       {
         "name": "I3 - WAN HAI 313",
         "code": "S284 / N285",
@@ -230,6 +223,13 @@
       }
     ],
     "movement": [
+      {
+        "name": "KOTA MANIS",
+        "berth": "17/10/2026 00:33",
+        "dep": "18/10/2026 08:09",
+        "mmsi": "566773000",
+        "imo": "9632741"
+      },
       {
         "name": "TS NAGOYA",
         "berth": "17/10/2026 08:52",
