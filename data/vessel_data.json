@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T16:45:31+00:00",
+  "generated_at": "2026-10-18T17:00:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -235,16 +235,6 @@
         "name": "KMTC INCHEON",
         "berth": "16/10/2026 18:54",
         "dep": "17/10/2026 05:59"
-      },
-      {
-        "name": "HONG TAI 656",
-        "berth": "15/10/2026 20:43",
-        "dep": "16/10/2026 18:03"
-      },
-      {
-        "name": "BALI GIANYAR",
-        "berth": "15/10/2026 16:05",
-        "dep": "16/10/2026 01:13"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
