@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-18T03:15:33+00:00",
+  "generated_at": "2026-10-18T03:25:03+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - EVER ORIENT",
+        "code": "0495-113S / 0495-113N",
+        "atb": "18/10/2026 10:10",
+        "etd": "18/10/2026 22:00",
+        "verified": false
+      },
       {
         "name": "I3 - WAN HAI 313",
         "code": "S284 / N285",
@@ -43,16 +50,6 @@
         "openstack": "13/10/2026 02:00",
         "closeC": "17/10/2026 20:00",
         "closeD": "17/10/2026 23:00",
-        "verified": false
-      },
-      {
-        "name": "EVER ORIENT",
-        "code": "0495-113S / 0495-113N",
-        "eta": "18/10/2026 10:00",
-        "etd": "18/10/2026 22:00",
-        "openstack": "12/10/2026 12:00",
-        "closeC": "17/10/2026 06:00",
-        "closeD": "17/10/2026 09:00",
         "verified": false
       },
       {
