@@ -2026,8 +2026,8 @@
     "vessel_name": "EVER BIRTH",
     "terminal": "TPS",
     "arrival": "2026-10-17T15:40:00",
-    "departure": null,
-    "recorded_at": "2026-10-17T08:45:33.052603"
+    "departure": "2026-10-18T17:50:00",
+    "recorded_at": "2026-10-18T11:00:44.859849"
   },
   {
     "vessel_name": "NIKEN",
