@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T06:15:32+00:00",
+  "generated_at": "2026-10-18T06:30:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -267,7 +267,7 @@
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
         "atb": "18/10/2026 10:55",
-        "etd": "19/10/2026 07:00"
+        "etd": "19/10/2026 08:00"
       },
       {
         "name": "14",
@@ -275,14 +275,6 @@
         "carrier": "FREEPORT INDONESIA PT.",
         "voyage": "KMTC SHIMIZU / KMZU029",
         "type": "INTERNATIONAL"
-      },
-      {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI028",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "17/10/2026 10:08",
-        "etd": "18/10/2026 06:00"
       }
     ],
     "schedule": [
@@ -292,8 +284,8 @@
         "voyage": "289S         / 289N",
         "type": "INTERNATIONAL",
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "etb": "19/10/2026 09:00",
-        "etd": "20/10/2026 12:00",
+        "etb": "19/10/2026 10:00",
+        "etd": "20/10/2026 16:00",
         "openstack": "12/10/2026 14:00",
         "closeC": "17/10/2026 06:00"
       },
