@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:30:40+00:00",
+  "generated_at": "2026-10-18T20:45:33+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -237,24 +237,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU029",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "18/10/2026 10:55",
-        "etd": "19/10/2026 03:00"
-      },
-      {
-        "name": "14",
-        "code": "14",
-        "carrier": "FREEPORT INDONESIA PT.",
-        "voyage": "KMTC SHIMIZU / KMZU029",
-        "type": "INTERNATIONAL"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "XIN BEI LUN",
@@ -321,7 +304,17 @@
         "closeC": "22/10/2026 15:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "KMTC SHIMIZU",
+        "code": "KMZU029",
+        "voyage": "2609S        / 2609N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "18/10/2026 10:55",
+        "atd": "19/10/2026 03:36"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
