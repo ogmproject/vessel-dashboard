@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T22:15:33+00:00",
+  "generated_at": "2026-10-18T22:30:39+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -313,6 +313,14 @@
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
         "atb": "18/10/2026 10:55",
         "atd": "19/10/2026 03:36"
+      },
+      {
+        "name": "MERATUS KAIMANA",
+        "code": "MEAI028",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "17/10/2026 10:08",
+        "atd": "19/10/2026 05:16"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
