@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:30:37+00:00",
+  "generated_at": "2026-10-18T05:45:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -270,8 +270,10 @@
         "etd": "19/10/2026 07:00"
       },
       {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU029",
+        "name": "14",
+        "code": "14",
+        "carrier": "FREEPORT INDONESIA PT.",
+        "voyage": "KMTC SHIMIZU / KMZU029",
         "type": "INTERNATIONAL"
       },
       {
