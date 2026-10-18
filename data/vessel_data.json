@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T03:45:32+00:00",
+  "generated_at": "2026-10-18T04:00:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -263,6 +263,20 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "KMTC SHIMIZU",
+        "code": "KMZU029",
+        "voyage": "2609S        / 2609N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "18/10/2026 10:55",
+        "etd": "19/10/2026 07:00"
+      },
+      {
+        "name": "KMTC SHIMIZU",
+        "code": "KMZU029",
+        "type": "INTERNATIONAL"
+      },
+      {
         "name": "MERATUS KAIMANA",
         "code": "MEAI028",
         "type": "INTERNATIONAL",
@@ -272,17 +286,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU029",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "18/10/2026 10:00",
-        "etd": "19/10/2026 07:00",
-        "openstack": "12/10/2026 21:00",
-        "closeC": "17/10/2026 10:00"
-      },
       {
         "name": "XIN BEI LUN",
         "code": "XIBE040",
