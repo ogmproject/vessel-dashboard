@@ -1,15 +1,7 @@
 {
-  "generated_at": "2026-10-18T19:45:33+00:00",
+  "generated_at": "2026-10-18T20:00:41+00:00",
   "tps": {
-    "alongside": [
-      {
-        "name": "I3 - WAN HAI 313",
-        "code": "S284 / N285",
-        "atb": "18/10/2026 07:10",
-        "etd": "19/10/2026 02:00",
-        "verified": false
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "MTT SANDAKAN",
@@ -189,6 +181,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "WAN HAI 313",
+        "berth": "18/10/2026 07:10",
+        "dep": "19/10/2026 02:38"
+      },
       {
         "name": "EVER ORIENT",
         "berth": "18/10/2026 10:10",
