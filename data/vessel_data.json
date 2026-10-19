@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T06:45:34+00:00",
+  "generated_at": "2026-10-19T07:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -15,6 +15,13 @@
         "atb": "19/10/2026 10:40",
         "etd": "20/10/2026 03:30",
         "verified": false
+      },
+      {
+        "name": "I2 - MSC CHERYL 3",
+        "code": "XF640R / XF640R",
+        "atb": "19/10/2026 13:40",
+        "etd": "20/10/2026 10:00",
+        "verified": false
       }
     ],
     "schedule": [
@@ -26,16 +33,6 @@
         "openstack": "12/10/2026 22:00",
         "closeC": "17/10/2026 16:00",
         "closeD": "17/10/2026 19:00",
-        "verified": false
-      },
-      {
-        "name": "MSC CHERYL 3",
-        "code": "XF640R / XF640R",
-        "eta": "19/10/2026 13:30",
-        "etd": "20/10/2026 10:00",
-        "openstack": "13/10/2026 02:00",
-        "closeC": "17/10/2026 20:00",
-        "closeD": "17/10/2026 23:00",
         "verified": false
       },
       {

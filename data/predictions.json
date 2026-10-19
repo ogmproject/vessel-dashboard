@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T06:45:34.191493",
+  "generated_at": "2026-10-19T07:00:49.120229",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -141,6 +141,17 @@
       "avg_interval_days": 13.8,
       "interval_stddev_days": 13.7,
       "avg_dwelling_hours": 16.2,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "MSC CHERYL 3",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-19T13:40:00",
+      "predicted_next_arrival": "2026-10-30T18:40:00",
+      "avg_interval_days": 11.2,
+      "interval_stddev_days": 1.5,
+      "avg_dwelling_hours": 17.0,
       "visits_recorded": 3,
       "confidence": "medium"
     },

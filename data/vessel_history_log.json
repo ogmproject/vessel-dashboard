@@ -2084,5 +2084,12 @@
     "arrival": "2026-10-19T10:40:00",
     "departure": null,
     "recorded_at": "2026-10-19T04:00:41.511894"
+  },
+  {
+    "vessel_name": "MSC CHERYL 3",
+    "terminal": "TPS",
+    "arrival": "2026-10-19T13:40:00",
+    "departure": null,
+    "recorded_at": "2026-10-19T07:00:49.120229"
   }
 ]
