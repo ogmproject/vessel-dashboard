@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:45:45+00:00",
+  "generated_at": "2026-10-19T22:01:00+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,19 +22,16 @@
         "atb": "19/10/2026 13:40",
         "etd": "20/10/2026 08:00",
         "verified": false
+      },
+      {
+        "name": "I1 - MYD ZHANGZHOU",
+        "code": "CS20H0N / CS20H0N",
+        "atb": "20/10/2026 04:40",
+        "etd": "21/10/2026 19:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "MYD ZHANGZHOU",
-        "code": "CS20H0N / CS20H0N",
-        "eta": "20/10/2026 04:00",
-        "etd": "21/10/2026 19:00",
-        "openstack": "14/10/2026 00:00",
-        "closeC": "18/10/2026 18:00",
-        "closeD": "18/10/2026 21:00",
-        "verified": false
-      },
       {
         "name": "EVER CANDID",
         "code": "0558-091S / 0558-091N",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:45:45.645815",
+  "generated_at": "2026-10-19T22:01:00.325570",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -306,6 +306,17 @@
       "avg_interval_days": 32.3,
       "interval_stddev_days": 8.4,
       "avg_dwelling_hours": 18.6,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "MYD ZHANGZHOU",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-20T04:40:00",
+      "predicted_next_arrival": "2026-11-18T09:17:00",
+      "avg_interval_days": 29.2,
+      "interval_stddev_days": 3.8,
+      "avg_dwelling_hours": 34.2,
       "visits_recorded": 3,
       "confidence": "medium"
     }
