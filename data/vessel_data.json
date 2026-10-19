@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T09:15:34+00:00",
+  "generated_at": "2026-10-19T09:30:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -236,9 +236,9 @@
         "code": "2622S / 2623N",
         "eta": "25/10/2026 00:00",
         "etd": "25/10/2026 18:30",
-        "openstack": "19/10/2026 05:00",
-        "closeC": "23/10/2026 23:00",
-        "closeD": "24/10/2026 02:00",
+        "openstack": "20/10/2026 00:00",
+        "closeC": "24/10/2026 18:00",
+        "closeD": "24/10/2026 21:00",
         "verified": false
       },
       {
@@ -319,7 +319,7 @@
         "type": "INTERNATIONAL",
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
         "atb": "19/10/2026 09:18",
-        "etd": "20/10/2026 15:00"
+        "etd": "20/10/2026 10:00"
       },
       {
         "name": "XIN BEI LUN",
