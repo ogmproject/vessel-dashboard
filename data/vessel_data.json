@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-19T11:45:35+00:00",
+  "generated_at": "2026-10-19T12:00:50+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - HONG TAI 656",
         "code": "642N / 642N",
         "atb": "19/10/2026 07:35",
-        "etd": "21/10/2026 08:31",
+        "etd": "20/10/2026 13:00",
         "verified": false
       },
       {
         "name": "I3 - GSL MAMITSA",
         "code": "021S / 021N",
         "atb": "19/10/2026 10:40",
-        "etd": "20/10/2026 03:30",
+        "etd": "20/10/2026 06:00",
         "verified": false
       },
       {
@@ -338,21 +338,10 @@
         "code": "MELM001",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "20/10/2026 11:00",
-        "etd": "20/10/2026 19:00",
+        "etb": "20/10/2026 08:00",
+        "etd": "20/10/2026 16:00",
         "openstack": "15/10/2026 09:00",
         "closeC": "15/10/2026 01:00"
-      },
-      {
-        "name": "INTERASIA TRIUMPH",
-        "code": "INTR001",
-        "voyage": "E017         / W018",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "20/10/2026 18:00",
-        "etd": "21/10/2026 18:00",
-        "openstack": "15/10/2026 18:00",
-        "closeC": "20/10/2026 13:00"
       },
       {
         "name": "ITAL BONUS",
@@ -363,6 +352,17 @@
         "etd": "22/10/2026 08:00",
         "openstack": "16/10/2026 08:00",
         "closeC": "21/10/2026 03:00"
+      },
+      {
+        "name": "INTERASIA TRIUMPH",
+        "code": "INTR001",
+        "voyage": "E017         / W018",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "etb": "21/10/2026 14:00",
+        "etd": "22/10/2026 16:00",
+        "openstack": "15/10/2026 18:00",
+        "closeC": "20/10/2026 13:00"
       },
       {
         "name": "CHENNAI VOYAGER",
