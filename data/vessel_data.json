@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:30:40+00:00",
+  "generated_at": "2026-10-19T18:45:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -331,11 +331,13 @@
         "type": "INTERNATIONAL",
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
         "atb": "19/10/2026 09:18",
-        "etd": "20/10/2026 10:00"
+        "etd": "20/10/2026 06:00"
       },
       {
-        "name": "XIN BEI LUN",
-        "code": "XIBE040",
+        "name": "5926",
+        "code": "5926",
+        "carrier": "PT. TEMAS SHIPPING",
+        "voyage": "XIN BEI LUN / XIBE040",
         "type": "INTERNATIONAL"
       }
     ],
