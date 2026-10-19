@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T22:15:37+00:00",
+  "generated_at": "2026-10-19T22:30:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -328,7 +328,7 @@
         "type": "INTERNATIONAL",
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
         "atb": "19/10/2026 09:18",
-        "etd": "20/10/2026 06:00"
+        "etd": "20/10/2026 07:00"
       },
       {
         "name": "5926",
@@ -344,8 +344,8 @@
         "code": "MELM001",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "20/10/2026 08:00",
-        "etd": "20/10/2026 16:00",
+        "etb": "20/10/2026 10:00",
+        "etd": "20/10/2026 18:00",
         "openstack": "15/10/2026 09:00",
         "closeC": "15/10/2026 01:00"
       },
@@ -393,16 +393,7 @@
         "closeC": "22/10/2026 15:00"
       }
     ],
-    "departed": [
-      {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI028",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "17/10/2026 10:08",
-        "atd": "19/10/2026 05:16"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
