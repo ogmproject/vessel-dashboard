@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-10-19T00:30:39+00:00",
+  "generated_at": "2026-10-19T00:45:33+00:00",
   "tps": {
-    "alongside": [],
+    "alongside": [
+      {
+        "name": "I4 - HONG TAI 656",
+        "code": "642N / 642N",
+        "atb": "19/10/2026 07:35",
+        "etd": "21/10/2026 08:31",
+        "verified": false
+      }
+    ],
     "schedule": [
       {
         "name": "MTT SANDAKAN",
@@ -28,16 +36,6 @@
         "code": "CS20H0N / CS20H0N",
         "eta": "19/10/2026 00:00",
         "etd": "20/10/2026 03:30",
-        "openstack": "14/10/2026 00:00",
-        "closeC": "18/10/2026 18:00",
-        "closeD": "18/10/2026 21:00",
-        "verified": false
-      },
-      {
-        "name": "HONG TAI 656",
-        "code": "642N / 642N",
-        "eta": "19/10/2026 00:01",
-        "etd": "21/10/2026 08:31",
         "openstack": "14/10/2026 00:00",
         "closeC": "18/10/2026 18:00",
         "closeD": "18/10/2026 21:00",

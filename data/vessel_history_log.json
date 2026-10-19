@@ -2063,5 +2063,12 @@
     "arrival": "2026-10-18T13:50:00",
     "departure": "2026-10-18T19:28:00",
     "recorded_at": "2026-10-18T13:00:42.917652"
+  },
+  {
+    "vessel_name": "HONG TAI 656",
+    "terminal": "TPS",
+    "arrival": "2026-10-19T07:35:00",
+    "departure": null,
+    "recorded_at": "2026-10-19T00:45:33.652390"
   }
 ]
