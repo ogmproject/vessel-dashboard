@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T05:45:37+00:00",
+  "generated_at": "2026-10-19T06:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -39,16 +39,6 @@
         "verified": false
       },
       {
-        "name": "MYD ZHANGZHOU",
-        "code": "CS20H0N / CS20H0N",
-        "eta": "19/10/2026 00:00",
-        "etd": "20/10/2026 03:30",
-        "openstack": "14/10/2026 00:00",
-        "closeC": "18/10/2026 18:00",
-        "closeD": "18/10/2026 21:00",
-        "verified": false
-      },
-      {
         "name": "EVER CANDID",
         "code": "0558-091S / 0558-091N",
         "eta": "19/10/2026 16:00",
@@ -76,6 +66,16 @@
         "openstack": "15/10/2026 00:00",
         "closeC": "19/10/2026 18:00",
         "closeD": "19/10/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "MYD ZHANGZHOU",
+        "code": "CS20H0N / CS20H0N",
+        "eta": "20/10/2026 04:00",
+        "etd": "21/10/2026 10:30",
+        "openstack": "14/10/2026 00:00",
+        "closeC": "18/10/2026 18:00",
+        "closeD": "18/10/2026 21:00",
         "verified": false
       },
       {
@@ -199,7 +199,7 @@
         "code": "S035 / N036",
         "eta": "23/10/2026 15:00",
         "etd": "24/10/2026 15:30",
-        "openstack": "17/10/2026 15:00",
+        "openstack": "18/10/2026 15:00",
         "closeC": "23/10/2026 09:00",
         "closeD": "23/10/2026 12:00",
         "verified": false
