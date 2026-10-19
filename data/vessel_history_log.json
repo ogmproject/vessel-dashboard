@@ -2065,6 +2065,13 @@
     "recorded_at": "2026-10-18T13:00:42.917652"
   },
   {
+    "vessel_name": "BALI AYU",
+    "terminal": "TPS",
+    "arrival": "2026-10-18T21:12:00",
+    "departure": "2026-10-19T16:04:00",
+    "recorded_at": "2026-10-19T11:15:37.752444"
+  },
+  {
     "vessel_name": "HONG TAI 656",
     "terminal": "TPS",
     "arrival": "2026-10-19T07:35:00",
