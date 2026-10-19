@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T02:15:34+00:00",
+  "generated_at": "2026-10-19T02:30:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -176,6 +176,16 @@
         "closeC": "22/10/2026 20:00",
         "closeD": "22/10/2026 23:00",
         "verified": false
+      },
+      {
+        "name": "SINAR SULAWESI",
+        "code": "100S / 100N",
+        "eta": "24/10/2026 00:01",
+        "etd": "25/10/2026 18:31",
+        "openstack": "19/10/2026 00:00",
+        "closeC": "23/10/2026 18:00",
+        "closeD": "23/10/2026 21:00",
+        "verified": false
       }
     ],
     "movement": [
@@ -235,19 +245,23 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "XIN BEI LUN",
         "code": "XIBE040",
         "voyage": "289S         / 289N",
         "type": "INTERNATIONAL",
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "etb": "19/10/2026 09:00",
-        "etd": "20/10/2026 15:00",
-        "openstack": "12/10/2026 14:00",
-        "closeC": "17/10/2026 06:00"
+        "atb": "19/10/2026 09:18",
+        "etd": "20/10/2026 15:00"
       },
+      {
+        "name": "XIN BEI LUN",
+        "code": "XIBE040",
+        "type": "INTERNATIONAL"
+      }
+    ],
+    "schedule": [
       {
         "name": "MERATUS LAMANDAU",
         "code": "MELM001",
@@ -274,7 +288,7 @@
         "code": "ITBO010",
         "voyage": "S126         / N126",
         "type": "INTERNATIONAL",
-        "etb": "21/10/2026 08:00",
+        "etb": "21/10/2026 09:00",
         "etd": "22/10/2026 08:00",
         "openstack": "16/10/2026 08:00",
         "closeC": "21/10/2026 03:00"
