@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T16:49:52+00:00",
+  "generated_at": "2026-10-19T17:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -318,21 +318,6 @@
         "name": "TS NAGOYA",
         "berth": "17/10/2026 08:52",
         "dep": "18/10/2026 04:05"
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "berth": "16/10/2026 08:18",
-        "dep": "17/10/2026 17:38"
-      },
-      {
-        "name": "THE WHALE SHARK",
-        "berth": "16/10/2026 21:20",
-        "dep": "17/10/2026 13:18"
-      },
-      {
-        "name": "KMTC INCHEON",
-        "berth": "16/10/2026 18:54",
-        "dep": "17/10/2026 05:59"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
