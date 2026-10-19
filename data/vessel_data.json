@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:30:41+00:00",
+  "generated_at": "2026-10-19T20:45:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -397,15 +397,6 @@
       }
     ],
     "departed": [
-      {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU029",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "18/10/2026 10:55",
-        "atd": "19/10/2026 03:36"
-      },
       {
         "name": "MERATUS KAIMANA",
         "code": "MEAI028",
