@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T10:45:38+00:00",
+  "generated_at": "2026-10-20T11:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -348,22 +348,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "MERATUS LAMANDAU",
-        "code": "MELM001",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "20/10/2026 12:00",
-        "etd": "20/10/2026 18:00"
-      },
-      {
-        "name": "MERATUS LAMANDAU",
-        "code": "MELM001",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "ITAL BONUS",
@@ -421,6 +406,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "MERATUS LAMANDAU",
+        "code": "MELM001",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "20/10/2026 12:00",
+        "atd": "20/10/2026 17:47"
+      },
       {
         "name": "XIN BEI LUN",
         "code": "XIBE040",
