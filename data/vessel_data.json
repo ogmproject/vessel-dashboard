@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T05:15:35+00:00",
+  "generated_at": "2026-10-20T05:30:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -308,18 +308,23 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "MERATUS LAMANDAU",
         "code": "MELM001",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "20/10/2026 10:00",
-        "etd": "20/10/2026 18:00",
-        "openstack": "15/10/2026 09:00",
-        "closeC": "15/10/2026 01:00"
+        "atb": "20/10/2026 12:00",
+        "etd": "20/10/2026 18:00"
       },
+      {
+        "name": "MERATUS LAMANDAU",
+        "code": "MELM001",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE"
+      }
+    ],
+    "schedule": [
       {
         "name": "ITAL BONUS",
         "code": "ITBO010",
