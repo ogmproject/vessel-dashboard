@@ -2075,8 +2075,8 @@
     "vessel_name": "HONG TAI 656",
     "terminal": "TPS",
     "arrival": "2026-10-19T07:35:00",
-    "departure": null,
-    "recorded_at": "2026-10-19T00:45:33.652390"
+    "departure": "2026-10-20T18:45:00",
+    "recorded_at": "2026-10-20T12:30:40.764751"
   },
   {
     "vessel_name": "XIN BEI LUN",
