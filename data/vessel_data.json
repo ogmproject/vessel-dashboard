@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:30:43+00:00",
+  "generated_at": "2026-10-20T04:45:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -340,7 +340,7 @@
         "code": "INTR001",
         "voyage": "E017         / W018",
         "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
         "etb": "21/10/2026 14:00",
         "etd": "22/10/2026 16:00",
         "openstack": "15/10/2026 18:00",
