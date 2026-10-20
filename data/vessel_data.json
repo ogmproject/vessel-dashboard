@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T03:30:43+00:00",
+  "generated_at": "2026-10-20T03:45:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "642N / 642N",
         "atb": "19/10/2026 07:35",
         "etd": "20/10/2026 17:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - EVER CANDID",
+        "code": "0558-091S / 0558-091N",
+        "atb": "20/10/2026 10:40",
+        "etd": "21/10/2026 02:30",
         "verified": false
       },
       {
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER CANDID",
-        "code": "0558-091S / 0558-091N",
-        "eta": "20/10/2026 08:00",
-        "etd": "21/10/2026 02:30",
-        "openstack": "14/10/2026 16:00",
-        "closeC": "19/10/2026 10:00",
-        "closeD": "19/10/2026 13:00",
-        "verified": false
-      },
       {
         "name": "KMTC HAIPHONG",
         "code": "2608S / 2608N",
