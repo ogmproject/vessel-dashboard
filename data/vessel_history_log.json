@@ -2117,8 +2117,8 @@
     "vessel_name": "KMTC HAIPHONG",
     "terminal": "TPS",
     "arrival": "2026-10-20T11:40:00",
-    "departure": null,
-    "recorded_at": "2026-10-20T05:00:44.938554"
+    "departure": "2026-10-21T02:11:00",
+    "recorded_at": "2026-10-20T19:30:41.805409"
   },
   {
     "vessel_name": "MERATUS LAMANDAU",
