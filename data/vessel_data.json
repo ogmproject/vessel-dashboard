@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:45:34+00:00",
+  "generated_at": "2026-10-20T17:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -306,38 +306,6 @@
         "name": "WAN HAI 313",
         "berth": "18/10/2026 07:10",
         "dep": "19/10/2026 02:38"
-      },
-      {
-        "name": "EVER ORIENT",
-        "berth": "18/10/2026 10:10",
-        "dep": "18/10/2026 20:25"
-      },
-      {
-        "name": "SINAR SOLO",
-        "berth": "18/10/2026 13:50",
-        "dep": "18/10/2026 19:28"
-      },
-      {
-        "name": "EVER BIRTH",
-        "berth": "17/10/2026 15:40",
-        "dep": "18/10/2026 17:50"
-      },
-      {
-        "name": "NIKEN",
-        "berth": "17/10/2026 20:08",
-        "dep": "18/10/2026 10:35"
-      },
-      {
-        "name": "KOTA MANIS",
-        "berth": "17/10/2026 00:33",
-        "dep": "18/10/2026 08:09",
-        "mmsi": "566773000",
-        "imo": "9632741"
-      },
-      {
-        "name": "TS NAGOYA",
-        "berth": "17/10/2026 08:52",
-        "dep": "18/10/2026 04:05"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
