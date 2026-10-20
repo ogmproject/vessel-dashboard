@@ -2089,8 +2089,8 @@
     "vessel_name": "GSL MAMITSA",
     "terminal": "TPS",
     "arrival": "2026-10-19T10:40:00",
-    "departure": null,
-    "recorded_at": "2026-10-19T04:00:41.511894"
+    "departure": "2026-10-20T09:31:00",
+    "recorded_at": "2026-10-20T02:45:36.983164"
   },
   {
     "vessel_name": "MSC CHERYL 3",
