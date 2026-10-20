@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:30:42+00:00",
+  "generated_at": "2026-10-20T21:45:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "1209-116B / 1209-116B",
         "atb": "20/10/2026 19:30",
         "etd": "21/10/2026 10:00",
+        "verified": false
+      },
+      {
+        "name": "I2 - MTT SANDAKAN",
+        "code": "81E / 81W",
+        "atb": "21/10/2026 04:32",
+        "etd": "21/10/2026 21:00",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MTT SANDAKAN",
-        "code": "81E / 81W",
-        "eta": "21/10/2026 02:00",
-        "etd": "21/10/2026 21:00",
-        "openstack": "12/10/2026 22:00",
-        "closeC": "17/10/2026 16:00",
-        "closeD": "17/10/2026 19:00",
-        "verified": false
-      },
       {
         "name": "KOTA JOHAN",
         "code": "0080E / 0080W",
