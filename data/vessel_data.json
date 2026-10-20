@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:45:36+00:00",
+  "generated_at": "2026-10-20T05:00:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -17,6 +17,13 @@
         "verified": false
       },
       {
+        "name": "I2 - KMTC HAIPHONG",
+        "code": "2608S / 2608N",
+        "atb": "20/10/2026 11:40",
+        "etd": "21/10/2026 00:00",
+        "verified": false
+      },
+      {
         "name": "I1 - MYD ZHANGZHOU",
         "code": "CS20H0N / CS20H0N",
         "atb": "20/10/2026 04:40",
@@ -25,18 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "KMTC HAIPHONG",
-        "code": "2608S / 2608N",
-        "eta": "20/10/2026 12:00",
-        "etd": "21/10/2026 00:00",
-        "openstack": "15/10/2026 13:00",
-        "closeC": "20/10/2026 07:00",
-        "closeD": "20/10/2026 10:00",
-        "verified": false,
-        "mmsi": "538007503",
-        "imo": "9793806"
-      },
       {
         "name": "EVER BLISS",
         "code": "1209-116B / 1209-116B",
