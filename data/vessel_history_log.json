@@ -2110,8 +2110,8 @@
     "vessel_name": "EVER CANDID",
     "terminal": "TPS",
     "arrival": "2026-10-20T10:40:00",
-    "departure": null,
-    "recorded_at": "2026-10-20T03:45:35.561018"
+    "departure": "2026-10-21T02:37:00",
+    "recorded_at": "2026-10-20T20:00:48.839400"
   },
   {
     "vessel_name": "KMTC HAIPHONG",
