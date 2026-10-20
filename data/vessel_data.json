@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-20T01:45:35+00:00",
+  "generated_at": "2026-10-20T02:00:48+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - HONG TAI 656",
         "code": "642N / 642N",
         "atb": "19/10/2026 07:35",
-        "etd": "20/10/2026 13:00",
+        "etd": "20/10/2026 17:00",
         "verified": false
       },
       {
         "name": "I3 - GSL MAMITSA",
         "code": "021S / 021N",
         "atb": "19/10/2026 10:40",
-        "etd": "20/10/2026 08:00",
+        "etd": "20/10/2026 09:00",
         "verified": false
       },
       {
         "name": "I2 - MSC CHERYL 3",
         "code": "XF640R / XF640R",
         "atb": "19/10/2026 13:40",
-        "etd": "20/10/2026 08:00",
+        "etd": "20/10/2026 12:00",
         "verified": false
       },
       {
