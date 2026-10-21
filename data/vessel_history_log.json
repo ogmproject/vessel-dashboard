@@ -2175,5 +2175,12 @@
     "arrival": "2026-10-22T03:10:00",
     "departure": null,
     "recorded_at": "2026-10-21T20:30:39.988771"
+  },
+  {
+    "vessel_name": "FENG HAI 98",
+    "terminal": "TPS",
+    "arrival": "2026-10-22T04:00:00",
+    "departure": null,
+    "recorded_at": "2026-10-21T21:15:37.475890"
   }
 ]

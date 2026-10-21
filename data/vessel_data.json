@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:00:45+00:00",
+  "generated_at": "2026-10-21T21:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -17,6 +17,13 @@
         "verified": false
       },
       {
+        "name": "I2 - FENG HAI 98",
+        "code": "SAU1016 / SAU1016",
+        "atb": "22/10/2026 04:00",
+        "etd": "22/10/2026 14:00",
+        "verified": false
+      },
+      {
         "name": "I1 - MSC WIND II",
         "code": "HS640A / HS642R",
         "atb": "22/10/2026 03:10",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "FENG HAI 98",
-        "code": "SAU1016 / SAU1016",
-        "eta": "22/10/2026 03:00",
-        "etd": "22/10/2026 14:00",
-        "openstack": "16/10/2026 12:00",
-        "closeC": "21/10/2026 06:00",
-        "closeD": "21/10/2026 09:00",
-        "verified": false
-      },
       {
         "name": "SINAR SUNDA",
         "code": "246S / 246N",
