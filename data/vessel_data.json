@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T00:15:34+00:00",
+  "generated_at": "2026-10-21T00:30:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -371,15 +371,6 @@
         "carrier": "PT. MERATUS LINE",
         "atb": "20/10/2026 12:00",
         "atd": "20/10/2026 17:47"
-      },
-      {
-        "name": "XIN BEI LUN",
-        "code": "XIBE040",
-        "voyage": "289S         / 289N",
-        "type": "INTERNATIONAL",
-        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "atb": "19/10/2026 09:18",
-        "atd": "20/10/2026 07:18"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
