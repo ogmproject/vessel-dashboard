@@ -2168,5 +2168,12 @@
     "arrival": "2026-10-21T17:36:00",
     "departure": null,
     "recorded_at": "2026-10-21T11:00:47.233111"
+  },
+  {
+    "vessel_name": "MSC WIND II",
+    "terminal": "TPS",
+    "arrival": "2026-10-22T03:10:00",
+    "departure": null,
+    "recorded_at": "2026-10-21T20:30:39.988771"
   }
 ]

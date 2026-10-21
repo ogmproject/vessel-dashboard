@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T20:15:33+00:00",
+  "generated_at": "2026-10-21T20:30:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -15,19 +15,16 @@
         "atb": "21/10/2026 10:05",
         "etd": "22/10/2026 06:00",
         "verified": false
+      },
+      {
+        "name": "I1 - MSC WIND II",
+        "code": "HS640A / HS642R",
+        "atb": "22/10/2026 03:10",
+        "etd": "22/10/2026 20:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "MSC WIND II",
-        "code": "HS640A / HS642R",
-        "eta": "22/10/2026 00:00",
-        "etd": "22/10/2026 20:00",
-        "openstack": "16/10/2026 02:00",
-        "closeC": "20/10/2026 20:00",
-        "closeD": "20/10/2026 23:00",
-        "verified": false
-      },
       {
         "name": "FENG HAI 98",
         "code": "SAU1016 / SAU1016",
