@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T14:15:35+00:00",
+  "generated_at": "2026-10-21T14:30:39+00:00",
   "tps": {
     "alongside": [
       {
@@ -324,7 +324,7 @@
         "type": "INTERNATIONAL",
         "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
         "atb": "21/10/2026 17:36",
-        "etd": "22/10/2026 19:00"
+        "etd": "22/10/2026 15:00"
       },
       {
         "name": "ITAL BONUS",
