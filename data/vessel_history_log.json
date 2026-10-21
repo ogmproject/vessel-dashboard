@@ -2131,8 +2131,8 @@
     "vessel_name": "EVER BLISS",
     "terminal": "TPS",
     "arrival": "2026-10-20T19:30:00",
-    "departure": null,
-    "recorded_at": "2026-10-20T12:45:38.100094"
+    "departure": "2026-10-21T11:01:00",
+    "recorded_at": "2026-10-21T04:15:31.993852"
   },
   {
     "vessel_name": "MTT SANDAKAN",
