@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T10:45:31+00:00",
+  "generated_at": "2026-10-21T11:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -318,6 +318,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "INTERASIA TRIUMPH",
+        "code": "INTR001",
+        "voyage": "E017         / W018",
+        "type": "INTERNATIONAL",
+        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
+        "atb": "21/10/2026 17:36",
+        "etd": "22/10/2026 19:00"
+      },
+      {
         "name": "ITAL BONUS",
         "code": "ITBO010",
         "voyage": "S126         / N126",
@@ -326,23 +335,19 @@
         "etd": "22/10/2026 08:00"
       },
       {
-        "name": "ITAL BONUS",
-        "code": "ITBO010",
+        "name": "INTERASIA TRIUMPH",
+        "code": "INTR001",
+        "type": "INTERNATIONAL"
+      },
+      {
+        "name": "E017",
+        "code": "W018",
+        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
+        "voyage": "ITAL BONUS / ITBO010",
         "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
-      {
-        "name": "INTERASIA TRIUMPH",
-        "code": "INTR001",
-        "voyage": "E017         / W018",
-        "type": "INTERNATIONAL",
-        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
-        "etb": "21/10/2026 17:00",
-        "etd": "22/10/2026 19:00",
-        "openstack": "15/10/2026 18:00",
-        "closeC": "20/10/2026 23:30"
-      },
       {
         "name": "CHENNAI VOYAGER",
         "code": "CHVO011",
@@ -388,16 +393,7 @@
         "closeC": "28/10/2026 21:00"
       }
     ],
-    "departed": [
-      {
-        "name": "MERATUS LAMANDAU",
-        "code": "MELM001",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "20/10/2026 12:00",
-        "atd": "20/10/2026 17:47"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
