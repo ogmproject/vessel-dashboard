@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:00:44+00:00",
+  "generated_at": "2026-10-21T16:15:33+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,14 +20,14 @@
         "name": "I2 - MTT SANDAKAN",
         "code": "81E / 81W",
         "atb": "21/10/2026 04:32",
-        "etd": "22/10/2026 01:00",
+        "etd": "22/10/2026 00:00",
         "verified": false
       },
       {
         "name": "I1 - MYD ZHANGZHOU",
         "code": "CS20H0N / CS20H0N",
         "atb": "20/10/2026 04:40",
-        "etd": "21/10/2026 23:00",
+        "etd": "21/10/2026 23:59",
         "verified": false
       }
     ],
