@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-21T09:45:32+00:00",
+  "generated_at": "2026-10-21T10:00:44+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - KOTA JOHAN",
         "code": "0080E / 0080W",
         "atb": "21/10/2026 13:33",
-        "etd": "24/10/2026 05:00",
+        "etd": "22/10/2026 12:00",
         "verified": false
       },
       {
@@ -20,14 +20,14 @@
         "name": "I2 - MTT SANDAKAN",
         "code": "81E / 81W",
         "atb": "21/10/2026 04:32",
-        "etd": "22/10/2026 00:30",
+        "etd": "22/10/2026 01:00",
         "verified": false
       },
       {
         "name": "I1 - MYD ZHANGZHOU",
         "code": "CS20H0N / CS20H0N",
         "atb": "20/10/2026 04:40",
-        "etd": "21/10/2026 21:00",
+        "etd": "21/10/2026 22:00",
         "verified": false
       }
     ],
