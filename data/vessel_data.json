@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:45:33+00:00",
+  "generated_at": "2026-10-21T17:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -301,16 +301,6 @@
         "name": "GSL MAMITSA",
         "berth": "19/10/2026 10:40",
         "dep": "20/10/2026 09:31"
-      },
-      {
-        "name": "BALI AYU",
-        "berth": "18/10/2026 21:12",
-        "dep": "19/10/2026 16:04"
-      },
-      {
-        "name": "WAN HAI 313",
-        "berth": "18/10/2026 07:10",
-        "dep": "19/10/2026 02:38"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
