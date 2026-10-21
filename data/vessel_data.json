@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-21T06:30:40+00:00",
+  "generated_at": "2026-10-21T06:45:39+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - KOTA JOHAN",
+        "code": "0080E / 0080W",
+        "atb": "21/10/2026 13:33",
+        "etd": "24/10/2026 05:00",
+        "verified": false
+      },
       {
         "name": "I3 - EVER BUILD",
         "code": "1210-089B / 1210-089B",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "KOTA JOHAN",
-        "code": "0080E / 0080W",
-        "eta": "21/10/2026 07:00",
-        "etd": "24/10/2026 05:00",
-        "openstack": "15/10/2026 00:00",
-        "closeC": "19/10/2026 18:00",
-        "closeD": "19/10/2026 21:00",
-        "verified": false
-      },
       {
         "name": "FENG HAI 98",
         "code": "SAU1016 / SAU1016",

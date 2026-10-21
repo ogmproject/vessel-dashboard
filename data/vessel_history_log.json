@@ -2154,5 +2154,12 @@
     "arrival": "2026-10-21T10:05:00",
     "departure": null,
     "recorded_at": "2026-10-21T03:15:35.880374"
+  },
+  {
+    "vessel_name": "KOTA JOHAN",
+    "terminal": "TPS",
+    "arrival": "2026-10-21T13:33:00",
+    "departure": null,
+    "recorded_at": "2026-10-21T06:45:39.113703"
   }
 ]
