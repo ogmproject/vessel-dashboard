@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T17:45:33+00:00",
+  "generated_at": "2026-10-21T18:00:57+00:00",
   "tps": {
     "alongside": [
       {
@@ -21,13 +21,6 @@
         "code": "81E / 81W",
         "atb": "21/10/2026 04:32",
         "etd": "22/10/2026 00:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - MYD ZHANGZHOU",
-        "code": "CS20H0N / CS20H0N",
-        "atb": "20/10/2026 04:40",
-        "etd": "21/10/2026 23:59",
         "verified": false
       }
     ],
@@ -270,6 +263,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MYD ZHANGZHOU",
+        "berth": "20/10/2026 04:40",
+        "dep": "22/10/2026 00:40"
+      },
       {
         "name": "EVER BLISS",
         "berth": "20/10/2026 19:30",
