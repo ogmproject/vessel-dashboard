@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T19:00:46+00:00",
+  "generated_at": "2026-10-21T19:15:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "1210-089B / 1210-089B",
         "atb": "21/10/2026 10:05",
         "etd": "22/10/2026 06:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - MTT SANDAKAN",
-        "code": "81E / 81W",
-        "atb": "21/10/2026 04:32",
-        "etd": "22/10/2026 00:00",
         "verified": false
       }
     ],
@@ -263,6 +256,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MTT SANDAKAN",
+        "berth": "21/10/2026 04:32",
+        "dep": "22/10/2026 01:33"
+      },
       {
         "name": "MYD ZHANGZHOU",
         "berth": "20/10/2026 04:40",
