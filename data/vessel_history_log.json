@@ -2140,5 +2140,19 @@
     "arrival": "2026-10-21T04:32:00",
     "departure": null,
     "recorded_at": "2026-10-20T21:45:37.300887"
+  },
+  {
+    "vessel_name": "ITAL BONUS",
+    "terminal": "TL",
+    "arrival": "2026-10-21T09:55:00",
+    "departure": null,
+    "recorded_at": "2026-10-21T03:15:35.880374"
+  },
+  {
+    "vessel_name": "EVER BUILD",
+    "terminal": "TPS",
+    "arrival": "2026-10-21T10:05:00",
+    "departure": null,
+    "recorded_at": "2026-10-21T03:15:35.880374"
   }
 ]
