@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T03:30:38+00:00",
+  "generated_at": "2026-10-22T03:45:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -304,8 +304,10 @@
         "etd": "22/10/2026 15:00"
       },
       {
-        "name": "INTERASIA TRIUMPH",
-        "code": "INTR001",
+        "name": "5626",
+        "code": "5626",
+        "carrier": "PT. TEMAS SHIPPING",
+        "voyage": "INTERASIA TRIUMPH / INTR001",
         "type": "INTERNATIONAL"
       }
     ],
