@@ -2173,8 +2173,8 @@
     "vessel_name": "MSC WIND II",
     "terminal": "TPS",
     "arrival": "2026-10-22T03:10:00",
-    "departure": null,
-    "recorded_at": "2026-10-21T20:30:39.988771"
+    "departure": "2026-10-23T00:05:00",
+    "recorded_at": "2026-10-22T17:30:41.012826"
   },
   {
     "vessel_name": "FENG HAI 98",
