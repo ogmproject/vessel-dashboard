@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:00:56+00:00",
+  "generated_at": "2026-10-22T02:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "0080E / 0080W",
         "atb": "21/10/2026 13:33",
         "etd": "22/10/2026 14:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - SINAR SUNDA",
+        "code": "246S / 246N",
+        "atb": "22/10/2026 09:05",
+        "etd": "25/10/2026 00:01",
         "verified": false
       },
       {
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SINAR SUNDA",
-        "code": "246S / 246N",
-        "eta": "22/10/2026 08:00",
-        "etd": "25/10/2026 00:01",
-        "openstack": "16/10/2026 14:00",
-        "closeC": "21/10/2026 08:00",
-        "closeD": "21/10/2026 11:00",
-        "verified": false
-      },
       {
         "name": "SEVILLIA",
         "code": "1826S / 1826S",
@@ -212,16 +209,6 @@
         "verified": false
       },
       {
-        "name": "AREZOO",
-        "code": "SCY1196 / SCY1196",
-        "eta": "27/10/2026 12:00",
-        "etd": "27/10/2026 20:30",
-        "openstack": "22/10/2026 12:00",
-        "closeC": "27/10/2026 06:00",
-        "closeD": "27/10/2026 09:00",
-        "verified": false
-      },
-      {
         "name": "WAN HAI 352",
         "code": "S047 / N048",
         "eta": "28/10/2026 02:00",
@@ -229,6 +216,16 @@
         "openstack": "23/10/2026 02:00",
         "closeC": "27/10/2026 20:00",
         "closeD": "27/10/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "AREZOO",
+        "code": "SCY1196 / SCY1196",
+        "eta": "28/10/2026 12:00",
+        "etd": "28/10/2026 20:30",
+        "openstack": "23/10/2026 12:00",
+        "closeC": "28/10/2026 06:00",
+        "closeD": "28/10/2026 09:00",
         "verified": false
       },
       {
@@ -296,83 +293,8 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "INTERASIA TRIUMPH",
-        "code": "INTR001",
-        "voyage": "E017         / W018",
-        "type": "INTERNATIONAL",
-        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
-        "atb": "21/10/2026 17:36",
-        "etd": "22/10/2026 15:00"
-      },
-      {
-        "name": "ITAL BONUS",
-        "code": "ITBO010",
-        "voyage": "S126         / N126",
-        "type": "INTERNATIONAL",
-        "atb": "21/10/2026 09:55",
-        "etd": "22/10/2026 08:00"
-      },
-      {
-        "name": "INTERASIA TRIUMPH",
-        "code": "INTR001",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "E017",
-        "code": "W018",
-        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
-        "voyage": "ITAL BONUS / ITBO010",
-        "type": "INTERNATIONAL"
-      }
-    ],
-    "schedule": [
-      {
-        "name": "CHENNAI VOYAGER",
-        "code": "CHVO011",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "22/10/2026 14:00",
-        "etd": "23/10/2026 13:30",
-        "openstack": "17/10/2026 14:00",
-        "closeC": "23/10/2026 06:00"
-      },
-      {
-        "name": "YM EFFICIENCY",
-        "code": "YMYM071",
-        "voyage": "208S         / 208N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "24/10/2026 07:00",
-        "etd": "25/10/2026 13:00",
-        "openstack": "17/10/2026 20:00",
-        "closeC": "22/10/2026 15:00"
-      },
-      {
-        "name": "TIANJIN VOYAGER",
-        "code": "TIIN019",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "HEUNG A LINE CO., LTD.",
-        "etb": "25/10/2026 20:00",
-        "etd": "26/10/2026 23:30",
-        "openstack": "20/10/2026 20:00",
-        "closeC": "25/10/2026 01:00"
-      },
-      {
-        "name": "MARINA ONE",
-        "code": "MAON004",
-        "voyage": "0004S        / 0004N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "etb": "29/10/2026 02:00",
-        "etd": "30/10/2026 05:00",
-        "openstack": "24/10/2026 02:00",
-        "closeC": "28/10/2026 21:00"
-      }
-    ],
+    "alongside": [],
+    "schedule": [],
     "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
