@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T16:45:33+00:00",
+  "generated_at": "2026-10-22T17:00:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -271,21 +271,6 @@
         "dep": "21/10/2026 02:11",
         "mmsi": "538007503",
         "imo": "9793806"
-      },
-      {
-        "name": "HONG TAI 656",
-        "berth": "19/10/2026 07:35",
-        "dep": "20/10/2026 18:45"
-      },
-      {
-        "name": "MSC CHERYL 3",
-        "berth": "19/10/2026 13:40",
-        "dep": "20/10/2026 10:54"
-      },
-      {
-        "name": "GSL MAMITSA",
-        "berth": "19/10/2026 10:40",
-        "dep": "20/10/2026 09:31"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
