@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:15:39+00:00",
+  "generated_at": "2026-10-22T09:30:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -342,6 +342,37 @@
         "etd": "26/10/2026 23:30",
         "openstack": "20/10/2026 20:00",
         "closeC": "25/10/2026 01:00"
+      },
+      {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU008",
+        "voyage": "014S         / 014N",
+        "type": "INTERNATIONAL",
+        "etb": "27/10/2026 16:00",
+        "etd": "27/10/2026 16:30",
+        "openstack": "22/10/2026 16:00",
+        "closeC": "27/10/2026 11:00"
+      },
+      {
+        "name": "XIN YANG PU",
+        "code": "XIPU007",
+        "voyage": "206E         / 207W",
+        "type": "INTERNATIONAL",
+        "etb": "28/10/2026 04:00",
+        "etd": "28/10/2026 04:30",
+        "openstack": "23/10/2026 04:00",
+        "closeC": "27/10/2026 23:00"
+      },
+      {
+        "name": "KWANGYANG VOYAGER",
+        "code": "KWVO008",
+        "voyage": "2609S        / 2609N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "etb": "28/10/2026 10:00",
+        "etd": "28/10/2026 10:30",
+        "openstack": "23/10/2026 10:00",
+        "closeC": "28/10/2026 05:00"
       },
       {
         "name": "MARINA ONE",
