@@ -2159,8 +2159,8 @@
     "vessel_name": "KOTA JOHAN",
     "terminal": "TPS",
     "arrival": "2026-10-21T13:33:00",
-    "departure": null,
-    "recorded_at": "2026-10-21T06:45:39.113703"
+    "departure": "2026-10-22T14:35:00",
+    "recorded_at": "2026-10-22T08:00:43.044276"
   },
   {
     "vessel_name": "INTERASIA TRIUMPH",
