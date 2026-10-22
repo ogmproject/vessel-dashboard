@@ -2180,8 +2180,8 @@
     "vessel_name": "FENG HAI 98",
     "terminal": "TPS",
     "arrival": "2026-10-22T04:00:00",
-    "departure": null,
-    "recorded_at": "2026-10-21T21:15:37.475890"
+    "departure": "2026-10-22T17:55:00",
+    "recorded_at": "2026-10-22T11:30:39.584927"
   },
   {
     "vessel_name": "SINAR SUNDA",
