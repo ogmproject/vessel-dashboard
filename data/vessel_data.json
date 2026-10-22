@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-22T10:00:45+00:00",
+  "generated_at": "2026-10-22T10:15:37+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - SEVILLIA",
+        "code": "1826S / 1826S",
+        "atb": "22/10/2026 17:00",
+        "etd": "23/10/2026 04:00",
+        "verified": false
+      },
       {
         "name": "I3 - SINAR SUNDA",
         "code": "246S / 246N",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SEVILLIA",
-        "code": "1826S / 1826S",
-        "eta": "22/10/2026 17:00",
-        "etd": "23/10/2026 04:00",
-        "openstack": "15/10/2026 20:00",
-        "closeC": "20/10/2026 14:00",
-        "closeD": "20/10/2026 17:00",
-        "verified": false
-      },
       {
         "name": "EVER BOOMY",
         "code": "1214-094A / 1214-094A",
@@ -291,24 +288,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "INTERASIA TRIUMPH",
-        "code": "INTR001",
-        "voyage": "E017         / W018",
-        "type": "INTERNATIONAL",
-        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
-        "atb": "21/10/2026 17:36",
-        "etd": "22/10/2026 15:00"
-      },
-      {
-        "name": "5626",
-        "code": "5626",
-        "carrier": "PT. TEMAS SHIPPING",
-        "voyage": "INTERASIA TRIUMPH / INTR001",
-        "type": "INTERNATIONAL"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "CHENNAI VOYAGER",
@@ -387,6 +367,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "INTERASIA TRIUMPH",
+        "code": "INTR001",
+        "voyage": "E017         / W018",
+        "type": "INTERNATIONAL",
+        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
+        "atb": "21/10/2026 17:36",
+        "atd": "22/10/2026 16:51"
+      },
       {
         "name": "ITAL BONUS",
         "code": "ITBO010",
