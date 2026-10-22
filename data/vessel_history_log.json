@@ -2152,8 +2152,8 @@
     "vessel_name": "EVER BUILD",
     "terminal": "TPS",
     "arrival": "2026-10-21T10:05:00",
-    "departure": null,
-    "recorded_at": "2026-10-21T03:15:35.880374"
+    "departure": "2026-10-22T07:15:00",
+    "recorded_at": "2026-10-22T00:30:42.343096"
   },
   {
     "vessel_name": "KOTA JOHAN",
