@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:15:37+00:00",
+  "generated_at": "2026-10-22T15:30:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -27,7 +27,7 @@
         "name": "I1 - MSC WIND II",
         "code": "HS640A / HS642R",
         "atb": "22/10/2026 03:10",
-        "etd": "23/10/2026 01:00",
+        "etd": "22/10/2026 23:00",
         "verified": false
       }
     ],
@@ -204,6 +204,16 @@
         "openstack": "23/10/2026 12:00",
         "closeC": "28/10/2026 06:00",
         "closeD": "28/10/2026 09:00",
+        "verified": false
+      },
+      {
+        "name": "MSC ELBA III",
+        "code": "HV644R / HV644R",
+        "eta": "29/10/2026 02:00",
+        "etd": "30/10/2026 08:30",
+        "openstack": "24/10/2026 02:00",
+        "closeC": "28/10/2026 20:00",
+        "closeD": "28/10/2026 23:00",
         "verified": false
       },
       {
