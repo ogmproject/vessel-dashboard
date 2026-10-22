@@ -2145,8 +2145,8 @@
     "vessel_name": "ITAL BONUS",
     "terminal": "TL",
     "arrival": "2026-10-21T09:55:00",
-    "departure": null,
-    "recorded_at": "2026-10-21T03:15:35.880374"
+    "departure": "2026-10-22T09:24:00",
+    "recorded_at": "2026-10-22T03:15:35.004765"
   },
   {
     "vessel_name": "EVER BUILD",
