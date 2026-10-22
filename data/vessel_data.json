@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T08:00:42+00:00",
+  "generated_at": "2026-10-22T08:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -88,16 +88,6 @@
         "verified": false
       },
       {
-        "name": "KOTA HIDAYAH",
-        "code": "2632S / 2632S",
-        "eta": "24/10/2026 09:00",
-        "etd": "26/10/2026 15:30",
-        "openstack": "19/10/2026 09:00",
-        "closeC": "24/10/2026 03:00",
-        "closeD": "24/10/2026 06:00",
-        "verified": false
-      },
-      {
         "name": "SINAR SULAWESI",
         "code": "100S / 100N",
         "eta": "24/10/2026 09:00",
@@ -118,20 +108,20 @@
         "verified": false
       },
       {
-        "name": "BRIGHT COSMOS",
-        "code": "034S / 034N",
-        "eta": "24/10/2026 23:00",
-        "etd": "25/10/2026 17:30",
+        "name": "SEASPAN CALICANTO",
+        "code": "640S / 643N",
+        "eta": "24/10/2026 22:00",
+        "etd": "25/10/2026 13:00",
         "openstack": "19/10/2026 23:00",
         "closeC": "24/10/2026 17:00",
         "closeD": "24/10/2026 20:00",
         "verified": false
       },
       {
-        "name": "SEASPAN CALICANTO",
-        "code": "640S / 643N",
+        "name": "BRIGHT COSMOS",
+        "code": "034S / 034N",
         "eta": "24/10/2026 23:00",
-        "etd": "26/10/2026 07:30",
+        "etd": "25/10/2026 17:30",
         "openstack": "19/10/2026 23:00",
         "closeC": "24/10/2026 17:00",
         "closeD": "24/10/2026 20:00",
@@ -152,11 +142,21 @@
       {
         "name": "SITC NANSHA",
         "code": "2622S / 2623N",
-        "eta": "25/10/2026 00:00",
-        "etd": "25/10/2026 18:30",
+        "eta": "25/10/2026 07:00",
+        "etd": "25/10/2026 21:00",
         "openstack": "20/10/2026 00:00",
         "closeC": "24/10/2026 18:00",
         "closeD": "24/10/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "KOTA HIDAYAH",
+        "code": "2632S / 2632S",
+        "eta": "25/10/2026 09:00",
+        "etd": "25/10/2026 21:00",
+        "openstack": "19/10/2026 09:00",
+        "closeC": "24/10/2026 03:00",
+        "closeD": "24/10/2026 06:00",
         "verified": false
       },
       {
