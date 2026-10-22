@@ -2194,8 +2194,8 @@
     "vessel_name": "SEVILLIA",
     "terminal": "TPS",
     "arrival": "2026-10-22T17:00:00",
-    "departure": null,
-    "recorded_at": "2026-10-22T10:15:37.126518"
+    "departure": "2026-10-23T03:00:00",
+    "recorded_at": "2026-10-22T22:30:36.758601"
   },
   {
     "vessel_name": "EVER BOOMY",

@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-10-22T21:15:35+00:00",
+  "generated_at": "2026-10-22T22:30:36+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - SEVILLIA",
-        "code": "1826S / 1826S",
-        "atb": "22/10/2026 17:00",
-        "etd": "23/10/2026 03:00",
-        "verified": false
-      },
       {
         "name": "I3 - SINAR SUNDA",
         "code": "246S / 246N",
@@ -218,6 +211,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SEVILLIA",
+        "berth": "22/10/2026 17:00",
+        "dep": "23/10/2026 03:00"
+      },
       {
         "name": "MSC WIND II",
         "berth": "22/10/2026 03:10",
