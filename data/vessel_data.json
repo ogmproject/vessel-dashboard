@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:00:45+00:00",
+  "generated_at": "2026-10-23T10:15:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -36,16 +36,6 @@
         "verified": false
       },
       {
-        "name": "ZHONG GU JI NAN",
-        "code": "CHN0E0S / CHN0F0N",
-        "eta": "24/10/2026 00:01",
-        "etd": "25/10/2026 05:00",
-        "openstack": "17/10/2026 20:00",
-        "closeC": "22/10/2026 14:00",
-        "closeD": "22/10/2026 17:00",
-        "verified": false
-      },
-      {
         "name": "SINAR SULAWESI",
         "code": "100S / 100N",
         "eta": "24/10/2026 09:00",
@@ -63,6 +53,16 @@
         "openstack": "18/10/2026 02:00",
         "closeC": "22/10/2026 20:00",
         "closeD": "22/10/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "ZHONG GU JI NAN",
+        "code": "CHN0E0S / CHN0F0N",
+        "eta": "24/10/2026 14:00",
+        "etd": "25/10/2026 18:30",
+        "openstack": "17/10/2026 20:00",
+        "closeC": "22/10/2026 14:00",
+        "closeD": "22/10/2026 17:00",
         "verified": false
       },
       {
