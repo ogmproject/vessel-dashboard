@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:30:39+00:00",
+  "generated_at": "2026-10-23T09:45:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,14 +13,14 @@
         "name": "I3 - SINAR SUNDA",
         "code": "246S / 246N",
         "atb": "22/10/2026 09:05",
-        "etd": "25/10/2026 00:01",
+        "etd": "24/10/2026 00:01",
         "verified": false
       },
       {
         "name": "I1 - EVER OASIS",
         "code": "0497-093S / 0497-093N",
         "atb": "23/10/2026 01:55",
-        "etd": "23/10/2026 19:00",
+        "etd": "23/10/2026 23:00",
         "verified": false
       }
     ],
@@ -294,8 +294,8 @@
         "voyage": "2609S        / 2609N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "23/10/2026 18:00",
-        "etd": "24/10/2026 16:00",
+        "etb": "23/10/2026 19:00",
+        "etd": "24/10/2026 17:00",
         "openstack": "17/10/2026 14:00",
         "closeC": "23/10/2026 06:00"
       },
