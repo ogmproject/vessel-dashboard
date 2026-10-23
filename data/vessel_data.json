@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T20:45:34+00:00",
+  "generated_at": "2026-10-23T21:00:57+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "S035 / N036",
         "atb": "23/10/2026 14:00",
         "etd": "24/10/2026 12:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - SINAR SUNDA",
-        "code": "246S / 246N",
-        "atb": "22/10/2026 09:05",
-        "etd": "24/10/2026 02:30",
         "verified": false
       },
       {
@@ -221,6 +214,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SINAR SUNDA",
+        "berth": "22/10/2026 09:05",
+        "dep": "24/10/2026 03:25"
+      },
       {
         "name": "EVER OASIS",
         "berth": "23/10/2026 01:55",

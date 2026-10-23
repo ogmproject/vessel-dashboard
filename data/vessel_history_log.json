@@ -2187,8 +2187,8 @@
     "vessel_name": "SINAR SUNDA",
     "terminal": "TPS",
     "arrival": "2026-10-22T09:05:00",
-    "departure": null,
-    "recorded_at": "2026-10-22T02:30:42.908080"
+    "departure": "2026-10-24T03:25:00",
+    "recorded_at": "2026-10-23T21:00:57.596607"
   },
   {
     "vessel_name": "SEVILLIA",
