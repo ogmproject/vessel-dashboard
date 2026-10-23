@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-23T17:30:38+00:00",
+  "generated_at": "2026-10-23T17:45:33+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - WAN HAI 376",
         "code": "S035 / N036",
         "atb": "23/10/2026 14:00",
-        "etd": "24/10/2026 11:00",
+        "etd": "24/10/2026 12:00",
         "verified": false
       },
       {
         "name": "I3 - SINAR SUNDA",
         "code": "246S / 246N",
         "atb": "22/10/2026 09:05",
-        "etd": "24/10/2026 03:01",
+        "etd": "24/10/2026 03:00",
         "verified": false
       },
       {
         "name": "I2 - ES TREASURE",
         "code": "642S / 642S",
         "atb": "23/10/2026 20:40",
-        "etd": "24/10/2026 11:30",
+        "etd": "24/10/2026 14:00",
         "verified": false
       },
       {
