@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-23T07:00:47+00:00",
+  "generated_at": "2026-10-23T07:15:33+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - WAN HAI 376",
+        "code": "S035 / N036",
+        "atb": "23/10/2026 14:00",
+        "etd": "24/10/2026 11:00",
+        "verified": false
+      },
       {
         "name": "I3 - SINAR SUNDA",
         "code": "246S / 246N",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "WAN HAI 376",
-        "code": "S035 / N036",
-        "eta": "23/10/2026 16:00",
-        "etd": "24/10/2026 11:00",
-        "openstack": "18/10/2026 15:00",
-        "closeC": "23/10/2026 09:00",
-        "closeD": "23/10/2026 12:00",
-        "verified": false
-      },
       {
         "name": "ES TREASURE",
         "code": "642S / 642S",
@@ -355,6 +352,16 @@
         "etd": "30/10/2026 05:00",
         "openstack": "24/10/2026 02:00",
         "closeC": "28/10/2026 21:00"
+      },
+      {
+        "name": "COSCO HOUSTON",
+        "code": "COHO053",
+        "voyage": "144S         / 144N",
+        "type": "INTERNATIONAL",
+        "etb": "29/10/2026 07:00",
+        "etd": "29/10/2026 07:30",
+        "openstack": "24/10/2026 07:00",
+        "closeC": "29/10/2026 02:00"
       },
       {
         "name": "2642S",
