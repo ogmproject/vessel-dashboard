@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:45:36+00:00",
+  "generated_at": "2026-10-23T10:00:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -28,8 +28,8 @@
       {
         "name": "ES TREASURE",
         "code": "642S / 642S",
-        "eta": "23/10/2026 18:00",
-        "etd": "24/10/2026 14:00",
+        "eta": "23/10/2026 19:00",
+        "etd": "24/10/2026 11:30",
         "openstack": "18/10/2026 13:00",
         "closeC": "23/10/2026 07:00",
         "closeD": "23/10/2026 10:00",
@@ -58,8 +58,8 @@
       {
         "name": "MSC SHIVALIKA III",
         "code": "HV643R / HV643R",
-        "eta": "24/10/2026 13:00",
-        "etd": "25/10/2026 07:00",
+        "eta": "24/10/2026 12:00",
+        "etd": "25/10/2026 10:00",
         "openstack": "18/10/2026 02:00",
         "closeC": "22/10/2026 20:00",
         "closeD": "22/10/2026 23:00",
@@ -385,17 +385,7 @@
         "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
       }
     ],
-    "departed": [
-      {
-        "name": "INTERASIA TRIUMPH",
-        "code": "INTR001",
-        "voyage": "E017         / W018",
-        "type": "INTERNATIONAL",
-        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
-        "atb": "21/10/2026 17:36",
-        "atd": "22/10/2026 16:51"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
