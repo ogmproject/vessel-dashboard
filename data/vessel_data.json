@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T13:30:39+00:00",
+  "generated_at": "2026-10-23T13:45:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -17,6 +17,13 @@
         "verified": false
       },
       {
+        "name": "I2 - ES TREASURE",
+        "code": "642S / 642S",
+        "atb": "23/10/2026 20:40",
+        "etd": "24/10/2026 11:30",
+        "verified": false
+      },
+      {
         "name": "I1 - EVER OASIS",
         "code": "0497-093S / 0497-093N",
         "atb": "23/10/2026 01:55",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "ES TREASURE",
-        "code": "642S / 642S",
-        "eta": "23/10/2026 19:00",
-        "etd": "24/10/2026 11:30",
-        "openstack": "18/10/2026 13:00",
-        "closeC": "23/10/2026 07:00",
-        "closeD": "23/10/2026 10:00",
-        "verified": false
-      },
       {
         "name": "SINAR SULAWESI",
         "code": "100S / 100N",
@@ -304,8 +301,8 @@
         "voyage": "2609S        / 2609N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "23/10/2026 19:00",
-        "etd": "24/10/2026 17:00",
+        "etb": "23/10/2026 23:00",
+        "etd": "24/10/2026 21:00",
         "openstack": "17/10/2026 14:00",
         "closeC": "23/10/2026 06:00"
       },

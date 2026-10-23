@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T13:30:39.959826",
+  "generated_at": "2026-10-23T13:45:34.141408",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -32,17 +32,6 @@
       "interval_stddev_days": 9.6,
       "avg_dwelling_hours": 19.3,
       "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "ES TREASURE",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-12T07:26:00",
-      "predicted_next_arrival": "2026-10-19T02:48:17.142857",
-      "avg_interval_days": 6.8,
-      "interval_stddev_days": 3.8,
-      "avg_dwelling_hours": 29.1,
-      "visits_recorded": 8,
       "confidence": "medium"
     },
     {
@@ -142,6 +131,17 @@
       "interval_stddev_days": 0.3,
       "avg_dwelling_hours": 23.3,
       "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "ES TREASURE",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-23T20:40:00",
+      "predicted_next_arrival": "2026-10-31T06:16:15",
+      "avg_interval_days": 7.4,
+      "interval_stddev_days": 3.9,
+      "avg_dwelling_hours": 29.1,
+      "visits_recorded": 9,
       "confidence": "medium"
     },
     {
