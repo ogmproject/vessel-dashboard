@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T06:20:13+00:00",
+  "generated_at": "2026-10-23T06:30:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -346,16 +346,6 @@
         "closeC": "28/10/2026 05:00"
       },
       {
-        "name": "2642S",
-        "code": "2642N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "29/10/2026 00:00",
-        "etd": "29/10/2026 00:30",
-        "openstack": "24/10/2026 00:00",
-        "closeC": "28/10/2026 19:00"
-      },
-      {
         "name": "MARINA ONE",
         "code": "MAON004",
         "voyage": "0004S        / 0004N",
@@ -365,6 +355,16 @@
         "etd": "30/10/2026 05:00",
         "openstack": "24/10/2026 02:00",
         "closeC": "28/10/2026 21:00"
+      },
+      {
+        "name": "2642S",
+        "code": "2642N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "29/10/2026 08:00",
+        "etd": "30/10/2026 08:30",
+        "openstack": "24/10/2026 08:00",
+        "closeC": "29/10/2026 03:00"
       }
     ],
     "departed": [
