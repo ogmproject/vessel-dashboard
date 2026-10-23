@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T02:15:33+00:00",
+  "generated_at": "2026-10-23T02:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -356,14 +356,6 @@
         "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
         "atb": "21/10/2026 17:36",
         "atd": "22/10/2026 16:51"
-      },
-      {
-        "name": "ITAL BONUS",
-        "code": "ITBO010",
-        "voyage": "S126         / N126",
-        "type": "INTERNATIONAL",
-        "atb": "21/10/2026 09:55",
-        "atd": "22/10/2026 09:24"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
