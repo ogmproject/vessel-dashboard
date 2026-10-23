@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:48:32+00:00",
+  "generated_at": "2026-10-23T17:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -271,23 +271,6 @@
         "name": "MYD ZHANGZHOU",
         "berth": "20/10/2026 04:40",
         "dep": "22/10/2026 00:40"
-      },
-      {
-        "name": "EVER BLISS",
-        "berth": "20/10/2026 19:30",
-        "dep": "21/10/2026 11:01"
-      },
-      {
-        "name": "EVER CANDID",
-        "berth": "20/10/2026 10:40",
-        "dep": "21/10/2026 02:37"
-      },
-      {
-        "name": "KMTC HAIPHONG",
-        "berth": "20/10/2026 11:40",
-        "dep": "21/10/2026 02:11",
-        "mmsi": "538007503",
-        "imo": "9793806"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
