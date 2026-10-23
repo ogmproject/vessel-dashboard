@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T19:30:39+00:00",
+  "generated_at": "2026-10-23T19:45:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -285,8 +285,10 @@
         "etd": "24/10/2026 21:00"
       },
       {
-        "name": "CHENNAI VOYAGER",
-        "code": "CHVO011",
+        "name": "2026",
+        "code": "2026",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "CHENNAI VOYAGER / CHVO011",
         "type": "INTERNATIONAL"
       }
     ],
