@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:45:32+00:00",
+  "generated_at": "2026-10-23T06:00:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -287,8 +287,8 @@
         "voyage": "2609S        / 2609N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "22/10/2026 14:00",
-        "etd": "23/10/2026 13:30",
+        "etb": "23/10/2026 18:00",
+        "etd": "24/10/2026 16:00",
         "openstack": "17/10/2026 14:00",
         "closeC": "23/10/2026 06:00"
       },
@@ -298,8 +298,8 @@
         "voyage": "208S         / 208N",
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "24/10/2026 07:00",
-        "etd": "25/10/2026 13:00",
+        "etb": "24/10/2026 10:00",
+        "etd": "25/10/2026 15:00",
         "openstack": "17/10/2026 20:00",
         "closeC": "23/10/2026 02:00"
       },
