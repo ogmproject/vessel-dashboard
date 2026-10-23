@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:15:36+00:00",
+  "generated_at": "2026-10-23T16:45:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,7 +13,7 @@
         "name": "I3 - SINAR SUNDA",
         "code": "246S / 246N",
         "atb": "22/10/2026 09:05",
-        "etd": "24/10/2026 00:01",
+        "etd": "24/10/2026 03:01",
         "verified": false
       },
       {
@@ -33,23 +33,23 @@
     ],
     "schedule": [
       {
-        "name": "SINAR SULAWESI",
-        "code": "100S / 100N",
-        "eta": "24/10/2026 09:00",
-        "etd": "25/10/2026 15:00",
-        "openstack": "19/10/2026 00:00",
-        "closeC": "23/10/2026 18:00",
-        "closeD": "23/10/2026 21:00",
-        "verified": false
-      },
-      {
         "name": "MSC SHIVALIKA III",
         "code": "HV643R / HV643R",
-        "eta": "24/10/2026 12:00",
-        "etd": "25/10/2026 10:00",
+        "eta": "24/10/2026 08:00",
+        "etd": "25/10/2026 05:30",
         "openstack": "18/10/2026 02:00",
         "closeC": "22/10/2026 20:00",
         "closeD": "22/10/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "SINAR SULAWESI",
+        "code": "100S / 100N",
+        "eta": "24/10/2026 11:00",
+        "etd": "25/10/2026 17:30",
+        "openstack": "19/10/2026 00:00",
+        "closeC": "23/10/2026 18:00",
+        "closeD": "23/10/2026 21:00",
         "verified": false
       },
       {
@@ -293,19 +293,23 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "CHENNAI VOYAGER",
         "code": "CHVO011",
         "voyage": "2609S        / 2609N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "23/10/2026 23:00",
-        "etd": "24/10/2026 21:00",
-        "openstack": "17/10/2026 14:00",
-        "closeC": "23/10/2026 06:00"
+        "atb": "23/10/2026 23:20",
+        "etd": "24/10/2026 21:00"
       },
+      {
+        "name": "CHENNAI VOYAGER",
+        "code": "CHVO011",
+        "type": "INTERNATIONAL"
+      }
+    ],
+    "schedule": [
       {
         "name": "YM EFFICIENCY",
         "code": "YMYM071",
