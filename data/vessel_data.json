@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-24T17:45:31+00:00",
+  "generated_at": "2026-10-24T18:01:05+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SEASPAN CALICANTO",
         "code": "640S / 643N",
         "atb": "24/10/2026 21:25",
-        "etd": "26/10/2026 10:00",
+        "etd": "26/10/2026 15:00",
         "verified": false
       },
       {
         "name": "I3 - SINAR SULAWESI",
         "code": "100S / 100N",
         "atb": "24/10/2026 09:50",
-        "etd": "25/10/2026 20:00",
+        "etd": "25/10/2026 21:00",
         "verified": false
       },
       {
