@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:45:34+00:00",
+  "generated_at": "2026-10-24T17:00:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -224,33 +224,6 @@
         "name": "MSC WIND II",
         "berth": "22/10/2026 03:10",
         "dep": "23/10/2026 00:05"
-      },
-      {
-        "name": "FENG HAI 98",
-        "berth": "22/10/2026 04:00",
-        "dep": "22/10/2026 17:55"
-      },
-      {
-        "name": "KOTA JOHAN",
-        "berth": "21/10/2026 13:33",
-        "dep": "22/10/2026 14:35"
-      },
-      {
-        "name": "EVER BUILD",
-        "berth": "21/10/2026 10:05",
-        "dep": "22/10/2026 07:15",
-        "mmsi": "370616000",
-        "imo": "9790062"
-      },
-      {
-        "name": "MTT SANDAKAN",
-        "berth": "21/10/2026 04:32",
-        "dep": "22/10/2026 01:33"
-      },
-      {
-        "name": "MYD ZHANGZHOU",
-        "berth": "20/10/2026 04:40",
-        "dep": "22/10/2026 00:40"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
