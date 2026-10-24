@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T11:15:31+00:00",
+  "generated_at": "2026-10-24T11:30:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -276,7 +276,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "23/10/2026 23:20",
-        "etd": "24/10/2026 21:00"
+        "etd": "24/10/2026 22:00"
       },
       {
         "name": "YM EFFICIENCY",
