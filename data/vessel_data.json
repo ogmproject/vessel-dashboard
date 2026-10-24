@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T02:30:43+00:00",
+  "generated_at": "2026-10-24T02:45:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -277,7 +277,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
         "atb": "24/10/2026 08:44",
-        "etd": "27/10/2026 06:00"
+        "etd": "25/10/2026 14:00"
       },
       {
         "name": "CHENNAI VOYAGER",
@@ -286,7 +286,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "23/10/2026 23:20",
-        "etd": "24/10/2026 21:00"
+        "etd": "24/10/2026 17:00"
       },
       {
         "name": "YM EFFICIENCY",
@@ -356,6 +356,16 @@
         "closeC": "28/10/2026 21:00"
       },
       {
+        "name": "COSCO HOUSTON",
+        "code": "COHO053",
+        "voyage": "144S         / 144N",
+        "type": "INTERNATIONAL",
+        "etb": "29/10/2026 08:00",
+        "etd": "30/10/2026 08:30",
+        "openstack": "24/10/2026 08:00",
+        "closeC": "29/10/2026 03:00"
+      },
+      {
         "name": "2642S",
         "code": "2642N",
         "type": "INTERNATIONAL",
@@ -364,17 +374,6 @@
         "etd": "30/10/2026 08:30",
         "openstack": "24/10/2026 08:00",
         "closeC": "28/10/2026 18:00"
-      },
-      {
-        "name": "COSCO HOUSTON",
-        "code": "COHO053",
-        "voyage": "144S         / 144N",
-        "type": "INTERNATIONAL",
-        "etb": "29/10/2026 08:00",
-        "etd": "30/10/2026 08:30",
-        "openstack": "24/10/2026 08:00",
-        "closeC": "29/10/2026 03:00",
-        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
       }
     ],
     "departed": [],
