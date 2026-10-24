@@ -2233,6 +2233,13 @@
     "recorded_at": "2026-10-23T16:45:37.897459"
   },
   {
+    "vessel_name": "MSC SHIVALIKA III",
+    "terminal": "TPS",
+    "arrival": "2026-10-24T08:35:00",
+    "departure": null,
+    "recorded_at": "2026-10-24T02:15:34.207838"
+  },
+  {
     "vessel_name": "YM EFFICIENCY",
     "terminal": "TL",
     "arrival": "2026-10-24T08:44:00",
