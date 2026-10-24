@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T23:45:34+00:00",
+  "generated_at": "2026-10-24T00:00:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -297,9 +297,9 @@
         "voyage": "208S         / 208N",
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "24/10/2026 10:00",
-        "etd": "25/10/2026 15:00",
-        "openstack": "17/10/2026 20:00",
+        "etb": "24/10/2026 08:30",
+        "etd": "27/10/2026 06:00",
+        "openstack": "19/10/2026 08:30",
         "closeC": "23/10/2026 02:00"
       },
       {
