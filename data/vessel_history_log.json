@@ -2222,8 +2222,8 @@
     "vessel_name": "ES TREASURE",
     "terminal": "TPS",
     "arrival": "2026-10-23T20:40:00",
-    "departure": null,
-    "recorded_at": "2026-10-23T13:45:34.141408"
+    "departure": "2026-10-24T12:20:00",
+    "recorded_at": "2026-10-24T05:30:37.336168"
   },
   {
     "vessel_name": "CHENNAI VOYAGER",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T05:15:37+00:00",
+  "generated_at": "2026-10-24T05:30:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "100S / 100N",
         "atb": "24/10/2026 09:50",
         "etd": "25/10/2026 17:30",
-        "verified": false
-      },
-      {
-        "name": "I2 - ES TREASURE",
-        "code": "642S / 642S",
-        "atb": "23/10/2026 20:40",
-        "etd": "24/10/2026 11:00",
         "verified": false
       },
       {
@@ -208,6 +201,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "ES TREASURE",
+        "berth": "23/10/2026 20:40",
+        "dep": "24/10/2026 12:20"
+      },
       {
         "name": "SINAR SUNDA",
         "berth": "22/10/2026 09:05",
