@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:30:41+00:00",
+  "generated_at": "2026-10-24T16:45:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -267,24 +267,8 @@
         "etd": "25/10/2026 14:00"
       },
       {
-        "name": "CHENNAI VOYAGER",
-        "code": "CHVO011",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "atb": "23/10/2026 23:20",
-        "etd": "24/10/2026 22:00"
-      },
-      {
         "name": "YM EFFICIENCY",
         "code": "YMYM071",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "2026",
-        "code": "2026",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "CHENNAI VOYAGER / CHVO011",
         "type": "INTERNATIONAL"
       }
     ],
@@ -363,7 +347,17 @@
         "closeC": "28/10/2026 18:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "CHENNAI VOYAGER",
+        "code": "CHVO011",
+        "voyage": "2609S        / 2609N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "atb": "23/10/2026 23:20",
+        "atd": "24/10/2026 23:41"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }

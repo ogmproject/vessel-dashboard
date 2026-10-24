@@ -2229,8 +2229,8 @@
     "vessel_name": "CHENNAI VOYAGER",
     "terminal": "TL",
     "arrival": "2026-10-23T23:20:00",
-    "departure": null,
-    "recorded_at": "2026-10-23T16:45:37.897459"
+    "departure": "2026-10-24T23:41:00",
+    "recorded_at": "2026-10-24T16:45:34.792284"
   },
   {
     "vessel_name": "MSC SHIVALIKA III",
