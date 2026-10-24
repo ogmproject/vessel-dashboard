@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T14:30:38.099465",
+  "generated_at": "2026-10-24T14:45:35.087161",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -394,6 +394,17 @@
       "avg_interval_days": 35.0,
       "interval_stddev_days": 12.8,
       "avg_dwelling_hours": 24.9,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "SEASPAN CALICANTO",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-24T21:25:00",
+      "predicted_next_arrival": "2026-11-28T22:45:00",
+      "avg_interval_days": 35.1,
+      "interval_stddev_days": 0.1,
+      "avg_dwelling_hours": 18.4,
       "visits_recorded": 3,
       "confidence": "medium"
     }
