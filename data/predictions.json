@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:49:43.702836",
+  "generated_at": "2026-10-24T02:00:46.922293",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -361,6 +361,17 @@
       "avg_interval_days": 30.1,
       "interval_stddev_days": 0.8,
       "avg_dwelling_hours": 21.5,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "YM EFFICIENCY",
+      "terminal": "TL",
+      "last_arrival": "2026-10-24T08:44:00",
+      "predicted_next_arrival": "2026-11-20T07:41:00",
+      "avg_interval_days": 27.0,
+      "interval_stddev_days": 2.0,
+      "avg_dwelling_hours": 26.8,
       "visits_recorded": 3,
       "confidence": "medium"
     },
