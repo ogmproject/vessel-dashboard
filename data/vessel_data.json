@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T09:15:33+00:00",
+  "generated_at": "2026-10-24T09:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -17,6 +17,13 @@
         "verified": false
       },
       {
+        "name": "I2 - ZHONG GU JI NAN",
+        "code": "CHN0E0S / CHN0F0N",
+        "atb": "24/10/2026 16:23",
+        "etd": "25/10/2026 18:00",
+        "verified": false
+      },
+      {
         "name": "I1 - MSC SHIVALIKA III",
         "code": "HV643R / HV643R",
         "atb": "24/10/2026 08:35",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "ZHONG GU JI NAN",
-        "code": "CHN0E0S / CHN0F0N",
-        "eta": "24/10/2026 15:00",
-        "etd": "25/10/2026 18:00",
-        "openstack": "17/10/2026 20:00",
-        "closeC": "22/10/2026 14:00",
-        "closeD": "22/10/2026 17:00",
-        "verified": false
-      },
       {
         "name": "SEASPAN CALICANTO",
         "code": "640S / 643N",
