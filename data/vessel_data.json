@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T03:00:42+00:00",
+  "generated_at": "2026-10-24T03:15:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "S035 / N036",
         "atb": "23/10/2026 14:00",
         "etd": "24/10/2026 16:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - SINAR SULAWESI",
+        "code": "100S / 100N",
+        "atb": "24/10/2026 09:50",
+        "etd": "25/10/2026 17:30",
         "verified": false
       },
       {
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SINAR SULAWESI",
-        "code": "100S / 100N",
-        "eta": "24/10/2026 11:00",
-        "etd": "25/10/2026 17:30",
-        "openstack": "19/10/2026 00:00",
-        "closeC": "23/10/2026 18:00",
-        "closeD": "23/10/2026 21:00",
-        "verified": false
-      },
       {
         "name": "ZHONG GU JI NAN",
         "code": "CHN0E0S / CHN0F0N",
