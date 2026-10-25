@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:00:46+00:00",
+  "generated_at": "2026-10-25T17:15:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -257,19 +257,23 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "TIANJIN VOYAGER",
         "code": "TIIN019",
         "voyage": "2609S        / 2609N",
         "type": "INTERNATIONAL",
         "carrier": "HEUNG A LINE CO., LTD.",
-        "etb": "25/10/2026 23:00",
-        "etd": "26/10/2026 22:00",
-        "openstack": "20/10/2026 23:00",
-        "closeC": "25/10/2026 01:00"
+        "atb": "26/10/2026 00:02",
+        "etd": "26/10/2026 22:00"
       },
+      {
+        "name": "TIANJIN VOYAGER",
+        "code": "TIIN019",
+        "type": "INTERNATIONAL"
+      }
+    ],
+    "schedule": [
       {
         "name": "ERASMUS JUSTICE",
         "code": "ERJU008",

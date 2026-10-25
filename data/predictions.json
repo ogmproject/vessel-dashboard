@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:00:46.699554",
+  "generated_at": "2026-10-25T17:15:35.947821",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -383,6 +383,17 @@
       "avg_interval_days": 33.5,
       "interval_stddev_days": 2.3,
       "avg_dwelling_hours": 19.6,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "TIANJIN VOYAGER",
+      "terminal": "TL",
+      "last_arrival": "2026-10-26T00:02:00",
+      "predicted_next_arrival": "2026-11-27T12:59:00",
+      "avg_interval_days": 32.5,
+      "interval_stddev_days": 0.3,
+      "avg_dwelling_hours": 26.1,
       "visits_recorded": 3,
       "confidence": "medium"
     },

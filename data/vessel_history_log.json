@@ -2287,5 +2287,12 @@
     "arrival": "2026-10-25T23:00:00",
     "departure": null,
     "recorded_at": "2026-10-25T16:15:34.663604"
+  },
+  {
+    "vessel_name": "TIANJIN VOYAGER",
+    "terminal": "TL",
+    "arrival": "2026-10-26T00:02:00",
+    "departure": null,
+    "recorded_at": "2026-10-25T17:15:35.947821"
   }
 ]
