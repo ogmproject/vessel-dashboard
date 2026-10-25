@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T12:15:33+00:00",
+  "generated_at": "2026-10-25T12:30:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "100S / 100N",
         "atb": "24/10/2026 09:50",
         "etd": "25/10/2026 23:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - MSC SHIVALIKA III",
-        "code": "HV643R / HV643R",
-        "atb": "24/10/2026 08:35",
-        "etd": "25/10/2026 17:30",
         "verified": false
       }
     ],
@@ -221,6 +214,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MSC SHIVALIKA III",
+        "berth": "24/10/2026 08:35",
+        "dep": "25/10/2026 17:50"
+      },
       {
         "name": "ZHONG GU JI NAN",
         "berth": "24/10/2026 16:23",
