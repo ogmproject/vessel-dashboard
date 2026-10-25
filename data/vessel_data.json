@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-10-25T08:30:38+00:00",
+  "generated_at": "2026-10-25T08:45:33+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - SEASPAN CALICANTO",
-        "code": "640S / 643N",
-        "atb": "24/10/2026 21:25",
-        "etd": "25/10/2026 16:00",
-        "verified": false
-      },
       {
         "name": "I3 - SINAR SULAWESI",
         "code": "100S / 100N",
@@ -198,6 +191,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SEASPAN CALICANTO",
+        "berth": "24/10/2026 21:25",
+        "dep": "25/10/2026 15:30"
+      },
       {
         "name": "WAN HAI 376",
         "berth": "23/10/2026 14:00",

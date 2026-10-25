@@ -2264,7 +2264,7 @@
     "vessel_name": "SEASPAN CALICANTO",
     "terminal": "TPS",
     "arrival": "2026-10-24T21:25:00",
-    "departure": null,
-    "recorded_at": "2026-10-24T14:45:35.087161"
+    "departure": "2026-10-25T15:30:00",
+    "recorded_at": "2026-10-25T08:45:33.896064"
   }
 ]
