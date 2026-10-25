@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T05:15:32+00:00",
+  "generated_at": "2026-10-25T05:30:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,14 +20,14 @@
         "name": "I2 - ZHONG GU JI NAN",
         "code": "CHN0E0S / CHN0F0N",
         "atb": "24/10/2026 16:23",
-        "etd": "25/10/2026 17:00",
+        "etd": "25/10/2026 17:30",
         "verified": false
       },
       {
         "name": "I1 - MSC SHIVALIKA III",
         "code": "HV643R / HV643R",
         "atb": "24/10/2026 08:35",
-        "etd": "25/10/2026 16:00",
+        "etd": "25/10/2026 17:30",
         "verified": false
       }
     ],
