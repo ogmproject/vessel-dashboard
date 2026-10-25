@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:15:34+00:00",
+  "generated_at": "2026-10-25T10:30:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "100S / 100N",
         "atb": "24/10/2026 09:50",
         "etd": "25/10/2026 23:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - ZHONG GU JI NAN",
-        "code": "CHN0E0S / CHN0F0N",
-        "atb": "24/10/2026 16:23",
-        "etd": "25/10/2026 17:30",
         "verified": false
       },
       {
@@ -188,6 +181,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "ZHONG GU JI NAN",
+        "berth": "24/10/2026 16:23",
+        "dep": "25/10/2026 17:15"
+      },
       {
         "name": "SEASPAN CALICANTO",
         "berth": "24/10/2026 21:25",

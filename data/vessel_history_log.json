@@ -2257,8 +2257,8 @@
     "vessel_name": "ZHONG GU JI NAN",
     "terminal": "TPS",
     "arrival": "2026-10-24T16:23:00",
-    "departure": null,
-    "recorded_at": "2026-10-24T09:30:40.533387"
+    "departure": "2026-10-25T17:15:00",
+    "recorded_at": "2026-10-25T10:30:38.420504"
   },
   {
     "vessel_name": "SEASPAN CALICANTO",
