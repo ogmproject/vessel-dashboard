@@ -2271,8 +2271,8 @@
     "vessel_name": "KOTA HIDAYAH",
     "terminal": "TPS",
     "arrival": "2026-10-25T17:00:00",
-    "departure": null,
-    "recorded_at": "2026-10-25T10:15:34.545462"
+    "departure": "2026-10-26T03:45:00",
+    "recorded_at": "2026-10-25T21:00:44.879060"
   },
   {
     "vessel_name": "SITC NANSHA",
@@ -2294,5 +2294,12 @@
     "arrival": "2026-10-26T00:02:00",
     "departure": null,
     "recorded_at": "2026-10-25T17:15:35.947821"
+  },
+  {
+    "vessel_name": "INTERASIA ENGAGE",
+    "terminal": "TPS",
+    "arrival": "2026-10-26T03:35:00",
+    "departure": null,
+    "recorded_at": "2026-10-25T21:00:44.879060"
   }
 ]
