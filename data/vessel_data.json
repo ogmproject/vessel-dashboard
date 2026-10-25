@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-25T10:00:44+00:00",
+  "generated_at": "2026-10-25T10:15:34+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - KOTA HIDAYAH",
+        "code": "2632S / 2632S",
+        "atb": "25/10/2026 17:00",
+        "etd": "26/10/2026 02:00",
+        "verified": false
+      },
       {
         "name": "I3 - SINAR SULAWESI",
         "code": "100S / 100N",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "KOTA HIDAYAH",
-        "code": "2632S / 2632S",
-        "eta": "25/10/2026 18:00",
-        "etd": "26/10/2026 02:00",
-        "openstack": "19/10/2026 09:00",
-        "closeC": "24/10/2026 03:00",
-        "closeD": "24/10/2026 06:00",
-        "verified": false
-      },
       {
         "name": "BRIGHT COSMOS",
         "code": "034S / 034N",
