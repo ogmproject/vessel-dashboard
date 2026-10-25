@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-25T19:00:42+00:00",
+  "generated_at": "2026-10-25T19:15:31+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - KOTA HIDAYAH",
         "code": "2632S / 2632S",
         "atb": "25/10/2026 17:00",
-        "etd": "26/10/2026 02:00",
+        "etd": "26/10/2026 02:30",
         "verified": false
       },
       {
@@ -20,7 +20,7 @@
         "name": "I1 - BRIGHT COSMOS",
         "code": "034S / 034N",
         "atb": "25/10/2026 23:00",
-        "etd": "26/10/2026 04:00",
+        "etd": "26/10/2026 14:00",
         "verified": false
       }
     ],
