@@ -2250,8 +2250,8 @@
     "vessel_name": "SINAR SULAWESI",
     "terminal": "TPS",
     "arrival": "2026-10-24T09:50:00",
-    "departure": null,
-    "recorded_at": "2026-10-24T03:15:36.999883"
+    "departure": "2026-10-26T00:01:00",
+    "recorded_at": "2026-10-25T17:45:33.172091"
   },
   {
     "vessel_name": "ZHONG GU JI NAN",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:30:40+00:00",
+  "generated_at": "2026-10-25T17:45:33+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "2632S / 2632S",
         "atb": "25/10/2026 17:00",
         "etd": "26/10/2026 02:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - SINAR SULAWESI",
-        "code": "100S / 100N",
-        "atb": "24/10/2026 09:50",
-        "etd": "25/10/2026 23:00",
         "verified": false
       },
       {
@@ -218,6 +211,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SINAR SULAWESI",
+        "berth": "24/10/2026 09:50",
+        "dep": "26/10/2026 00:01"
+      },
       {
         "name": "MSC SHIVALIKA III",
         "berth": "24/10/2026 08:35",
