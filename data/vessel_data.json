@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-25T07:45:32+00:00",
+  "generated_at": "2026-10-25T08:00:46+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SEASPAN CALICANTO",
         "code": "640S / 643N",
         "atb": "24/10/2026 21:25",
-        "etd": "26/10/2026 16:00",
+        "etd": "25/10/2026 16:00",
         "verified": false
       },
       {
@@ -45,10 +45,20 @@
         "imo": "9664263"
       },
       {
+        "name": "CMA CGM INDIAN",
+        "code": "0XLCQN / 0XLCQN",
+        "eta": "25/10/2026 18:00",
+        "etd": "27/10/2026 14:30",
+        "openstack": "20/10/2026 18:00",
+        "closeC": "25/10/2026 12:00",
+        "closeD": "25/10/2026 15:00",
+        "verified": false
+      },
+      {
         "name": "KOTA HIDAYAH",
         "code": "2632S / 2632S",
-        "eta": "25/10/2026 10:00",
-        "etd": "25/10/2026 20:00",
+        "eta": "25/10/2026 18:00",
+        "etd": "26/10/2026 02:00",
         "openstack": "19/10/2026 09:00",
         "closeC": "24/10/2026 03:00",
         "closeD": "24/10/2026 06:00",
@@ -57,21 +67,11 @@
       {
         "name": "BRIGHT COSMOS",
         "code": "034S / 034N",
-        "eta": "25/10/2026 12:00",
-        "etd": "25/10/2026 20:00",
+        "eta": "25/10/2026 19:00",
+        "etd": "26/10/2026 04:00",
         "openstack": "19/10/2026 23:00",
         "closeC": "24/10/2026 17:00",
         "closeD": "24/10/2026 20:00",
-        "verified": false
-      },
-      {
-        "name": "CMA CGM INDIAN",
-        "code": "0XLCQN / 0XLCQN",
-        "eta": "25/10/2026 18:00",
-        "etd": "27/10/2026 14:30",
-        "openstack": "20/10/2026 18:00",
-        "closeC": "25/10/2026 12:00",
-        "closeD": "25/10/2026 15:00",
         "verified": false
       },
       {
@@ -295,16 +295,6 @@
         "closeC": "28/10/2026 21:00"
       },
       {
-        "name": "COSCO HOUSTON",
-        "code": "COHO053",
-        "voyage": "144S         / 144N",
-        "type": "INTERNATIONAL",
-        "etb": "29/10/2026 08:00",
-        "etd": "30/10/2026 08:30",
-        "openstack": "24/10/2026 08:00",
-        "closeC": "29/10/2026 03:00"
-      },
-      {
         "name": "2642S",
         "code": "2642N",
         "type": "INTERNATIONAL",
@@ -315,13 +305,23 @@
         "closeC": "28/10/2026 18:00"
       },
       {
+        "name": "COSCO HOUSTON",
+        "code": "COHO053",
+        "voyage": "144S         / 144N",
+        "type": "INTERNATIONAL",
+        "etb": "29/10/2026 08:00",
+        "etd": "30/10/2026 08:30",
+        "openstack": "24/10/2026 08:00",
+        "closeC": "29/10/2026 03:00"
+      },
+      {
         "name": "KMTC HOCHIMINH",
         "code": "KMHO012",
         "voyage": "2610S        / 2610N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
         "etb": "31/10/2026 12:00",
-        "etd": "31/10/2026 12:30",
+        "etd": "01/11/2026 12:30",
         "openstack": "26/10/2026 12:00",
         "closeC": "31/10/2026 07:00",
         "mmsi": "440147000",
