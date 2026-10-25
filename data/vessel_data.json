@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:45:32+00:00",
+  "generated_at": "2026-10-25T17:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -252,23 +252,6 @@
         "name": "EVER OASIS",
         "berth": "23/10/2026 01:55",
         "dep": "24/10/2026 00:35"
-      },
-      {
-        "name": "EVER BOOMY",
-        "berth": "22/10/2026 19:55",
-        "dep": "23/10/2026 15:45",
-        "mmsi": "370700000",
-        "imo": "9787015"
-      },
-      {
-        "name": "SEVILLIA",
-        "berth": "22/10/2026 17:00",
-        "dep": "23/10/2026 03:00"
-      },
-      {
-        "name": "MSC WIND II",
-        "berth": "22/10/2026 03:10",
-        "dep": "23/10/2026 00:05"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
