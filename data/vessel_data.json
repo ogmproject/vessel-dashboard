@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:30:41+00:00",
+  "generated_at": "2026-10-25T16:45:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -372,15 +372,6 @@
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
         "atb": "24/10/2026 08:44",
         "atd": "25/10/2026 11:30"
-      },
-      {
-        "name": "CHENNAI VOYAGER",
-        "code": "CHVO011",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "atb": "23/10/2026 23:20",
-        "atd": "24/10/2026 23:41"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
