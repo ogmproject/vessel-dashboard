@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T14:15:33+00:00",
+  "generated_at": "2026-10-26T14:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -274,7 +274,7 @@
         "type": "INTERNATIONAL",
         "carrier": "HEUNG A LINE CO., LTD.",
         "atb": "26/10/2026 00:02",
-        "etd": "26/10/2026 22:00"
+        "etd": "27/10/2026 01:00"
       },
       {
         "name": "TIANJIN VOYAGER",
@@ -289,7 +289,7 @@
         "voyage": "014S         / 014N",
         "type": "INTERNATIONAL",
         "etb": "27/10/2026 21:00",
-        "etd": "28/10/2026 09:00",
+        "etd": "28/10/2026 07:00",
         "openstack": "22/10/2026 16:00",
         "closeC": "27/10/2026 11:00"
       },
