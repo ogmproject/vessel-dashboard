@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T16:45:35+00:00",
+  "generated_at": "2026-10-26T17:00:45+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I3 - INTERASIA ENGAGE",
         "code": "S045 / N045",
         "atb": "26/10/2026 03:35",
-        "etd": "27/10/2026 00:00",
+        "etd": "28/10/2026 00:00",
         "verified": false
       }
     ],
@@ -241,26 +241,6 @@
         "name": "SEASPAN CALICANTO",
         "berth": "24/10/2026 21:25",
         "dep": "25/10/2026 15:30"
-      },
-      {
-        "name": "WAN HAI 376",
-        "berth": "23/10/2026 14:00",
-        "dep": "24/10/2026 17:00"
-      },
-      {
-        "name": "ES TREASURE",
-        "berth": "23/10/2026 20:40",
-        "dep": "24/10/2026 12:20"
-      },
-      {
-        "name": "SINAR SUNDA",
-        "berth": "22/10/2026 09:05",
-        "dep": "24/10/2026 03:25"
-      },
-      {
-        "name": "EVER OASIS",
-        "berth": "23/10/2026 01:55",
-        "dep": "24/10/2026 00:35"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
