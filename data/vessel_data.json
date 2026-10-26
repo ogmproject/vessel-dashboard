@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-26T02:30:40+00:00",
+  "generated_at": "2026-10-26T02:45:35+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - EVER OPTIMA",
+        "code": "0498-051S / 0498-051N",
+        "atb": "26/10/2026 08:50",
+        "etd": "26/10/2026 18:00",
+        "verified": false
+      },
       {
         "name": "I3 - INTERASIA ENGAGE",
         "code": "S045 / N045",
@@ -21,13 +28,6 @@
         "code": "034S / 034N",
         "atb": "25/10/2026 23:00",
         "etd": "26/10/2026 09:00",
-        "verified": false
-      },
-      {
-        "name": "D4 - EVER OPTIMA",
-        "code": "0498-051S / 0498-051N",
-        "atb": "26/10/2026 08:50",
-        "etd": "26/10/2026 18:00",
         "verified": false
       }
     ],

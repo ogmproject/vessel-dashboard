@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T02:30:40.558154",
+  "generated_at": "2026-10-26T02:45:35.318363",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -394,6 +394,17 @@
       "avg_interval_days": 33.5,
       "interval_stddev_days": 2.3,
       "avg_dwelling_hours": 19.6,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "EVER OPTIMA",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-26T08:50:00",
+      "predicted_next_arrival": "2026-11-26T21:40:00",
+      "avg_interval_days": 31.5,
+      "interval_stddev_days": 1.2,
+      "avg_dwelling_hours": 15.9,
       "visits_recorded": 3,
       "confidence": "medium"
     },
