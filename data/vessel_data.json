@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T23:15:37+00:00",
+  "generated_at": "2026-10-26T23:30:43+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -295,16 +295,6 @@
         "closeC": "28/10/2026 21:00"
       },
       {
-        "name": "COSCO HOUSTON",
-        "code": "COHO053",
-        "voyage": "144S         / 144N",
-        "type": "INTERNATIONAL",
-        "etb": "29/10/2026 08:00",
-        "etd": "30/10/2026 08:30",
-        "openstack": "24/10/2026 08:00",
-        "closeC": "29/10/2026 03:00"
-      },
-      {
         "name": "2642S",
         "code": "2642N",
         "type": "INTERNATIONAL",
@@ -313,6 +303,16 @@
         "etd": "30/10/2026 08:30",
         "openstack": "24/10/2026 08:00",
         "closeC": "28/10/2026 18:00"
+      },
+      {
+        "name": "COSCO HOUSTON",
+        "code": "COHO053",
+        "voyage": "144S         / 144N",
+        "type": "INTERNATIONAL",
+        "etb": "29/10/2026 08:00",
+        "etd": "30/10/2026 08:30",
+        "openstack": "24/10/2026 08:00",
+        "closeC": "29/10/2026 03:00"
       },
       {
         "name": "HUA DA 617",
