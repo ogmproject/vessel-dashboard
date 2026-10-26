@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T19:15:32+00:00",
+  "generated_at": "2026-10-26T19:30:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -257,8 +257,10 @@
         "etd": "27/10/2026 02:00"
       },
       {
-        "name": "TIANJIN VOYAGER",
-        "code": "TIIN019",
+        "name": "3326",
+        "code": "3326",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "TIANJIN VOYAGER / TIIN019",
         "type": "INTERNATIONAL"
       }
     ],
