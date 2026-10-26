@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T04:15:35+00:00",
+  "generated_at": "2026-10-26T04:30:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -370,17 +370,7 @@
         "imo": "9314923"
       }
     ],
-    "departed": [
-      {
-        "name": "YM EFFICIENCY",
-        "code": "YMYM071",
-        "voyage": "208S         / 208N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "atb": "24/10/2026 08:44",
-        "atd": "25/10/2026 11:30"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
