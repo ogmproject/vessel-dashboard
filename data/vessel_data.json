@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:15:36+00:00",
+  "generated_at": "2026-10-26T00:30:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,14 +13,14 @@
         "name": "I2 - SITC NANSHA",
         "code": "2622S / 2623N",
         "atb": "25/10/2026 20:35",
-        "etd": "27/10/2026 10:00",
+        "etd": "27/10/2026 09:00",
         "verified": false
       },
       {
         "name": "I1 - BRIGHT COSMOS",
         "code": "034S / 034N",
         "atb": "25/10/2026 23:00",
-        "etd": "26/10/2026 14:00",
+        "etd": "26/10/2026 09:00",
         "verified": false
       }
     ],
