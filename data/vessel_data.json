@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T20:30:38+00:00",
+  "generated_at": "2026-10-26T20:45:33+00:00",
   "tps": {
     "alongside": [
       {
@@ -246,24 +246,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "TIANJIN VOYAGER",
-        "code": "TIIN019",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "HEUNG A LINE CO., LTD.",
-        "atb": "26/10/2026 00:02",
-        "etd": "27/10/2026 02:00"
-      },
-      {
-        "name": "3326",
-        "code": "3326",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "TIANJIN VOYAGER / TIIN019",
-        "type": "INTERNATIONAL"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "ERASMUS JUSTICE",
@@ -351,7 +334,17 @@
         "imo": "9314923"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "TIANJIN VOYAGER",
+        "code": "TIIN019",
+        "voyage": "2609S        / 2609N",
+        "type": "INTERNATIONAL",
+        "carrier": "HEUNG A LINE CO., LTD.",
+        "atb": "26/10/2026 00:02",
+        "atd": "27/10/2026 03:37"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
