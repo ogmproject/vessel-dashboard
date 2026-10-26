@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-10-26T13:00:44+00:00",
+  "generated_at": "2026-10-26T13:15:32+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - EVER OPTIMA",
-        "code": "0498-051S / 0498-051N",
-        "atb": "26/10/2026 08:50",
-        "etd": "26/10/2026 20:00",
-        "verified": false
-      },
       {
         "name": "I3 - INTERASIA ENGAGE",
         "code": "S045 / N045",
@@ -209,6 +202,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER OPTIMA",
+        "berth": "26/10/2026 08:50",
+        "dep": "26/10/2026 19:42"
+      },
       {
         "name": "BRIGHT COSMOS",
         "berth": "25/10/2026 23:00",

@@ -2313,8 +2313,8 @@
     "vessel_name": "EVER OPTIMA",
     "terminal": "TPS",
     "arrival": "2026-10-26T08:50:00",
-    "departure": null,
-    "recorded_at": "2026-10-26T02:45:35.318363"
+    "departure": "2026-10-26T19:42:00",
+    "recorded_at": "2026-10-26T13:15:32.828642"
   },
   {
     "vessel_name": "CONTSHIP YEN",
