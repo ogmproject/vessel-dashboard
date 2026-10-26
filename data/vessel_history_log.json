@@ -2278,15 +2278,15 @@
     "vessel_name": "SITC NANSHA",
     "terminal": "TPS",
     "arrival": "2026-10-25T20:35:00",
-    "departure": null,
-    "recorded_at": "2026-10-25T13:40:26.233763"
+    "departure": "2026-10-26T10:27:00",
+    "recorded_at": "2026-10-26T05:00:43.543930"
   },
   {
     "vessel_name": "BRIGHT COSMOS",
     "terminal": "TPS",
     "arrival": "2026-10-25T23:00:00",
-    "departure": null,
-    "recorded_at": "2026-10-25T16:15:34.663604"
+    "departure": "2026-10-26T10:50:00",
+    "recorded_at": "2026-10-26T05:00:43.543930"
   },
   {
     "vessel_name": "TIANJIN VOYAGER",

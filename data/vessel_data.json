@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-10-26T04:45:34+00:00",
+  "generated_at": "2026-10-26T05:00:43+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - EVER OPTIMA",
-        "code": "0498-051S / 0498-051N",
-        "atb": "26/10/2026 08:50",
-        "etd": "26/10/2026 18:00",
-        "verified": false
-      },
       {
         "name": "I3 - INTERASIA ENGAGE",
         "code": "S045 / N045",
@@ -17,17 +10,10 @@
         "verified": false
       },
       {
-        "name": "I2 - SITC NANSHA",
-        "code": "2622S / 2623N",
-        "atb": "25/10/2026 20:35",
-        "etd": "27/10/2026 09:30",
-        "verified": false
-      },
-      {
-        "name": "I1 - BRIGHT COSMOS",
-        "code": "034S / 034N",
-        "atb": "25/10/2026 23:00",
-        "etd": "26/10/2026 09:00",
+        "name": "D4 - EVER OPTIMA",
+        "code": "0498-051S / 0498-051N",
+        "atb": "26/10/2026 08:50",
+        "etd": "26/10/2026 22:00",
         "verified": false
       }
     ],
@@ -218,6 +204,16 @@
       }
     ],
     "movement": [
+      {
+        "name": "BRIGHT COSMOS",
+        "berth": "25/10/2026 23:00",
+        "dep": "26/10/2026 10:50"
+      },
+      {
+        "name": "SITC NANSHA",
+        "berth": "25/10/2026 20:35",
+        "dep": "26/10/2026 10:27"
+      },
       {
         "name": "KOTA HIDAYAH",
         "berth": "25/10/2026 17:00",
