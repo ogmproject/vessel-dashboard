@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T07:30:44+00:00",
+  "generated_at": "2026-10-27T07:45:39+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -196,6 +196,28 @@
         "verified": false
       },
       {
+        "name": "WAN HAI 375",
+        "code": "S023 / N024",
+        "eta": "01/11/2026 00:00",
+        "etd": "01/11/2026 22:30",
+        "openstack": "27/10/2026 00:00",
+        "closeC": "31/10/2026 18:00",
+        "closeD": "31/10/2026 21:00",
+        "verified": false,
+        "mmsi": "563232800",
+        "imo": "9958121"
+      },
+      {
+        "name": "APL PUSAN",
+        "code": "CS20I0S / CS20J0N",
+        "eta": "01/11/2026 16:00",
+        "etd": "02/11/2026 12:30",
+        "openstack": "27/10/2026 16:00",
+        "closeC": "01/11/2026 10:00",
+        "closeD": "01/11/2026 13:00",
+        "verified": false
+      },
+      {
         "name": "HONG TAI 656",
         "code": "644N / 644N",
         "eta": "02/11/2026 00:01",
@@ -294,7 +316,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "etb": "28/10/2026 16:00",
-        "etd": "29/10/2026 10:00",
+        "etd": "29/10/2026 08:00",
         "openstack": "23/10/2026 16:00",
         "closeC": "28/10/2026 05:00"
       },
