@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T10:15:36+00:00",
+  "generated_at": "2026-10-27T10:30:43+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - ES TREASURE",
         "code": "643N / 643N",
         "atb": "27/10/2026 16:45",
-        "etd": "28/10/2026 16:00",
+        "etd": "28/10/2026 22:00",
         "verified": false
       },
       {
@@ -15,19 +15,16 @@
         "atb": "27/10/2026 15:55",
         "etd": "28/10/2026 04:00",
         "verified": false
+      },
+      {
+        "name": "I1 - TANTO TANGGUH",
+        "code": "254 / 255",
+        "atb": "27/10/2026 17:20",
+        "etd": "28/10/2026 04:30",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "TANTO TANGGUH",
-        "code": "254 / 255",
-        "eta": "27/10/2026 15:00",
-        "etd": "28/10/2026 04:30",
-        "openstack": "22/10/2026 15:39",
-        "closeC": "27/10/2026 09:39",
-        "closeD": "27/10/2026 12:39",
-        "verified": false
-      },
       {
         "name": "CMA CGM INDIAN",
         "code": "0XLCQN / 0XLCQN",
