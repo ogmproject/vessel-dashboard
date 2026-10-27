@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T02:30:39+00:00",
+  "generated_at": "2026-10-27T02:45:36+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -257,20 +257,10 @@
         "code": "ERJU008",
         "voyage": "014S         / 014N",
         "type": "INTERNATIONAL",
-        "etb": "27/10/2026 21:00",
-        "etd": "28/10/2026 07:00",
+        "etb": "28/10/2026 08:00",
+        "etd": "28/10/2026 18:00",
         "openstack": "22/10/2026 16:00",
         "closeC": "27/10/2026 11:00"
-      },
-      {
-        "name": "XIN YANG PU",
-        "code": "XIPU007",
-        "voyage": "206E         / 207W",
-        "type": "INTERNATIONAL",
-        "etb": "28/10/2026 04:00",
-        "etd": "28/10/2026 04:30",
-        "openstack": "23/10/2026 04:00",
-        "closeC": "27/10/2026 23:00"
       },
       {
         "name": "KWANGYANG VOYAGER",
@@ -279,7 +269,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "etb": "28/10/2026 16:00",
-        "etd": "29/10/2026 10:30",
+        "etd": "29/10/2026 10:00",
         "openstack": "23/10/2026 16:00",
         "closeC": "28/10/2026 05:00"
       },
@@ -289,28 +279,28 @@
         "voyage": "0004S        / 0004N",
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
-        "etb": "29/10/2026 02:00",
-        "etd": "30/10/2026 05:00",
+        "etb": "29/10/2026 07:00",
+        "etd": "30/10/2026 06:00",
         "openstack": "24/10/2026 02:00",
         "closeC": "28/10/2026 21:00"
       },
       {
-        "name": "COSCO HOUSTON",
-        "code": "COHO053",
-        "voyage": "144S         / 144N",
+        "name": "XIN YANG PU",
+        "code": "XIPU007",
+        "voyage": "206E         / 207W",
         "type": "INTERNATIONAL",
-        "etb": "29/10/2026 08:00",
-        "etd": "30/10/2026 08:30",
-        "openstack": "24/10/2026 08:00",
-        "closeC": "29/10/2026 03:00"
+        "etb": "29/10/2026 17:00",
+        "etd": "30/10/2026 17:00",
+        "openstack": "23/10/2026 04:00",
+        "closeC": "27/10/2026 23:00"
       },
       {
         "name": "2642S",
         "code": "2642N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "29/10/2026 08:00",
-        "etd": "30/10/2026 08:30",
+        "etb": "30/10/2026 08:00",
+        "etd": "31/10/2026 04:00",
         "openstack": "24/10/2026 08:00",
         "closeC": "28/10/2026 18:00"
       },
@@ -323,6 +313,16 @@
         "etd": "31/10/2026 17:30",
         "openstack": "25/10/2026 08:00",
         "closeC": "30/10/2026 03:00"
+      },
+      {
+        "name": "COSCO HOUSTON",
+        "code": "COHO053",
+        "voyage": "144S         / 144N",
+        "type": "INTERNATIONAL",
+        "etb": "30/10/2026 19:00",
+        "etd": "31/10/2026 18:00",
+        "openstack": "24/10/2026 08:00",
+        "closeC": "29/10/2026 03:00"
       },
       {
         "name": "KMTC HOCHIMINH",
