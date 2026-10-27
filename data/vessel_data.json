@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T14:15:38+00:00",
+  "generated_at": "2026-10-27T14:30:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -326,8 +326,8 @@
         "voyage": "2609S        / 2609N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "28/10/2026 16:00",
-        "etd": "29/10/2026 08:00",
+        "etb": "28/10/2026 19:00",
+        "etd": "29/10/2026 11:00",
         "openstack": "23/10/2026 16:00",
         "closeC": "28/10/2026 05:00"
       },
@@ -410,8 +410,8 @@
         "code": "MEPI036",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "02/11/2026 04:00",
-        "etd": "03/11/2026 04:30",
+        "etb": "02/11/2026 08:00",
+        "etd": "03/11/2026 16:00",
         "openstack": "28/10/2026 04:00",
         "closeC": "01/11/2026 23:00"
       }
