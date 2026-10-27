@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T03:30:41+00:00",
+  "generated_at": "2026-10-27T03:45:36+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -21,6 +21,16 @@
         "openstack": "22/10/2026 16:00",
         "closeC": "27/10/2026 10:00",
         "closeD": "27/10/2026 13:00",
+        "verified": false
+      },
+      {
+        "name": "TANTO TANGGUH",
+        "code": "254 / 255",
+        "eta": "27/10/2026 15:39",
+        "etd": "28/10/2026 01:09",
+        "openstack": "22/10/2026 15:39",
+        "closeC": "27/10/2026 09:39",
+        "closeD": "27/10/2026 12:39",
         "verified": false
       },
       {
