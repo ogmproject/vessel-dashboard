@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T02:00:47+00:00",
+  "generated_at": "2026-10-27T02:15:36+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -278,9 +278,9 @@
         "voyage": "2609S        / 2609N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "28/10/2026 10:00",
-        "etd": "28/10/2026 10:30",
-        "openstack": "23/10/2026 10:00",
+        "etb": "28/10/2026 16:00",
+        "etd": "29/10/2026 10:30",
+        "openstack": "23/10/2026 16:00",
         "closeC": "28/10/2026 05:00"
       },
       {
