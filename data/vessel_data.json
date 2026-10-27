@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T20:30:45+00:00",
+  "generated_at": "2026-10-27T20:45:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -411,17 +411,7 @@
         "closeC": "01/11/2026 23:00"
       }
     ],
-    "departed": [
-      {
-        "name": "TIANJIN VOYAGER",
-        "code": "TIIN019",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "HEUNG A LINE CO., LTD.",
-        "atb": "26/10/2026 00:02",
-        "atd": "27/10/2026 03:37"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
