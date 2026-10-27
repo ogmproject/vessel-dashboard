@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T09:45:35.210178",
+  "generated_at": "2026-10-27T10:00:49.384674",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -90,17 +90,6 @@
       "confidence": "medium"
     },
     {
-      "vessel_name": "ES TREASURE",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-23T20:40:00",
-      "predicted_next_arrival": "2026-10-31T06:16:15",
-      "avg_interval_days": 7.4,
-      "interval_stddev_days": 3.9,
-      "avg_dwelling_hours": 27.6,
-      "visits_recorded": 9,
-      "confidence": "medium"
-    },
-    {
       "vessel_name": "SINAR SUNDA",
       "terminal": "TPS",
       "last_arrival": "2026-10-22T09:05:00",
@@ -164,6 +153,17 @@
       "interval_stddev_days": 0.3,
       "avg_dwelling_hours": 30.3,
       "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "ES TREASURE",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-27T16:45:00",
+      "predicted_next_arrival": "2026-11-03T16:51:06.666667",
+      "avg_interval_days": 7.0,
+      "interval_stddev_days": 3.8,
+      "avg_dwelling_hours": 27.6,
+      "visits_recorded": 10,
       "confidence": "medium"
     },
     {
