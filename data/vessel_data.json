@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T16:45:40+00:00",
+  "generated_at": "2026-10-27T17:00:54+00:00",
   "tps": {
     "alongside": [
       {
@@ -298,21 +298,6 @@
         "name": "SINAR SULAWESI",
         "berth": "24/10/2026 09:50",
         "dep": "26/10/2026 00:01"
-      },
-      {
-        "name": "MSC SHIVALIKA III",
-        "berth": "24/10/2026 08:35",
-        "dep": "25/10/2026 17:50"
-      },
-      {
-        "name": "ZHONG GU JI NAN",
-        "berth": "24/10/2026 16:23",
-        "dep": "25/10/2026 17:15"
-      },
-      {
-        "name": "SEASPAN CALICANTO",
-        "berth": "24/10/2026 21:25",
-        "dep": "25/10/2026 15:30"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
