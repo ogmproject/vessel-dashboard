@@ -2341,8 +2341,8 @@
     "vessel_name": "EVER CHASTE",
     "terminal": "TPS",
     "arrival": "2026-10-27T15:55:00",
-    "departure": null,
-    "recorded_at": "2026-10-27T09:15:35.866287"
+    "departure": "2026-10-28T05:43:00",
+    "recorded_at": "2026-10-27T23:00:47.441593"
   },
   {
     "vessel_name": "ES TREASURE",
