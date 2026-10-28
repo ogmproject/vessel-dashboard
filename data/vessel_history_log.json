@@ -2369,8 +2369,8 @@
     "vessel_name": "ERASMUS JUSTICE",
     "terminal": "TL",
     "arrival": "2026-10-28T09:14:00",
-    "departure": null,
-    "recorded_at": "2026-10-28T02:30:46.840169"
+    "departure": "2026-10-28T19:18:00",
+    "recorded_at": "2026-10-28T12:30:44.998494"
   },
   {
     "vessel_name": "WAN HAI 352",
