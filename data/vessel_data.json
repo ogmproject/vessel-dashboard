@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:15:40+00:00",
+  "generated_at": "2026-10-28T08:30:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -230,6 +230,16 @@
         "verified": false,
         "mmsi": "563124300",
         "imo": "9871490"
+      },
+      {
+        "name": "MSC CHERYL 3",
+        "code": "XL644A / XL644A",
+        "eta": "05/11/2026 02:00",
+        "etd": "06/11/2026 14:30",
+        "openstack": "31/10/2026 02:00",
+        "closeC": "04/12/2026 20:00",
+        "closeD": "04/12/2026 23:00",
+        "verified": false
       }
     ],
     "movement": [
