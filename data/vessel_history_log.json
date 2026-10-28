@@ -2348,8 +2348,8 @@
     "vessel_name": "ES TREASURE",
     "terminal": "TPS",
     "arrival": "2026-10-27T16:45:00",
-    "departure": null,
-    "recorded_at": "2026-10-27T10:00:49.384674"
+    "departure": "2026-10-29T06:30:00",
+    "recorded_at": "2026-10-28T23:45:35.913468"
   },
   {
     "vessel_name": "TANTO TANGGUH",
