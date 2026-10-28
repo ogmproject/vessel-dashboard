@@ -2364,5 +2364,12 @@
     "arrival": "2026-10-27T20:12:00",
     "departure": null,
     "recorded_at": "2026-10-27T13:15:42.035220"
+  },
+  {
+    "vessel_name": "ERASMUS JUSTICE",
+    "terminal": "TL",
+    "arrival": "2026-10-28T09:14:00",
+    "departure": null,
+    "recorded_at": "2026-10-28T02:30:46.840169"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T02:15:36.879008",
+  "generated_at": "2026-10-28T02:30:46.840169",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -373,6 +373,17 @@
       "interval_stddev_days": 2.9,
       "avg_dwelling_hours": 12.2,
       "visits_recorded": 4,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "ERASMUS JUSTICE",
+      "terminal": "TL",
+      "last_arrival": "2026-10-28T09:14:00",
+      "predicted_next_arrival": "2026-11-21T23:36:00",
+      "avg_interval_days": 24.6,
+      "interval_stddev_days": 3.0,
+      "avg_dwelling_hours": 12.5,
+      "visits_recorded": 3,
       "confidence": "medium"
     },
     {

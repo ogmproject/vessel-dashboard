@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T02:15:36+00:00",
+  "generated_at": "2026-10-28T02:30:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -299,18 +299,22 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "ERASMUS JUSTICE",
         "code": "ERJU008",
         "voyage": "014S         / 014N",
         "type": "INTERNATIONAL",
-        "etb": "28/10/2026 08:00",
-        "etd": "28/10/2026 18:00",
-        "openstack": "22/10/2026 16:00",
-        "closeC": "27/10/2026 11:00"
+        "atb": "28/10/2026 09:14",
+        "etd": "28/10/2026 18:00"
       },
+      {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU008",
+        "type": "INTERNATIONAL"
+      }
+    ],
+    "schedule": [
       {
         "name": "KWANGYANG VOYAGER",
         "code": "KWVO008",
