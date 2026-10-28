@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T16:45:40+00:00",
+  "generated_at": "2026-10-28T17:00:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -279,38 +279,6 @@
         "dep": "27/10/2026 05:25",
         "mmsi": "563169200",
         "imo": "9771664"
-      },
-      {
-        "name": "CONTSHIP YEN",
-        "berth": "26/10/2026 12:11",
-        "dep": "26/10/2026 21:54",
-        "mmsi": "209692000",
-        "imo": "9664263"
-      },
-      {
-        "name": "EVER OPTIMA",
-        "berth": "26/10/2026 08:50",
-        "dep": "26/10/2026 19:42"
-      },
-      {
-        "name": "BRIGHT COSMOS",
-        "berth": "25/10/2026 23:00",
-        "dep": "26/10/2026 10:50"
-      },
-      {
-        "name": "SITC NANSHA",
-        "berth": "25/10/2026 20:35",
-        "dep": "26/10/2026 10:27"
-      },
-      {
-        "name": "KOTA HIDAYAH",
-        "berth": "25/10/2026 17:00",
-        "dep": "26/10/2026 03:45"
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "berth": "24/10/2026 09:50",
-        "dep": "26/10/2026 00:01"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
