@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T11:30:45+00:00",
+  "generated_at": "2026-10-28T11:45:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -230,6 +230,16 @@
         "verified": false,
         "mmsi": "563124300",
         "imo": "9871490"
+      },
+      {
+        "name": "SINAR BANDA",
+        "code": "2680S / 2680N",
+        "eta": "02/11/2026 18:00",
+        "etd": "03/11/2026 05:30",
+        "openstack": "28/10/2026 18:00",
+        "closeC": "02/11/2026 12:00",
+        "closeD": "02/11/2026 15:00",
+        "verified": false
       },
       {
         "name": "MSC CHERYL 3",
