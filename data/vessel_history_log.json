@@ -2378,5 +2378,12 @@
     "arrival": "2026-10-28T11:00:00",
     "departure": null,
     "recorded_at": "2026-10-28T04:15:43.025217"
+  },
+  {
+    "vessel_name": "KWANGYANG VOYAGER",
+    "terminal": "TL",
+    "arrival": "2026-10-29T00:20:00",
+    "departure": null,
+    "recorded_at": "2026-10-28T17:30:42.939830"
   }
 ]
