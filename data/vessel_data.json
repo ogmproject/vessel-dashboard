@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T04:00:50+00:00",
+  "generated_at": "2026-10-29T04:15:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -293,8 +293,10 @@
         "etd": "29/10/2026 20:00"
       },
       {
-        "name": "KWANGYANG VOYAGER",
-        "code": "KWVO008",
+        "name": "427",
+        "code": "428",
+        "carrier": "PT PBM TANTOKARYA UTAMA",
+        "voyage": "KWANGYANG VOYAGER / KWVO008",
         "type": "INTERNATIONAL"
       }
     ],
