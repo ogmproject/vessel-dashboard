@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T13:15:45.341022",
+  "generated_at": "2026-10-29T13:30:47.940877",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -449,6 +449,17 @@
       "avg_interval_days": 35.1,
       "interval_stddev_days": 0.1,
       "avg_dwelling_hours": 18.3,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "MARINA ONE",
+      "terminal": "TL",
+      "last_arrival": "2026-10-29T20:08:00",
+      "predicted_next_arrival": "2026-12-03T14:42:00",
+      "avg_interval_days": 34.8,
+      "interval_stddev_days": 2.4,
+      "avg_dwelling_hours": 23.5,
       "visits_recorded": 3,
       "confidence": "medium"
     }
