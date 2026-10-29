@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T14:00:55+00:00",
+  "generated_at": "2026-10-29T14:30:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -305,24 +305,8 @@
         "etd": "30/10/2026 13:00"
       },
       {
-        "name": "KWANGYANG VOYAGER",
-        "code": "KWVO008",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "atb": "29/10/2026 00:20",
-        "etd": "29/10/2026 20:30"
-      },
-      {
         "name": "MARINA ONE",
         "code": "MAON004",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "427",
-        "code": "428",
-        "carrier": "PT PBM TANTOKARYA UTAMA",
-        "voyage": "KWANGYANG VOYAGER / KWVO008",
         "type": "INTERNATIONAL"
       }
     ],
@@ -424,7 +408,17 @@
         "closeC": "04/11/2026 03:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "KWANGYANG VOYAGER",
+        "code": "KWVO008",
+        "voyage": "2609S        / 2609N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "atb": "29/10/2026 00:20",
+        "atd": "29/10/2026 21:10"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }

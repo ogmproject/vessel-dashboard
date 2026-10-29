@@ -2390,8 +2390,8 @@
     "vessel_name": "KWANGYANG VOYAGER",
     "terminal": "TL",
     "arrival": "2026-10-29T00:20:00",
-    "departure": null,
-    "recorded_at": "2026-10-28T17:30:42.939830"
+    "departure": "2026-10-29T21:10:00",
+    "recorded_at": "2026-10-29T14:30:58.412903"
   },
   {
     "vessel_name": "HONG TAI 656",
