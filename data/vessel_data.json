@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-10-29T04:45:35+00:00",
+  "generated_at": "2026-10-29T05:00:50+00:00",
   "tps": {
-    "alongside": [
-      {
-        "name": "I3 - WAN HAI 352",
-        "code": "S047 / N048",
-        "atb": "28/10/2026 11:00",
-        "etd": "29/10/2026 04:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - CMA CGM INDIAN",
-        "code": "0XLCQN / 0XLCQN",
-        "atb": "27/10/2026 20:12",
-        "etd": "29/10/2026 09:00",
-        "verified": false
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "INFERRO",
@@ -235,6 +220,16 @@
         "verified": false
       },
       {
+        "name": "MSC NIKOLETA II",
+        "code": "HS642A / HS644B",
+        "eta": "04/11/2026 02:00",
+        "etd": "05/11/2026 08:30",
+        "openstack": "30/10/2026 02:00",
+        "closeC": "03/11/2026 20:00",
+        "closeD": "03/11/2026 23:00",
+        "verified": false
+      },
+      {
         "name": "MSC CHERYL 3",
         "code": "XL644A / XL644A",
         "eta": "05/11/2026 02:00",
@@ -246,6 +241,21 @@
       }
     ],
     "movement": [
+      {
+        "name": "CMA CGM INDIAN",
+        "berth": "27/10/2026 20:12",
+        "dep": "29/10/2026 09:02"
+      },
+      {
+        "name": "MERATUS LEMBAR",
+        "berth": "28/10/2026 04:55",
+        "dep": "29/10/2026 08:51"
+      },
+      {
+        "name": "WAN HAI 352",
+        "berth": "28/10/2026 11:00",
+        "dep": "29/10/2026 07:28"
+      },
       {
         "name": "ES TREASURE",
         "berth": "27/10/2026 16:45",
