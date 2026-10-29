@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T16:45:41+00:00",
+  "generated_at": "2026-10-29T17:00:55+00:00",
   "tps": {
     "alongside": [
       {
@@ -272,23 +272,6 @@
         "name": "TANTO TANGGUH",
         "berth": "27/10/2026 17:20",
         "dep": "28/10/2026 03:40"
-      },
-      {
-        "name": "FORTUNE",
-        "berth": "27/10/2026 03:17",
-        "dep": "27/10/2026 14:10"
-      },
-      {
-        "name": "MERATUS MAMIRI",
-        "berth": "26/10/2026 13:45",
-        "dep": "27/10/2026 05:38"
-      },
-      {
-        "name": "INTERASIA ENGAGE",
-        "berth": "26/10/2026 03:35",
-        "dep": "27/10/2026 05:25",
-        "mmsi": "563169200",
-        "imo": "9771664"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
