@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T02:30:50+00:00",
+  "generated_at": "2026-10-29T02:45:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -372,6 +372,17 @@
         "etd": "03/11/2026 00:30",
         "openstack": "28/10/2026 00:00",
         "closeC": "01/11/2026 19:00"
+      },
+      {
+        "name": "WAN HAI 373",
+        "code": "WA73010",
+        "voyage": "S030         / N030",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "etb": "03/11/2026 00:00",
+        "etd": "04/11/2026 02:30",
+        "openstack": "29/10/2026 00:00",
+        "closeC": "02/11/2026 19:00"
       },
       {
         "name": "INCHEON VOYAGER",
