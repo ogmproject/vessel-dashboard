@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-10-29T12:30:45+00:00",
+  "generated_at": "2026-10-29T12:45:38+00:00",
   "tps": {
-    "alongside": [],
+    "alongside": [
+      {
+        "name": "I1 - HONG TAI 656",
+        "code": "643S / 643S",
+        "atb": "29/10/2026 19:35",
+        "etd": "30/10/2026 23:00",
+        "verified": false
+      }
+    ],
     "schedule": [
       {
         "name": "INFERRO",
@@ -31,16 +39,6 @@
         "openstack": "24/10/2026 01:00",
         "closeC": "28/10/2026 19:00",
         "closeD": "28/10/2026 22:00",
-        "verified": false
-      },
-      {
-        "name": "HONG TAI 656",
-        "code": "643S / 643S",
-        "eta": "29/10/2026 18:00",
-        "etd": "30/10/2026 23:00",
-        "openstack": "24/10/2026 18:00",
-        "closeC": "29/10/2026 12:00",
-        "closeD": "29/10/2026 15:00",
         "verified": false
       },
       {
