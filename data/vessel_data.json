@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-29T19:30:42+00:00",
+  "generated_at": "2026-10-29T19:45:40+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - EVER BEFIT",
+        "code": "1211-082B / 1211-082B",
+        "atb": "30/10/2026 02:20",
+        "etd": "30/10/2026 19:00",
+        "verified": false
+      },
       {
         "name": "I3 - MSC CHERYL 3",
         "code": "XF641R / XF641R",
@@ -43,16 +50,6 @@
         "openstack": "23/10/2026 12:00",
         "closeC": "28/10/2026 06:00",
         "closeD": "28/10/2026 09:00",
-        "verified": false
-      },
-      {
-        "name": "EVER BEFIT",
-        "code": "1211-082B / 1211-082B",
-        "eta": "30/10/2026 00:01",
-        "etd": "30/10/2026 19:00",
-        "openstack": "25/10/2026 08:00",
-        "closeC": "30/10/2026 02:00",
-        "closeD": "30/10/2026 05:00",
         "verified": false
       },
       {
@@ -279,6 +276,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "XIN YANG PU",
+        "code": "XIPU007",
+        "voyage": "206E         / 207W",
+        "type": "INTERNATIONAL",
+        "atb": "30/10/2026 02:30",
+        "etd": "31/10/2026 10:00"
+      },
+      {
         "name": "MARINA ONE",
         "code": "MAON004",
         "voyage": "0004S        / 0004N",
@@ -288,22 +293,18 @@
         "etd": "30/10/2026 13:00"
       },
       {
-        "name": "MARINA ONE",
-        "code": "MAON004",
+        "name": "XIN YANG PU",
+        "code": "XIPU007",
+        "type": "INTERNATIONAL"
+      },
+      {
+        "name": "206E",
+        "code": "207W",
+        "voyage": "MARINA ONE / MAON004",
         "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
-      {
-        "name": "XIN YANG PU",
-        "code": "XIPU007",
-        "voyage": "206E         / 207W",
-        "type": "INTERNATIONAL",
-        "etb": "30/10/2026 00:00",
-        "etd": "31/10/2026 10:00",
-        "openstack": "23/10/2026 04:00",
-        "closeC": "28/10/2026 23:59"
-      },
       {
         "name": "COSCO HOUSTON",
         "code": "COHO053",
