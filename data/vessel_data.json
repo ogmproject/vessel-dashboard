@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T08:30:41+00:00",
+  "generated_at": "2026-10-29T08:45:35+00:00",
   "tps": {
     "alongside": [],
     "schedule": [
@@ -406,6 +406,17 @@
         "etd": "04/11/2026 05:30",
         "openstack": "29/10/2026 05:00",
         "closeC": "02/11/2026 23:00"
+      },
+      {
+        "name": "HAPPY LUCKY",
+        "code": "HAKY012",
+        "voyage": "2641S        / 2641N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. FORECASTLE INDONESIA",
+        "etb": "04/11/2026 08:00",
+        "etd": "05/11/2026 02:30",
+        "openstack": "30/10/2026 08:00",
+        "closeC": "04/11/2026 03:00"
       }
     ],
     "departed": [
