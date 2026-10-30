@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T14:00:50+00:00",
+  "generated_at": "2026-10-30T14:15:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -421,15 +421,6 @@
         "carrier": "HMM CO.,LTD",
         "atb": "29/10/2026 20:08",
         "atd": "30/10/2026 19:06"
-      },
-      {
-        "name": "KWANGYANG VOYAGER",
-        "code": "KWVO008",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "atb": "29/10/2026 00:20",
-        "atd": "29/10/2026 21:10"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
