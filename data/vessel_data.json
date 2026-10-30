@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T16:15:35+00:00",
+  "generated_at": "2026-10-30T16:30:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "1211-082B / 1211-082B",
         "atb": "30/10/2026 02:20",
         "etd": "31/10/2026 04:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - HUA YUAN FU JIAN",
-        "code": "CS20M0S / CS20N0N",
-        "atb": "29/10/2026 20:10",
-        "etd": "30/10/2026 21:00",
         "verified": false
       },
       {
@@ -243,6 +236,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "HUA YUAN FU JIAN",
+        "berth": "29/10/2026 20:10",
+        "dep": "30/10/2026 23:00"
+      },
       {
         "name": "MSC CHERYL 3",
         "berth": "29/10/2026 20:46",

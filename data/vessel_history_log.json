@@ -2411,8 +2411,8 @@
     "vessel_name": "HUA YUAN FU JIAN",
     "terminal": "TPS",
     "arrival": "2026-10-29T20:10:00",
-    "departure": null,
-    "recorded_at": "2026-10-29T13:30:47.940877"
+    "departure": "2026-10-30T23:00:00",
+    "recorded_at": "2026-10-30T16:30:43.775374"
   },
   {
     "vessel_name": "MSC CHERYL 3",
