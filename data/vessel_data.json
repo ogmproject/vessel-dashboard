@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:00:46+00:00",
+  "generated_at": "2026-10-30T12:15:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -294,27 +294,23 @@
         "etd": "31/10/2026 12:00"
       },
       {
-        "name": "MARINA ONE",
-        "code": "MAON004",
-        "voyage": "0004S        / 0004N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "29/10/2026 20:08",
-        "etd": "30/10/2026 17:00"
-      },
-      {
         "name": "XIN YANG PU",
         "code": "XIPU007",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "206E",
-        "code": "207W",
-        "voyage": "MARINA ONE / MAON004",
         "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
+      {
+        "name": "AS CAROLINA",
+        "code": "ASRO009",
+        "voyage": "350S         / 350N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "etb": "06/10/2026 08:00",
+        "etd": "07/10/2026 08:30",
+        "openstack": "01/10/2026 08:00",
+        "closeC": "06/10/2026 03:00"
+      },
       {
         "name": "COSCO HOUSTON",
         "code": "COHO053",
@@ -414,6 +410,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "MARINA ONE",
+        "code": "MAON004",
+        "voyage": "0004S        / 0004N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "29/10/2026 20:08",
+        "atd": "30/10/2026 19:06"
+      },
       {
         "name": "KWANGYANG VOYAGER",
         "code": "KWVO008",

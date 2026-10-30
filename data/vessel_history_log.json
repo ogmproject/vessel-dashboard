@@ -2404,8 +2404,8 @@
     "vessel_name": "MARINA ONE",
     "terminal": "TL",
     "arrival": "2026-10-29T20:08:00",
-    "departure": null,
-    "recorded_at": "2026-10-29T13:30:47.940877"
+    "departure": "2026-10-30T19:06:00",
+    "recorded_at": "2026-10-30T12:15:35.494155"
   },
   {
     "vessel_name": "HUA YUAN FU JIAN",
