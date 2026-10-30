@@ -2418,8 +2418,8 @@
     "vessel_name": "MSC CHERYL 3",
     "terminal": "TPS",
     "arrival": "2026-10-29T20:46:00",
-    "departure": null,
-    "recorded_at": "2026-10-29T14:00:55.339375"
+    "departure": "2026-10-30T22:28:00",
+    "recorded_at": "2026-10-30T16:00:49.870571"
   },
   {
     "vessel_name": "EVER BEFIT",

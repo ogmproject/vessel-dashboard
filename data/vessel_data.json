@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:45:35+00:00",
+  "generated_at": "2026-10-30T16:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "1211-082B / 1211-082B",
         "atb": "30/10/2026 02:20",
         "etd": "31/10/2026 04:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - MSC CHERYL 3",
-        "code": "XF641R / XF641R",
-        "atb": "29/10/2026 20:46",
-        "etd": "30/10/2026 21:30",
         "verified": false
       },
       {
@@ -250,6 +243,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MSC CHERYL 3",
+        "berth": "29/10/2026 20:46",
+        "dep": "30/10/2026 22:28"
+      },
       {
         "name": "CMA CGM INDIAN",
         "berth": "27/10/2026 20:12",
