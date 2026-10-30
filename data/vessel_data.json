@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-10-30T21:45:33+00:00",
+  "generated_at": "2026-10-30T22:00:43+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - EVER BEFIT",
-        "code": "1211-082B / 1211-082B",
-        "atb": "30/10/2026 02:20",
-        "etd": "31/10/2026 04:00",
-        "verified": false
-      },
       {
         "name": "I3 - MSC ELBA III",
         "code": "HV644R / HV644R",
@@ -221,6 +214,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER BEFIT",
+        "berth": "30/10/2026 02:20",
+        "dep": "31/10/2026 04:45"
+      },
       {
         "name": "HONG TAI 656",
         "berth": "29/10/2026 19:35",

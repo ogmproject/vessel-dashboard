@@ -2425,8 +2425,8 @@
     "vessel_name": "EVER BEFIT",
     "terminal": "TPS",
     "arrival": "2026-10-30T02:20:00",
-    "departure": null,
-    "recorded_at": "2026-10-29T19:45:40.957492"
+    "departure": "2026-10-31T04:45:00",
+    "recorded_at": "2026-10-30T22:00:43.989539"
   },
   {
     "vessel_name": "XIN YANG PU",
