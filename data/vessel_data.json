@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T17:15:35+00:00",
+  "generated_at": "2026-10-30T17:30:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "1211-082B / 1211-082B",
         "atb": "30/10/2026 02:20",
         "etd": "31/10/2026 04:00",
+        "verified": false
+      },
+      {
+        "name": "I1 - SITC BATANGAS",
+        "code": "2620S / 2621N",
+        "atb": "31/10/2026 00:20",
+        "etd": "31/10/2026 16:00",
         "verified": false
       }
     ],
@@ -40,18 +47,6 @@
         "closeC": "30/10/2026 19:00",
         "closeD": "30/10/2026 22:00",
         "verified": false
-      },
-      {
-        "name": "SITC BATANGAS",
-        "code": "2620S / 2621N",
-        "eta": "31/10/2026 01:00",
-        "etd": "31/10/2026 16:00",
-        "openstack": "25/10/2026 14:00",
-        "closeC": "30/10/2026 08:00",
-        "closeD": "30/10/2026 11:00",
-        "verified": false,
-        "mmsi": "477401900",
-        "imo": "9845738"
       },
       {
         "name": "SONGA SUCCESS",
@@ -291,8 +286,10 @@
         "type": "INTERNATIONAL"
       },
       {
-        "name": "XIN YANG PU",
-        "code": "XIPU007",
+        "name": "6026",
+        "code": "6026",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "XIN YANG PU / XIPU007",
         "type": "INTERNATIONAL"
       }
     ],
