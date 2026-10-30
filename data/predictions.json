@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T19:30:41.794878",
+  "generated_at": "2026-10-30T19:45:34.289751",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -416,6 +416,17 @@
       "avg_interval_days": 31.5,
       "interval_stddev_days": 1.2,
       "avg_dwelling_hours": 14.2,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "MSC ELBA III",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-31T02:35:00",
+      "predicted_next_arrival": "2026-11-27T06:55:00",
+      "avg_interval_days": 27.2,
+      "interval_stddev_days": 23.7,
+      "avg_dwelling_hours": 23.8,
       "visits_recorded": 3,
       "confidence": "medium"
     },
