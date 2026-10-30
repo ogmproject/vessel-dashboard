@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T05:30:42+00:00",
+  "generated_at": "2026-10-30T05:45:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -310,23 +310,10 @@
         "code": "COHO053",
         "voyage": "144S         / 144N",
         "type": "INTERNATIONAL",
-        "etb": "30/10/2026 16:00",
-        "etd": "31/10/2026 11:00",
+        "etb": "30/10/2026 19:00",
+        "etd": "31/10/2026 21:00",
         "openstack": "24/10/2026 08:00",
         "closeC": "29/10/2026 14:00"
-      },
-      {
-        "name": "KMTC HOCHIMINH",
-        "code": "KMHO012",
-        "voyage": "2610S        / 2610N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "31/10/2026 11:00",
-        "etd": "01/11/2026 11:00",
-        "openstack": "26/10/2026 20:00",
-        "closeC": "31/10/2026 07:00",
-        "mmsi": "440147000",
-        "imo": "9314923"
       },
       {
         "name": "HUA DA 617",
@@ -337,6 +324,19 @@
         "etd": "01/11/2026 22:30",
         "openstack": "26/10/2026 13:00",
         "closeC": "30/10/2026 03:00"
+      },
+      {
+        "name": "KMTC HOCHIMINH",
+        "code": "KMHO012",
+        "voyage": "2610S        / 2610N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "etb": "31/10/2026 14:00",
+        "etd": "01/11/2026 14:00",
+        "openstack": "26/10/2026 20:00",
+        "closeC": "31/10/2026 07:00",
+        "mmsi": "440147000",
+        "imo": "9314923"
       },
       {
         "name": "2642S",
