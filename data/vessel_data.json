@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-10-30T13:00:49+00:00",
+  "generated_at": "2026-10-30T13:15:38+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - EVER BEFIT",
         "code": "1211-082B / 1211-082B",
         "atb": "30/10/2026 02:20",
-        "etd": "30/10/2026 22:00",
+        "etd": "31/10/2026 04:00",
         "verified": false
       },
       {
         "name": "I3 - MSC CHERYL 3",
         "code": "XF641R / XF641R",
         "atb": "29/10/2026 20:46",
-        "etd": "30/10/2026 21:00",
+        "etd": "30/10/2026 21:30",
         "verified": false
       },
       {
         "name": "I2 - HUA YUAN FU JIAN",
         "code": "CS20M0S / CS20N0N",
         "atb": "29/10/2026 20:10",
-        "etd": "30/10/2026 23:00",
+        "etd": "30/10/2026 21:00",
         "verified": false
       },
       {
         "name": "I1 - HONG TAI 656",
         "code": "643S / 643S",
         "atb": "29/10/2026 19:35",
-        "etd": "30/10/2026 23:00",
+        "etd": "30/10/2026 21:00",
         "verified": false
       }
     ],
@@ -286,6 +286,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "COSCO HOUSTON",
+        "code": "COHO053",
+        "voyage": "144S         / 144N",
+        "type": "INTERNATIONAL",
+        "atb": "30/10/2026 20:12",
+        "etd": "31/10/2026 21:00"
+      },
+      {
         "name": "XIN YANG PU",
         "code": "XIPU007",
         "voyage": "206E         / 207W",
@@ -294,33 +302,17 @@
         "etd": "31/10/2026 12:00"
       },
       {
+        "name": "COSCO HOUSTON",
+        "code": "COHO053",
+        "type": "INTERNATIONAL"
+      },
+      {
         "name": "XIN YANG PU",
         "code": "XIPU007",
         "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
-      {
-        "name": "AS CAROLINA",
-        "code": "ASRO009",
-        "voyage": "350S         / 350N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "etb": "06/10/2026 08:00",
-        "etd": "07/10/2026 08:30",
-        "openstack": "01/10/2026 08:00",
-        "closeC": "06/10/2026 03:00"
-      },
-      {
-        "name": "COSCO HOUSTON",
-        "code": "COHO053",
-        "voyage": "144S         / 144N",
-        "type": "INTERNATIONAL",
-        "etb": "30/10/2026 19:00",
-        "etd": "31/10/2026 21:00",
-        "openstack": "24/10/2026 08:00",
-        "closeC": "29/10/2026 14:00"
-      },
       {
         "name": "HUA DA 617",
         "code": "HUD7002",
@@ -407,6 +399,17 @@
         "etd": "05/11/2026 19:30",
         "openstack": "30/10/2026 22:00",
         "closeC": "04/11/2026 16:00"
+      },
+      {
+        "name": "AS CAROLINA",
+        "code": "ASRO009",
+        "voyage": "350S         / 350N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "etb": "05/11/2026 07:00",
+        "etd": "06/11/2026 05:00",
+        "openstack": "31/10/2026 07:00",
+        "closeC": "05/11/2026 23:00"
       }
     ],
     "departed": [

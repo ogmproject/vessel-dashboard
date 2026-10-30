@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T13:00:49.271689",
+  "generated_at": "2026-10-30T13:15:38.157411",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -460,6 +460,17 @@
       "avg_interval_days": 35.1,
       "interval_stddev_days": 0.1,
       "avg_dwelling_hours": 18.3,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "COSCO HOUSTON",
+      "terminal": "TL",
+      "last_arrival": "2026-10-30T20:12:00",
+      "predicted_next_arrival": "2026-12-01T11:20:00",
+      "avg_interval_days": 31.6,
+      "interval_stddev_days": 3.2,
+      "avg_dwelling_hours": 31.2,
       "visits_recorded": 3,
       "confidence": "medium"
     },

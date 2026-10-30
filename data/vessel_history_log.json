@@ -2434,5 +2434,12 @@
     "arrival": "2026-10-30T02:30:00",
     "departure": null,
     "recorded_at": "2026-10-29T19:45:40.957492"
+  },
+  {
+    "vessel_name": "COSCO HOUSTON",
+    "terminal": "TL",
+    "arrival": "2026-10-30T20:12:00",
+    "departure": null,
+    "recorded_at": "2026-10-30T13:15:38.157411"
   }
 ]
