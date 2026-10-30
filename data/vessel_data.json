@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T16:45:35+00:00",
+  "generated_at": "2026-10-30T17:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "1211-082B / 1211-082B",
         "atb": "30/10/2026 02:20",
         "etd": "31/10/2026 04:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - HONG TAI 656",
-        "code": "643S / 643S",
-        "atb": "29/10/2026 19:35",
-        "etd": "30/10/2026 21:00",
         "verified": false
       }
     ],
@@ -237,6 +230,11 @@
     ],
     "movement": [
       {
+        "name": "HONG TAI 656",
+        "berth": "29/10/2026 19:35",
+        "dep": "30/10/2026 23:27"
+      },
+      {
         "name": "HUA YUAN FU JIAN",
         "berth": "29/10/2026 20:10",
         "dep": "30/10/2026 23:00"
@@ -265,16 +263,6 @@
         "name": "ES TREASURE",
         "berth": "27/10/2026 16:45",
         "dep": "29/10/2026 06:30"
-      },
-      {
-        "name": "EVER CHASTE",
-        "berth": "27/10/2026 15:55",
-        "dep": "28/10/2026 05:43"
-      },
-      {
-        "name": "TANTO TANGGUH",
-        "berth": "27/10/2026 17:20",
-        "dep": "28/10/2026 03:40"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."

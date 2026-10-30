@@ -2397,8 +2397,8 @@
     "vessel_name": "HONG TAI 656",
     "terminal": "TPS",
     "arrival": "2026-10-29T19:35:00",
-    "departure": null,
-    "recorded_at": "2026-10-29T12:45:38.498768"
+    "departure": "2026-10-30T23:27:00",
+    "recorded_at": "2026-10-30T17:00:47.478279"
   },
   {
     "vessel_name": "MARINA ONE",
