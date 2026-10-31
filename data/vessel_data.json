@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T10:15:41+00:00",
+  "generated_at": "2026-10-31T10:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -277,7 +277,7 @@
         "voyage": "206E         / 207W",
         "type": "INTERNATIONAL",
         "atb": "30/10/2026 02:30",
-        "etd": "31/10/2026 19:00"
+        "etd": "31/10/2026 17:30"
       },
       {
         "name": "COSCO HOUSTON",
