@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T14:00:45+00:00",
+  "generated_at": "2026-10-31T14:15:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -284,8 +284,8 @@
         "voyage": "2610S        / 2610N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "31/10/2026 19:00",
-        "etd": "01/11/2026 19:00",
+        "etb": "31/10/2026 23:00",
+        "etd": "01/11/2026 23:00",
         "openstack": "26/10/2026 20:00",
         "closeC": "31/10/2026 07:00",
         "mmsi": "440147000",
@@ -296,8 +296,8 @@
         "code": "2642N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "31/10/2026 23:00",
-        "etd": "01/11/2026 17:00",
+        "etb": "01/11/2026 05:00",
+        "etd": "01/11/2026 23:00",
         "openstack": "25/10/2026 15:00",
         "closeC": "29/10/2026 11:00"
       },
