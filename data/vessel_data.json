@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T09:45:35+00:00",
+  "generated_at": "2026-10-31T10:00:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -390,6 +390,29 @@
         "etd": "06/11/2026 05:00",
         "openstack": "31/10/2026 07:00",
         "closeC": "04/11/2026 23:00"
+      },
+      {
+        "name": "YM CENTENNIAL",
+        "code": "YMAL008",
+        "voyage": "072S         / 072N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "etb": "05/11/2026 22:00",
+        "etd": "06/11/2026 20:30",
+        "openstack": "31/10/2026 22:00",
+        "closeC": "05/10/2026 17:00",
+        "mmsi": "636019895",
+        "imo": "9864538"
+      },
+      {
+        "name": "MERATUS LAMPUNG",
+        "code": "MEPN002",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "06/11/2026 08:00",
+        "etd": "07/11/2026 08:30",
+        "openstack": "01/11/2026 08:00",
+        "closeC": "06/11/2026 03:00"
       }
     ],
     "departed": [
