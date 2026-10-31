@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T03:30:40+00:00",
+  "generated_at": "2026-10-31T03:45:32+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,6 +14,13 @@
         "code": "HV644R / HV644R",
         "atb": "31/10/2026 02:35",
         "etd": "01/11/2026 01:00",
+        "verified": false
+      },
+      {
+        "name": "I2 - SINAR SUNDA",
+        "code": "247S / 247N",
+        "atb": "31/10/2026 10:38",
+        "etd": "02/11/2026 22:00",
         "verified": false
       },
       {
@@ -53,16 +60,6 @@
         "openstack": "26/10/2026 06:00",
         "closeC": "31/10/2026 00:00",
         "closeD": "31/10/2026 03:00",
-        "verified": false
-      },
-      {
-        "name": "SINAR SUNDA",
-        "code": "247S / 247N",
-        "eta": "31/10/2026 09:00",
-        "etd": "01/11/2026 22:00",
-        "openstack": "25/10/2026 15:00",
-        "closeC": "30/10/2026 09:00",
-        "closeD": "30/10/2026 12:00",
         "verified": false
       },
       {
