@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T00:30:41+00:00",
+  "generated_at": "2026-10-31T00:45:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -287,26 +287,6 @@
     ],
     "schedule": [
       {
-        "name": "HUA DA 617",
-        "code": "HUD7002",
-        "voyage": "012E         / 013W",
-        "type": "INTERNATIONAL",
-        "etb": "31/10/2026 13:00",
-        "etd": "01/11/2026 22:30",
-        "openstack": "26/10/2026 13:00",
-        "closeC": "31/10/2026 00:00"
-      },
-      {
-        "name": "2642S",
-        "code": "2642N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "31/10/2026 17:00",
-        "etd": "01/11/2026 13:00",
-        "openstack": "25/10/2026 15:00",
-        "closeC": "29/10/2026 11:00"
-      },
-      {
         "name": "KMTC HOCHIMINH",
         "code": "KMHO012",
         "voyage": "2610S        / 2610N",
@@ -320,25 +300,34 @@
         "imo": "9314923"
       },
       {
+        "name": "2642S",
+        "code": "2642N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "31/10/2026 23:00",
+        "etd": "01/11/2026 17:00",
+        "openstack": "25/10/2026 15:00",
+        "closeC": "29/10/2026 11:00"
+      },
+      {
         "name": "MERATUS KARIMUN",
         "code": "MEIU024",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "02/11/2026 00:00",
-        "etd": "03/11/2026 00:30",
+        "etb": "01/11/2026 22:00",
+        "etd": "03/11/2026 01:00",
         "openstack": "28/10/2026 00:00",
         "closeC": "01/11/2026 19:00"
       },
       {
-        "name": "WAN HAI 373",
-        "code": "WA73010",
-        "voyage": "S030         / N030",
+        "name": "HUA DA 617",
+        "code": "HUD7002",
+        "voyage": "012E         / 013W",
         "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "03/11/2026 00:00",
-        "etd": "04/11/2026 02:30",
-        "openstack": "29/10/2026 00:00",
-        "closeC": "02/11/2026 19:00"
+        "etb": "02/11/2026 06:00",
+        "etd": "03/11/2026 15:00",
+        "openstack": "26/10/2026 13:00",
+        "closeC": "31/10/2026 00:00"
       },
       {
         "name": "INCHEON VOYAGER",
@@ -347,9 +336,20 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. PELAYARAN KARANA LINE",
         "etb": "03/11/2026 05:00",
-        "etd": "04/11/2026 05:30",
+        "etd": "04/11/2026 05:00",
         "openstack": "29/10/2026 05:00",
         "closeC": "02/11/2026 23:00"
+      },
+      {
+        "name": "WAN HAI 373",
+        "code": "WA73010",
+        "voyage": "S030         / N030",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "etb": "03/11/2026 18:00",
+        "etd": "04/11/2026 20:00",
+        "openstack": "29/10/2026 00:00",
+        "closeC": "02/11/2026 19:00"
       },
       {
         "name": "HAPPY LUCKY",
@@ -357,8 +357,8 @@
         "voyage": "2641S        / 2641N",
         "type": "INTERNATIONAL",
         "carrier": "PT. FORECASTLE INDONESIA",
-        "etb": "04/11/2026 08:00",
-        "etd": "05/11/2026 02:30",
+        "etb": "04/11/2026 07:00",
+        "etd": "05/11/2026 01:00",
         "openstack": "30/10/2026 08:00",
         "closeC": "04/11/2026 03:00"
       },
@@ -369,7 +369,7 @@
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
         "etb": "04/11/2026 22:00",
-        "etd": "05/11/2026 19:30",
+        "etd": "05/11/2026 19:00",
         "openstack": "30/10/2026 22:00",
         "closeC": "04/11/2026 16:00"
       },
