@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-31T01:45:32+00:00",
+  "generated_at": "2026-10-31T02:00:44+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SONGA SUCCESS",
         "code": "0057S / 0057N",
         "atb": "31/10/2026 07:12",
-        "etd": "31/10/2026 23:00",
+        "etd": "01/11/2026 23:00",
         "verified": false
       },
       {
