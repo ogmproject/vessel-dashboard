@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T01:00:47+00:00",
+  "generated_at": "2026-10-31T01:15:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,14 +13,14 @@
         "name": "I3 - MSC ELBA III",
         "code": "HV644R / HV644R",
         "atb": "31/10/2026 02:35",
-        "etd": "01/11/2026 05:00",
+        "etd": "01/11/2026 23:00",
         "verified": false
       },
       {
         "name": "I1 - SITC BATANGAS",
         "code": "2620S / 2621N",
         "atb": "31/10/2026 00:20",
-        "etd": "31/10/2026 18:00",
+        "etd": "31/10/2026 21:00",
         "verified": false
       }
     ],
@@ -197,6 +197,16 @@
         "openstack": "30/10/2026 02:00",
         "closeC": "03/11/2026 20:00",
         "closeD": "03/11/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "XIN YONG CHANG 28",
+        "code": "CS10K0S / CS10L0N",
+        "eta": "05/11/2026 01:00",
+        "etd": "06/11/2026 01:30",
+        "openstack": "31/10/2026 01:00",
+        "closeC": "30/10/2026 19:00",
+        "closeD": "30/10/2026 22:00",
         "verified": false
       },
       {
