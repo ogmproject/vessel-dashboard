@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-10-31T12:00:45+00:00",
+  "generated_at": "2026-10-31T12:15:35+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SONGA SUCCESS",
         "code": "0057S / 0057N",
         "atb": "31/10/2026 07:12",
-        "etd": "01/11/2026 23:00",
+        "etd": "01/11/2026 02:00",
         "verified": false
       },
       {
         "name": "I3 - MSC ELBA III",
         "code": "HV644R / HV644R",
         "atb": "31/10/2026 02:35",
-        "etd": "01/11/2026 01:00",
+        "etd": "01/11/2026 03:00",
         "verified": false
       },
       {
         "name": "I2 - SINAR SUNDA",
         "code": "247S / 247N",
         "atb": "31/10/2026 10:38",
-        "etd": "02/11/2026 00:01",
+        "etd": "02/11/2026 01:00",
         "verified": false
       },
       {
         "name": "I1 - SITC BATANGAS",
         "code": "2620S / 2621N",
         "atb": "31/10/2026 00:20",
-        "etd": "31/10/2026 21:00",
+        "etd": "31/10/2026 22:00",
         "verified": false
       }
     ],
@@ -415,17 +415,7 @@
         "closeC": "06/11/2026 03:00"
       }
     ],
-    "departed": [
-      {
-        "name": "MARINA ONE",
-        "code": "MAON004",
-        "voyage": "0004S        / 0004N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "29/10/2026 20:08",
-        "atd": "30/10/2026 19:06"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
