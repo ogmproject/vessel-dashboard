@@ -2446,8 +2446,8 @@
     "vessel_name": "SITC BATANGAS",
     "terminal": "TPS",
     "arrival": "2026-10-31T00:20:00",
-    "departure": null,
-    "recorded_at": "2026-10-30T17:30:41.738046"
+    "departure": "2026-11-01T00:02:00",
+    "recorded_at": "2026-10-31T17:45:38.908559"
   },
   {
     "vessel_name": "MSC ELBA III",
