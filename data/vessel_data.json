@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T13:00:56+00:00",
+  "generated_at": "2026-10-31T13:15:34+00:00",
   "tps": {
     "alongside": [
       {
@@ -272,23 +272,8 @@
         "etd": "01/11/2026 03:00"
       },
       {
-        "name": "XIN YANG PU",
-        "code": "XIPU007",
-        "voyage": "206E         / 207W",
-        "type": "INTERNATIONAL",
-        "atb": "30/10/2026 02:30",
-        "etd": "31/10/2026 17:30"
-      },
-      {
         "name": "COSCO HOUSTON",
         "code": "COHO053",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "6026",
-        "code": "6026",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "XIN YANG PU / XIPU007",
         "type": "INTERNATIONAL"
       }
     ],
@@ -415,7 +400,16 @@
         "closeC": "06/11/2026 03:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "XIN YANG PU",
+        "code": "XIPU007",
+        "voyage": "206E         / 207W",
+        "type": "INTERNATIONAL",
+        "atb": "30/10/2026 02:30",
+        "atd": "31/10/2026 19:54"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
