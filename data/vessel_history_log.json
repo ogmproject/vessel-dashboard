@@ -2439,8 +2439,8 @@
     "vessel_name": "COSCO HOUSTON",
     "terminal": "TL",
     "arrival": "2026-10-30T20:12:00",
-    "departure": null,
-    "recorded_at": "2026-10-30T13:15:38.157411"
+    "departure": "2026-11-01T02:22:00",
+    "recorded_at": "2026-10-31T19:45:36.610184"
   },
   {
     "vessel_name": "SITC BATANGAS",
