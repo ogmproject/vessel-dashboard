@@ -2453,8 +2453,8 @@
     "vessel_name": "MSC ELBA III",
     "terminal": "TPS",
     "arrival": "2026-10-31T02:35:00",
-    "departure": null,
-    "recorded_at": "2026-10-30T19:45:34.289751"
+    "departure": "2026-11-01T05:55:00",
+    "recorded_at": "2026-10-31T23:00:50.473365"
   },
   {
     "vessel_name": "SONGA SUCCESS",

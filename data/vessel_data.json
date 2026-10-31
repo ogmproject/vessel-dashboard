@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T22:45:36+00:00",
+  "generated_at": "2026-10-31T23:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "0057S / 0057N",
         "atb": "31/10/2026 07:12",
         "etd": "01/11/2026 04:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - MSC ELBA III",
-        "code": "HV644R / HV644R",
-        "atb": "31/10/2026 02:35",
-        "etd": "01/11/2026 05:00",
         "verified": false
       },
       {
@@ -208,6 +201,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MSC ELBA III",
+        "berth": "31/10/2026 02:35",
+        "dep": "01/11/2026 05:55"
+      },
       {
         "name": "SITC BATANGAS",
         "berth": "31/10/2026 00:20",
