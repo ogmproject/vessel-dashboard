@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T09:00:43+00:00",
+  "generated_at": "2026-10-31T09:15:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -269,7 +269,7 @@
         "voyage": "144S         / 144N",
         "type": "INTERNATIONAL",
         "atb": "30/10/2026 20:12",
-        "etd": "31/10/2026 23:00"
+        "etd": "01/11/2026 03:00"
       },
       {
         "name": "XIN YANG PU",
@@ -277,7 +277,7 @@
         "voyage": "206E         / 207W",
         "type": "INTERNATIONAL",
         "atb": "30/10/2026 02:30",
-        "etd": "31/10/2026 17:00"
+        "etd": "31/10/2026 19:00"
       },
       {
         "name": "COSCO HOUSTON",
