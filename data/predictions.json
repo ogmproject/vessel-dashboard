@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T00:15:38.659155",
+  "generated_at": "2026-10-31T00:30:41.168957",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -394,6 +394,17 @@
       "avg_interval_days": 28.5,
       "interval_stddev_days": 1.4,
       "avg_dwelling_hours": 25.8,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "SONGA SUCCESS",
+      "terminal": "TPS",
+      "last_arrival": "2026-10-31T07:12:00",
+      "predicted_next_arrival": "2026-11-23T21:15:30",
+      "avg_interval_days": 23.6,
+      "interval_stddev_days": 3.9,
+      "avg_dwelling_hours": 18.7,
       "visits_recorded": 3,
       "confidence": "medium"
     },

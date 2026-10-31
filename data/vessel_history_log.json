@@ -2455,5 +2455,12 @@
     "arrival": "2026-10-31T02:35:00",
     "departure": null,
     "recorded_at": "2026-10-30T19:45:34.289751"
+  },
+  {
+    "vessel_name": "SONGA SUCCESS",
+    "terminal": "TPS",
+    "arrival": "2026-10-31T07:12:00",
+    "departure": null,
+    "recorded_at": "2026-10-31T00:30:41.168957"
   }
 ]

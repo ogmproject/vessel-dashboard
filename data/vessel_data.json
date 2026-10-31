@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-31T00:15:38+00:00",
+  "generated_at": "2026-10-31T00:30:41+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - SONGA SUCCESS",
+        "code": "0057S / 0057N",
+        "atb": "31/10/2026 07:12",
+        "etd": "31/10/2026 23:00",
+        "verified": false
+      },
       {
         "name": "I3 - MSC ELBA III",
         "code": "HV644R / HV644R",
@@ -36,16 +43,6 @@
         "openstack": "26/10/2026 01:00",
         "closeC": "30/10/2026 19:00",
         "closeD": "30/10/2026 22:00",
-        "verified": false
-      },
-      {
-        "name": "SONGA SUCCESS",
-        "code": "0057S / 0057N",
-        "eta": "31/10/2026 04:00",
-        "etd": "31/10/2026 23:00",
-        "openstack": "26/10/2026 02:00",
-        "closeC": "30/10/2026 20:00",
-        "closeD": "30/10/2026 23:00",
         "verified": false
       },
       {
