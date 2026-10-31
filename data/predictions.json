@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T18:00:49.818898",
+  "generated_at": "2026-10-31T18:15:36.592292",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -53,17 +53,6 @@
       "avg_interval_days": 13.8,
       "interval_stddev_days": 13.7,
       "avg_dwelling_hours": 16.2,
-      "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "INFERRO",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-05T20:20:00",
-      "predicted_next_arrival": "2026-10-31T06:14:00",
-      "avg_interval_days": 25.4,
-      "interval_stddev_days": 0.3,
-      "avg_dwelling_hours": 23.3,
       "visits_recorded": 3,
       "confidence": "medium"
     },
@@ -418,6 +407,17 @@
       "avg_dwelling_hours": 19.6,
       "visits_recorded": 3,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "INFERRO",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-01T01:05:00",
+      "predicted_next_arrival": "2026-11-26T17:16:00",
+      "avg_interval_days": 25.7,
+      "interval_stddev_days": 0.4,
+      "avg_dwelling_hours": 23.3,
+      "visits_recorded": 4,
+      "confidence": "high"
     },
     {
       "vessel_name": "EVER OPTIMA",
