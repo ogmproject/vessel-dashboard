@@ -2460,8 +2460,8 @@
     "vessel_name": "SONGA SUCCESS",
     "terminal": "TPS",
     "arrival": "2026-10-31T07:12:00",
-    "departure": null,
-    "recorded_at": "2026-10-31T00:30:41.168957"
+    "departure": "2026-11-01T06:10:00",
+    "recorded_at": "2026-10-31T23:30:42.753256"
   },
   {
     "vessel_name": "SINAR SUNDA",

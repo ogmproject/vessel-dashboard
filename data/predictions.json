@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T23:15:36.753067",
+  "generated_at": "2026-10-31T23:30:42.753256",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -393,7 +393,7 @@
       "predicted_next_arrival": "2026-11-23T21:15:30",
       "avg_interval_days": 23.6,
       "interval_stddev_days": 3.9,
-      "avg_dwelling_hours": 18.7,
+      "avg_dwelling_hours": 20.1,
       "visits_recorded": 3,
       "confidence": "medium"
     },
