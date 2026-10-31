@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T16:45:34.784430",
+  "generated_at": "2026-10-31T17:00:48.177692",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -526,6 +526,17 @@
       "avg_interval_days": 34.8,
       "interval_stddev_days": 2.4,
       "avg_dwelling_hours": 23.4,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "KMTC HOCHIMINH",
+      "terminal": "TL",
+      "last_arrival": "2026-10-31T23:36:00",
+      "predicted_next_arrival": "2026-12-04T06:46:30",
+      "avg_interval_days": 33.3,
+      "interval_stddev_days": 3.4,
+      "avg_dwelling_hours": 25.3,
       "visits_recorded": 3,
       "confidence": "medium"
     }

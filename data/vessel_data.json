@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T16:45:34+00:00",
+  "generated_at": "2026-10-31T17:00:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -237,32 +237,23 @@
         "name": "MSC CHERYL 3",
         "berth": "29/10/2026 20:46",
         "dep": "30/10/2026 22:28"
-      },
-      {
-        "name": "CMA CGM INDIAN",
-        "berth": "27/10/2026 20:12",
-        "dep": "29/10/2026 09:02"
-      },
-      {
-        "name": "MERATUS LEMBAR",
-        "berth": "28/10/2026 04:55",
-        "dep": "29/10/2026 08:51"
-      },
-      {
-        "name": "WAN HAI 352",
-        "berth": "28/10/2026 11:00",
-        "dep": "29/10/2026 07:28"
-      },
-      {
-        "name": "ES TREASURE",
-        "berth": "27/10/2026 16:45",
-        "dep": "29/10/2026 06:30"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
     "alongside": [
+      {
+        "name": "KMTC HOCHIMINH",
+        "code": "KMHO012",
+        "voyage": "2610S        / 2610N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "31/10/2026 23:36",
+        "etd": "01/11/2026 23:00",
+        "mmsi": "440147000",
+        "imo": "9314923"
+      },
       {
         "name": "COSCO HOUSTON",
         "code": "COHO053",
@@ -272,25 +263,19 @@
         "etd": "01/11/2026 03:00"
       },
       {
+        "name": "KMTC HOCHIMINH",
+        "code": "KMHO012",
+        "type": "INTERNATIONAL",
+        "mmsi": "440147000",
+        "imo": "9314923"
+      },
+      {
         "name": "COSCO HOUSTON",
         "code": "COHO053",
         "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
-      {
-        "name": "KMTC HOCHIMINH",
-        "code": "KMHO012",
-        "voyage": "2610S        / 2610N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "31/10/2026 23:00",
-        "etd": "01/11/2026 23:00",
-        "openstack": "26/10/2026 20:00",
-        "closeC": "31/10/2026 07:00",
-        "mmsi": "440147000",
-        "imo": "9314923"
-      },
       {
         "name": "2642S",
         "code": "2642N",

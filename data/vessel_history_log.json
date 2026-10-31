@@ -2469,5 +2469,12 @@
     "arrival": "2026-10-31T10:38:00",
     "departure": null,
     "recorded_at": "2026-10-31T03:45:32.792776"
+  },
+  {
+    "vessel_name": "KMTC HOCHIMINH",
+    "terminal": "TL",
+    "arrival": "2026-10-31T23:36:00",
+    "departure": null,
+    "recorded_at": "2026-10-31T17:00:48.177692"
   }
 ]
