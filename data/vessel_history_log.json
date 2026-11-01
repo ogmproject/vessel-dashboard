@@ -2495,8 +2495,8 @@
     "vessel_name": "AS PIA",
     "terminal": "TPS",
     "arrival": "2026-11-01T08:25:00",
-    "departure": null,
-    "recorded_at": "2026-11-01T01:30:47.975048"
+    "departure": "2026-11-01T23:43:00",
+    "recorded_at": "2026-11-01T20:16:31.902175"
   },
   {
     "vessel_name": "WAN HAI 375",
@@ -2511,5 +2511,19 @@
     "arrival": "2026-11-01T09:42:00",
     "departure": null,
     "recorded_at": "2026-11-01T02:45:33.783436"
+  },
+  {
+    "vessel_name": "SIMAG SHANGHAI",
+    "terminal": "TPS",
+    "arrival": "2026-11-02T00:55:00",
+    "departure": null,
+    "recorded_at": "2026-11-01T20:16:31.902175"
+  },
+  {
+    "vessel_name": "KOTA MACHAN",
+    "terminal": "TPS",
+    "arrival": "2026-11-02T02:25:00",
+    "departure": null,
+    "recorded_at": "2026-11-01T20:16:31.902175"
   }
 ]
