@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T08:49:56+00:00",
+  "generated_at": "2026-11-01T15:50:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,35 +13,18 @@
         "name": "I3 - WAN HAI 375",
         "code": "S023 / N024",
         "atb": "01/11/2026 09:30",
-        "etd": "03/11/2026 00:00",
+        "etd": "02/11/2026 03:00",
         "verified": false
       },
       {
         "name": "I2 - SINAR SUNDA",
         "code": "247S / 247N",
         "atb": "31/10/2026 10:38",
-        "etd": "02/11/2026 01:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - INFERRO",
-        "code": "048E / 048W",
-        "atb": "01/11/2026 01:05",
-        "etd": "01/11/2026 22:00",
+        "etd": "02/11/2026 04:00",
         "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "AREZOO",
-        "code": "SCY1196 / SCY1196",
-        "eta": "29/10/2026 14:00",
-        "etd": "31/10/2026 19:01",
-        "openstack": "23/10/2026 12:00",
-        "closeC": "28/10/2026 06:00",
-        "closeD": "28/10/2026 09:00",
-        "verified": false
-      },
       {
         "name": "ANL KOKODA",
         "code": "1926S / 1926S",
@@ -50,46 +33,6 @@
         "openstack": "26/10/2026 01:00",
         "closeC": "30/10/2026 19:00",
         "closeD": "30/10/2026 22:00",
-        "verified": false
-      },
-      {
-        "name": "SIMAG SHANGHAI",
-        "code": "2633S / 2633S",
-        "eta": "01/11/2026 16:00",
-        "etd": "02/11/2026 03:30",
-        "openstack": "27/10/2026 16:00",
-        "closeC": "01/11/2026 10:00",
-        "closeD": "01/11/2026 13:00",
-        "verified": false
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "code": "101S / 101N",
-        "eta": "01/11/2026 19:00",
-        "etd": "03/11/2026 03:00",
-        "openstack": "26/10/2026 06:00",
-        "closeC": "31/10/2026 00:00",
-        "closeD": "31/10/2026 03:00",
-        "verified": false
-      },
-      {
-        "name": "KOTA MACHAN",
-        "code": "0552S / 0552N",
-        "eta": "01/11/2026 20:00",
-        "etd": "02/11/2026 20:00",
-        "openstack": "27/10/2026 00:00",
-        "closeC": "31/10/2026 18:00",
-        "closeD": "31/10/2026 21:00",
-        "verified": false
-      },
-      {
-        "name": "APL PUSAN",
-        "code": "CS20I0S / CS20J0N",
-        "eta": "01/11/2026 21:00",
-        "etd": "02/11/2026 19:00",
-        "openstack": "28/10/2026 01:00",
-        "closeC": "01/11/2026 19:00",
-        "closeD": "01/11/2026 22:00",
         "verified": false
       },
       {
@@ -103,13 +46,53 @@
         "verified": false
       },
       {
-        "name": "HONG TAI 656",
-        "code": "644N / 644N",
-        "eta": "02/11/2026 00:01",
-        "etd": "04/11/2026 03:31",
-        "openstack": "28/10/2026 00:00",
-        "closeC": "01/11/2026 18:00",
-        "closeD": "01/11/2026 21:00",
+        "name": "SIMAG SHANGHAI",
+        "code": "2633S / 2633S",
+        "eta": "01/11/2026 23:59",
+        "etd": "02/11/2026 12:29",
+        "openstack": "27/10/2026 16:00",
+        "closeC": "01/11/2026 10:00",
+        "closeD": "01/11/2026 13:00",
+        "verified": false
+      },
+      {
+        "name": "KOTA MACHAN",
+        "code": "0552S / 0552N",
+        "eta": "02/11/2026 02:00",
+        "etd": "03/11/2026 12:30",
+        "openstack": "27/10/2026 00:00",
+        "closeC": "31/10/2026 18:00",
+        "closeD": "31/10/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "AREZOO",
+        "code": "SCY1196 / SCY1196",
+        "eta": "02/11/2026 06:00",
+        "etd": "02/11/2026 14:30",
+        "openstack": "23/10/2026 12:00",
+        "closeC": "28/10/2026 06:00",
+        "closeD": "28/10/2026 09:00",
+        "verified": false
+      },
+      {
+        "name": "SINAR SULAWESI",
+        "code": "101S / 101N",
+        "eta": "02/11/2026 06:00",
+        "etd": "03/11/2026 18:30",
+        "openstack": "26/10/2026 06:00",
+        "closeC": "31/10/2026 00:00",
+        "closeD": "31/10/2026 03:00",
+        "verified": false
+      },
+      {
+        "name": "APL PUSAN",
+        "code": "CS20I0S / CS20J0N",
+        "eta": "02/11/2026 12:00",
+        "etd": "03/11/2026 14:30",
+        "openstack": "28/10/2026 01:00",
+        "closeC": "01/11/2026 19:00",
+        "closeD": "01/11/2026 22:00",
         "verified": false
       },
       {
@@ -132,6 +115,16 @@
         "openstack": "28/10/2026 18:00",
         "closeC": "02/11/2026 12:00",
         "closeD": "02/11/2026 15:00",
+        "verified": false
+      },
+      {
+        "name": "HONG TAI 656",
+        "code": "644N / 644N",
+        "eta": "02/11/2026 18:00",
+        "etd": "04/11/2026 01:30",
+        "openstack": "28/10/2026 00:00",
+        "closeC": "01/11/2026 18:00",
+        "closeD": "01/11/2026 21:00",
         "verified": false
       },
       {
@@ -185,6 +178,26 @@
         "verified": false
       },
       {
+        "name": "EVER CONSIST",
+        "code": "0560-071S / 0560-071N",
+        "eta": "05/11/2026 08:00",
+        "etd": "06/11/2026 08:30",
+        "openstack": "31/10/2026 08:00",
+        "closeC": "05/11/2026 02:00",
+        "closeD": "05/11/2026 05:00",
+        "verified": false
+      },
+      {
+        "name": "EVER BLINK",
+        "code": "1215-085A / 1215-085A",
+        "eta": "05/11/2026 16:00",
+        "etd": "06/11/2026 16:30",
+        "openstack": "31/10/2026 16:00",
+        "closeC": "05/11/2026 10:00",
+        "closeD": "05/11/2026 13:00",
+        "verified": false
+      },
+      {
         "name": "CMA CGM FORT DIAMANT",
         "code": "0XLCTS / 0XLCUN",
         "eta": "05/11/2026 20:00",
@@ -193,9 +206,24 @@
         "closeC": "05/11/2026 14:00",
         "closeD": "05/11/2026 17:00",
         "verified": false
+      },
+      {
+        "name": "XIN YAN TIAN",
+        "code": "122S / 122N",
+        "eta": "06/11/2026 18:00",
+        "etd": "08/11/2026 12:30",
+        "openstack": "01/11/2026 18:00",
+        "closeC": "06/11/2026 12:00",
+        "closeD": "06/11/2026 15:00",
+        "verified": false
       }
     ],
     "movement": [
+      {
+        "name": "INFERRO",
+        "berth": "01/11/2026 01:05",
+        "dep": "01/11/2026 21:22"
+      },
       {
         "name": "SONGA SUCCESS",
         "berth": "31/10/2026 07:12",
@@ -247,27 +275,9 @@
         "etd": "02/11/2026 03:00"
       },
       {
-        "name": "KMTC HOCHIMINH",
-        "code": "KMHO012",
-        "voyage": "2610S        / 2610N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "31/10/2026 23:36",
-        "etd": "01/11/2026 19:00",
-        "mmsi": "440147000",
-        "imo": "9314923"
-      },
-      {
         "name": "7326",
         "code": "7326",
         "carrier": "PT. TEMAS SHIPPING",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "5416",
-        "code": "5426",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "KMTC HOCHIMINH / KMHO012",
         "type": "INTERNATIONAL"
       }
     ],
@@ -290,7 +300,7 @@
         "etb": "02/11/2026 05:00",
         "etd": "03/11/2026 06:00",
         "openstack": "28/10/2026 00:00",
-        "closeC": "01/11/2026 19:00"
+        "closeC": "02/11/2026 05:03"
       },
       {
         "name": "INCHEON VOYAGER",
@@ -373,20 +383,23 @@
     ],
     "departed": [
       {
+        "name": "KMTC HOCHIMINH",
+        "code": "KMHO012",
+        "voyage": "2610S        / 2610N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "31/10/2026 23:36",
+        "atd": "01/11/2026 18:37",
+        "mmsi": "440147000",
+        "imo": "9314923"
+      },
+      {
         "name": "COSCO HOUSTON",
         "code": "COHO053",
         "voyage": "144S         / 144N",
         "type": "INTERNATIONAL",
         "atb": "30/10/2026 20:12",
         "atd": "01/11/2026 02:22"
-      },
-      {
-        "name": "XIN YANG PU",
-        "code": "XIPU007",
-        "voyage": "206E         / 207W",
-        "type": "INTERNATIONAL",
-        "atb": "30/10/2026 02:30",
-        "atd": "31/10/2026 19:54"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
