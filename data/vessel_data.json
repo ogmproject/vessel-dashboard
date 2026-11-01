@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T04:15:37+00:00",
+  "generated_at": "2026-11-01T04:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -244,7 +244,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "atb": "01/11/2026 09:42",
-        "etd": "02/11/2026 02:00"
+        "etd": "02/11/2026 04:00"
       },
       {
         "name": "KMTC HOCHIMINH",
@@ -253,7 +253,7 @@
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
         "atb": "31/10/2026 23:36",
-        "etd": "01/11/2026 23:00",
+        "etd": "01/11/2026 18:00",
         "mmsi": "440147000",
         "imo": "9314923"
       },
