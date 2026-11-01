@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T04:00:46+00:00",
+  "generated_at": "2026-11-01T04:15:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -258,12 +258,10 @@
         "imo": "9314923"
       },
       {
-        "name": "MERATUS LEMBAR",
-        "code": "MEBR020",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "31/10/2026 20:30",
-        "etd": "01/11/2026 14:00"
+        "name": "7326",
+        "code": "7326",
+        "carrier": "PT. TEMAS SHIPPING",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "5416",
