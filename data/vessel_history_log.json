@@ -2471,6 +2471,13 @@
     "recorded_at": "2026-10-31T03:45:32.792776"
   },
   {
+    "vessel_name": "MERATUS LEMBAR",
+    "terminal": "TL",
+    "arrival": "2026-10-31T20:30:00",
+    "departure": null,
+    "recorded_at": "2026-11-01T02:45:33.783436"
+  },
+  {
     "vessel_name": "KMTC HOCHIMINH",
     "terminal": "TL",
     "arrival": "2026-10-31T23:36:00",
@@ -2490,5 +2497,19 @@
     "arrival": "2026-11-01T08:25:00",
     "departure": null,
     "recorded_at": "2026-11-01T01:30:47.975048"
+  },
+  {
+    "vessel_name": "WAN HAI 375",
+    "terminal": "TPS",
+    "arrival": "2026-11-01T09:30:00",
+    "departure": null,
+    "recorded_at": "2026-11-01T02:45:33.783436"
+  },
+  {
+    "vessel_name": "2642S",
+    "terminal": "TL",
+    "arrival": "2026-11-01T09:42:00",
+    "departure": null,
+    "recorded_at": "2026-11-01T02:45:33.783436"
   }
 ]

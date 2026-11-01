@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T02:30:43.833671",
+  "generated_at": "2026-11-01T02:45:33.783436",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -548,6 +548,17 @@
       "avg_interval_days": 35.0,
       "interval_stddev_days": 0.5,
       "avg_dwelling_hours": 13.0,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "WAN HAI 375",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-01T09:30:00",
+      "predicted_next_arrival": "2026-12-07T03:30:00",
+      "avg_interval_days": 35.8,
+      "interval_stddev_days": 13.5,
+      "avg_dwelling_hours": 27.1,
       "visits_recorded": 3,
       "confidence": "medium"
     }
