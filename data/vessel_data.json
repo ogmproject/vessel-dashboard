@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T05:30:40+00:00",
+  "generated_at": "2026-11-01T08:49:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -244,7 +244,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "atb": "01/11/2026 09:42",
-        "etd": "02/11/2026 04:00"
+        "etd": "02/11/2026 03:00"
       },
       {
         "name": "KMTC HOCHIMINH",
@@ -253,7 +253,7 @@
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
         "atb": "31/10/2026 23:36",
-        "etd": "01/11/2026 18:00",
+        "etd": "01/11/2026 19:00",
         "mmsi": "440147000",
         "imo": "9314923"
       },
@@ -273,24 +273,24 @@
     ],
     "schedule": [
       {
-        "name": "MERATUS KARIMUN",
-        "code": "MEIU024",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "02/11/2026 04:00",
-        "etd": "03/11/2026 05:00",
-        "openstack": "28/10/2026 00:00",
-        "closeC": "01/11/2026 19:00"
-      },
-      {
         "name": "HUA DA 617",
         "code": "HUD7002",
         "voyage": "012E         / 013W",
         "type": "INTERNATIONAL",
-        "etb": "02/11/2026 06:00",
-        "etd": "03/11/2026 16:00",
+        "etb": "02/11/2026 04:00",
+        "etd": "03/11/2026 14:00",
         "openstack": "26/10/2026 13:00",
         "closeC": "01/11/2026 00:00"
+      },
+      {
+        "name": "MERATUS KARIMUN",
+        "code": "MEIU024",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "02/11/2026 05:00",
+        "etd": "03/11/2026 06:00",
+        "openstack": "28/10/2026 00:00",
+        "closeC": "01/11/2026 19:00"
       },
       {
         "name": "INCHEON VOYAGER",
