@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T03:15:34+00:00",
+  "generated_at": "2026-11-01T03:30:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -182,6 +182,16 @@
         "openstack": "31/10/2026 02:00",
         "closeC": "04/11/2026 20:00",
         "closeD": "04/11/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "CMA CGM FORT DIAMANT",
+        "code": "0XLCTS / 0XLCUN",
+        "eta": "05/11/2026 20:00",
+        "etd": "07/11/2026 16:30",
+        "openstack": "31/10/2026 20:00",
+        "closeC": "22/10/2026 10:00",
+        "closeD": "22/10/2026 13:00",
         "verified": false
       }
     ],
