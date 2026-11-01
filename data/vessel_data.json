@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-11-01T01:15:37+00:00",
+  "generated_at": "2026-11-01T01:30:47+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - AS PIA",
+        "code": "641S / 644N",
+        "atb": "01/11/2026 08:25",
+        "etd": "01/11/2026 22:00",
+        "verified": false
+      },
       {
         "name": "I2 - SINAR SUNDA",
         "code": "247S / 247N",
@@ -36,16 +43,6 @@
         "openstack": "26/10/2026 01:00",
         "closeC": "30/10/2026 19:00",
         "closeD": "30/10/2026 22:00",
-        "verified": false
-      },
-      {
-        "name": "AS PIA",
-        "code": "641S / 644N",
-        "eta": "01/11/2026 01:00",
-        "etd": "01/11/2026 22:00",
-        "openstack": "26/10/2026 23:00",
-        "closeC": "31/10/2026 17:00",
-        "closeD": "31/10/2026 20:00",
         "verified": false
       },
       {

@@ -2483,5 +2483,12 @@
     "arrival": "2026-11-01T01:05:00",
     "departure": null,
     "recorded_at": "2026-10-31T18:15:36.592292"
+  },
+  {
+    "vessel_name": "AS PIA",
+    "terminal": "TPS",
+    "arrival": "2026-11-01T08:25:00",
+    "departure": null,
+    "recorded_at": "2026-11-01T01:30:47.975048"
   }
 ]
