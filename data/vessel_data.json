@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T20:16:31+00:00",
+  "generated_at": "2026-11-01T23:46:35+00:00",
   "tps": {
     "alongside": [
       {
@@ -10,24 +10,10 @@
         "verified": false
       },
       {
-        "name": "I3 - WAN HAI 375",
-        "code": "S023 / N024",
-        "atb": "01/11/2026 09:30",
-        "etd": "02/11/2026 03:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - SINAR SUNDA",
-        "code": "247S / 247N",
-        "atb": "31/10/2026 10:38",
-        "etd": "02/11/2026 04:00",
-        "verified": false
-      },
-      {
         "name": "I1 - SIMAG SHANGHAI",
         "code": "2633S / 2633S",
         "atb": "02/11/2026 00:55",
-        "etd": "02/11/2026 12:29",
+        "etd": "02/11/2026 08:00",
         "verified": false
       }
     ],
@@ -207,6 +193,18 @@
     ],
     "movement": [
       {
+        "name": "SINAR SUNDA",
+        "berth": "31/10/2026 10:38",
+        "dep": "02/11/2026 06:10"
+      },
+      {
+        "name": "WAN HAI 375",
+        "berth": "01/11/2026 09:30",
+        "dep": "02/11/2026 04:42",
+        "mmsi": "563232800",
+        "imo": "9958121"
+      },
+      {
         "name": "AS PIA",
         "berth": "01/11/2026 08:25",
         "dep": "01/11/2026 23:43"
@@ -244,31 +242,34 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "HUA DA 617",
+        "code": "HUD7002",
+        "voyage": "012E         / 013W",
+        "type": "INTERNATIONAL",
+        "atb": "02/11/2026 06:07",
+        "etd": "03/11/2026 14:00"
+      },
+      {
         "name": "2642S",
         "code": "2642N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "atb": "01/11/2026 09:42",
-        "etd": "02/11/2026 05:00"
+        "etd": "02/11/2026 07:00"
       },
       {
-        "name": "7326",
-        "code": "7326",
-        "carrier": "PT. TEMAS SHIPPING",
+        "name": "HUA DA 617",
+        "code": "HUD7002",
+        "type": "INTERNATIONAL"
+      },
+      {
+        "name": "6526",
+        "code": "6526",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
         "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
-      {
-        "name": "HUA DA 617",
-        "code": "HUD7002",
-        "voyage": "012E         / 013W",
-        "type": "INTERNATIONAL",
-        "etb": "02/11/2026 04:00",
-        "etd": "03/11/2026 14:00",
-        "openstack": "26/10/2026 13:00",
-        "closeC": "01/11/2026 00:00"
-      },
       {
         "name": "MERATUS KARIMUN",
         "code": "MEIU024",
@@ -356,6 +357,16 @@
         "etd": "07/11/2026 08:30",
         "openstack": "01/11/2026 08:00",
         "closeC": "06/11/2026 03:00"
+      },
+      {
+        "name": "HALLEY",
+        "code": "HALY010",
+        "voyage": "017E         / 018W",
+        "type": "INTERNATIONAL",
+        "etb": "07/11/2026 08:00",
+        "etd": "08/11/2026 08:30",
+        "openstack": "02/11/2026 08:00",
+        "closeC": "07/11/2026 03:00"
       }
     ],
     "departed": [
