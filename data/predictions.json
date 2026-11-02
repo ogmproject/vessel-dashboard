@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T04:49:46.378604",
+  "generated_at": "2026-11-02T13:11:22.954534",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -112,17 +112,6 @@
       "confidence": "medium"
     },
     {
-      "vessel_name": "HONG TAI 656",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-29T19:35:00",
-      "predicted_next_arrival": "2026-11-06T07:22:30",
-      "avg_interval_days": 7.5,
-      "interval_stddev_days": 3.8,
-      "avg_dwelling_hours": 25.5,
-      "visits_recorded": 11,
-      "confidence": "medium"
-    },
-    {
       "vessel_name": "EVER CONSIST",
       "terminal": "TPS",
       "last_arrival": "2026-10-12T21:15:00",
@@ -165,6 +154,17 @@
       "avg_dwelling_hours": 20.2,
       "visits_recorded": 4,
       "confidence": "high"
+    },
+    {
+      "vessel_name": "HONG TAI 656",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-02T19:35:00",
+      "predicted_next_arrival": "2026-11-09T23:45:27.272727",
+      "avg_interval_days": 7.2,
+      "interval_stddev_days": 3.8,
+      "avg_dwelling_hours": 25.5,
+      "visits_recorded": 12,
+      "confidence": "medium"
     },
     {
       "vessel_name": "SINAR SULAWESI",
