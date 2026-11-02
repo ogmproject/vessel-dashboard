@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T13:11:22.954534",
+  "generated_at": "2026-11-02T22:25:48.516353",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -97,17 +97,6 @@
       "avg_interval_days": 20.3,
       "interval_stddev_days": 1.2,
       "avg_dwelling_hours": 11.5,
-      "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "EVER BEAMY",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-07T17:10:00",
-      "predicted_next_arrival": "2026-11-04T19:07:30",
-      "avg_interval_days": 28.1,
-      "interval_stddev_days": 2.2,
-      "avg_dwelling_hours": 23.5,
       "visits_recorded": 3,
       "confidence": "medium"
     },
@@ -495,6 +484,17 @@
       "avg_dwelling_hours": 22.6,
       "visits_recorded": 3,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "EVER BEAMY",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-03T04:00:00",
+      "predicted_next_arrival": "2026-11-30T16:55:00",
+      "avg_interval_days": 27.5,
+      "interval_stddev_days": 2.0,
+      "avg_dwelling_hours": 23.5,
+      "visits_recorded": 4,
+      "confidence": "high"
     },
     {
       "vessel_name": "COSCO HOUSTON",

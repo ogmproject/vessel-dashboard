@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-11-02T13:11:22+00:00",
+  "generated_at": "2026-11-02T22:25:48+00:00",
   "tps": {
     "alongside": [
       {
-        "name": "I4 - KOTA MACHAN",
-        "code": "0552S / 0552N",
-        "atb": "02/11/2026 02:25",
-        "etd": "03/11/2026 01:00",
+        "name": "I4 - EVER BEAMY",
+        "code": "1212-083B / 1212-083B",
+        "atb": "03/11/2026 04:00",
+        "etd": "04/11/2026 02:00",
         "verified": false
       },
       {
         "name": "I3 - HONG TAI 656",
         "code": "644N / 644N",
         "atb": "02/11/2026 19:35",
-        "etd": "03/11/2026 20:00",
+        "etd": "03/11/2026 17:00",
         "verified": false
       },
       {
         "name": "I2 - SINAR SULAWESI",
         "code": "101S / 101N",
         "atb": "02/11/2026 09:00",
-        "etd": "03/11/2026 19:00",
+        "etd": "03/11/2026 18:00",
         "verified": false
       },
       {
         "name": "I1 - APL PUSAN",
         "code": "CS20I0S / CS20J0N",
         "atb": "02/11/2026 11:34",
-        "etd": "03/11/2026 14:00",
+        "etd": "03/11/2026 19:00",
         "verified": false
       }
     ],
@@ -40,16 +40,6 @@
         "openstack": "26/10/2026 01:00",
         "closeC": "30/10/2026 19:00",
         "closeD": "30/10/2026 22:00",
-        "verified": false
-      },
-      {
-        "name": "EVER BEAMY",
-        "code": "1212-083B / 1212-083B",
-        "eta": "03/11/2026 03:00",
-        "etd": "04/11/2026 02:00",
-        "openstack": "29/10/2026 04:00",
-        "closeC": "02/11/2026 22:00",
-        "closeD": "03/11/2026 01:00",
         "verified": false
       },
       {
@@ -145,6 +135,16 @@
         "verified": false
       },
       {
+        "name": "ES TREASURE",
+        "code": "644S / 644S",
+        "eta": "05/11/2026 18:00",
+        "etd": "05/11/2026 19:30",
+        "openstack": "31/10/2026 18:00",
+        "closeC": "05/11/2026 12:00",
+        "closeD": "05/11/2026 15:00",
+        "verified": false
+      },
+      {
         "name": "CMA CGM FORT DIAMANT",
         "code": "0XLCTS / 0XLCUN",
         "eta": "05/11/2026 20:00",
@@ -172,6 +172,16 @@
         "openstack": "01/11/2026 18:00",
         "closeC": "06/11/2026 12:00",
         "closeD": "06/11/2026 15:00",
+        "verified": false
+      },
+      {
+        "name": "SINAR SUNDA",
+        "code": "248S / 248N",
+        "eta": "08/11/2026 00:01",
+        "etd": "09/11/2026 16:31",
+        "openstack": "03/11/2026 00:01",
+        "closeC": "07/11/2026 18:01",
+        "closeD": "07/11/2026 21:01",
         "verified": false
       },
       {
@@ -208,6 +218,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "KOTA MACHAN",
+        "berth": "02/11/2026 02:25",
+        "dep": "03/11/2026 01:27"
+      },
       {
         "name": "AREZOO",
         "berth": "02/11/2026 08:05",
@@ -256,11 +271,6 @@
         "dep": "01/11/2026 00:02",
         "mmsi": "477401900",
         "imo": "9845738"
-      },
-      {
-        "name": "EVER BEFIT",
-        "berth": "30/10/2026 02:20",
-        "dep": "31/10/2026 04:45"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
@@ -273,7 +283,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "02/11/2026 11:02",
-        "etd": "03/11/2026 08:00"
+        "etd": "03/11/2026 10:00"
       },
       {
         "name": "HUA DA 617",
@@ -303,10 +313,10 @@
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "03/11/2026 10:00",
-        "etd": "04/11/2026 01:00",
+        "etb": "03/11/2026 12:00",
+        "etd": "04/11/2026 03:00",
         "openstack": "29/10/2026 05:00",
-        "closeC": "02/11/2026 23:00"
+        "closeC": "03/11/2026 03:00"
       },
       {
         "name": "WAN HAI 373",
@@ -317,7 +327,7 @@
         "etb": "03/11/2026 18:00",
         "etd": "04/11/2026 19:00",
         "openstack": "29/10/2026 00:00",
-        "closeC": "02/11/2026 19:00"
+        "closeC": "03/11/2026 07:00"
       },
       {
         "name": "HAPPY LUCKY",

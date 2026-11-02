@@ -2523,8 +2523,8 @@
     "vessel_name": "KOTA MACHAN",
     "terminal": "TPS",
     "arrival": "2026-11-02T02:25:00",
-    "departure": null,
-    "recorded_at": "2026-11-01T20:16:31.902175"
+    "departure": "2026-11-03T01:27:00",
+    "recorded_at": "2026-11-02T22:25:48.516353"
   },
   {
     "vessel_name": "HUA DA 617",
@@ -2567,5 +2567,12 @@
     "arrival": "2026-11-02T19:35:00",
     "departure": null,
     "recorded_at": "2026-11-02T13:11:22.954534"
+  },
+  {
+    "vessel_name": "EVER BEAMY",
+    "terminal": "TPS",
+    "arrival": "2026-11-03T04:00:00",
+    "departure": null,
+    "recorded_at": "2026-11-02T22:25:48.516353"
   }
 ]
