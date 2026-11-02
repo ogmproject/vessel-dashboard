@@ -2509,15 +2509,15 @@
     "vessel_name": "2642S",
     "terminal": "TL",
     "arrival": "2026-11-01T09:42:00",
-    "departure": null,
-    "recorded_at": "2026-11-01T02:45:33.783436"
+    "departure": "2026-11-02T08:26:00",
+    "recorded_at": "2026-11-02T04:49:46.378604"
   },
   {
     "vessel_name": "SIMAG SHANGHAI",
     "terminal": "TPS",
     "arrival": "2026-11-02T00:55:00",
-    "departure": null,
-    "recorded_at": "2026-11-01T20:16:31.902175"
+    "departure": "2026-11-02T10:14:00",
+    "recorded_at": "2026-11-02T04:49:46.378604"
   },
   {
     "vessel_name": "KOTA MACHAN",
@@ -2532,5 +2532,33 @@
     "arrival": "2026-11-02T06:07:00",
     "departure": null,
     "recorded_at": "2026-11-01T23:46:35.285787"
+  },
+  {
+    "vessel_name": "AREZOO",
+    "terminal": "TPS",
+    "arrival": "2026-11-02T08:05:00",
+    "departure": null,
+    "recorded_at": "2026-11-02T04:49:46.378604"
+  },
+  {
+    "vessel_name": "SINAR SULAWESI",
+    "terminal": "TPS",
+    "arrival": "2026-11-02T09:00:00",
+    "departure": null,
+    "recorded_at": "2026-11-02T04:49:46.378604"
+  },
+  {
+    "vessel_name": "MERATUS KARIMUN",
+    "terminal": "TL",
+    "arrival": "2026-11-02T11:02:00",
+    "departure": null,
+    "recorded_at": "2026-11-02T04:49:46.378604"
+  },
+  {
+    "vessel_name": "APL PUSAN",
+    "terminal": "TPS",
+    "arrival": "2026-11-02T11:34:00",
+    "departure": null,
+    "recorded_at": "2026-11-02T04:49:46.378604"
   }
 ]

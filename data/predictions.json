@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T23:46:35.285787",
+  "generated_at": "2026-11-02T04:49:46.378604",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -20,17 +20,6 @@
       "avg_interval_days": 13.6,
       "interval_stddev_days": 3.5,
       "avg_dwelling_hours": 21.5,
-      "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "MERATUS KARIMUN",
-      "terminal": "TL",
-      "last_arrival": "2026-09-29T17:40:00",
-      "predicted_next_arrival": "2026-10-18T12:02:30",
-      "avg_interval_days": 18.8,
-      "interval_stddev_days": 9.6,
-      "avg_dwelling_hours": 19.3,
       "visits_recorded": 3,
       "confidence": "medium"
     },
@@ -68,17 +57,6 @@
       "confidence": "medium"
     },
     {
-      "vessel_name": "SINAR SULAWESI",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-24T09:50:00",
-      "predicted_next_arrival": "2026-11-01T19:31:52.500000",
-      "avg_interval_days": 8.4,
-      "interval_stddev_days": 0.7,
-      "avg_dwelling_hours": 35.9,
-      "visits_recorded": 9,
-      "confidence": "high"
-    },
-    {
       "vessel_name": "WAN HAI 327",
       "terminal": "TPS",
       "last_arrival": "2026-10-09T21:15:00",
@@ -86,17 +64,6 @@
       "avg_interval_days": 24.1,
       "interval_stddev_days": 0.8,
       "avg_dwelling_hours": 20.8,
-      "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "APL PUSAN",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-07T07:10:00",
-      "predicted_next_arrival": "2026-11-03T16:50:00",
-      "avg_interval_days": 27.4,
-      "interval_stddev_days": 0.3,
-      "avg_dwelling_hours": 30.3,
       "visits_recorded": 3,
       "confidence": "medium"
     },
@@ -197,6 +164,17 @@
       "interval_stddev_days": 1.3,
       "avg_dwelling_hours": 20.2,
       "visits_recorded": 4,
+      "confidence": "high"
+    },
+    {
+      "vessel_name": "SINAR SULAWESI",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-02T09:00:00",
+      "predicted_next_arrival": "2026-11-10T20:11:40",
+      "avg_interval_days": 8.5,
+      "interval_stddev_days": 0.7,
+      "avg_dwelling_hours": 35.9,
+      "visits_recorded": 10,
       "confidence": "high"
     },
     {
@@ -371,7 +349,7 @@
       "predicted_next_arrival": "2026-11-22T06:30:00",
       "avg_interval_days": 20.2,
       "interval_stddev_days": 0.9,
-      "avg_dwelling_hours": 12.2,
+      "avg_dwelling_hours": 11.6,
       "visits_recorded": 5,
       "confidence": "high"
     },
@@ -406,6 +384,17 @@
       "interval_stddev_days": 2.3,
       "avg_dwelling_hours": 19.6,
       "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "MERATUS KARIMUN",
+      "terminal": "TL",
+      "last_arrival": "2026-11-02T11:02:00",
+      "predicted_next_arrival": "2026-11-26T05:04:20",
+      "avg_interval_days": 23.8,
+      "interval_stddev_days": 10.6,
+      "avg_dwelling_hours": 19.3,
+      "visits_recorded": 4,
       "confidence": "medium"
     },
     {
@@ -484,6 +473,17 @@
       "avg_dwelling_hours": 18.3,
       "visits_recorded": 3,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "APL PUSAN",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-02T11:34:00",
+      "predicted_next_arrival": "2026-11-29T11:28:40",
+      "avg_interval_days": 27.0,
+      "interval_stddev_days": 0.6,
+      "avg_dwelling_hours": 30.3,
+      "visits_recorded": 4,
+      "confidence": "high"
     },
     {
       "vessel_name": "SITC BATANGAS",
