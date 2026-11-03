@@ -2544,8 +2544,8 @@
     "vessel_name": "SINAR SULAWESI",
     "terminal": "TPS",
     "arrival": "2026-11-02T09:00:00",
-    "departure": null,
-    "recorded_at": "2026-11-02T04:49:46.378604"
+    "departure": "2026-11-03T16:24:00",
+    "recorded_at": "2026-11-03T11:40:40.796163"
   },
   {
     "vessel_name": "MERATUS KARIMUN",
