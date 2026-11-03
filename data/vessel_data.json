@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T22:25:48+00:00",
+  "generated_at": "2026-11-03T03:37:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -283,7 +283,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "02/11/2026 11:02",
-        "etd": "03/11/2026 10:00"
+        "etd": "03/11/2026 16:00"
       },
       {
         "name": "HUA DA 617",
@@ -313,8 +313,8 @@
         "voyage": "2608S        / 2608N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "03/11/2026 12:00",
-        "etd": "04/11/2026 03:00",
+        "etb": "03/11/2026 18:00",
+        "etd": "04/11/2026 09:00",
         "openstack": "29/10/2026 05:00",
         "closeC": "03/11/2026 03:00"
       },
@@ -327,7 +327,7 @@
         "etb": "03/11/2026 18:00",
         "etd": "04/11/2026 19:00",
         "openstack": "29/10/2026 00:00",
-        "closeC": "03/11/2026 07:00"
+        "closeC": "03/11/2026 09:00"
       },
       {
         "name": "HAPPY LUCKY",
@@ -417,21 +417,12 @@
         "etb": "08/11/2026 04:00",
         "etd": "09/11/2026 04:00",
         "openstack": "03/11/2026 04:00",
-        "closeC": "07/11/2026 01:00",
+        "closeC": "07/11/2026 23:00",
         "mmsi": "563279800",
         "imo": "9407134"
       }
     ],
-    "departed": [
-      {
-        "name": "2642S",
-        "code": "2642N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "01/11/2026 09:42",
-        "atd": "02/11/2026 08:26"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
