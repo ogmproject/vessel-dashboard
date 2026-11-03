@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-03T11:40:40+00:00",
+  "generated_at": "2026-11-03T19:11:17+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - EVER BEAMY",
-        "code": "1212-083B / 1212-083B",
-        "atb": "03/11/2026 04:00",
-        "etd": "03/11/2026 21:30",
-        "verified": false
-      },
       {
         "name": "I3 - HONG TAI 656",
         "code": "644N / 644N",
         "atb": "02/11/2026 19:35",
-        "etd": "04/11/2026 08:00",
+        "etd": "04/11/2026 07:00",
+        "verified": false
+      },
+      {
+        "name": "I2 - WAN HAI 327",
+        "code": "S070 / N070",
+        "atb": "03/11/2026 21:20",
+        "etd": "04/11/2026 12:00",
         "verified": false
       },
       {
         "name": "I1 - APL PUSAN",
         "code": "CS20I0S / CS20J0N",
         "atb": "02/11/2026 11:34",
-        "etd": "03/11/2026 22:30",
+        "etd": "04/11/2026 00:00",
         "verified": false
       }
     ],
@@ -34,18 +34,6 @@
         "closeC": "02/11/2026 12:00",
         "closeD": "02/11/2026 15:00",
         "verified": false
-      },
-      {
-        "name": "WAN HAI 327",
-        "code": "S070 / N070",
-        "eta": "03/11/2026 20:00",
-        "etd": "04/11/2026 12:00",
-        "openstack": "28/10/2026 15:00",
-        "closeC": "02/11/2026 09:00",
-        "closeD": "02/11/2026 12:00",
-        "verified": false,
-        "mmsi": "563124300",
-        "imo": "9871490"
       },
       {
         "name": "THE WHALE SHARK",
@@ -264,6 +252,11 @@
     ],
     "movement": [
       {
+        "name": "EVER BEAMY",
+        "berth": "03/11/2026 04:00",
+        "dep": "03/11/2026 22:35"
+      },
+      {
         "name": "SINAR SULAWESI",
         "berth": "02/11/2026 09:00",
         "dep": "03/11/2026 16:24"
@@ -294,33 +287,6 @@
         "dep": "02/11/2026 04:42",
         "mmsi": "563232800",
         "imo": "9958121"
-      },
-      {
-        "name": "AS PIA",
-        "berth": "01/11/2026 08:25",
-        "dep": "01/11/2026 23:43"
-      },
-      {
-        "name": "INFERRO",
-        "berth": "01/11/2026 01:05",
-        "dep": "01/11/2026 21:22"
-      },
-      {
-        "name": "SONGA SUCCESS",
-        "berth": "31/10/2026 07:12",
-        "dep": "01/11/2026 06:10"
-      },
-      {
-        "name": "MSC ELBA III",
-        "berth": "31/10/2026 02:35",
-        "dep": "01/11/2026 05:55"
-      },
-      {
-        "name": "SITC BATANGAS",
-        "berth": "31/10/2026 00:20",
-        "dep": "01/11/2026 00:02",
-        "mmsi": "477401900",
-        "imo": "9845738"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
@@ -328,20 +294,26 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "INCHEON VOYAGER",
+        "code": "INVO001",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "atb": "03/11/2026 22:15",
+        "etd": "04/11/2026 15:00"
+      },
+      {
         "name": "MERATUS KARIMUN",
         "code": "MEIU024",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "02/11/2026 11:02",
-        "etd": "04/11/2026 03:00"
+        "etd": "04/11/2026 04:00"
       },
       {
-        "name": "HUA DA 617",
-        "code": "HUD7002",
-        "voyage": "012E         / 013W",
-        "type": "INTERNATIONAL",
-        "atb": "02/11/2026 06:07",
-        "etd": "03/11/2026 19:30"
+        "name": "INCHEON VOYAGER",
+        "code": "INVO001",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "2226",
@@ -349,33 +321,17 @@
         "carrier": "PT. MENTARI MAS MULTIMODA",
         "voyage": "MERATUS KARIMUN / MEIU024",
         "type": "INTERNATIONAL"
-      },
-      {
-        "name": "HUA DA 617",
-        "code": "HUD7002",
-        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
-      {
-        "name": "INCHEON VOYAGER",
-        "code": "INVO001",
-        "voyage": "2608S        / 2608N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "03/11/2026 21:30",
-        "etd": "04/11/2026 15:00",
-        "openstack": "29/10/2026 05:00",
-        "closeC": "03/11/2026 03:00"
-      },
       {
         "name": "WAN HAI 373",
         "code": "WA73010",
         "voyage": "S030         / N030",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "04/11/2026 05:00",
-        "etd": "05/11/2026 05:00",
+        "etb": "04/11/2026 06:00",
+        "etd": "05/11/2026 06:00",
         "openstack": "29/10/2026 00:00",
         "closeC": "03/11/2026 09:00"
       },
@@ -436,6 +392,16 @@
         "closeC": "06/11/2026 03:00"
       },
       {
+        "name": "HALLEY",
+        "code": "HALY010",
+        "voyage": "017E         / 018W",
+        "type": "INTERNATIONAL",
+        "etb": "07/11/2026 08:00",
+        "etd": "08/11/2026 08:30",
+        "openstack": "02/11/2026 08:00",
+        "closeC": "07/11/2026 03:00"
+      },
+      {
         "name": "CELSIUS EINDHOVEN",
         "code": "CEUS013",
         "voyage": "035E         / 036W",
@@ -446,16 +412,6 @@
         "closeC": "07/11/2026 02:00",
         "mmsi": "538011074",
         "imo": "9969948"
-      },
-      {
-        "name": "HALLEY",
-        "code": "HALY010",
-        "voyage": "017E         / 018W",
-        "type": "INTERNATIONAL",
-        "etb": "07/11/2026 08:00",
-        "etd": "08/11/2026 08:30",
-        "openstack": "02/11/2026 08:00",
-        "closeC": "07/11/2026 03:00"
       },
       {
         "name": "BELAWAN",
@@ -484,7 +440,16 @@
         "imo": "9407134"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "HUA DA 617",
+        "code": "HUD7002",
+        "voyage": "012E         / 013W",
+        "type": "INTERNATIONAL",
+        "atb": "02/11/2026 06:07",
+        "atd": "03/11/2026 19:33"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }

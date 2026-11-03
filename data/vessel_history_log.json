@@ -2530,8 +2530,8 @@
     "vessel_name": "HUA DA 617",
     "terminal": "TL",
     "arrival": "2026-11-02T06:07:00",
-    "departure": null,
-    "recorded_at": "2026-11-01T23:46:35.285787"
+    "departure": "2026-11-03T19:33:00",
+    "recorded_at": "2026-11-03T19:11:17.523047"
   },
   {
     "vessel_name": "AREZOO",
@@ -2572,7 +2572,21 @@
     "vessel_name": "EVER BEAMY",
     "terminal": "TPS",
     "arrival": "2026-11-03T04:00:00",
+    "departure": "2026-11-03T22:35:00",
+    "recorded_at": "2026-11-03T19:11:17.523047"
+  },
+  {
+    "vessel_name": "WAN HAI 327",
+    "terminal": "TPS",
+    "arrival": "2026-11-03T21:20:00",
     "departure": null,
-    "recorded_at": "2026-11-02T22:25:48.516353"
+    "recorded_at": "2026-11-03T19:11:17.523047"
+  },
+  {
+    "vessel_name": "INCHEON VOYAGER",
+    "terminal": "TL",
+    "arrival": "2026-11-03T22:15:00",
+    "departure": null,
+    "recorded_at": "2026-11-03T19:11:17.523047"
   }
 ]
