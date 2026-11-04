@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T00:06:43.284245",
+  "generated_at": "2026-11-04T06:52:52.235001",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -140,7 +140,7 @@
       "predicted_next_arrival": "2026-11-09T23:45:27.272727",
       "avg_interval_days": 7.2,
       "interval_stddev_days": 3.8,
-      "avg_dwelling_hours": 25.5,
+      "avg_dwelling_hours": 26.4,
       "visits_recorded": 12,
       "confidence": "medium"
     },
@@ -262,17 +262,6 @@
       "avg_interval_days": 28.6,
       "interval_stddev_days": 2.2,
       "avg_dwelling_hours": 18.0,
-      "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "EVER BLISS",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-20T19:30:00",
-      "predicted_next_arrival": "2026-11-19T21:22:30",
-      "avg_interval_days": 30.1,
-      "interval_stddev_days": 0.8,
-      "avg_dwelling_hours": 21.5,
       "visits_recorded": 3,
       "confidence": "medium"
     },
@@ -426,7 +415,7 @@
       "predicted_next_arrival": "2026-11-28T06:50:00",
       "avg_interval_days": 24.4,
       "interval_stddev_days": 0.8,
-      "avg_dwelling_hours": 20.8,
+      "avg_dwelling_hours": 19.0,
       "visits_recorded": 4,
       "confidence": "high"
     },
@@ -450,6 +439,17 @@
       "interval_stddev_days": 0.1,
       "avg_dwelling_hours": 18.3,
       "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "EVER BLISS",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-04T10:30:00",
+      "predicted_next_arrival": "2026-11-29T08:45:00",
+      "avg_interval_days": 24.9,
+      "interval_stddev_days": 7.3,
+      "avg_dwelling_hours": 21.5,
+      "visits_recorded": 4,
       "confidence": "medium"
     },
     {
@@ -503,7 +503,7 @@
       "predicted_next_arrival": "2026-12-01T17:51:40",
       "avg_interval_days": 27.6,
       "interval_stddev_days": 9.5,
-      "avg_dwelling_hours": 18.6,
+      "avg_dwelling_hours": 16.4,
       "visits_recorded": 4,
       "confidence": "medium"
     },
@@ -569,7 +569,18 @@
       "predicted_next_arrival": "2026-12-10T03:00:00",
       "avg_interval_days": 35.9,
       "interval_stddev_days": 13.1,
-      "avg_dwelling_hours": 8.8,
+      "avg_dwelling_hours": 8.1,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "WAN HAI 373",
+      "terminal": "TL",
+      "last_arrival": "2026-11-04T09:15:00",
+      "predicted_next_arrival": "2026-12-12T19:37:30",
+      "avg_interval_days": 38.4,
+      "interval_stddev_days": 1.8,
+      "avg_dwelling_hours": 21.1,
       "visits_recorded": 3,
       "confidence": "medium"
     }
