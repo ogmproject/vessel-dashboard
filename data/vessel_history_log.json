@@ -2614,8 +2614,8 @@
     "vessel_name": "EVER BLISS",
     "terminal": "TPS",
     "arrival": "2026-11-04T10:30:00",
-    "departure": null,
-    "recorded_at": "2026-11-04T06:52:52.235001"
+    "departure": "2026-11-05T05:15:00",
+    "recorded_at": "2026-11-04T23:44:52.239640"
   },
   {
     "vessel_name": "ANL KOKODA",

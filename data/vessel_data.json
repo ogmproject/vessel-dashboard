@@ -1,19 +1,12 @@
 {
-  "generated_at": "2026-11-04T21:26:04+00:00",
+  "generated_at": "2026-11-04T23:44:52+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I3 - EVER BLISS",
-        "code": "1216-117A / 1216-117A",
-        "atb": "04/11/2026 10:30",
-        "etd": "05/11/2026 05:00",
-        "verified": false
-      },
       {
         "name": "I1 - XIN YONG CHANG 28",
         "code": "CS10K0S / CS10L0N",
         "atb": "04/11/2026 23:45",
-        "etd": "05/11/2026 12:00",
+        "etd": "05/11/2026 15:00",
         "verified": false
       }
     ],
@@ -215,6 +208,11 @@
     ],
     "movement": [
       {
+        "name": "EVER BLISS",
+        "berth": "04/11/2026 10:30",
+        "dep": "05/11/2026 05:15"
+      },
+      {
         "name": "ANL KOKODA",
         "berth": "04/11/2026 13:00",
         "dep": "04/11/2026 21:45"
@@ -273,7 +271,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. FORECASTLE INDONESIA",
         "atb": "04/11/2026 19:05",
-        "etd": "05/11/2026 13:00"
+        "etd": "05/11/2026 16:00"
       },
       {
         "name": "WAN HAI 373",
@@ -282,7 +280,7 @@
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "atb": "04/11/2026 09:15",
-        "etd": "05/11/2026 08:00"
+        "etd": "05/11/2026 09:00"
       },
       {
         "name": "HAPPY LUCKY",
@@ -304,8 +302,8 @@
         "voyage": "0016S        / 0016N",
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
-        "etb": "05/11/2026 09:00",
-        "etd": "05/11/2026 20:00",
+        "etb": "05/11/2026 11:00",
+        "etd": "05/11/2026 22:00",
         "openstack": "30/10/2026 22:00",
         "closeC": "05/11/2026 00:00"
       },
@@ -411,14 +409,6 @@
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "03/11/2026 22:15",
         "atd": "04/11/2026 15:55"
-      },
-      {
-        "name": "MERATUS KARIMUN",
-        "code": "MEIU024",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "02/11/2026 11:02",
-        "atd": "04/11/2026 04:54"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
