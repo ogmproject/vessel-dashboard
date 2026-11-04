@@ -2586,8 +2586,8 @@
     "vessel_name": "INCHEON VOYAGER",
     "terminal": "TL",
     "arrival": "2026-11-03T22:15:00",
-    "departure": null,
-    "recorded_at": "2026-11-03T19:11:17.523047"
+    "departure": "2026-11-04T15:55:00",
+    "recorded_at": "2026-11-04T15:11:07.043084"
   },
   {
     "vessel_name": "THE WHALE SHARK",
@@ -2621,7 +2621,14 @@
     "vessel_name": "ANL KOKODA",
     "terminal": "TPS",
     "arrival": "2026-11-04T13:00:00",
+    "departure": "2026-11-04T21:45:00",
+    "recorded_at": "2026-11-04T15:11:07.043084"
+  },
+  {
+    "vessel_name": "HAPPY LUCKY",
+    "terminal": "TL",
+    "arrival": "2026-11-04T19:05:00",
     "departure": null,
-    "recorded_at": "2026-11-04T06:52:52.235001"
+    "recorded_at": "2026-11-04T15:11:07.043084"
   }
 ]

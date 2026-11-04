@@ -1,19 +1,12 @@
 {
-  "generated_at": "2026-11-04T06:52:52+00:00",
+  "generated_at": "2026-11-04T15:11:06+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I3 - EVER BLISS",
         "code": "1216-117A / 1216-117A",
         "atb": "04/11/2026 10:30",
-        "etd": "05/11/2026 09:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - ANL KOKODA",
-        "code": "1926S / 1926S",
-        "atb": "04/11/2026 13:00",
-        "etd": "04/11/2026 18:00",
+        "etd": "05/11/2026 06:00",
         "verified": false
       }
     ],
@@ -31,8 +24,8 @@
       {
         "name": "XIN YONG CHANG 28",
         "code": "CS10K0S / CS10L0N",
-        "eta": "04/11/2026 20:00",
-        "etd": "05/11/2026 10:00",
+        "eta": "04/11/2026 22:00",
+        "etd": "05/11/2026 12:00",
         "openstack": "31/10/2026 01:00",
         "closeC": "04/11/2026 19:00",
         "closeD": "04/11/2026 22:00",
@@ -49,23 +42,23 @@
         "verified": false
       },
       {
-        "name": "EVER CONSIST",
-        "code": "0560-071S / 0560-071N",
-        "eta": "05/11/2026 08:00",
-        "etd": "06/11/2026 08:30",
-        "openstack": "31/10/2026 08:00",
-        "closeC": "05/11/2026 02:00",
-        "closeD": "05/11/2026 05:00",
-        "verified": false
-      },
-      {
         "name": "EVER BLINK",
         "code": "1215-085A / 1215-085A",
         "eta": "05/11/2026 16:00",
-        "etd": "06/11/2026 16:30",
+        "etd": "06/11/2026 10:00",
         "openstack": "31/10/2026 16:00",
         "closeC": "05/11/2026 10:00",
         "closeD": "05/11/2026 13:00",
+        "verified": false
+      },
+      {
+        "name": "EVER CONSIST",
+        "code": "0560-071S / 0560-071N",
+        "eta": "05/11/2026 18:00",
+        "etd": "06/11/2026 07:00",
+        "openstack": "31/10/2026 08:00",
+        "closeC": "05/11/2026 02:00",
+        "closeD": "05/11/2026 05:00",
         "verified": false
       },
       {
@@ -119,6 +112,16 @@
         "verified": false,
         "mmsi": "413125000",
         "imo": "9304801"
+      },
+      {
+        "name": "MSC COLETTE III",
+        "code": "XF644A / XF644A",
+        "eta": "07/11/2026 16:00",
+        "etd": "07/11/2026 17:30",
+        "openstack": "07/11/2026 16:00",
+        "closeC": "07/10/2026 10:00",
+        "closeD": "07/10/2026 13:00",
+        "verified": false
       },
       {
         "name": "SINAR SUNDA",
@@ -193,6 +196,16 @@
         "verified": false
       },
       {
+        "name": "MSC COLETTE III",
+        "code": "XF644R / XF644R",
+        "eta": "11/11/2026 02:00",
+        "etd": "12/11/2026 09:30",
+        "openstack": "06/11/2026 02:00",
+        "closeC": "10/11/2026 20:00",
+        "closeD": "10/11/2026 23:00",
+        "verified": false
+      },
+      {
         "name": "KOTA HIDAYAH",
         "code": "2634S / 2634S",
         "eta": "11/11/2026 17:00",
@@ -204,6 +217,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "ANL KOKODA",
+        "berth": "04/11/2026 13:00",
+        "dep": "04/11/2026 21:45"
+      },
       {
         "name": "THE WHALE SHARK",
         "berth": "04/11/2026 03:30",
@@ -274,22 +292,27 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "HAPPY LUCKY",
+        "code": "HAKY012",
+        "voyage": "2641S        / 2641N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. FORECASTLE INDONESIA",
+        "atb": "04/11/2026 19:05",
+        "etd": "05/11/2026 13:00"
+      },
+      {
         "name": "WAN HAI 373",
         "code": "WA73010",
         "voyage": "S030         / N030",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "atb": "04/11/2026 09:15",
-        "etd": "05/11/2026 16:00"
+        "etd": "05/11/2026 07:00"
       },
       {
-        "name": "INCHEON VOYAGER",
-        "code": "INVO001",
-        "voyage": "2608S        / 2608N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "atb": "03/11/2026 22:15",
-        "etd": "04/11/2026 15:00"
+        "name": "HAPPY LUCKY",
+        "code": "HAKY012",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "5426",
@@ -297,37 +320,19 @@
         "carrier": "PT. TEMAS SHIPPING",
         "voyage": "WAN HAI 373 / WA73010",
         "type": "INTERNATIONAL"
-      },
-      {
-        "name": "S030",
-        "code": "N030",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "voyage": "INCHEON VOYAGER / INVO001",
-        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
-      {
-        "name": "HAPPY LUCKY",
-        "code": "HAKY012",
-        "voyage": "2641S        / 2641N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. FORECASTLE INDONESIA",
-        "etb": "04/11/2026 17:00",
-        "etd": "05/11/2026 12:00",
-        "openstack": "30/10/2026 08:00",
-        "closeC": "04/11/2026 13:00"
-      },
       {
         "name": "HMM HARVEST",
         "code": "HMAR007",
         "voyage": "0016S        / 0016N",
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
-        "etb": "05/11/2026 14:00",
-        "etd": "06/11/2026 01:00",
+        "etb": "05/11/2026 09:00",
+        "etd": "05/11/2026 20:00",
         "openstack": "30/10/2026 22:00",
-        "closeC": "04/11/2026 16:00"
+        "closeC": "05/11/2026 00:00"
       },
       {
         "name": "AS CAROLINA",
@@ -346,8 +351,8 @@
         "voyage": "072S         / 072N",
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "05/11/2026 22:00",
-        "etd": "06/11/2026 20:30",
+        "etb": "05/11/2026 20:00",
+        "etd": "06/11/2026 18:00",
         "openstack": "31/10/2026 22:00",
         "closeC": "05/11/2026 17:00",
         "mmsi": "636019895",
@@ -391,9 +396,9 @@
         "voyage": "2610S        / 2610N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "07/11/2026 16:00",
-        "etd": "08/11/2026 16:30",
-        "openstack": "02/11/2026 16:00",
+        "etb": "07/11/2026 11:00",
+        "etd": "08/11/2026 06:00",
+        "openstack": "02/11/2026 11:00",
         "closeC": "07/11/2026 11:00",
         "mmsi": "477883500",
         "imo": "9412828"
@@ -410,9 +415,28 @@
         "closeC": "07/11/2026 23:00",
         "mmsi": "563279800",
         "imo": "9407134"
+      },
+      {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM014",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "09/11/2026 20:00",
+        "etd": "10/11/2026 19:30",
+        "openstack": "04/11/2026 20:00",
+        "closeC": "08/11/2026 17:00"
       }
     ],
     "departed": [
+      {
+        "name": "INCHEON VOYAGER",
+        "code": "INVO001",
+        "voyage": "2608S        / 2608N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "atb": "03/11/2026 22:15",
+        "atd": "04/11/2026 15:55"
+      },
       {
         "name": "MERATUS KARIMUN",
         "code": "MEIU024",
@@ -420,14 +444,6 @@
         "carrier": "PT. MERATUS LINE",
         "atb": "02/11/2026 11:02",
         "atd": "04/11/2026 04:54"
-      },
-      {
-        "name": "HUA DA 617",
-        "code": "HUD7002",
-        "voyage": "012E         / 013W",
-        "type": "INTERNATIONAL",
-        "atb": "02/11/2026 06:07",
-        "atd": "03/11/2026 19:33"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
