@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-11-03T19:11:17+00:00",
+  "generated_at": "2026-11-04T00:06:43+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - THE WHALE SHARK",
+        "code": "2826S / 2826S",
+        "atb": "04/11/2026 03:30",
+        "etd": "04/11/2026 15:00",
+        "verified": false
+      },
       {
         "name": "I3 - HONG TAI 656",
         "code": "644N / 644N",
@@ -13,38 +20,18 @@
         "name": "I2 - WAN HAI 327",
         "code": "S070 / N070",
         "atb": "03/11/2026 21:20",
-        "etd": "04/11/2026 12:00",
+        "etd": "04/11/2026 11:00",
         "verified": false
       },
       {
-        "name": "I1 - APL PUSAN",
-        "code": "CS20I0S / CS20J0N",
-        "atb": "02/11/2026 11:34",
-        "etd": "04/11/2026 00:00",
+        "name": "I1 - SINAR BANDA",
+        "code": "2680S / 2680N",
+        "atb": "04/11/2026 04:55",
+        "etd": "04/11/2026 12:00",
         "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "SINAR BANDA",
-        "code": "2680S / 2680N",
-        "eta": "03/11/2026 20:00",
-        "etd": "04/11/2026 02:00",
-        "openstack": "28/10/2026 18:00",
-        "closeC": "02/11/2026 12:00",
-        "closeD": "02/11/2026 15:00",
-        "verified": false
-      },
-      {
-        "name": "THE WHALE SHARK",
-        "code": "2826S / 2826S",
-        "eta": "03/11/2026 23:00",
-        "etd": "04/11/2026 10:00",
-        "openstack": "27/10/2026 22:00",
-        "closeC": "01/11/2026 16:00",
-        "closeD": "01/11/2026 19:00",
-        "verified": false
-      },
       {
         "name": "MSC NIKOLETA II",
         "code": "HS642A / HS644B",
@@ -252,6 +239,11 @@
     ],
     "movement": [
       {
+        "name": "APL PUSAN",
+        "berth": "02/11/2026 11:34",
+        "dep": "04/11/2026 02:04"
+      },
+      {
         "name": "EVER BEAMY",
         "berth": "03/11/2026 04:00",
         "dep": "03/11/2026 22:35"
@@ -303,23 +295,8 @@
         "etd": "04/11/2026 15:00"
       },
       {
-        "name": "MERATUS KARIMUN",
-        "code": "MEIU024",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "02/11/2026 11:02",
-        "etd": "04/11/2026 04:00"
-      },
-      {
         "name": "INCHEON VOYAGER",
         "code": "INVO001",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "2226",
-        "code": "2226",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "MERATUS KARIMUN / MEIU024",
         "type": "INTERNATIONAL"
       }
     ],
@@ -330,8 +307,8 @@
         "voyage": "S030         / N030",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "04/11/2026 06:00",
-        "etd": "05/11/2026 06:00",
+        "etb": "04/11/2026 08:00",
+        "etd": "05/11/2026 08:00",
         "openstack": "29/10/2026 00:00",
         "closeC": "03/11/2026 09:00"
       },
@@ -441,6 +418,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "MERATUS KARIMUN",
+        "code": "MEIU024",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "02/11/2026 11:02",
+        "atd": "04/11/2026 04:54"
+      },
       {
         "name": "HUA DA 617",
         "code": "HUD7002",
