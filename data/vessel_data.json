@@ -1,12 +1,19 @@
 {
-  "generated_at": "2026-11-04T15:11:06+00:00",
+  "generated_at": "2026-11-04T21:26:04+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I3 - EVER BLISS",
         "code": "1216-117A / 1216-117A",
         "atb": "04/11/2026 10:30",
-        "etd": "05/11/2026 06:00",
+        "etd": "05/11/2026 05:00",
+        "verified": false
+      },
+      {
+        "name": "I1 - XIN YONG CHANG 28",
+        "code": "CS10K0S / CS10L0N",
+        "atb": "04/11/2026 23:45",
+        "etd": "05/11/2026 12:00",
         "verified": false
       }
     ],
@@ -19,16 +26,6 @@
         "openstack": "30/10/2026 02:00",
         "closeC": "03/11/2026 20:00",
         "closeD": "03/11/2026 23:00",
-        "verified": false
-      },
-      {
-        "name": "XIN YONG CHANG 28",
-        "code": "CS10K0S / CS10L0N",
-        "eta": "04/11/2026 22:00",
-        "etd": "05/11/2026 12:00",
-        "openstack": "31/10/2026 01:00",
-        "closeC": "04/11/2026 19:00",
-        "closeD": "04/11/2026 22:00",
         "verified": false
       },
       {
@@ -263,28 +260,6 @@
         "name": "KOTA MACHAN",
         "berth": "02/11/2026 02:25",
         "dep": "03/11/2026 01:27"
-      },
-      {
-        "name": "AREZOO",
-        "berth": "02/11/2026 08:05",
-        "dep": "02/11/2026 16:16"
-      },
-      {
-        "name": "SIMAG SHANGHAI",
-        "berth": "02/11/2026 00:55",
-        "dep": "02/11/2026 10:14"
-      },
-      {
-        "name": "SINAR SUNDA",
-        "berth": "31/10/2026 10:38",
-        "dep": "02/11/2026 06:10"
-      },
-      {
-        "name": "WAN HAI 375",
-        "berth": "01/11/2026 09:30",
-        "dep": "02/11/2026 04:42",
-        "mmsi": "563232800",
-        "imo": "9958121"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
@@ -307,7 +282,7 @@
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "atb": "04/11/2026 09:15",
-        "etd": "05/11/2026 07:00"
+        "etd": "05/11/2026 08:00"
       },
       {
         "name": "HAPPY LUCKY",
