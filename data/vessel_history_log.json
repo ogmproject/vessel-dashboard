@@ -2642,8 +2642,8 @@
     "vessel_name": "HMM HARVEST",
     "terminal": "TL",
     "arrival": "2026-11-05T12:57:00",
-    "departure": null,
-    "recorded_at": "2026-11-05T06:30:51.492353"
+    "departure": "2026-11-06T03:19:00",
+    "recorded_at": "2026-11-05T20:30:52.377822"
   },
   {
     "vessel_name": "EVER CONSIST",

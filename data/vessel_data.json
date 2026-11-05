@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T20:00:55+00:00",
+  "generated_at": "2026-11-05T20:30:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -303,27 +303,11 @@
         "imo": "9864538"
       },
       {
-        "name": "HMM HARVEST",
-        "code": "HMAR007",
-        "voyage": "0016S        / 0016N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "05/11/2026 12:57",
-        "etd": "06/11/2026 00:00"
-      },
-      {
         "name": "YM CENTENNIAL",
         "code": "YMAL008",
         "type": "INTERNATIONAL",
         "mmsi": "636019895",
         "imo": "9864538"
-      },
-      {
-        "name": "6726",
-        "code": "6726",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "HMM HARVEST / HMAR007",
-        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
@@ -408,6 +392,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "HMM HARVEST",
+        "code": "HMAR007",
+        "voyage": "0016S        / 0016N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "05/11/2026 12:57",
+        "atd": "06/11/2026 03:19"
+      },
       {
         "name": "HAPPY LUCKY",
         "code": "HAKY012",
