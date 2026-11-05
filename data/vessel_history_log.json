@@ -2637,5 +2637,12 @@
     "arrival": "2026-11-04T23:45:00",
     "departure": null,
     "recorded_at": "2026-11-04T21:26:04.510311"
+  },
+  {
+    "vessel_name": "HMM HARVEST",
+    "terminal": "TL",
+    "arrival": "2026-11-05T12:57:00",
+    "departure": null,
+    "recorded_at": "2026-11-05T06:30:51.492353"
   }
 ]

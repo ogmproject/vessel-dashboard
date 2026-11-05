@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:00:55+00:00",
+  "generated_at": "2026-11-05T06:30:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -295,6 +295,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "HMM HARVEST",
+        "code": "HMAR007",
+        "voyage": "0016S        / 0016N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "05/11/2026 12:57",
+        "etd": "06/11/2026 00:00"
+      },
+      {
         "name": "HAPPY LUCKY",
         "code": "HAKY012",
         "voyage": "2641S        / 2641N",
@@ -304,23 +313,17 @@
         "etd": "05/11/2026 16:00"
       },
       {
+        "name": "HMM HARVEST",
+        "code": "HMAR007",
+        "type": "INTERNATIONAL"
+      },
+      {
         "name": "HAPPY LUCKY",
         "code": "HAKY012",
         "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
-      {
-        "name": "HMM HARVEST",
-        "code": "HMAR007",
-        "voyage": "0016S        / 0016N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "etb": "05/11/2026 13:00",
-        "etd": "06/11/2026 00:00",
-        "openstack": "30/10/2026 22:00",
-        "closeC": "05/11/2026 00:00"
-      },
       {
         "name": "YM CENTENNIAL",
         "code": "YMAL008",
@@ -335,16 +338,6 @@
         "imo": "9864538"
       },
       {
-        "name": "MERATUS LAMPUNG",
-        "code": "MEPN002",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "06/11/2026 08:00",
-        "etd": "07/11/2026 08:30",
-        "openstack": "01/11/2026 08:00",
-        "closeC": "06/11/2026 03:00"
-      },
-      {
         "name": "AS CAROLINA",
         "code": "ASRO009",
         "voyage": "350S         / 350N",
@@ -354,6 +347,16 @@
         "etd": "07/11/2026 06:00",
         "openstack": "31/10/2026 07:00",
         "closeC": "05/11/2026 09:00"
+      },
+      {
+        "name": "MERATUS LAMPUNG",
+        "code": "MEPN002",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "06/11/2026 08:00",
+        "etd": "07/11/2026 08:30",
+        "openstack": "01/11/2026 08:00",
+        "closeC": "06/11/2026 03:00"
       },
       {
         "name": "CELSIUS EINDHOVEN",
