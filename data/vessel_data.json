@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T05:30:51+00:00",
+  "generated_at": "2026-11-05T06:00:55+00:00",
   "tps": {
     "alongside": [
       {
@@ -304,24 +304,8 @@
         "etd": "05/11/2026 16:00"
       },
       {
-        "name": "WAN HAI 373",
-        "code": "WA73010",
-        "voyage": "S030         / N030",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "atb": "04/11/2026 09:15",
-        "etd": "05/11/2026 12:00"
-      },
-      {
         "name": "HAPPY LUCKY",
         "code": "HAKY012",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "5426",
-        "code": "5426",
-        "carrier": "PT. TEMAS SHIPPING",
-        "voyage": "WAN HAI 373 / WA73010",
         "type": "INTERNATIONAL"
       }
     ],
@@ -431,6 +415,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "WAN HAI 373",
+        "code": "WA73010",
+        "voyage": "S030         / N030",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "atb": "04/11/2026 09:15",
+        "atd": "05/11/2026 12:22"
+      },
       {
         "name": "INCHEON VOYAGER",
         "code": "INVO001",

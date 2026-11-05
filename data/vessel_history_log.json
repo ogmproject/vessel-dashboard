@@ -2607,8 +2607,8 @@
     "vessel_name": "WAN HAI 373",
     "terminal": "TL",
     "arrival": "2026-11-04T09:15:00",
-    "departure": null,
-    "recorded_at": "2026-11-04T06:52:52.235001"
+    "departure": "2026-11-05T12:22:00",
+    "recorded_at": "2026-11-05T06:00:55.380410"
   },
   {
     "vessel_name": "EVER BLISS",
