@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T13:30:54+00:00",
+  "generated_at": "2026-11-05T14:00:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -307,6 +307,17 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "YM CENTENNIAL",
+        "code": "YMAL008",
+        "voyage": "072S         / 072N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "atb": "05/11/2026 20:48",
+        "etd": "06/11/2026 19:00",
+        "mmsi": "636019895",
+        "imo": "9864538"
+      },
+      {
         "name": "HMM HARVEST",
         "code": "HMAR007",
         "voyage": "0016S        / 0016N",
@@ -314,6 +325,13 @@
         "carrier": "HMM CO.,LTD",
         "atb": "05/11/2026 12:57",
         "etd": "06/11/2026 00:00"
+      },
+      {
+        "name": "YM CENTENNIAL",
+        "code": "YMAL008",
+        "type": "INTERNATIONAL",
+        "mmsi": "636019895",
+        "imo": "9864538"
       },
       {
         "name": "6726",
@@ -325,17 +343,14 @@
     ],
     "schedule": [
       {
-        "name": "YM CENTENNIAL",
-        "code": "YMAL008",
-        "voyage": "072S         / 072N",
+        "name": "MERATUS LAMPUNG",
+        "code": "MEPN002",
         "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "05/11/2026 20:00",
-        "etd": "06/11/2026 19:00",
-        "openstack": "31/10/2026 22:00",
-        "closeC": "05/11/2026 17:00",
-        "mmsi": "636019895",
-        "imo": "9864538"
+        "carrier": "PT. MERATUS LINE",
+        "etb": "06/11/2026 08:00",
+        "etd": "07/11/2026 08:30",
+        "openstack": "01/11/2026 08:00",
+        "closeC": "06/11/2026 03:00"
       },
       {
         "name": "AS CAROLINA",
@@ -347,16 +362,6 @@
         "etd": "07/11/2026 06:00",
         "openstack": "31/10/2026 07:00",
         "closeC": "05/11/2026 09:00"
-      },
-      {
-        "name": "MERATUS LAMPUNG",
-        "code": "MEPN002",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "06/11/2026 08:00",
-        "etd": "07/11/2026 08:30",
-        "openstack": "01/11/2026 08:00",
-        "closeC": "06/11/2026 03:00"
       },
       {
         "name": "CELSIUS EINDHOVEN",
