@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T11:01:00.616909",
+  "generated_at": "2026-11-05T11:30:53.102961",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -86,17 +86,6 @@
       "avg_interval_days": 20.3,
       "interval_stddev_days": 1.2,
       "avg_dwelling_hours": 11.5,
-      "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "EVER CONSIST",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-12T21:15:00",
-      "predicted_next_arrival": "2026-11-07T20:25:00",
-      "avg_interval_days": 26.0,
-      "interval_stddev_days": 1.5,
-      "avg_dwelling_hours": 17.0,
       "visits_recorded": 3,
       "confidence": "medium"
     },
@@ -482,6 +471,17 @@
       "avg_interval_days": 27.5,
       "interval_stddev_days": 2.0,
       "avg_dwelling_hours": 22.3,
+      "visits_recorded": 4,
+      "confidence": "high"
+    },
+    {
+      "vessel_name": "EVER CONSIST",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-05T17:56:00",
+      "predicted_next_arrival": "2026-12-01T00:16:20",
+      "avg_interval_days": 25.3,
+      "interval_stddev_days": 1.5,
+      "avg_dwelling_hours": 17.0,
       "visits_recorded": 4,
       "confidence": "high"
     },

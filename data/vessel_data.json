@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-05T11:01:00+00:00",
+  "generated_at": "2026-11-05T11:30:53+00:00",
   "tps": {
     "alongside": [
       {
-        "name": "I1 - XIN YONG CHANG 28",
-        "code": "CS10K0S / CS10L0N",
-        "atb": "04/11/2026 23:45",
-        "etd": "05/11/2026 14:00",
+        "name": "I3 - EVER CONSIST",
+        "code": "0560-071S / 0560-071N",
+        "atb": "05/11/2026 17:56",
+        "etd": "06/11/2026 07:00",
         "verified": false
       }
     ],
@@ -22,16 +22,6 @@
         "verified": false
       },
       {
-        "name": "MSC CHERYL 3",
-        "code": "XL644A / XL644A",
-        "eta": "05/11/2026 02:00",
-        "etd": "06/11/2026 14:30",
-        "openstack": "31/10/2026 02:00",
-        "closeC": "04/11/2026 20:00",
-        "closeD": "04/11/2026 23:00",
-        "verified": false
-      },
-      {
         "name": "EVER BLINK",
         "code": "1215-085A / 1215-085A",
         "eta": "05/11/2026 16:00",
@@ -39,16 +29,6 @@
         "openstack": "31/10/2026 16:00",
         "closeC": "05/11/2026 10:00",
         "closeD": "05/11/2026 13:00",
-        "verified": false
-      },
-      {
-        "name": "EVER CONSIST",
-        "code": "0560-071S / 0560-071N",
-        "eta": "05/11/2026 18:00",
-        "etd": "06/11/2026 07:00",
-        "openstack": "31/10/2026 08:00",
-        "closeC": "05/11/2026 02:00",
-        "closeD": "05/11/2026 05:00",
         "verified": false
       },
       {
@@ -111,6 +91,16 @@
         "openstack": "07/11/2026 16:00",
         "closeC": "07/10/2026 10:00",
         "closeD": "07/10/2026 13:00",
+        "verified": false
+      },
+      {
+        "name": "MSC CHERYL 3",
+        "code": "XL644A / XL644A",
+        "eta": "07/11/2026 16:00",
+        "etd": "09/11/2026 06:00",
+        "openstack": "31/10/2026 02:00",
+        "closeC": "04/11/2026 20:00",
+        "closeD": "04/11/2026 23:00",
         "verified": false
       },
       {
@@ -247,6 +237,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "XIN YONG CHANG 28",
+        "berth": "04/11/2026 23:45",
+        "dep": "05/11/2026 18:08"
+      },
       {
         "name": "EVER BLISS",
         "berth": "04/11/2026 10:30",
