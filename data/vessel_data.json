@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:30:56+00:00",
+  "generated_at": "2026-11-05T15:01:00+00:00",
   "tps": {
     "alongside": [
       {
@@ -343,16 +343,6 @@
     ],
     "schedule": [
       {
-        "name": "MERATUS LAMPUNG",
-        "code": "MEPN002",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "06/11/2026 08:00",
-        "etd": "07/11/2026 08:30",
-        "openstack": "01/11/2026 08:00",
-        "closeC": "06/11/2026 03:00"
-      },
-      {
         "name": "AS CAROLINA",
         "code": "ASRO009",
         "voyage": "350S         / 350N",
@@ -420,6 +410,16 @@
         "etd": "10/11/2026 19:30",
         "openstack": "04/11/2026 20:00",
         "closeC": "08/11/2026 17:00"
+      },
+      {
+        "name": "MERATUS LAMPUNG",
+        "code": "MEPN002",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "10/11/2026 03:00",
+        "etd": "11/11/2026 05:00",
+        "openstack": "01/11/2026 08:00",
+        "closeC": "10/11/2026 07:00"
       }
     ],
     "departed": [
