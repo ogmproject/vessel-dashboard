@@ -2651,5 +2651,12 @@
     "arrival": "2026-11-05T17:56:00",
     "departure": null,
     "recorded_at": "2026-11-05T11:30:53.102961"
+  },
+  {
+    "vessel_name": "EVER BLINK",
+    "terminal": "TPS",
+    "arrival": "2026-11-05T19:40:00",
+    "departure": null,
+    "recorded_at": "2026-11-05T13:00:57.829024"
   }
 ]

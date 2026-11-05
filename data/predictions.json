@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T12:30:50.361337",
+  "generated_at": "2026-11-05T13:00:57.829024",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -537,6 +537,17 @@
       "avg_interval_days": 33.3,
       "interval_stddev_days": 3.4,
       "avg_dwelling_hours": 23.2,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "EVER BLINK",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-05T19:40:00",
+      "predicted_next_arrival": "2026-12-04T21:28:30",
+      "avg_interval_days": 29.1,
+      "interval_stddev_days": 1.1,
+      "avg_dwelling_hours": 18.8,
       "visits_recorded": 3,
       "confidence": "medium"
     },
