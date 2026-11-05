@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-05T06:30:51+00:00",
+  "generated_at": "2026-11-05T07:00:54+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I1 - XIN YONG CHANG 28",
         "code": "CS10K0S / CS10L0N",
         "atb": "04/11/2026 23:45",
-        "etd": "05/11/2026 14:45",
+        "etd": "05/11/2026 14:00",
         "verified": false
       }
     ],
@@ -233,6 +233,16 @@
         "openstack": "08/11/2026 21:00",
         "closeC": "13/11/2026 15:00",
         "closeD": "13/11/2026 18:00",
+        "verified": false
+      },
+      {
+        "name": "KOTA JOHAN",
+        "code": "0081E / 0081W",
+        "eta": "14/11/2026 00:00",
+        "etd": "16/11/2026 02:30",
+        "openstack": "09/11/2026 00:00",
+        "closeC": "13/11/2026 18:00",
+        "closeD": "13/11/2026 21:00",
         "verified": false
       }
     ],
