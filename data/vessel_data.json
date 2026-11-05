@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T04:30:53+00:00",
+  "generated_at": "2026-11-05T05:00:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -210,9 +210,9 @@
         "code": "102S / 102N",
         "eta": "11/11/2026 08:00",
         "etd": "12/11/2026 19:30",
-        "openstack": "30/10/2026 08:00",
-        "closeC": "04/11/2026 02:00",
-        "closeD": "04/11/2026 05:00",
+        "openstack": "06/11/2026 08:00",
+        "closeC": "11/11/2026 02:00",
+        "closeD": "11/11/2026 05:00",
         "verified": false
       },
       {
@@ -310,7 +310,7 @@
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "atb": "04/11/2026 09:15",
-        "etd": "05/11/2026 11:00"
+        "etd": "05/11/2026 12:00"
       },
       {
         "name": "HAPPY LUCKY",
@@ -332,21 +332,10 @@
         "voyage": "0016S        / 0016N",
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
-        "etb": "05/11/2026 11:00",
-        "etd": "05/11/2026 22:00",
+        "etb": "05/11/2026 13:00",
+        "etd": "06/11/2026 00:00",
         "openstack": "30/10/2026 22:00",
         "closeC": "05/11/2026 00:00"
-      },
-      {
-        "name": "AS CAROLINA",
-        "code": "ASRO009",
-        "voyage": "350S         / 350N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "etb": "05/11/2026 19:00",
-        "etd": "06/11/2026 17:00",
-        "openstack": "31/10/2026 07:00",
-        "closeC": "05/11/2026 09:00"
       },
       {
         "name": "YM CENTENNIAL",
@@ -355,7 +344,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
         "etb": "05/11/2026 20:00",
-        "etd": "06/11/2026 18:00",
+        "etd": "06/11/2026 19:00",
         "openstack": "31/10/2026 22:00",
         "closeC": "05/11/2026 17:00",
         "mmsi": "636019895",
@@ -370,6 +359,17 @@
         "etd": "07/11/2026 08:30",
         "openstack": "01/11/2026 08:00",
         "closeC": "06/11/2026 03:00"
+      },
+      {
+        "name": "AS CAROLINA",
+        "code": "ASRO009",
+        "voyage": "350S         / 350N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "etb": "06/11/2026 08:00",
+        "etd": "07/11/2026 06:00",
+        "openstack": "31/10/2026 07:00",
+        "closeC": "05/11/2026 09:00"
       },
       {
         "name": "CELSIUS EINDHOVEN",
