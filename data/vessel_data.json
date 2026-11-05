@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T15:01:00+00:00",
+  "generated_at": "2026-11-05T15:30:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -81,16 +81,6 @@
         "imo": "9304801"
       },
       {
-        "name": "MSC COLETTE III",
-        "code": "XF644A / XF644A",
-        "eta": "07/11/2026 16:00",
-        "etd": "07/11/2026 17:30",
-        "openstack": "07/11/2026 16:00",
-        "closeC": "07/10/2026 10:00",
-        "closeD": "07/10/2026 13:00",
-        "verified": false
-      },
-      {
         "name": "MSC CHERYL 3",
         "code": "XL644A / XL644A",
         "eta": "07/11/2026 16:00",
@@ -98,6 +88,16 @@
         "openstack": "31/10/2026 02:00",
         "closeC": "04/11/2026 20:00",
         "closeD": "04/11/2026 23:00",
+        "verified": false
+      },
+      {
+        "name": "MSC COLETTE III",
+        "code": "XF644A / XF644A",
+        "eta": "07/11/2026 20:00",
+        "etd": "08/11/2026 16:00",
+        "openstack": "07/11/2026 16:00",
+        "closeC": "07/10/2026 10:00",
+        "closeD": "07/10/2026 13:00",
         "verified": false
       },
       {
