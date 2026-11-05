@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-05T16:30:52+00:00",
+  "generated_at": "2026-11-05T17:01:03+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I3 - EVER CONSIST",
         "code": "0560-071S / 0560-071N",
         "atb": "05/11/2026 17:56",
-        "etd": "06/11/2026 03:00",
+        "etd": "06/11/2026 09:00",
         "verified": false
       },
       {
@@ -285,27 +285,23 @@
         "name": "APL PUSAN",
         "berth": "02/11/2026 11:34",
         "dep": "04/11/2026 02:04"
-      },
-      {
-        "name": "EVER BEAMY",
-        "berth": "03/11/2026 04:00",
-        "dep": "03/11/2026 22:35"
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "berth": "02/11/2026 09:00",
-        "dep": "03/11/2026 16:24"
-      },
-      {
-        "name": "KOTA MACHAN",
-        "berth": "02/11/2026 02:25",
-        "dep": "03/11/2026 01:27"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
     "alongside": [
+      {
+        "name": "YM CENTENNIAL",
+        "code": "YMAL008",
+        "voyage": "072S         / 072N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "atb": "05/11/2026 20:48",
+        "etd": "06/11/2026 19:00",
+        "mmsi": "636019895",
+        "imo": "9864538"
+      },
       {
         "name": "HMM HARVEST",
         "code": "HMAR007",
@@ -316,6 +312,13 @@
         "etd": "06/11/2026 00:00"
       },
       {
+        "name": "YM CENTENNIAL",
+        "code": "YMAL008",
+        "type": "INTERNATIONAL",
+        "mmsi": "636019895",
+        "imo": "9864538"
+      },
+      {
         "name": "6726",
         "code": "6726",
         "carrier": "PT. MENTARI MAS MULTIMODA",
@@ -324,19 +327,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "YM CENTENNIAL",
-        "code": "YMAL008",
-        "voyage": "072S         / 072N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "05/11/2026 20:00",
-        "etd": "06/11/2026 19:00",
-        "openstack": "31/10/2026 22:00",
-        "closeC": "05/11/2026 17:00",
-        "mmsi": "636019895",
-        "imo": "9864538"
-      },
       {
         "name": "AS CAROLINA",
         "code": "ASRO009",
