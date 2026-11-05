@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T08:00:54+00:00",
+  "generated_at": "2026-11-05T08:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -348,6 +348,16 @@
         "imo": "9864538"
       },
       {
+        "name": "MERATUS LAMPUNG",
+        "code": "MEPN002",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "06/11/2026 08:00",
+        "etd": "07/11/2026 08:30",
+        "openstack": "01/11/2026 08:00",
+        "closeC": "06/11/2026 03:00"
+      },
+      {
         "name": "AS CAROLINA",
         "code": "ASRO009",
         "voyage": "350S         / 350N",
@@ -357,16 +367,6 @@
         "etd": "07/11/2026 06:00",
         "openstack": "31/10/2026 07:00",
         "closeC": "05/11/2026 09:00"
-      },
-      {
-        "name": "MERATUS LAMPUNG",
-        "code": "MEPN002",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "06/11/2026 08:00",
-        "etd": "07/11/2026 08:30",
-        "openstack": "01/11/2026 08:00",
-        "closeC": "06/11/2026 03:00"
       },
       {
         "name": "CELSIUS EINDHOVEN",
