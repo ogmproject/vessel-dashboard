@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T08:30:47+00:00",
+  "generated_at": "2026-11-05T09:00:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -314,22 +314,8 @@
         "etd": "06/11/2026 00:00"
       },
       {
-        "name": "HAPPY LUCKY",
-        "code": "HAKY012",
-        "voyage": "2641S        / 2641N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. FORECASTLE INDONESIA",
-        "atb": "04/11/2026 19:05",
-        "etd": "05/11/2026 16:00"
-      },
-      {
         "name": "HMM HARVEST",
         "code": "HMAR007",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "HAPPY LUCKY",
-        "code": "HAKY012",
         "type": "INTERNATIONAL"
       }
     ],
@@ -429,6 +415,15 @@
     ],
     "departed": [
       {
+        "name": "HAPPY LUCKY",
+        "code": "HAKY012",
+        "voyage": "2641S        / 2641N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. FORECASTLE INDONESIA",
+        "atb": "04/11/2026 19:05",
+        "atd": "05/11/2026 15:37"
+      },
+      {
         "name": "WAN HAI 373",
         "code": "WA73010",
         "voyage": "S030         / N030",
@@ -436,15 +431,6 @@
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "atb": "04/11/2026 09:15",
         "atd": "05/11/2026 12:22"
-      },
-      {
-        "name": "INCHEON VOYAGER",
-        "code": "INVO001",
-        "voyage": "2608S        / 2608N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "atb": "03/11/2026 22:15",
-        "atd": "04/11/2026 15:55"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
