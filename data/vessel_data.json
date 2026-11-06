@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T03:00:56+00:00",
+  "generated_at": "2026-11-06T03:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -8,19 +8,16 @@
         "atb": "05/11/2026 19:40",
         "etd": "06/11/2026 15:00",
         "verified": false
+      },
+      {
+        "name": "I1 - SMOOTH SAILING",
+        "code": "091S / 091N",
+        "atb": "06/11/2026 10:10",
+        "etd": "07/11/2026 04:00",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "SMOOTH SAILING",
-        "code": "091S / 091N",
-        "eta": "06/11/2026 08:00",
-        "etd": "07/11/2026 04:00",
-        "openstack": "01/11/2026 08:00",
-        "closeC": "06/11/2026 02:00",
-        "closeD": "06/11/2026 05:00",
-        "verified": false
-      },
       {
         "name": "MSC NIKOLETA II",
         "code": "HS642A / HS644B",
