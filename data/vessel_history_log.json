@@ -2663,8 +2663,8 @@
     "vessel_name": "YM CENTENNIAL",
     "terminal": "TL",
     "arrival": "2026-11-05T20:48:00",
-    "departure": null,
-    "recorded_at": "2026-11-05T14:00:59.042304"
+    "departure": "2026-11-06T17:15:00",
+    "recorded_at": "2026-11-06T10:30:52.722475"
   },
   {
     "vessel_name": "AS CAROLINA",

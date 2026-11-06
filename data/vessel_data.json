@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T10:00:56+00:00",
+  "generated_at": "2026-11-06T10:30:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -298,29 +298,11 @@
         "etd": "07/11/2026 05:00"
       },
       {
-        "name": "YM CENTENNIAL",
-        "code": "YMAL008",
-        "voyage": "072S         / 072N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "atb": "05/11/2026 20:48",
-        "etd": "06/11/2026 17:00",
-        "mmsi": "636019895",
-        "imo": "9864538"
-      },
-      {
         "name": "445",
         "code": "446",
         "carrier": "PT PBM TANTOKARYA UTAMA",
         "voyage": "AS CAROLINA / ASRO009",
         "type": "INTERNATIONAL"
-      },
-      {
-        "name": "YM CENTENNIAL",
-        "code": "YMAL008",
-        "type": "INTERNATIONAL",
-        "mmsi": "636019895",
-        "imo": "9864538"
       }
     ],
     "schedule": [
@@ -394,6 +376,17 @@
       }
     ],
     "departed": [
+      {
+        "name": "YM CENTENNIAL",
+        "code": "YMAL008",
+        "voyage": "072S         / 072N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "atb": "05/11/2026 20:48",
+        "atd": "06/11/2026 17:15",
+        "mmsi": "636019895",
+        "imo": "9864538"
+      },
       {
         "name": "HMM HARVEST",
         "code": "HMAR007",
