@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T08:30:49+00:00",
+  "generated_at": "2026-11-06T09:00:55+00:00",
   "tps": {
     "alongside": [
       {
@@ -403,15 +403,6 @@
         "carrier": "HMM CO.,LTD",
         "atb": "05/11/2026 12:57",
         "atd": "06/11/2026 03:19"
-      },
-      {
-        "name": "HAPPY LUCKY",
-        "code": "HAKY012",
-        "voyage": "2641S        / 2641N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. FORECASTLE INDONESIA",
-        "atb": "04/11/2026 19:05",
-        "atd": "05/11/2026 15:37"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
