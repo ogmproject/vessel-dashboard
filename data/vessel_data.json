@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T18:00:55+00:00",
+  "generated_at": "2026-11-06T18:30:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "644S / 644S",
         "atb": "06/11/2026 16:45",
         "etd": "07/11/2026 14:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - SMOOTH SAILING",
-        "code": "091S / 091N",
-        "atb": "06/11/2026 10:10",
-        "etd": "07/11/2026 00:00",
         "verified": false
       }
     ],
@@ -251,6 +244,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SMOOTH SAILING",
+        "berth": "06/11/2026 10:10",
+        "dep": "07/11/2026 00:28"
+      },
       {
         "name": "EVER BLINK",
         "berth": "05/11/2026 19:40",
