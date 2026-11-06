@@ -2656,8 +2656,8 @@
     "vessel_name": "EVER BLINK",
     "terminal": "TPS",
     "arrival": "2026-11-05T19:40:00",
-    "departure": null,
-    "recorded_at": "2026-11-05T13:00:57.829024"
+    "departure": "2026-11-06T14:30:00",
+    "recorded_at": "2026-11-06T08:00:56.582679"
   },
   {
     "vessel_name": "YM CENTENNIAL",
