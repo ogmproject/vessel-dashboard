@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:30:53+00:00",
+  "generated_at": "2026-11-06T10:00:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "HS642A / HS644B",
         "atb": "06/11/2026 12:55",
         "etd": "07/11/2026 04:00",
+        "verified": false
+      },
+      {
+        "name": "I2 - ES TREASURE",
+        "code": "644S / 644S",
+        "atb": "06/11/2026 16:45",
+        "etd": "07/11/2026 13:00",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "ES TREASURE",
-        "code": "644S / 644S",
-        "eta": "06/11/2026 16:30",
-        "etd": "07/11/2026 13:00",
-        "openstack": "31/10/2026 18:00",
-        "closeC": "05/11/2026 12:00",
-        "closeD": "05/11/2026 15:00",
-        "verified": false
-      },
       {
         "name": "XIN YAN TIAN",
         "code": "122S / 122N",
@@ -312,8 +309,10 @@
         "imo": "9864538"
       },
       {
-        "name": "AS CAROLINA",
-        "code": "ASRO009",
+        "name": "445",
+        "code": "446",
+        "carrier": "PT PBM TANTOKARYA UTAMA",
+        "voyage": "AS CAROLINA / ASRO009",
         "type": "INTERNATIONAL"
       },
       {
