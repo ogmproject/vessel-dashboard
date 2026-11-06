@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T02:30:49+00:00",
+  "generated_at": "2026-11-06T03:00:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -290,6 +290,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "AS CAROLINA",
+        "code": "ASRO009",
+        "voyage": "350S         / 350N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "atb": "06/11/2026 09:30",
+        "etd": "07/11/2026 06:00"
+      },
+      {
         "name": "YM CENTENNIAL",
         "code": "YMAL008",
         "voyage": "072S         / 072N",
@@ -301,6 +310,11 @@
         "imo": "9864538"
       },
       {
+        "name": "AS CAROLINA",
+        "code": "ASRO009",
+        "type": "INTERNATIONAL"
+      },
+      {
         "name": "YM CENTENNIAL",
         "code": "YMAL008",
         "type": "INTERNATIONAL",
@@ -309,27 +323,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "AS CAROLINA",
-        "code": "ASRO009",
-        "voyage": "350S         / 350N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "etb": "06/11/2026 08:00",
-        "etd": "07/11/2026 06:00",
-        "openstack": "31/10/2026 07:00",
-        "closeC": "05/11/2026 09:00"
-      },
-      {
-        "name": "HALLEY",
-        "code": "HALY010",
-        "voyage": "017E         / 018W",
-        "type": "INTERNATIONAL",
-        "etb": "07/11/2026 08:00",
-        "etd": "08/11/2026 08:30",
-        "openstack": "02/11/2026 08:00",
-        "closeC": "07/11/2026 03:00"
-      },
       {
         "name": "CELSIUS EINDHOVEN",
         "code": "CEUS013",
@@ -341,6 +334,16 @@
         "closeC": "07/11/2026 02:00",
         "mmsi": "538011074",
         "imo": "9969948"
+      },
+      {
+        "name": "HALLEY",
+        "code": "HALY010",
+        "voyage": "017E         / 018W",
+        "type": "INTERNATIONAL",
+        "etb": "07/11/2026 08:00",
+        "etd": "08/11/2026 08:30",
+        "openstack": "02/11/2026 08:00",
+        "closeC": "07/11/2026 03:00"
       },
       {
         "name": "BELAWAN",

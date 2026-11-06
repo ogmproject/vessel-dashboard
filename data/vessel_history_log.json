@@ -2665,5 +2665,12 @@
     "arrival": "2026-11-05T20:48:00",
     "departure": null,
     "recorded_at": "2026-11-05T14:00:59.042304"
+  },
+  {
+    "vessel_name": "AS CAROLINA",
+    "terminal": "TL",
+    "arrival": "2026-11-06T09:30:00",
+    "departure": null,
+    "recorded_at": "2026-11-06T03:00:56.973929"
   }
 ]
