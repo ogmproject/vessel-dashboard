@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:00:55+00:00",
+  "generated_at": "2026-11-06T09:30:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -326,16 +326,6 @@
     ],
     "schedule": [
       {
-        "name": "HALLEY",
-        "code": "HALY010",
-        "voyage": "017E         / 018W",
-        "type": "INTERNATIONAL",
-        "etb": "07/11/2026 08:00",
-        "etd": "08/11/2026 08:30",
-        "openstack": "02/11/2026 08:00",
-        "closeC": "07/11/2026 03:00"
-      },
-      {
         "name": "CELSIUS EINDHOVEN",
         "code": "CEUS013",
         "voyage": "035E         / 036W",
@@ -346,6 +336,16 @@
         "closeC": "07/11/2026 02:00",
         "mmsi": "538011074",
         "imo": "9969948"
+      },
+      {
+        "name": "HALLEY",
+        "code": "HALY010",
+        "voyage": "017E         / 018W",
+        "type": "INTERNATIONAL",
+        "etb": "07/11/2026 08:00",
+        "etd": "08/11/2026 08:30",
+        "openstack": "02/11/2026 08:00",
+        "closeC": "07/11/2026 03:00"
       },
       {
         "name": "BELAWAN",
