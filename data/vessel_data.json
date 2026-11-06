@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-11-06T05:30:52+00:00",
+  "generated_at": "2026-11-06T06:00:58+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I3 - MSC NIKOLETA II",
+        "code": "HS642A / HS644B",
+        "atb": "06/11/2026 12:55",
+        "etd": "07/11/2026 07:00",
+        "verified": false
+      },
       {
         "name": "I2 - EVER BLINK",
         "code": "1215-085A / 1215-085A",
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MSC NIKOLETA II",
-        "code": "HS642A / HS644B",
-        "eta": "06/11/2026 11:00",
-        "etd": "07/11/2026 07:00",
-        "openstack": "30/10/2026 02:00",
-        "closeC": "03/11/2026 20:00",
-        "closeD": "03/11/2026 23:00",
-        "verified": false
-      },
       {
         "name": "XIN YAN TIAN",
         "code": "122S / 122N",
