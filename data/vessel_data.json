@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T16:30:48+00:00",
+  "generated_at": "2026-11-06T17:00:55+00:00",
   "tps": {
     "alongside": [
       {
@@ -270,38 +270,6 @@
         "name": "EVER BLISS",
         "berth": "04/11/2026 10:30",
         "dep": "05/11/2026 05:15"
-      },
-      {
-        "name": "ANL KOKODA",
-        "berth": "04/11/2026 13:00",
-        "dep": "04/11/2026 21:45"
-      },
-      {
-        "name": "THE WHALE SHARK",
-        "berth": "04/11/2026 03:30",
-        "dep": "04/11/2026 13:16"
-      },
-      {
-        "name": "SINAR BANDA",
-        "berth": "04/11/2026 04:55",
-        "dep": "04/11/2026 11:38"
-      },
-      {
-        "name": "WAN HAI 327",
-        "berth": "03/11/2026 21:20",
-        "dep": "04/11/2026 10:54",
-        "mmsi": "563124300",
-        "imo": "9871490"
-      },
-      {
-        "name": "HONG TAI 656",
-        "berth": "02/11/2026 19:35",
-        "dep": "04/11/2026 07:36"
-      },
-      {
-        "name": "APL PUSAN",
-        "berth": "02/11/2026 11:34",
-        "dep": "04/11/2026 02:04"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
