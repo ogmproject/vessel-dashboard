@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-06T11:00:55+00:00",
+  "generated_at": "2026-11-06T11:30:50+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I3 - MSC NIKOLETA II",
         "code": "HS642A / HS644B",
         "atb": "06/11/2026 12:55",
-        "etd": "07/11/2026 04:00",
+        "etd": "07/11/2026 05:00",
         "verified": false
       },
       {
         "name": "I2 - ES TREASURE",
         "code": "644S / 644S",
         "atb": "06/11/2026 16:45",
-        "etd": "07/11/2026 13:00",
+        "etd": "07/11/2026 14:00",
         "verified": false
       },
       {
         "name": "I1 - SMOOTH SAILING",
         "code": "091S / 091N",
         "atb": "06/11/2026 10:10",
-        "etd": "07/11/2026 04:00",
+        "etd": "07/11/2026 00:00",
         "verified": false
       }
     ],
@@ -200,6 +200,16 @@
         "verified": false
       },
       {
+        "name": "ZHONG GU FU ZHOU",
+        "code": "CHN0I0S / CHN0J0N",
+        "eta": "11/11/2026 16:00",
+        "etd": "12/11/2026 19:30",
+        "openstack": "06/11/2026 16:00",
+        "closeC": "11/11/2026 10:00",
+        "closeD": "11/11/2026 13:00",
+        "verified": false
+      },
+      {
         "name": "KOTA HIDAYAH",
         "code": "2634S / 2634S",
         "eta": "11/11/2026 17:00",
@@ -207,6 +217,16 @@
         "openstack": "06/11/2026 17:00",
         "closeC": "11/11/2026 11:00",
         "closeD": "11/11/2026 14:00",
+        "verified": false
+      },
+      {
+        "name": "CMA CGM SAINTE ANNE",
+        "code": "0XLCVS / 0XLCWN",
+        "eta": "11/11/2026 20:00",
+        "etd": "13/11/2026 18:30",
+        "openstack": "06/11/2026 20:00",
+        "closeC": "11/11/2026 14:00",
+        "closeD": "11/11/2026 17:00",
         "verified": false
       },
       {
@@ -295,7 +315,7 @@
         "type": "INTERNATIONAL",
         "carrier": "GOLD STAR LINE LTD",
         "atb": "06/11/2026 09:30",
-        "etd": "07/11/2026 05:00"
+        "etd": "07/11/2026 04:00"
       },
       {
         "name": "445",
