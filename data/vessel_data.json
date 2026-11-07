@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T01:00:48+00:00",
+  "generated_at": "2026-11-07T01:30:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -44,16 +44,6 @@
         "verified": false
       },
       {
-        "name": "MSC COLETTE III",
-        "code": "XF644A / XF644A",
-        "eta": "07/11/2026 20:00",
-        "etd": "08/11/2026 16:00",
-        "openstack": "07/11/2026 16:00",
-        "closeC": "07/10/2026 10:00",
-        "closeD": "07/10/2026 13:00",
-        "verified": false
-      },
-      {
         "name": "SINAR SUNDA",
         "code": "248S / 248N",
         "eta": "08/11/2026 00:01",
@@ -61,6 +51,16 @@
         "openstack": "03/11/2026 00:01",
         "closeC": "07/11/2026 18:01",
         "closeD": "07/11/2026 21:01",
+        "verified": false
+      },
+      {
+        "name": "MSC COLETTE III",
+        "code": "XF644A / XF644A",
+        "eta": "08/11/2026 01:30",
+        "etd": "08/11/2026 20:00",
+        "openstack": "07/11/2026 16:00",
+        "closeC": "07/10/2026 10:00",
+        "closeD": "07/10/2026 13:00",
         "verified": false
       },
       {
