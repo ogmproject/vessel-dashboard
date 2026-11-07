@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T10:00:50+00:00",
+  "generated_at": "2026-11-07T10:30:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -346,17 +346,6 @@
         "carrier": "GOLD STAR LINE LTD",
         "atb": "06/11/2026 09:30",
         "atd": "07/11/2026 08:50"
-      },
-      {
-        "name": "YM CENTENNIAL",
-        "code": "YMAL008",
-        "voyage": "072S         / 072N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "atb": "05/11/2026 20:48",
-        "atd": "06/11/2026 17:15",
-        "mmsi": "636019895",
-        "imo": "9864538"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
