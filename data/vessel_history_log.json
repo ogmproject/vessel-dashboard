@@ -2670,8 +2670,8 @@
     "vessel_name": "AS CAROLINA",
     "terminal": "TL",
     "arrival": "2026-11-06T09:30:00",
-    "departure": null,
-    "recorded_at": "2026-11-06T03:00:56.973929"
+    "departure": "2026-11-07T08:50:00",
+    "recorded_at": "2026-11-07T02:00:50.830401"
   },
   {
     "vessel_name": "SMOOTH SAILING",
