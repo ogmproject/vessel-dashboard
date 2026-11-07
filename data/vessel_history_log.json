@@ -2700,5 +2700,12 @@
     "arrival": "2026-11-07T16:18:00",
     "departure": null,
     "recorded_at": "2026-11-07T09:30:46.812105"
+  },
+  {
+    "vessel_name": "BELAWAN",
+    "terminal": "TL",
+    "arrival": "2026-11-07T18:25:00",
+    "departure": null,
+    "recorded_at": "2026-11-07T11:30:48.437779"
   }
 ]
