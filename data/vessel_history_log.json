@@ -2684,8 +2684,8 @@
     "vessel_name": "MSC NIKOLETA II",
     "terminal": "TPS",
     "arrival": "2026-11-06T12:55:00",
-    "departure": null,
-    "recorded_at": "2026-11-06T06:00:59.043470"
+    "departure": "2026-11-07T06:55:00",
+    "recorded_at": "2026-11-07T01:00:48.074567"
   },
   {
     "vessel_name": "ES TREASURE",

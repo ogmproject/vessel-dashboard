@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-11-07T00:30:45+00:00",
+  "generated_at": "2026-11-07T01:00:48+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I3 - MSC NIKOLETA II",
-        "code": "HS642A / HS644B",
-        "atb": "06/11/2026 12:55",
-        "etd": "07/11/2026 05:00",
-        "verified": false
-      },
       {
         "name": "I2 - ES TREASURE",
         "code": "644S / 644S",
@@ -244,6 +237,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MSC NIKOLETA II",
+        "berth": "06/11/2026 12:55",
+        "dep": "07/11/2026 06:55"
+      },
       {
         "name": "SMOOTH SAILING",
         "berth": "06/11/2026 10:10",
