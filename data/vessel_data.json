@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-11-07T18:30:44+00:00",
+  "generated_at": "2026-11-07T19:00:55+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I3 - MSC COLETTE III",
+        "code": "XF644A / XF644A",
+        "atb": "08/11/2026 01:49",
+        "etd": "08/11/2026 20:00",
+        "verified": false
+      },
       {
         "name": "I2 - MSC CHERYL 3",
         "code": "XL644A / XL644A",
@@ -32,16 +39,6 @@
         "verified": false,
         "mmsi": "413125000",
         "imo": "9304801"
-      },
-      {
-        "name": "MSC COLETTE III",
-        "code": "XF644A / XF644A",
-        "eta": "08/11/2026 01:30",
-        "etd": "08/11/2026 20:00",
-        "openstack": "07/11/2026 16:00",
-        "closeC": "07/10/2026 10:00",
-        "closeD": "07/10/2026 13:00",
-        "verified": false
       },
       {
         "name": "SINAR SUNDA",

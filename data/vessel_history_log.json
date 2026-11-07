@@ -2707,5 +2707,12 @@
     "arrival": "2026-11-07T18:25:00",
     "departure": null,
     "recorded_at": "2026-11-07T11:30:48.437779"
+  },
+  {
+    "vessel_name": "MSC COLETTE III",
+    "terminal": "TPS",
+    "arrival": "2026-11-08T01:49:00",
+    "departure": null,
+    "recorded_at": "2026-11-07T19:00:56.022344"
   }
 ]
