@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:30:45+00:00",
+  "generated_at": "2026-11-07T17:00:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -251,16 +251,6 @@
         "name": "EVER CONSIST",
         "berth": "05/11/2026 17:56",
         "dep": "06/11/2026 04:20"
-      },
-      {
-        "name": "XIN YONG CHANG 28",
-        "berth": "04/11/2026 23:45",
-        "dep": "05/11/2026 18:08"
-      },
-      {
-        "name": "EVER BLISS",
-        "berth": "04/11/2026 10:30",
-        "dep": "05/11/2026 05:15"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
