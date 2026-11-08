@@ -2721,5 +2721,12 @@
     "arrival": "2026-11-08T07:53:00",
     "departure": null,
     "recorded_at": "2026-11-08T01:00:56.232463"
+  },
+  {
+    "vessel_name": "STARSHIP VENUS",
+    "terminal": "TPS",
+    "arrival": "2026-11-08T11:00:00",
+    "departure": null,
+    "recorded_at": "2026-11-08T04:30:47.354760"
   }
 ]
