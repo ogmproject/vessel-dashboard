@@ -1,11 +1,18 @@
 {
-  "generated_at": "2026-11-08T20:30:49+00:00",
+  "generated_at": "2026-11-08T21:00:58+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SINAR SUNDA",
         "code": "248S / 248N",
         "atb": "08/11/2026 12:20",
+        "etd": "10/11/2026 02:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - HYUNDAI UNITY",
+        "code": "0186S / 0186N",
+        "atb": "09/11/2026 03:40",
         "etd": "10/11/2026 02:00",
         "verified": false
       },
@@ -47,18 +54,6 @@
         "closeC": "08/11/2026 18:00",
         "closeD": "08/11/2026 21:00",
         "verified": false
-      },
-      {
-        "name": "HYUNDAI UNITY",
-        "code": "0186S / 0186N",
-        "eta": "09/11/2026 01:00",
-        "etd": "10/11/2026 02:00",
-        "openstack": "04/11/2026 00:00",
-        "closeC": "08/11/2026 18:00",
-        "closeD": "08/11/2026 21:00",
-        "verified": false,
-        "mmsi": "538007483",
-        "imo": "9330719"
       },
       {
         "name": "XIN YAN TAI",
