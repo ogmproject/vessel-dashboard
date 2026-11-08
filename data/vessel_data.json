@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T08:30:49+00:00",
+  "generated_at": "2026-11-08T09:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -36,18 +36,6 @@
         "verified": false
       },
       {
-        "name": "XIN YAN TAI",
-        "code": "275S / 275N",
-        "eta": "07/11/2026 08:00",
-        "etd": "08/11/2026 20:30",
-        "openstack": "02/11/2026 08:00",
-        "closeC": "07/11/2026 02:00",
-        "closeD": "07/11/2026 05:00",
-        "verified": false,
-        "mmsi": "413125000",
-        "imo": "9304801"
-      },
-      {
         "name": "ARTOTINA",
         "code": "642S / 645N",
         "eta": "08/11/2026 18:00",
@@ -78,6 +66,18 @@
         "verified": false,
         "mmsi": "538007483",
         "imo": "9330719"
+      },
+      {
+        "name": "XIN YAN TAI",
+        "code": "275S / 275N",
+        "eta": "09/11/2026 14:00",
+        "etd": "10/11/2026 11:00",
+        "openstack": "02/11/2026 08:00",
+        "closeC": "07/11/2026 02:00",
+        "closeD": "07/11/2026 05:00",
+        "verified": false,
+        "mmsi": "413125000",
+        "imo": "9304801"
       },
       {
         "name": "GSL MAMITSA",
