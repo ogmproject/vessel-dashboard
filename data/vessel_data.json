@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T23:00:54+00:00",
+  "generated_at": "2026-11-08T23:30:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -246,7 +246,7 @@
         "type": "INTERNATIONAL",
         "carrier": "GOLD STAR LINE LTD",
         "atb": "08/11/2026 18:50",
-        "etd": "09/11/2026 21:00",
+        "etd": "09/11/2026 16:00",
         "mmsi": "563279800",
         "imo": "9407134"
       },
@@ -270,6 +270,16 @@
         "closeC": "07/11/2026 16:00"
       },
       {
+        "name": "MERATUS LAMPUNG",
+        "code": "MEPN002",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "09/11/2026 18:00",
+        "etd": "10/11/2026 19:00",
+        "openstack": "01/11/2026 08:00",
+        "closeC": "10/11/2026 07:00"
+      },
+      {
         "name": "MERATUS KUMAI",
         "code": "MEKM014",
         "type": "INTERNATIONAL",
@@ -278,16 +288,6 @@
         "etd": "10/11/2026 19:30",
         "openstack": "04/11/2026 20:00",
         "closeC": "09/11/2026 20:00"
-      },
-      {
-        "name": "MERATUS LAMPUNG",
-        "code": "MEPN002",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "09/11/2026 23:00",
-        "etd": "11/11/2026 00:00",
-        "openstack": "01/11/2026 08:00",
-        "closeC": "10/11/2026 07:00"
       },
       {
         "name": "WAN HANG HENG YUAN",
