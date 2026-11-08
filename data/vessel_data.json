@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T01:30:43+00:00",
+  "generated_at": "2026-11-08T02:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -54,7 +54,7 @@
         "name": "STARSHIP VENUS",
         "code": "2609S / 2609N",
         "eta": "08/11/2026 09:00",
-        "etd": "09/11/2026 07:00",
+        "etd": "09/11/2026 11:00",
         "openstack": "03/11/2026 18:00",
         "closeC": "08/11/2026 12:00",
         "closeD": "08/11/2026 15:00",
@@ -328,15 +328,6 @@
         "atd": "08/11/2026 08:07",
         "mmsi": "477883500",
         "imo": "9412828"
-      },
-      {
-        "name": "AS CAROLINA",
-        "code": "ASRO009",
-        "voyage": "350S         / 350N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "atb": "06/11/2026 09:30",
-        "atd": "07/11/2026 08:50"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
