@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T17:30:48+00:00",
+  "generated_at": "2026-11-08T18:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -256,28 +256,11 @@
         "imo": "9407134"
       },
       {
-        "name": "CELSIUS EINDHOVEN",
-        "code": "CEUS013",
-        "voyage": "035E         / 036W",
-        "type": "INTERNATIONAL",
-        "atb": "08/11/2026 07:53",
-        "etd": "08/11/2026 23:30",
-        "mmsi": "538011074",
-        "imo": "9969948"
-      },
-      {
         "name": "SEASPAN EMERALD",
         "code": "SEEM012",
         "type": "INTERNATIONAL",
         "mmsi": "563279800",
         "imo": "9407134"
-      },
-      {
-        "name": "15",
-        "code": "15",
-        "carrier": "FREEPORT INDONESIA PT.",
-        "voyage": "CELSIUS EINDHOVEN / CEUS013",
-        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
@@ -325,6 +308,16 @@
       }
     ],
     "departed": [
+      {
+        "name": "CELSIUS EINDHOVEN",
+        "code": "CEUS013",
+        "voyage": "035E         / 036W",
+        "type": "INTERNATIONAL",
+        "atb": "08/11/2026 07:53",
+        "atd": "09/11/2026 00:33",
+        "mmsi": "538011074",
+        "imo": "9969948"
+      },
       {
         "name": "BELAWAN",
         "code": "BEAN015",
