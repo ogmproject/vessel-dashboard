@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T02:30:45+00:00",
+  "generated_at": "2026-11-08T03:00:54+00:00",
   "tps": {
     "alongside": [
       {
@@ -315,6 +315,19 @@
         "etd": "11/11/2026 05:00",
         "openstack": "01/11/2026 08:00",
         "closeC": "10/11/2026 07:00"
+      },
+      {
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN007",
+        "voyage": "013S         / 013N",
+        "type": "INTERNATIONAL",
+        "etb": "13/11/2026 14:00",
+        "etd": "14/11/2026 10:30",
+        "openstack": "08/11/2026 14:00",
+        "closeC": "13/11/2026 09:00",
+        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik.",
+        "mmsi": "352006269",
+        "imo": "1115565"
       }
     ],
     "departed": [
