@@ -2712,8 +2712,8 @@
     "vessel_name": "MSC COLETTE III",
     "terminal": "TPS",
     "arrival": "2026-11-08T01:49:00",
-    "departure": null,
-    "recorded_at": "2026-11-07T19:00:56.022344"
+    "departure": "2026-11-08T14:07:00",
+    "recorded_at": "2026-11-08T07:30:48.131570"
   },
   {
     "vessel_name": "CELSIUS EINDHOVEN",
