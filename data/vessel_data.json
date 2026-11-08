@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T16:30:48+00:00",
+  "generated_at": "2026-11-08T17:00:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -238,16 +238,6 @@
         "name": "SMOOTH SAILING",
         "berth": "06/11/2026 10:10",
         "dep": "07/11/2026 00:28"
-      },
-      {
-        "name": "EVER BLINK",
-        "berth": "05/11/2026 19:40",
-        "dep": "06/11/2026 14:30"
-      },
-      {
-        "name": "EVER CONSIST",
-        "berth": "05/11/2026 17:56",
-        "dep": "06/11/2026 04:20"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
