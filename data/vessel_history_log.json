@@ -2714,5 +2714,12 @@
     "arrival": "2026-11-08T01:49:00",
     "departure": null,
     "recorded_at": "2026-11-07T19:00:56.022344"
+  },
+  {
+    "vessel_name": "CELSIUS EINDHOVEN",
+    "terminal": "TL",
+    "arrival": "2026-11-08T07:53:00",
+    "departure": null,
+    "recorded_at": "2026-11-08T01:00:56.232463"
   }
 ]

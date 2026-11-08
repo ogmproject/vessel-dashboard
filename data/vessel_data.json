@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T00:30:47+00:00",
+  "generated_at": "2026-11-08T01:00:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -255,6 +255,16 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "CELSIUS EINDHOVEN",
+        "code": "CEUS013",
+        "voyage": "035E         / 036W",
+        "type": "INTERNATIONAL",
+        "atb": "08/11/2026 07:53",
+        "etd": "08/11/2026 19:00",
+        "mmsi": "538011074",
+        "imo": "9969948"
+      },
+      {
         "name": "BELAWAN",
         "code": "BEAN015",
         "voyage": "2610S        / 2610N",
@@ -266,6 +276,13 @@
         "imo": "9412828"
       },
       {
+        "name": "CELSIUS EINDHOVEN",
+        "code": "CEUS013",
+        "type": "INTERNATIONAL",
+        "mmsi": "538011074",
+        "imo": "9969948"
+      },
+      {
         "name": "BELAWAN",
         "code": "BEAN015",
         "type": "INTERNATIONAL",
@@ -274,18 +291,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "CELSIUS EINDHOVEN",
-        "code": "CEUS013",
-        "voyage": "035E         / 036W",
-        "type": "INTERNATIONAL",
-        "etb": "08/11/2026 06:00",
-        "etd": "08/11/2026 19:00",
-        "openstack": "02/11/2026 08:00",
-        "closeC": "07/11/2026 16:00",
-        "mmsi": "538011074",
-        "imo": "9969948"
-      },
       {
         "name": "SEASPAN EMERALD",
         "code": "SEEM012",

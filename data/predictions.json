@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T00:30:48.040051",
+  "generated_at": "2026-11-08T01:00:56.232463",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -614,6 +614,17 @@
       "avg_interval_days": 35.9,
       "interval_stddev_days": 13.1,
       "avg_dwelling_hours": 8.1,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "CELSIUS EINDHOVEN",
+      "terminal": "TL",
+      "last_arrival": "2026-11-08T07:53:00",
+      "predicted_next_arrival": "2026-12-10T07:53:30",
+      "avg_interval_days": 32.0,
+      "interval_stddev_days": 1.1,
+      "avg_dwelling_hours": 33.4,
       "visits_recorded": 3,
       "confidence": "medium"
     },
