@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-11-08T05:30:47+00:00",
+  "generated_at": "2026-11-08T06:00:53+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - SINAR SUNDA",
+        "code": "248S / 248N",
+        "atb": "08/11/2026 12:20",
+        "etd": "09/11/2026 17:00",
+        "verified": false
+      },
       {
         "name": "I3 - MSC COLETTE III",
         "code": "XF644A / XF644A",
@@ -46,16 +53,6 @@
         "verified": false,
         "mmsi": "413125000",
         "imo": "9304801"
-      },
-      {
-        "name": "SINAR SUNDA",
-        "code": "248S / 248N",
-        "eta": "08/11/2026 08:00",
-        "etd": "09/11/2026 17:00",
-        "openstack": "03/11/2026 00:01",
-        "closeC": "07/11/2026 18:01",
-        "closeD": "07/11/2026 21:01",
-        "verified": false
       },
       {
         "name": "ARTOTINA",
