@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T21:30:47+00:00",
+  "generated_at": "2026-11-09T22:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -280,7 +280,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "10/11/2026 03:50",
-        "etd": "10/11/2026 22:00"
+        "etd": "11/11/2026 00:00"
       },
       {
         "name": "HALLEY",
@@ -310,8 +310,8 @@
         "code": "MEPN002",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "10/11/2026 14:00",
-        "etd": "11/11/2026 18:00",
+        "etb": "10/11/2026 16:00",
+        "etd": "11/11/2026 20:00",
         "openstack": "01/11/2026 08:00",
         "closeC": "10/11/2026 07:00"
       },
