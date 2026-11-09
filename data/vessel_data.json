@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T22:30:45+00:00",
+  "generated_at": "2026-11-09T23:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "642S / 645N",
         "atb": "09/11/2026 23:35",
         "etd": "10/11/2026 12:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - HYUNDAI UNITY",
-        "code": "0186S / 0186N",
-        "atb": "09/11/2026 03:40",
-        "etd": "10/11/2026 04:00",
         "verified": false
       },
       {
@@ -249,6 +242,13 @@
       }
     ],
     "movement": [
+      {
+        "name": "HYUNDAI UNITY",
+        "berth": "09/11/2026 03:40",
+        "dep": "10/11/2026 05:33",
+        "mmsi": "538007483",
+        "imo": "9330719"
+      },
       {
         "name": "STARSHIP VENUS",
         "berth": "08/11/2026 11:00",

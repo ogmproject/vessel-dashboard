@@ -2747,8 +2747,8 @@
     "vessel_name": "HYUNDAI UNITY",
     "terminal": "TPS",
     "arrival": "2026-11-09T03:40:00",
-    "departure": null,
-    "recorded_at": "2026-11-08T21:00:58.155687"
+    "departure": "2026-11-10T05:33:00",
+    "recorded_at": "2026-11-09T23:00:53.510175"
   },
   {
     "vessel_name": "HALLEY",
