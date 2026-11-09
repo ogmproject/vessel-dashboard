@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:30:50.203628",
+  "generated_at": "2026-11-09T07:00:52.037648",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -658,6 +658,17 @@
       "avg_interval_days": 38.4,
       "interval_stddev_days": 1.8,
       "avg_dwelling_hours": 23.1,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "HALLEY",
+      "terminal": "TL",
+      "last_arrival": "2026-11-09T13:42:00",
+      "predicted_next_arrival": "2026-12-13T02:40:30",
+      "avg_interval_days": 33.5,
+      "interval_stddev_days": 0.8,
+      "avg_dwelling_hours": 21.7,
       "visits_recorded": 3,
       "confidence": "medium"
     }

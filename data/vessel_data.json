@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:30:50+00:00",
+  "generated_at": "2026-11-09T07:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -252,6 +252,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "HALLEY",
+        "code": "HALY010",
+        "voyage": "017E         / 018W",
+        "type": "INTERNATIONAL",
+        "atb": "09/11/2026 13:42",
+        "etd": "10/11/2026 16:00"
+      },
+      {
         "name": "SEASPAN EMERALD",
         "code": "SEEM012",
         "voyage": "49S          / 49N",
@@ -263,6 +271,11 @@
         "imo": "9407134"
       },
       {
+        "name": "HALLEY",
+        "code": "HALY010",
+        "type": "INTERNATIONAL"
+      },
+      {
         "name": "SEASPAN EMERALD",
         "code": "SEEM012",
         "type": "INTERNATIONAL",
@@ -272,34 +285,24 @@
     ],
     "schedule": [
       {
-        "name": "HALLEY",
-        "code": "HALY010",
-        "voyage": "017E         / 018W",
+        "name": "MERATUS KUMAI",
+        "code": "MEKM014",
         "type": "INTERNATIONAL",
-        "etb": "09/11/2026 13:00",
-        "etd": "10/11/2026 15:00",
-        "openstack": "04/11/2026 13:00",
-        "closeC": "07/11/2026 16:00"
+        "carrier": "PT. MERATUS LINE",
+        "etb": "10/11/2026 02:00",
+        "etd": "10/11/2026 19:00",
+        "openstack": "04/11/2026 20:00",
+        "closeC": "09/11/2026 20:00"
       },
       {
         "name": "MERATUS LAMPUNG",
         "code": "MEPN002",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "09/11/2026 20:00",
-        "etd": "10/11/2026 21:00",
+        "etb": "10/11/2026 14:00",
+        "etd": "11/11/2026 15:00",
         "openstack": "01/11/2026 08:00",
         "closeC": "10/11/2026 07:00"
-      },
-      {
-        "name": "MERATUS KUMAI",
-        "code": "MEKM014",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "10/11/2026 14:00",
-        "etd": "11/11/2026 07:00",
-        "openstack": "04/11/2026 20:00",
-        "closeC": "09/11/2026 20:00"
       },
       {
         "name": "WAN HANG HENG YUAN",
@@ -312,6 +315,19 @@
         "closeC": "13/11/2026 09:00",
         "mmsi": "352006269",
         "imo": "1115565"
+      },
+      {
+        "name": "SEABREEZE",
+        "code": "SEZE004",
+        "voyage": "0004S        / 0004N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "etb": "14/11/2026 20:00",
+        "etd": "14/11/2026 20:30",
+        "openstack": "09/11/2026 20:00",
+        "closeC": "14/11/2026 15:00",
+        "mmsi": "636021108",
+        "imo": "9472579"
       }
     ],
     "departed": [
