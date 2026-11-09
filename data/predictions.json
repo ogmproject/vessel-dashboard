@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:30:51.128133",
+  "generated_at": "2026-11-09T18:00:55.022652",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -669,6 +669,17 @@
       "avg_interval_days": 33.5,
       "interval_stddev_days": 0.8,
       "avg_dwelling_hours": 21.7,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "XIN YAN TAI",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-10T00:38:00",
+      "predicted_next_arrival": "2026-12-14T02:57:00",
+      "avg_interval_days": 34.1,
+      "interval_stddev_days": 2.4,
+      "avg_dwelling_hours": 26.6,
       "visits_recorded": 3,
       "confidence": "medium"
     },
