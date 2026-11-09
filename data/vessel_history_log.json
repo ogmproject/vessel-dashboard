@@ -2740,8 +2740,8 @@
     "vessel_name": "SEASPAN EMERALD",
     "terminal": "TL",
     "arrival": "2026-11-08T18:50:00",
-    "departure": null,
-    "recorded_at": "2026-11-08T12:00:55.047782"
+    "departure": "2026-11-09T19:42:00",
+    "recorded_at": "2026-11-09T13:00:58.070581"
   },
   {
     "vessel_name": "HYUNDAI UNITY",
