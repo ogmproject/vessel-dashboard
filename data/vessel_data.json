@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-09T10:00:58+00:00",
+  "generated_at": "2026-11-09T10:31:46+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SINAR SUNDA",
         "code": "248S / 248N",
         "atb": "08/11/2026 12:20",
-        "etd": "09/11/2026 20:00",
+        "etd": "09/11/2026 21:30",
         "verified": false
       },
       {
         "name": "I3 - HYUNDAI UNITY",
         "code": "0186S / 0186N",
         "atb": "09/11/2026 03:40",
-        "etd": "10/11/2026 00:00",
+        "etd": "10/11/2026 01:30",
         "verified": false
       },
       {
         "name": "I1 - STARSHIP VENUS",
         "code": "2609S / 2609N",
         "atb": "08/11/2026 11:00",
-        "etd": "09/11/2026 20:00",
+        "etd": "09/11/2026 21:30",
         "verified": false
       }
     ],
