@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T01:00:53+00:00",
+  "generated_at": "2026-11-09T01:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,7 +20,7 @@
         "name": "I1 - STARSHIP VENUS",
         "code": "2609S / 2609N",
         "atb": "08/11/2026 11:00",
-        "etd": "09/11/2026 12:00",
+        "etd": "09/11/2026 16:00",
         "verified": false
       }
     ],
@@ -198,6 +198,18 @@
         "verified": false
       },
       {
+        "name": "CONTSHIP YEN",
+        "code": "2926S / 2926S",
+        "eta": "14/11/2026 00:05",
+        "etd": "14/11/2026 08:35",
+        "openstack": "09/11/2026 00:05",
+        "closeC": "13/11/2026 18:05",
+        "closeD": "13/11/2026 21:05",
+        "verified": false,
+        "mmsi": "209692000",
+        "imo": "9664263"
+      },
+      {
         "name": "KOTA JOHAN",
         "code": "0081E / 0081W",
         "eta": "19/11/2026 08:00",
@@ -312,17 +324,6 @@
         "atd": "09/11/2026 00:33",
         "mmsi": "538011074",
         "imo": "9969948"
-      },
-      {
-        "name": "BELAWAN",
-        "code": "BEAN015",
-        "voyage": "2610S        / 2610N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "07/11/2026 18:25",
-        "atd": "08/11/2026 08:07",
-        "mmsi": "477883500",
-        "imo": "9412828"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
