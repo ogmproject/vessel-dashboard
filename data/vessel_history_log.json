@@ -2726,8 +2726,8 @@
     "vessel_name": "STARSHIP VENUS",
     "terminal": "TPS",
     "arrival": "2026-11-08T11:00:00",
-    "departure": null,
-    "recorded_at": "2026-11-08T04:30:47.354760"
+    "departure": "2026-11-09T22:37:00",
+    "recorded_at": "2026-11-09T16:00:59.395773"
   },
   {
     "vessel_name": "SINAR SUNDA",
