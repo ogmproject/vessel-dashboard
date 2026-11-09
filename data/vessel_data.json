@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-11-09T14:30:47+00:00",
+  "generated_at": "2026-11-09T15:00:55+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - SINAR SUNDA",
-        "code": "248S / 248N",
-        "atb": "08/11/2026 12:20",
-        "etd": "09/11/2026 21:30",
-        "verified": false
-      },
       {
         "name": "I3 - HYUNDAI UNITY",
         "code": "0186S / 0186N",
@@ -178,6 +171,16 @@
         "verified": false
       },
       {
+        "name": "HONG TAI 656",
+        "code": "645S / 645S",
+        "eta": "12/11/2026 18:00",
+        "etd": "12/11/2026 19:30",
+        "openstack": "07/11/2026 18:00",
+        "closeC": "12/11/2026 12:00",
+        "closeD": "12/11/2026 15:00",
+        "verified": false
+      },
+      {
         "name": "EVER OBEY",
         "code": "0500-059S / 0500-059N",
         "eta": "13/11/2026 16:00",
@@ -230,6 +233,26 @@
         "imo": "9664263"
       },
       {
+        "name": "MARSA PRIDE",
+        "code": "643S / 646N",
+        "eta": "15/11/2026 18:00",
+        "etd": "17/11/2026 02:30",
+        "openstack": "07/12/2026 23:00",
+        "closeC": "12/12/2026 17:00",
+        "closeD": "12/12/2026 20:00",
+        "verified": false
+      },
+      {
+        "name": "HONG TAI 656",
+        "code": "646N / 646N",
+        "eta": "16/11/2026 00:01",
+        "etd": "18/11/2026 08:31",
+        "openstack": "11/11/2026 00:01",
+        "closeC": "15/11/2026 18:01",
+        "closeD": "15/11/2026 21:01",
+        "verified": false
+      },
+      {
         "name": "KOTA JOHAN",
         "code": "0081E / 0081W",
         "eta": "19/11/2026 08:00",
@@ -241,6 +264,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SINAR SUNDA",
+        "berth": "08/11/2026 12:20",
+        "dep": "09/11/2026 21:56"
+      },
       {
         "name": "MSC CHERYL 3",
         "berth": "07/11/2026 16:18",
