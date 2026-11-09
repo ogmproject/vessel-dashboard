@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-09T05:00:59+00:00",
+  "generated_at": "2026-11-09T05:30:45+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SINAR SUNDA",
         "code": "248S / 248N",
         "atb": "08/11/2026 12:20",
-        "etd": "09/11/2026 22:00",
+        "etd": "09/11/2026 20:00",
         "verified": false
       },
       {
@@ -20,7 +20,7 @@
         "name": "I1 - STARSHIP VENUS",
         "code": "2609S / 2609N",
         "atb": "08/11/2026 11:00",
-        "etd": "09/11/2026 18:00",
+        "etd": "09/11/2026 20:00",
         "verified": false
       }
     ],
