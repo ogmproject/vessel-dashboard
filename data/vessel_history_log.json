@@ -2756,5 +2756,12 @@
     "arrival": "2026-11-09T13:42:00",
     "departure": null,
     "recorded_at": "2026-11-09T07:00:52.037648"
+  },
+  {
+    "vessel_name": "ARTOTINA",
+    "terminal": "TPS",
+    "arrival": "2026-11-09T23:35:00",
+    "departure": null,
+    "recorded_at": "2026-11-09T17:00:59.914255"
   }
 ]

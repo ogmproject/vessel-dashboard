@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T16:30:49.726522",
+  "generated_at": "2026-11-09T17:00:59.914255",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -669,6 +669,17 @@
       "avg_interval_days": 33.5,
       "interval_stddev_days": 0.8,
       "avg_dwelling_hours": 21.7,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "ARTOTINA",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-09T23:35:00",
+      "predicted_next_arrival": "2026-12-16T01:17:30",
+      "avg_interval_days": 36.1,
+      "interval_stddev_days": 0.9,
+      "avg_dwelling_hours": 13.8,
       "visits_recorded": 3,
       "confidence": "medium"
     }

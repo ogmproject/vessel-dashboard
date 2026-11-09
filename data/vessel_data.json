@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-11-09T16:30:49+00:00",
+  "generated_at": "2026-11-09T17:00:59+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - ARTOTINA",
+        "code": "642S / 645N",
+        "atb": "09/11/2026 23:35",
+        "etd": "10/11/2026 12:00",
+        "verified": false
+      },
       {
         "name": "I3 - HYUNDAI UNITY",
         "code": "0186S / 0186N",
@@ -32,16 +39,6 @@
         "verified": false,
         "mmsi": "413125000",
         "imo": "9304801"
-      },
-      {
-        "name": "ARTOTINA",
-        "code": "642S / 645N",
-        "eta": "09/11/2026 22:00",
-        "etd": "10/11/2026 12:00",
-        "openstack": "03/11/2026 18:00",
-        "closeC": "08/11/2026 12:00",
-        "closeD": "08/11/2026 15:00",
-        "verified": false
       },
       {
         "name": "ES TREASURE",
@@ -276,21 +273,6 @@
         "name": "MSC COLETTE III",
         "berth": "08/11/2026 01:49",
         "dep": "08/11/2026 14:07"
-      },
-      {
-        "name": "ES TREASURE",
-        "berth": "06/11/2026 16:45",
-        "dep": "07/11/2026 10:23"
-      },
-      {
-        "name": "MSC NIKOLETA II",
-        "berth": "06/11/2026 12:55",
-        "dep": "07/11/2026 06:55"
-      },
-      {
-        "name": "SMOOTH SAILING",
-        "berth": "06/11/2026 10:10",
-        "dep": "07/11/2026 00:28"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
