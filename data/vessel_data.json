@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T09:01:00+00:00",
+  "generated_at": "2026-11-09T09:30:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -291,8 +291,10 @@
         "imo": "9407134"
       },
       {
-        "name": "HALLEY",
-        "code": "HALY010",
+        "name": "9126",
+        "code": "9126",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "HALLEY / HALY010",
         "type": "INTERNATIONAL"
       },
       {
