@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:30:46+00:00",
+  "generated_at": "2026-11-09T21:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -275,12 +275,26 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM014",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "10/11/2026 03:50",
+        "etd": "10/11/2026 22:00"
+      },
+      {
         "name": "HALLEY",
         "code": "HALY010",
         "voyage": "017E         / 018W",
         "type": "INTERNATIONAL",
         "atb": "09/11/2026 13:42",
         "etd": "10/11/2026 12:00"
+      },
+      {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM014",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE"
       },
       {
         "name": "9126",
@@ -291,16 +305,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MERATUS KUMAI",
-        "code": "MEKM014",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "10/11/2026 02:00",
-        "etd": "10/11/2026 22:00",
-        "openstack": "04/11/2026 20:00",
-        "closeC": "09/11/2026 20:00"
-      },
       {
         "name": "MERATUS LAMPUNG",
         "code": "MEPN002",

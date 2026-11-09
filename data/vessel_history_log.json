@@ -2770,5 +2770,12 @@
     "arrival": "2026-11-10T00:38:00",
     "departure": null,
     "recorded_at": "2026-11-09T18:00:55.022652"
+  },
+  {
+    "vessel_name": "MERATUS KUMAI",
+    "terminal": "TL",
+    "arrival": "2026-11-10T03:50:00",
+    "departure": null,
+    "recorded_at": "2026-11-09T21:00:53.632697"
   }
 ]
