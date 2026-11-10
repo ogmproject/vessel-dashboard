@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:00:51+00:00",
+  "generated_at": "2026-11-10T14:30:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -285,22 +285,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "MERATUS KUMAI",
-        "code": "MEKM014",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "10/11/2026 03:50",
-        "etd": "10/11/2026 22:00"
-      },
-      {
-        "name": "MERATUS KUMAI",
-        "code": "MEKM014",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "MERATUS LAMPUNG",
@@ -360,6 +345,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "MERATUS KUMAI",
+        "code": "MEKM014",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "10/11/2026 03:50",
+        "atd": "10/11/2026 21:09"
+      },
       {
         "name": "HALLEY",
         "code": "HALY010",
