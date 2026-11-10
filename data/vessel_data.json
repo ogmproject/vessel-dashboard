@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T00:30:47+00:00",
+  "generated_at": "2026-11-10T01:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "642S / 645N",
         "atb": "09/11/2026 23:35",
         "etd": "10/11/2026 12:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - ES TREASURE",
+        "code": "645N / 645N",
+        "atb": "10/11/2026 07:42",
+        "etd": "11/11/2026 02:00",
         "verified": false
       },
       {
@@ -26,16 +33,6 @@
         "openstack": "01/11/2026 18:00",
         "closeC": "06/11/2026 12:00",
         "closeD": "06/11/2026 15:00",
-        "verified": false
-      },
-      {
-        "name": "ES TREASURE",
-        "code": "645N / 645N",
-        "eta": "10/11/2026 02:00",
-        "etd": "11/11/2026 02:00",
-        "openstack": "04/11/2026 00:00",
-        "closeC": "08/11/2026 18:00",
-        "closeD": "08/11/2026 21:00",
         "verified": false
       },
       {
@@ -297,10 +294,8 @@
         "carrier": "PT. MERATUS LINE"
       },
       {
-        "name": "9126",
-        "code": "9126",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "HALLEY / HALY010",
+        "name": "HALLEY",
+        "code": "HALY010",
         "type": "INTERNATIONAL"
       }
     ],

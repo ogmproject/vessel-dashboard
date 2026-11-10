@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T00:30:47.483976",
+  "generated_at": "2026-11-10T01:00:50.683876",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -101,17 +101,6 @@
       "confidence": "medium"
     },
     {
-      "vessel_name": "ES TREASURE",
-      "terminal": "TPS",
-      "last_arrival": "2026-11-06T16:45:00",
-      "predicted_next_arrival": "2026-11-14T00:02:30",
-      "avg_interval_days": 7.3,
-      "interval_stddev_days": 3.8,
-      "avg_dwelling_hours": 27.6,
-      "visits_recorded": 11,
-      "confidence": "medium"
-    },
-    {
       "vessel_name": "EVER CANDID",
       "terminal": "TPS",
       "last_arrival": "2026-10-20T10:40:00",
@@ -153,6 +142,17 @@
       "interval_stddev_days": 4.2,
       "avg_dwelling_hours": 21.7,
       "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "ES TREASURE",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-10T07:42:00",
+      "predicted_next_arrival": "2026-11-17T06:57:38.181818",
+      "avg_interval_days": 7.0,
+      "interval_stddev_days": 3.7,
+      "avg_dwelling_hours": 27.6,
+      "visits_recorded": 12,
       "confidence": "medium"
     },
     {
