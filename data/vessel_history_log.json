@@ -2768,8 +2768,8 @@
     "vessel_name": "XIN YAN TAI",
     "terminal": "TPS",
     "arrival": "2026-11-10T00:38:00",
-    "departure": null,
-    "recorded_at": "2026-11-09T18:00:55.022652"
+    "departure": "2026-11-10T21:45:00",
+    "recorded_at": "2026-11-10T15:00:58.258464"
   },
   {
     "vessel_name": "MERATUS KUMAI",
