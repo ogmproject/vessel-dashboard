@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T06:00:53+00:00",
+  "generated_at": "2026-11-10T06:30:54+00:00",
   "tps": {
     "alongside": [
       {
@@ -42,7 +42,7 @@
         "name": "GSL MAMITSA",
         "code": "022S / 022N",
         "eta": "10/11/2026 14:00",
-        "etd": "12/11/2026 06:00",
+        "etd": "11/11/2026 09:00",
         "openstack": "05/11/2026 00:00",
         "closeC": "09/11/2026 18:00",
         "closeD": "09/11/2026 21:00",
@@ -278,23 +278,10 @@
         "etd": "10/11/2026 22:00"
       },
       {
-        "name": "HALLEY",
-        "code": "HALY010",
-        "voyage": "017E         / 018W",
-        "type": "INTERNATIONAL",
-        "atb": "09/11/2026 13:42",
-        "etd": "10/11/2026 13:30"
-      },
-      {
         "name": "MERATUS KUMAI",
         "code": "MEKM014",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE"
-      },
-      {
-        "name": "HALLEY",
-        "code": "HALY010",
-        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
@@ -356,6 +343,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "HALLEY",
+        "code": "HALY010",
+        "voyage": "017E         / 018W",
+        "type": "INTERNATIONAL",
+        "atb": "09/11/2026 13:42",
+        "atd": "10/11/2026 13:24"
+      },
       {
         "name": "SEASPAN EMERALD",
         "code": "SEEM012",

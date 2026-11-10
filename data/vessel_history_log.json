@@ -2754,8 +2754,8 @@
     "vessel_name": "HALLEY",
     "terminal": "TL",
     "arrival": "2026-11-09T13:42:00",
-    "departure": null,
-    "recorded_at": "2026-11-09T07:00:52.037648"
+    "departure": "2026-11-10T13:24:00",
+    "recorded_at": "2026-11-10T06:30:54.700364"
   },
   {
     "vessel_name": "ARTOTINA",
