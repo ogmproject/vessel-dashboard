@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T02:30:43+00:00",
+  "generated_at": "2026-11-10T03:00:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,7 +20,7 @@
         "name": "I2 - XIN YAN TAI",
         "code": "275S / 275N",
         "atb": "10/11/2026 00:38",
-        "etd": "12/11/2026 02:30",
+        "etd": "10/11/2026 22:30",
         "verified": false
       }
     ],
@@ -277,7 +277,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "10/11/2026 03:50",
-        "etd": "11/11/2026 00:00"
+        "etd": "10/11/2026 22:00"
       },
       {
         "name": "HALLEY",
@@ -285,7 +285,7 @@
         "voyage": "017E         / 018W",
         "type": "INTERNATIONAL",
         "atb": "09/11/2026 13:42",
-        "etd": "10/11/2026 13:00"
+        "etd": "10/11/2026 13:30"
       },
       {
         "name": "MERATUS KUMAI",
@@ -305,8 +305,8 @@
         "code": "MEPN002",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "10/11/2026 16:00",
-        "etd": "11/11/2026 20:00",
+        "etb": "10/11/2026 20:00",
+        "etd": "12/11/2026 00:00",
         "openstack": "01/11/2026 08:00",
         "closeC": "10/11/2026 07:00"
       },
