@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T16:30:49+00:00",
+  "generated_at": "2026-11-10T17:00:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -270,16 +270,6 @@
         "name": "SINAR SUNDA",
         "berth": "08/11/2026 12:20",
         "dep": "09/11/2026 21:56"
-      },
-      {
-        "name": "MSC CHERYL 3",
-        "berth": "07/11/2026 16:18",
-        "dep": "08/11/2026 16:43"
-      },
-      {
-        "name": "MSC COLETTE III",
-        "berth": "08/11/2026 01:49",
-        "dep": "08/11/2026 14:07"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
