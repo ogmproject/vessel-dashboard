@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T06:30:54+00:00",
+  "generated_at": "2026-11-10T07:00:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -41,21 +41,11 @@
       {
         "name": "GSL MAMITSA",
         "code": "022S / 022N",
-        "eta": "10/11/2026 14:00",
-        "etd": "11/11/2026 09:00",
+        "eta": "10/11/2026 15:00",
+        "etd": "11/11/2026 06:00",
         "openstack": "05/11/2026 00:00",
         "closeC": "09/11/2026 18:00",
         "closeD": "09/11/2026 21:00",
-        "verified": false
-      },
-      {
-        "name": "CMA CGM FORT DIAMANT",
-        "code": "0XLCTS / 0XLCUN",
-        "eta": "10/11/2026 20:00",
-        "etd": "11/11/2026 22:00",
-        "openstack": "31/10/2026 20:00",
-        "closeC": "05/11/2026 14:00",
-        "closeD": "05/11/2026 17:00",
         "verified": false
       },
       {
@@ -69,20 +59,20 @@
         "verified": false
       },
       {
-        "name": "MSC AMEERA III",
-        "code": "HV645R / HV645R",
-        "eta": "11/11/2026 02:00",
-        "etd": "12/11/2026 03:30",
-        "openstack": "06/11/2026 02:00",
-        "closeC": "10/11/2026 20:00",
-        "closeD": "10/11/2026 23:00",
+        "name": "CMA CGM FORT DIAMANT",
+        "code": "0XLCTS / 0XLCUN",
+        "eta": "11/11/2026 00:01",
+        "etd": "12/11/2026 22:00",
+        "openstack": "31/10/2026 20:00",
+        "closeC": "05/11/2026 14:00",
+        "closeD": "05/11/2026 17:00",
         "verified": false
       },
       {
-        "name": "MSC COLETTE III",
-        "code": "XF644R / XF644R",
-        "eta": "11/11/2026 02:00",
-        "etd": "12/11/2026 09:30",
+        "name": "MSC AMEERA III",
+        "code": "HV645R / HV645R",
+        "eta": "11/11/2026 08:00",
+        "etd": "12/11/2026 12:00",
         "openstack": "06/11/2026 02:00",
         "closeC": "10/11/2026 20:00",
         "closeD": "10/11/2026 23:00",
@@ -91,8 +81,8 @@
       {
         "name": "SINAR SULAWESI",
         "code": "102S / 102N",
-        "eta": "11/11/2026 08:00",
-        "etd": "12/11/2026 19:30",
+        "eta": "11/11/2026 12:00",
+        "etd": "12/11/2026 04:00",
         "openstack": "06/11/2026 08:00",
         "closeC": "11/11/2026 02:00",
         "closeD": "11/11/2026 05:00",
@@ -136,6 +126,16 @@
         "openstack": "06/11/2026 20:00",
         "closeC": "11/11/2026 14:00",
         "closeD": "11/11/2026 17:00",
+        "verified": false
+      },
+      {
+        "name": "MSC COLETTE III",
+        "code": "XF644R / XF644R",
+        "eta": "12/11/2026 04:00",
+        "etd": "12/11/2026 22:00",
+        "openstack": "06/11/2026 02:00",
+        "closeC": "10/11/2026 20:00",
+        "closeD": "10/11/2026 23:00",
         "verified": false
       },
       {
