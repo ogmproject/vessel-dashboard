@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:30:51.971890",
+  "generated_at": "2026-11-10T18:00:55.052123",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -691,6 +691,17 @@
       "avg_interval_days": 36.1,
       "interval_stddev_days": 0.9,
       "avg_dwelling_hours": 13.3,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "CMA CGM FORT DIAMANT",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-11T00:20:00",
+      "predicted_next_arrival": "2026-12-19T10:45:00",
+      "avg_interval_days": 38.4,
+      "interval_stddev_days": 5.0,
+      "avg_dwelling_hours": 31.5,
       "visits_recorded": 3,
       "confidence": "medium"
     }

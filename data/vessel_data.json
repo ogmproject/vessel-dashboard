@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:30:51+00:00",
+  "generated_at": "2026-11-10T18:00:54+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,6 +14,13 @@
         "code": "645N / 645N",
         "atb": "10/11/2026 07:42",
         "etd": "11/11/2026 07:00",
+        "verified": false
+      },
+      {
+        "name": "I2 - CMA CGM FORT DIAMANT",
+        "code": "0XLCTS / 0XLCUN",
+        "atb": "11/11/2026 00:20",
+        "etd": "12/11/2026 22:00",
         "verified": false
       }
     ],
@@ -46,16 +53,6 @@
         "openstack": "05/11/2026 23:00",
         "closeC": "10/11/2026 17:00",
         "closeD": "10/11/2026 20:00",
-        "verified": false
-      },
-      {
-        "name": "CMA CGM FORT DIAMANT",
-        "code": "0XLCTS / 0XLCUN",
-        "eta": "11/11/2026 00:01",
-        "etd": "12/11/2026 22:00",
-        "openstack": "31/10/2026 20:00",
-        "closeC": "05/11/2026 14:00",
-        "closeD": "05/11/2026 17:00",
         "verified": false
       },
       {
