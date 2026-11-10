@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T08:00:52.688894",
+  "generated_at": "2026-11-10T08:30:47.141277",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -43,17 +43,6 @@
       "interval_stddev_days": 15.7,
       "avg_dwelling_hours": 29.3,
       "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "GSL MAMITSA",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-19T10:40:00",
-      "predicted_next_arrival": "2026-11-09T12:31:40",
-      "avg_interval_days": 21.1,
-      "interval_stddev_days": 2.2,
-      "avg_dwelling_hours": 20.6,
-      "visits_recorded": 4,
       "confidence": "medium"
     },
     {
@@ -495,6 +484,17 @@
       "avg_dwelling_hours": 16.4,
       "visits_recorded": 4,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "GSL MAMITSA",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-10T15:05:00",
+      "predicted_next_arrival": "2026-12-01T23:35:00",
+      "avg_interval_days": 21.4,
+      "interval_stddev_days": 2.0,
+      "avg_dwelling_hours": 20.6,
+      "visits_recorded": 5,
+      "confidence": "high"
     },
     {
       "vessel_name": "XIN YANG PU",

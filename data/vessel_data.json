@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-11-10T08:00:52+00:00",
+  "generated_at": "2026-11-10T08:30:47+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - GSL MAMITSA",
+        "code": "022S / 022N",
+        "atb": "10/11/2026 15:05",
+        "etd": "11/11/2026 06:00",
+        "verified": false
+      },
       {
         "name": "I3 - ES TREASURE",
         "code": "645N / 645N",
@@ -36,16 +43,6 @@
         "openstack": "05/11/2026 11:11",
         "closeC": "10/11/2026 05:11",
         "closeD": "10/11/2026 08:11",
-        "verified": false
-      },
-      {
-        "name": "GSL MAMITSA",
-        "code": "022S / 022N",
-        "eta": "10/11/2026 15:00",
-        "etd": "11/11/2026 06:00",
-        "openstack": "05/11/2026 00:00",
-        "closeC": "09/11/2026 18:00",
-        "closeD": "09/11/2026 21:00",
         "verified": false
       },
       {
