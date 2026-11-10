@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:30:45+00:00",
+  "generated_at": "2026-11-10T13:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -367,17 +367,6 @@
         "type": "INTERNATIONAL",
         "atb": "09/11/2026 13:42",
         "atd": "10/11/2026 13:24"
-      },
-      {
-        "name": "SEASPAN EMERALD",
-        "code": "SEEM012",
-        "voyage": "49S          / 49N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "atb": "08/11/2026 18:50",
-        "atd": "09/11/2026 19:42",
-        "mmsi": "563279800",
-        "imo": "9407134"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
