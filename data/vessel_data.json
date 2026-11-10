@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T02:00:52+00:00",
+  "generated_at": "2026-11-10T02:30:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -285,7 +285,7 @@
         "voyage": "017E         / 018W",
         "type": "INTERNATIONAL",
         "atb": "09/11/2026 13:42",
-        "etd": "10/11/2026 12:00"
+        "etd": "10/11/2026 13:00"
       },
       {
         "name": "MERATUS KUMAI",
