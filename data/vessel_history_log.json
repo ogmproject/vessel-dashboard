@@ -2761,8 +2761,8 @@
     "vessel_name": "ARTOTINA",
     "terminal": "TPS",
     "arrival": "2026-11-09T23:35:00",
-    "departure": null,
-    "recorded_at": "2026-11-09T17:00:59.914255"
+    "departure": "2026-11-10T12:02:00",
+    "recorded_at": "2026-11-10T05:30:47.091250"
   },
   {
     "vessel_name": "XIN YAN TAI",
