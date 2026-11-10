@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-10T10:00:51+00:00",
+  "generated_at": "2026-11-10T10:30:47+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - GSL MAMITSA",
         "code": "022S / 022N",
         "atb": "10/11/2026 15:05",
-        "etd": "11/11/2026 06:00",
+        "etd": "11/11/2026 10:00",
         "verified": false
       },
       {
         "name": "I3 - ES TREASURE",
         "code": "645N / 645N",
         "atb": "10/11/2026 07:42",
-        "etd": "11/11/2026 03:00",
+        "etd": "11/11/2026 07:00",
         "verified": false
       },
       {
         "name": "I2 - XIN YAN TAI",
         "code": "275S / 275N",
         "atb": "10/11/2026 00:38",
-        "etd": "10/11/2026 22:30",
+        "etd": "10/11/2026 21:00",
         "verified": false
       }
     ],
@@ -196,6 +196,16 @@
         "verified": false,
         "mmsi": "209692000",
         "imo": "9664263"
+      },
+      {
+        "name": "SINAR SUNDA",
+        "code": "149S / 149N",
+        "eta": "15/11/2026 11:00",
+        "etd": "17/11/2026 05:30",
+        "openstack": "10/11/2026 11:00",
+        "closeC": "15/11/2026 05:00",
+        "closeD": "15/11/2026 08:00",
+        "verified": false
       },
       {
         "name": "MARSA PRIDE",
