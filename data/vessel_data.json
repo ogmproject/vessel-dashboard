@@ -1,12 +1,19 @@
 {
-  "generated_at": "2026-11-11T09:00:52+00:00",
+  "generated_at": "2026-11-11T09:30:55+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - MSC AMEERA III",
         "code": "HV645R / HV645R",
         "atb": "11/11/2026 14:20",
-        "etd": "12/11/2026 16:00",
+        "etd": "12/11/2026 13:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - MSC COLETTE III",
+        "code": "XF644R / XF644R",
+        "atb": "11/11/2026 15:43",
+        "etd": "12/11/2026 22:00",
         "verified": false
       },
       {
@@ -52,7 +59,7 @@
         "name": "SINAR SULAWESI",
         "code": "102S / 102N",
         "eta": "11/11/2026 16:00",
-        "etd": "13/11/2026 06:30",
+        "etd": "15/11/2026 06:30",
         "openstack": "06/11/2026 08:00",
         "closeC": "11/11/2026 02:00",
         "closeD": "11/11/2026 05:00",
@@ -76,16 +83,6 @@
         "openstack": "05/11/2026 23:00",
         "closeC": "10/11/2026 17:00",
         "closeD": "10/11/2026 20:00",
-        "verified": false
-      },
-      {
-        "name": "MSC COLETTE III",
-        "code": "XF644R / XF644R",
-        "eta": "12/11/2026 04:00",
-        "etd": "12/11/2026 22:00",
-        "openstack": "06/11/2026 02:00",
-        "closeC": "10/11/2026 20:00",
-        "closeD": "10/11/2026 23:00",
         "verified": false
       },
       {
