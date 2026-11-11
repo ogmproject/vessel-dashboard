@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:30:46+00:00",
+  "generated_at": "2026-11-11T15:05:05+00:00",
   "tps": {
     "alongside": [
       {
@@ -259,22 +259,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "MERATUS LAMPUNG",
-        "code": "MEPN002",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "10/11/2026 23:00",
-        "etd": "11/11/2026 21:30"
-      },
-      {
-        "name": "MERATUS LAMPUNG",
-        "code": "MEPN002",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "WAN HANG HENG YUAN",
@@ -345,7 +330,16 @@
         "closeC": "16/11/2026 09:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "MERATUS LAMPUNG",
+        "code": "MEPN002",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "10/11/2026 23:00",
+        "atd": "11/11/2026 21:42"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }

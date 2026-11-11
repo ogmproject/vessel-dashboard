@@ -2796,8 +2796,8 @@
     "vessel_name": "MERATUS LAMPUNG",
     "terminal": "TL",
     "arrival": "2026-11-10T23:00:00",
-    "departure": null,
-    "recorded_at": "2026-11-10T16:30:49.720505"
+    "departure": "2026-11-11T21:42:00",
+    "recorded_at": "2026-11-11T15:05:06.047562"
   },
   {
     "vessel_name": "CMA CGM FORT DIAMANT",
