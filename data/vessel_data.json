@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-11-11T06:00:48+00:00",
+  "generated_at": "2026-11-11T06:30:48+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I3 - ES TREASURE",
-        "code": "645N / 645N",
-        "atb": "10/11/2026 07:42",
-        "etd": "11/11/2026 11:00",
-        "verified": false
-      },
       {
         "name": "I2 - CMA CGM FORT DIAMANT",
         "code": "0XLCTS / 0XLCUN",
@@ -233,6 +226,11 @@
     ],
     "movement": [
       {
+        "name": "ES TREASURE",
+        "berth": "10/11/2026 07:42",
+        "dep": "11/11/2026 13:00"
+      },
+      {
         "name": "GSL MAMITSA",
         "berth": "10/11/2026 15:05",
         "dep": "11/11/2026 12:35"
@@ -342,14 +340,6 @@
         "carrier": "PT. MERATUS LINE",
         "atb": "10/11/2026 03:50",
         "atd": "10/11/2026 21:09"
-      },
-      {
-        "name": "HALLEY",
-        "code": "HALY010",
-        "voyage": "017E         / 018W",
-        "type": "INTERNATIONAL",
-        "atb": "09/11/2026 13:42",
-        "atd": "10/11/2026 13:24"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."

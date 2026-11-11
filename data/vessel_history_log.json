@@ -2782,8 +2782,8 @@
     "vessel_name": "ES TREASURE",
     "terminal": "TPS",
     "arrival": "2026-11-10T07:42:00",
-    "departure": null,
-    "recorded_at": "2026-11-10T01:00:50.683876"
+    "departure": "2026-11-11T13:00:00",
+    "recorded_at": "2026-11-11T06:30:48.249789"
   },
   {
     "vessel_name": "GSL MAMITSA",
