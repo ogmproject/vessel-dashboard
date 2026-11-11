@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T04:30:48+00:00",
+  "generated_at": "2026-11-11T05:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -279,7 +279,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "10/11/2026 23:00",
-        "etd": "11/11/2026 22:30"
+        "etd": "11/11/2026 16:00"
       },
       {
         "name": "MERATUS LAMPUNG",
