@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T16:30:47+00:00",
+  "generated_at": "2026-11-11T17:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -244,16 +244,6 @@
         "dep": "10/11/2026 05:33",
         "mmsi": "538007483",
         "imo": "9330719"
-      },
-      {
-        "name": "STARSHIP VENUS",
-        "berth": "08/11/2026 11:00",
-        "dep": "09/11/2026 22:37"
-      },
-      {
-        "name": "SINAR SUNDA",
-        "berth": "08/11/2026 12:20",
-        "dep": "09/11/2026 21:56"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
