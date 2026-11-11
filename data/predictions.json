@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T10:00:50.468438",
+  "generated_at": "2026-11-11T10:30:44.877240",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -55,17 +55,6 @@
       "avg_dwelling_hours": 26.4,
       "visits_recorded": 12,
       "confidence": "medium"
-    },
-    {
-      "vessel_name": "SINAR SULAWESI",
-      "terminal": "TPS",
-      "last_arrival": "2026-11-02T09:00:00",
-      "predicted_next_arrival": "2026-11-10T20:11:40",
-      "avg_interval_days": 8.5,
-      "interval_stddev_days": 0.7,
-      "avg_dwelling_hours": 35.5,
-      "visits_recorded": 10,
-      "confidence": "high"
     },
     {
       "vessel_name": "WAN HAI 351",
@@ -209,6 +198,17 @@
       "avg_dwelling_hours": 18.0,
       "visits_recorded": 3,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "SINAR SULAWESI",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-11T17:05:00",
+      "predicted_next_arrival": "2026-11-20T06:22:00",
+      "avg_interval_days": 8.6,
+      "interval_stddev_days": 0.7,
+      "avg_dwelling_hours": 35.5,
+      "visits_recorded": 11,
+      "confidence": "high"
     },
     {
       "vessel_name": "YM EFFICIENCY",
