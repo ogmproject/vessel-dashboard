@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-11-11T05:30:44+00:00",
+  "generated_at": "2026-11-11T06:00:48+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - GSL MAMITSA",
-        "code": "022S / 022N",
-        "atb": "10/11/2026 15:05",
-        "etd": "11/11/2026 11:00",
-        "verified": false
-      },
       {
         "name": "I3 - ES TREASURE",
         "code": "645N / 645N",
@@ -239,6 +232,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "GSL MAMITSA",
+        "berth": "10/11/2026 15:05",
+        "dep": "11/11/2026 12:35"
+      },
       {
         "name": "XIN YAN TAI",
         "berth": "10/11/2026 00:38",
