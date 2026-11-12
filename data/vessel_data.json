@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:30:45+00:00",
+  "generated_at": "2026-11-12T15:00:55+00:00",
   "tps": {
     "alongside": [
       {
@@ -345,16 +345,7 @@
         "closeC": "17/11/2026 19:00"
       }
     ],
-    "departed": [
-      {
-        "name": "MERATUS LAMPUNG",
-        "code": "MEPN002",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "10/11/2026 23:00",
-        "atd": "11/11/2026 21:42"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
