@@ -2817,8 +2817,8 @@
     "vessel_name": "MSC COLETTE III",
     "terminal": "TPS",
     "arrival": "2026-11-11T15:43:00",
-    "departure": null,
-    "recorded_at": "2026-11-11T09:30:55.758076"
+    "departure": "2026-11-12T12:23:00",
+    "recorded_at": "2026-11-12T06:00:53.406571"
   },
   {
     "vessel_name": "SINAR SULAWESI",
