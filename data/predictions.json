@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:00:50.627491",
+  "generated_at": "2026-11-12T07:31:02.917520",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -76,17 +76,6 @@
       "interval_stddev_days": 7.7,
       "avg_dwelling_hours": 21.7,
       "visits_recorded": 4,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "EVER CANDID",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-20T10:40:00",
-      "predicted_next_arrival": "2026-11-14T10:40:00",
-      "avg_interval_days": 25.0,
-      "interval_stddev_days": 1.2,
-      "avg_dwelling_hours": 19.1,
-      "visits_recorded": 3,
       "confidence": "medium"
     },
     {
@@ -550,6 +539,17 @@
       "avg_dwelling_hours": 13.7,
       "visits_recorded": 3,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "EVER CANDID",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-12T14:00:00",
+      "predicted_next_arrival": "2026-12-06T23:06:40",
+      "avg_interval_days": 24.4,
+      "interval_stddev_days": 1.3,
+      "avg_dwelling_hours": 19.1,
+      "visits_recorded": 4,
+      "confidence": "high"
     },
     {
       "vessel_name": "WAN HAI 375",
