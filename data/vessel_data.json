@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-11-12T13:30:46+00:00",
+  "generated_at": "2026-11-12T14:00:50+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - HONG TAI 656",
+        "code": "645S / 645S",
+        "atb": "12/11/2026 20:30",
+        "etd": "13/11/2026 18:00",
+        "verified": false
+      },
       {
         "name": "I3 - XIN YAN TIAN",
         "code": "122S / 122N",
@@ -43,16 +50,6 @@
         "openstack": "06/11/2026 20:00",
         "closeC": "11/11/2026 14:00",
         "closeD": "11/11/2026 17:00",
-        "verified": false
-      },
-      {
-        "name": "HONG TAI 656",
-        "code": "645S / 645S",
-        "eta": "12/11/2026 20:00",
-        "etd": "13/11/2026 18:00",
-        "openstack": "07/11/2026 18:00",
-        "closeC": "12/11/2026 12:00",
-        "closeD": "12/11/2026 15:00",
         "verified": false
       },
       {
