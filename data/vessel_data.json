@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:31:02+00:00",
+  "generated_at": "2026-11-12T08:00:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "HV645R / HV645R",
         "atb": "11/11/2026 14:20",
         "etd": "12/11/2026 18:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - XIN YAN TIAN",
+        "code": "122S / 122N",
+        "atb": "12/11/2026 14:50",
+        "etd": "14/11/2026 00:30",
         "verified": false
       },
       {
@@ -63,16 +70,6 @@
         "openstack": "06/11/2026 20:00",
         "closeC": "11/11/2026 14:00",
         "closeD": "11/11/2026 17:00",
-        "verified": false
-      },
-      {
-        "name": "XIN YAN TIAN",
-        "code": "122S / 122N",
-        "eta": "12/11/2026 15:00",
-        "etd": "14/11/2026 00:30",
-        "openstack": "01/11/2026 18:00",
-        "closeC": "06/11/2026 12:00",
-        "closeD": "06/11/2026 15:00",
         "verified": false
       },
       {
@@ -341,6 +338,16 @@
         "etd": "17/11/2026 23:30",
         "openstack": "12/11/2026 00:00",
         "closeC": "16/11/2026 09:00"
+      },
+      {
+        "name": "MERATUS KAIMANA",
+        "code": "MEAI029",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "18/11/2026 00:00",
+        "etd": "19/11/2026 00:00",
+        "openstack": "13/11/2026 00:00",
+        "closeC": "17/11/2026 19:00"
       }
     ],
     "departed": [
