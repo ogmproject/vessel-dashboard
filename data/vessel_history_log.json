@@ -2810,8 +2810,8 @@
     "vessel_name": "MSC AMEERA III",
     "terminal": "TPS",
     "arrival": "2026-11-11T14:20:00",
-    "departure": null,
-    "recorded_at": "2026-11-11T07:30:44.637519"
+    "departure": "2026-11-12T19:02:00",
+    "recorded_at": "2026-11-12T12:30:42.783009"
   },
   {
     "vessel_name": "MSC COLETTE III",

@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-11-12T12:00:50+00:00",
+  "generated_at": "2026-11-12T12:30:42+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - MSC AMEERA III",
-        "code": "HV645R / HV645R",
-        "atb": "11/11/2026 14:20",
-        "etd": "12/11/2026 17:30",
-        "verified": false
-      },
       {
         "name": "I3 - XIN YAN TIAN",
         "code": "122S / 122N",
@@ -226,6 +219,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MSC AMEERA III",
+        "berth": "11/11/2026 14:20",
+        "dep": "12/11/2026 19:02"
+      },
       {
         "name": "CMA CGM FORT DIAMANT",
         "berth": "11/11/2026 00:20",
