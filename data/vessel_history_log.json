@@ -2803,8 +2803,8 @@
     "vessel_name": "CMA CGM FORT DIAMANT",
     "terminal": "TPS",
     "arrival": "2026-11-11T00:20:00",
-    "departure": null,
-    "recorded_at": "2026-11-10T18:00:55.052123"
+    "departure": "2026-11-12T12:58:00",
+    "recorded_at": "2026-11-12T06:30:50.198837"
   },
   {
     "vessel_name": "MSC AMEERA III",
