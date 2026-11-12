@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T16:30:46+00:00",
+  "generated_at": "2026-11-12T17:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -240,25 +240,6 @@
         "name": "GSL MAMITSA",
         "berth": "10/11/2026 15:05",
         "dep": "11/11/2026 12:35"
-      },
-      {
-        "name": "XIN YAN TAI",
-        "berth": "10/11/2026 00:38",
-        "dep": "10/11/2026 21:45",
-        "mmsi": "413125000",
-        "imo": "9304801"
-      },
-      {
-        "name": "ARTOTINA",
-        "berth": "09/11/2026 23:35",
-        "dep": "10/11/2026 12:02"
-      },
-      {
-        "name": "HYUNDAI UNITY",
-        "berth": "09/11/2026 03:40",
-        "dep": "10/11/2026 05:33",
-        "mmsi": "538007483",
-        "imo": "9330719"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
