@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-11-13T19:30:44+00:00",
+  "generated_at": "2026-11-13T20:01:44+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - KOTA GANDING",
+        "code": "0538S / 0538N",
+        "atb": "14/11/2026 02:50",
+        "etd": "14/11/2026 22:00",
+        "verified": false
+      },
       {
         "name": "I3 - XIN YAN TIAN",
         "code": "122S / 122N",
@@ -53,16 +60,6 @@
         "openstack": "08/11/2026 21:00",
         "closeC": "13/11/2026 15:00",
         "closeD": "13/11/2026 18:00",
-        "verified": false
-      },
-      {
-        "name": "KOTA GANDING",
-        "code": "0538S / 0538N",
-        "eta": "13/11/2026 23:00",
-        "etd": "14/11/2026 22:00",
-        "openstack": "05/11/2026 11:11",
-        "closeC": "10/11/2026 05:11",
-        "closeD": "10/11/2026 08:11",
         "verified": false
       },
       {

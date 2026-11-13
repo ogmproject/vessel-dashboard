@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:30:44.466900",
+  "generated_at": "2026-11-13T20:01:45.134719",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -724,6 +724,17 @@
       "avg_interval_days": 38.4,
       "interval_stddev_days": 5.0,
       "avg_dwelling_hours": 33.2,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "KOTA GANDING",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-14T02:50:00",
+      "predicted_next_arrival": "2026-12-25T19:17:30",
+      "avg_interval_days": 41.7,
+      "interval_stddev_days": 2.9,
+      "avg_dwelling_hours": 30.4,
       "visits_recorded": 3,
       "confidence": "medium"
     }
