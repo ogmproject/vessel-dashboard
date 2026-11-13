@@ -2824,8 +2824,8 @@
     "vessel_name": "SINAR SULAWESI",
     "terminal": "TPS",
     "arrival": "2026-11-11T17:05:00",
-    "departure": null,
-    "recorded_at": "2026-11-11T10:30:44.877240"
+    "departure": "2026-11-13T18:57:00",
+    "recorded_at": "2026-11-13T12:30:42.337459"
   },
   {
     "vessel_name": "EVER CANDID",

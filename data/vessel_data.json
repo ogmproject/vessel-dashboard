@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T12:00:46+00:00",
+  "generated_at": "2026-11-13T12:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -21,13 +21,6 @@
         "code": "2634S / 2634S",
         "atb": "13/11/2026 06:30",
         "etd": "13/11/2026 19:30",
-        "verified": false
-      },
-      {
-        "name": "I1 - SINAR SULAWESI",
-        "code": "102S / 102N",
-        "atb": "11/11/2026 17:05",
-        "etd": "13/11/2026 18:00",
         "verified": false
       }
     ],
@@ -246,6 +239,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SINAR SULAWESI",
+        "berth": "11/11/2026 17:05",
+        "dep": "13/11/2026 18:57"
+      },
       {
         "name": "EVER CANDID",
         "berth": "12/11/2026 14:00",
