@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-13T11:00:49+00:00",
+  "generated_at": "2026-11-13T11:30:39+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - HONG TAI 656",
         "code": "645S / 645S",
         "atb": "12/11/2026 20:30",
-        "etd": "13/11/2026 20:30",
+        "etd": "13/11/2026 21:00",
         "verified": false
       },
       {
         "name": "I3 - XIN YAN TIAN",
         "code": "122S / 122N",
         "atb": "12/11/2026 14:50",
-        "etd": "13/11/2026 23:59",
+        "etd": "14/11/2026 01:00",
         "verified": false
       },
       {
         "name": "I2 - KOTA HIDAYAH",
         "code": "2634S / 2634S",
         "atb": "13/11/2026 06:30",
-        "etd": "13/11/2026 18:00",
+        "etd": "13/11/2026 19:30",
         "verified": false
       },
       {
