@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T07:38:51+00:00",
+  "generated_at": "2026-11-13T08:00:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -337,10 +337,10 @@
         "voyage": "2610S        / 2610N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "19/11/2026 12:00",
-        "etd": "20/11/2026 15:30",
-        "openstack": "14/11/2026 12:00",
-        "closeC": "15/11/2026 18:00"
+        "etb": "19/11/2026 13:00",
+        "etd": "20/11/2026 16:00",
+        "openstack": "14/11/2026 13:00",
+        "closeC": "19/11/2026 07:00"
       }
     ],
     "departed": [],
