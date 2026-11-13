@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:00:49.666117",
+  "generated_at": "2026-11-13T14:30:41.678556",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -461,6 +461,17 @@
       "interval_stddev_days": 9.5,
       "avg_dwelling_hours": 16.4,
       "visits_recorded": 4,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "BRIGHT COSMOS",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-13T21:15:00",
+      "predicted_next_arrival": "2026-12-01T22:09:00",
+      "avg_interval_days": 18.0,
+      "interval_stddev_days": 0.9,
+      "avg_dwelling_hours": 11.5,
+      "visits_recorded": 3,
       "confidence": "medium"
     },
     {

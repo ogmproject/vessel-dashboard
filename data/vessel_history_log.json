@@ -2854,5 +2854,12 @@
     "arrival": "2026-11-13T06:30:00",
     "departure": null,
     "recorded_at": "2026-11-13T00:30:53.691545"
+  },
+  {
+    "vessel_name": "BRIGHT COSMOS",
+    "terminal": "TPS",
+    "arrival": "2026-11-13T21:15:00",
+    "departure": null,
+    "recorded_at": "2026-11-13T14:30:41.678556"
   }
 ]

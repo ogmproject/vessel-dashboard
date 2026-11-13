@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:00:49+00:00",
+  "generated_at": "2026-11-13T14:30:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,6 +22,13 @@
         "atb": "13/11/2026 06:30",
         "etd": "13/11/2026 19:30",
         "verified": false
+      },
+      {
+        "name": "I1 - BRIGHT COSMOS",
+        "code": "035S / 035N",
+        "atb": "13/11/2026 21:15",
+        "etd": "14/11/2026 06:00",
+        "verified": false
       }
     ],
     "schedule": [
@@ -43,16 +50,6 @@
         "openstack": "06/11/2026 20:00",
         "closeC": "11/11/2026 14:00",
         "closeD": "11/11/2026 17:00",
-        "verified": false
-      },
-      {
-        "name": "BRIGHT COSMOS",
-        "code": "035S / 035N",
-        "eta": "13/11/2026 20:00",
-        "etd": "14/11/2026 06:00",
-        "openstack": "08/11/2026 16:00",
-        "closeC": "13/11/2026 10:00",
-        "closeD": "13/11/2026 13:00",
         "verified": false
       },
       {
@@ -344,7 +341,7 @@
         "type": "INTERNATIONAL",
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
         "etb": "17/11/2026 00:00",
-        "etd": "17/11/2026 23:30",
+        "etd": "17/11/2026 00:30",
         "openstack": "12/11/2026 00:00",
         "closeC": "16/11/2026 09:00"
       },
