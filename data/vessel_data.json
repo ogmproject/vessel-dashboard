@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T07:30:43+00:00",
+  "generated_at": "2026-11-13T07:38:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -243,29 +243,6 @@
     "alongside": [],
     "schedule": [
       {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN007",
-        "voyage": "013S         / 013N",
-        "type": "INTERNATIONAL",
-        "etb": "13/11/2026 14:00",
-        "etd": "14/11/2026 10:30",
-        "openstack": "08/11/2026 14:00",
-        "closeC": "13/11/2026 09:00",
-        "mmsi": "352006269",
-        "imo": "1115565"
-      },
-      {
-        "name": "SHANGHAI VOYAGER",
-        "code": "SHVO014",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "15/11/2026 00:00",
-        "etd": "16/11/2026 01:30",
-        "openstack": "10/11/2026 00:00",
-        "closeC": "14/11/2026 20:00"
-      },
-      {
         "name": "ITAL BONNY",
         "code": "ITNY011",
         "voyage": "S106         / N106",
@@ -274,6 +251,18 @@
         "etd": "16/11/2026 00:30",
         "openstack": "10/11/2026 01:00",
         "closeC": "14/11/2026 20:00"
+      },
+      {
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN007",
+        "voyage": "013S         / 013N",
+        "type": "INTERNATIONAL",
+        "etb": "15/11/2026 12:00",
+        "etd": "16/11/2026 01:00",
+        "openstack": "08/11/2026 14:00",
+        "closeC": "13/11/2026 09:00",
+        "mmsi": "352006269",
+        "imo": "1115565"
       },
       {
         "name": "SEABREEZE",
@@ -287,6 +276,17 @@
         "closeC": "15/11/2026 21:00",
         "mmsi": "636021108",
         "imo": "9472579"
+      },
+      {
+        "name": "SHANGHAI VOYAGER",
+        "code": "SHVO014",
+        "voyage": "2609S        / 2609N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "etb": "16/11/2026 03:00",
+        "etd": "16/11/2026 22:00",
+        "openstack": "10/11/2026 00:00",
+        "closeC": "14/11/2026 20:00"
       },
       {
         "name": "WAN HAI 351",
