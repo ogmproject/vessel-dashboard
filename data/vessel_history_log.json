@@ -2845,8 +2845,8 @@
     "vessel_name": "HONG TAI 656",
     "terminal": "TPS",
     "arrival": "2026-11-12T20:30:00",
-    "departure": null,
-    "recorded_at": "2026-11-12T14:00:50.838316"
+    "departure": "2026-11-13T23:03:00",
+    "recorded_at": "2026-11-13T16:31:00.731451"
   },
   {
     "vessel_name": "KOTA HIDAYAH",
@@ -2861,5 +2861,12 @@
     "arrival": "2026-11-13T21:15:00",
     "departure": null,
     "recorded_at": "2026-11-13T14:30:41.678556"
+  },
+  {
+    "vessel_name": "WAN HAI 313",
+    "terminal": "TPS",
+    "arrival": "2026-11-13T22:56:00",
+    "departure": null,
+    "recorded_at": "2026-11-13T16:31:00.731451"
   }
 ]

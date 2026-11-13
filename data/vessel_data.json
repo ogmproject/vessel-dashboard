@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-13T16:00:48+00:00",
+  "generated_at": "2026-11-13T16:31:00+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - HONG TAI 656",
-        "code": "645S / 645S",
-        "atb": "12/11/2026 20:30",
-        "etd": "13/11/2026 21:00",
-        "verified": false
-      },
       {
         "name": "I3 - XIN YAN TIAN",
         "code": "122S / 122N",
         "atb": "12/11/2026 14:50",
         "etd": "14/11/2026 02:00",
+        "verified": false
+      },
+      {
+        "name": "I2 - WAN HAI 313",
+        "code": "S285 / N286",
+        "atb": "13/11/2026 22:56",
+        "etd": "14/11/2026 16:00",
         "verified": false
       },
       {
@@ -43,16 +43,6 @@
         "openstack": "06/11/2026 20:00",
         "closeC": "11/11/2026 14:00",
         "closeD": "11/11/2026 17:00",
-        "verified": false
-      },
-      {
-        "name": "WAN HAI 313",
-        "code": "S285 / N286",
-        "eta": "13/11/2026 20:00",
-        "etd": "14/11/2026 14:00",
-        "openstack": "06/11/2026 12:00",
-        "closeC": "11/11/2026 06:00",
-        "closeD": "11/11/2026 09:00",
         "verified": false
       },
       {
@@ -229,6 +219,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "HONG TAI 656",
+        "berth": "12/11/2026 20:30",
+        "dep": "13/11/2026 23:03"
+      },
       {
         "name": "KOTA HIDAYAH",
         "berth": "13/11/2026 06:30",
