@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-13T21:00:50+00:00",
+  "generated_at": "2026-11-13T21:30:50+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - KOTA GANDING",
         "code": "0538S / 0538N",
         "atb": "14/11/2026 02:50",
-        "etd": "14/11/2026 22:00",
+        "etd": "14/11/2026 21:00",
         "verified": false
       },
       {
@@ -27,7 +27,7 @@
         "name": "I1 - BRIGHT COSMOS",
         "code": "035S / 035N",
         "atb": "13/11/2026 21:15",
-        "etd": "14/11/2026 07:00",
+        "etd": "14/11/2026 06:00",
         "verified": false
       }
     ],
