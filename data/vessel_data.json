@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:31:00+00:00",
+  "generated_at": "2026-11-13T17:01:01+00:00",
   "tps": {
     "alongside": [
       {
@@ -253,16 +253,6 @@
         "name": "MSC COLETTE III",
         "berth": "11/11/2026 15:43",
         "dep": "12/11/2026 12:23"
-      },
-      {
-        "name": "ES TREASURE",
-        "berth": "10/11/2026 07:42",
-        "dep": "11/11/2026 13:00"
-      },
-      {
-        "name": "GSL MAMITSA",
-        "berth": "10/11/2026 15:05",
-        "dep": "11/11/2026 12:35"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
