@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-13T17:01:01+00:00",
+  "generated_at": "2026-11-13T17:32:21+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I3 - XIN YAN TIAN",
         "code": "122S / 122N",
         "atb": "12/11/2026 14:50",
-        "etd": "14/11/2026 02:00",
+        "etd": "14/11/2026 04:00",
         "verified": false
       },
       {
@@ -20,7 +20,7 @@
         "name": "I1 - BRIGHT COSMOS",
         "code": "035S / 035N",
         "atb": "13/11/2026 21:15",
-        "etd": "14/11/2026 06:00",
+        "etd": "14/11/2026 07:00",
         "verified": false
       }
     ],
