@@ -2852,8 +2852,8 @@
     "vessel_name": "KOTA HIDAYAH",
     "terminal": "TPS",
     "arrival": "2026-11-13T06:30:00",
-    "departure": null,
-    "recorded_at": "2026-11-13T00:30:53.691545"
+    "departure": "2026-11-13T21:22:00",
+    "recorded_at": "2026-11-13T15:00:49.724825"
   },
   {
     "vessel_name": "BRIGHT COSMOS",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:30:41+00:00",
+  "generated_at": "2026-11-13T15:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "122S / 122N",
         "atb": "12/11/2026 14:50",
         "etd": "14/11/2026 01:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - KOTA HIDAYAH",
-        "code": "2634S / 2634S",
-        "atb": "13/11/2026 06:30",
-        "etd": "13/11/2026 19:30",
         "verified": false
       },
       {
@@ -236,6 +229,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "KOTA HIDAYAH",
+        "berth": "13/11/2026 06:30",
+        "dep": "13/11/2026 21:22"
+      },
       {
         "name": "SINAR SULAWESI",
         "berth": "11/11/2026 17:05",
