@@ -2838,8 +2838,8 @@
     "vessel_name": "XIN YAN TIAN",
     "terminal": "TPS",
     "arrival": "2026-11-12T14:50:00",
-    "departure": null,
-    "recorded_at": "2026-11-12T08:00:53.040052"
+    "departure": "2026-11-14T05:07:00",
+    "recorded_at": "2026-11-13T22:30:43.217304"
   },
   {
     "vessel_name": "HONG TAI 656",
