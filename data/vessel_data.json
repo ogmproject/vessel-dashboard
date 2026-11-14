@@ -1,26 +1,19 @@
 {
-  "generated_at": "2026-11-13T23:30:48+00:00",
+  "generated_at": "2026-11-14T00:00:53+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - KOTA GANDING",
         "code": "0538S / 0538N",
         "atb": "14/11/2026 02:50",
-        "etd": "14/11/2026 21:00",
+        "etd": "14/11/2026 18:00",
         "verified": false
       },
       {
         "name": "I2 - WAN HAI 313",
         "code": "S285 / N286",
         "atb": "13/11/2026 22:56",
-        "etd": "15/11/2026 16:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - BRIGHT COSMOS",
-        "code": "035S / 035N",
-        "atb": "13/11/2026 21:15",
-        "etd": "14/11/2026 06:00",
+        "etd": "14/11/2026 13:00",
         "verified": false
       }
     ],
@@ -209,6 +202,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "BRIGHT COSMOS",
+        "berth": "13/11/2026 21:15",
+        "dep": "14/11/2026 06:22"
+      },
       {
         "name": "XIN YAN TIAN",
         "berth": "12/11/2026 14:50",
