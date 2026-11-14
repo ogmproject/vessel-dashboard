@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T19:00:46.376813",
+  "generated_at": "2026-11-14T19:30:42.101145",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -735,6 +735,17 @@
       "avg_interval_days": 38.4,
       "interval_stddev_days": 5.0,
       "avg_dwelling_hours": 33.2,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "ITAL BONNY",
+      "terminal": "TL",
+      "last_arrival": "2026-11-15T02:22:00",
+      "predicted_next_arrival": "2026-12-23T00:42:30",
+      "avg_interval_days": 37.9,
+      "interval_stddev_days": 3.2,
+      "avg_dwelling_hours": 17.3,
       "visits_recorded": 3,
       "confidence": "medium"
     },

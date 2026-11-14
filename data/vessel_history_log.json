@@ -2896,5 +2896,12 @@
     "arrival": "2026-11-15T01:05:00",
     "departure": null,
     "recorded_at": "2026-11-14T18:30:43.004009"
+  },
+  {
+    "vessel_name": "ITAL BONNY",
+    "terminal": "TL",
+    "arrival": "2026-11-15T02:22:00",
+    "departure": null,
+    "recorded_at": "2026-11-14T19:30:42.101145"
   }
 ]

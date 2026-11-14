@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T19:00:46+00:00",
+  "generated_at": "2026-11-14T19:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -243,18 +243,22 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "ITAL BONNY",
         "code": "ITNY011",
         "voyage": "S106         / N106",
         "type": "INTERNATIONAL",
-        "etb": "15/11/2026 01:00",
-        "etd": "15/11/2026 23:00",
-        "openstack": "10/11/2026 01:00",
-        "closeC": "14/11/2026 20:00"
+        "atb": "15/11/2026 02:22",
+        "etd": "15/11/2026 23:00"
       },
+      {
+        "name": "ITAL BONNY",
+        "code": "ITNY011",
+        "type": "INTERNATIONAL"
+      }
+    ],
+    "schedule": [
       {
         "name": "WAN HANG HENG YUAN",
         "code": "WAAN007",
