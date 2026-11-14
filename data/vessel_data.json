@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T19:30:42+00:00",
+  "generated_at": "2026-11-14T20:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "0XLCVS / 0XLCWN",
         "atb": "15/11/2026 01:05",
         "etd": "16/11/2026 12:30",
-        "verified": false
-      },
-      {
-        "name": "I3 - EVER BIRTH",
-        "code": "1213-111B / 1213-111B",
-        "atb": "14/11/2026 08:15",
-        "etd": "15/11/2026 01:00",
         "verified": false
       },
       {
@@ -199,6 +192,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "EVER BIRTH",
+        "berth": "14/11/2026 08:15",
+        "dep": "15/11/2026 02:45"
+      },
       {
         "name": "KOTA GANDING",
         "berth": "14/11/2026 02:50",
