@@ -2882,5 +2882,12 @@
     "arrival": "2026-11-14T08:15:00",
     "departure": null,
     "recorded_at": "2026-11-14T01:30:50.919829"
+  },
+  {
+    "vessel_name": "EVER OBEY",
+    "terminal": "TPS",
+    "arrival": "2026-11-14T21:15:00",
+    "departure": null,
+    "recorded_at": "2026-11-14T14:30:47.064463"
   }
 ]
