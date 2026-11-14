@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T07:30:41+00:00",
+  "generated_at": "2026-11-14T08:00:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -329,21 +329,21 @@
         "closeC": "16/11/2026 09:00"
       },
       {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI029",
+        "name": "XIN BEI LUN",
+        "code": "XIBE041",
+        "voyage": "290S         / 290N",
         "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
+        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
         "etb": "18/11/2026 00:00",
         "etd": "19/11/2026 00:00",
         "openstack": "13/11/2026 00:00",
         "closeC": "17/11/2026 19:00"
       },
       {
-        "name": "XIN BEI LUN",
-        "code": "XIBE041",
-        "voyage": "290S         / 290N",
+        "name": "MERATUS KAIMANA",
+        "code": "MEAI029",
         "type": "INTERNATIONAL",
-        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
+        "carrier": "PT. MERATUS LINE",
         "etb": "18/11/2026 00:00",
         "etd": "19/11/2026 00:00",
         "openstack": "13/11/2026 00:00",
@@ -370,6 +370,16 @@
         "etd": "20/11/2026 16:00",
         "openstack": "14/11/2026 13:00",
         "closeC": "19/11/2026 07:00"
+      },
+      {
+        "name": "MARINA ATHENA",
+        "code": "MAAT011",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "20/11/2026 08:00",
+        "etd": "21/11/2026 08:30",
+        "openstack": "15/11/2026 08:00",
+        "closeC": "20/11/2026 03:00"
       }
     ],
     "departed": [],
