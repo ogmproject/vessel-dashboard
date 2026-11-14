@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:30:45+00:00",
+  "generated_at": "2026-11-14T17:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -241,21 +241,6 @@
         "name": "EVER CANDID",
         "berth": "12/11/2026 14:00",
         "dep": "13/11/2026 01:13"
-      },
-      {
-        "name": "MSC AMEERA III",
-        "berth": "11/11/2026 14:20",
-        "dep": "12/11/2026 19:02"
-      },
-      {
-        "name": "CMA CGM FORT DIAMANT",
-        "berth": "11/11/2026 00:20",
-        "dep": "12/11/2026 12:58"
-      },
-      {
-        "name": "MSC COLETTE III",
-        "berth": "11/11/2026 15:43",
-        "dep": "12/11/2026 12:23"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
