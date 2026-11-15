@@ -2908,8 +2908,8 @@
     "vessel_name": "KMTC SHANGHAI",
     "terminal": "TPS",
     "arrival": "2026-11-15T06:30:00",
-    "departure": null,
-    "recorded_at": "2026-11-15T00:00:49.908894"
+    "departure": "2026-11-15T22:22:00",
+    "recorded_at": "2026-11-15T16:00:46.572642"
   },
   {
     "vessel_name": "CONTSHIP YEN",

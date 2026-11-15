@@ -1,33 +1,26 @@
 {
-  "generated_at": "2026-11-15T15:30:50+00:00",
+  "generated_at": "2026-11-15T16:00:46+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - CMA CGM SAINTE ANNE",
         "code": "0XLCVS / 0XLCWN",
         "atb": "15/11/2026 01:05",
-        "etd": "16/11/2026 07:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - KMTC SHANGHAI",
-        "code": "2609S / 2609N",
-        "atb": "15/11/2026 06:30",
-        "etd": "15/11/2026 19:00",
+        "etd": "16/11/2026 04:30",
         "verified": false
       },
       {
         "name": "I2 - MARSA PRIDE",
         "code": "643S / 646N",
         "atb": "15/11/2026 17:22",
-        "etd": "16/11/2026 09:00",
+        "etd": "16/11/2026 08:30",
         "verified": false
       },
       {
         "name": "I1 - CONTSHIP YEN",
         "code": "2926S / 2926S",
         "atb": "15/11/2026 10:23",
-        "etd": "16/11/2026 02:30",
+        "etd": "16/11/2026 00:01",
         "verified": false
       }
     ],
@@ -206,6 +199,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "KMTC SHANGHAI",
+        "berth": "15/11/2026 06:30",
+        "dep": "15/11/2026 22:22"
+      },
       {
         "name": "EVER OBEY",
         "berth": "14/11/2026 21:15",
