@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:30:42+00:00",
+  "generated_at": "2026-11-15T11:00:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -17,6 +17,13 @@
         "verified": false
       },
       {
+        "name": "I2 - MARSA PRIDE",
+        "code": "643S / 646N",
+        "atb": "15/11/2026 17:22",
+        "etd": "16/11/2026 09:00",
+        "verified": false
+      },
+      {
         "name": "I1 - CONTSHIP YEN",
         "code": "2926S / 2926S",
         "atb": "15/11/2026 10:23",
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MARSA PRIDE",
-        "code": "643S / 646N",
-        "eta": "15/11/2026 15:30",
-        "etd": "16/11/2026 09:00",
-        "openstack": "10/11/2026 18:00",
-        "closeC": "15/11/2026 12:00",
-        "closeD": "15/11/2026 15:00",
-        "verified": false
-      },
       {
         "name": "SITC SHEKOU",
         "code": "2622S / 2623N",

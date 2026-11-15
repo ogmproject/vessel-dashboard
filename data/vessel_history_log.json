@@ -2917,5 +2917,12 @@
     "arrival": "2026-11-15T10:23:00",
     "departure": null,
     "recorded_at": "2026-11-15T03:30:46.661353"
+  },
+  {
+    "vessel_name": "MARSA PRIDE",
+    "terminal": "TPS",
+    "arrival": "2026-11-15T17:22:00",
+    "departure": null,
+    "recorded_at": "2026-11-15T11:00:44.905091"
   }
 ]
