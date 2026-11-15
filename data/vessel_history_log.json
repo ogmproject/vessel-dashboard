@@ -2901,8 +2901,8 @@
     "vessel_name": "ITAL BONNY",
     "terminal": "TL",
     "arrival": "2026-11-15T02:22:00",
-    "departure": null,
-    "recorded_at": "2026-11-14T19:30:42.101145"
+    "departure": "2026-11-16T00:56:00",
+    "recorded_at": "2026-11-15T18:30:44.461564"
   },
   {
     "vessel_name": "KMTC SHANGHAI",
