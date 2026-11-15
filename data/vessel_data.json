@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T21:30:51+00:00",
+  "generated_at": "2026-11-15T22:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,7 +20,7 @@
         "name": "I2 - MARSA PRIDE",
         "code": "643S / 646N",
         "atb": "15/11/2026 17:22",
-        "etd": "17/11/2026 10:00",
+        "etd": "17/11/2026 08:00",
         "verified": false
       }
     ],
@@ -302,21 +302,21 @@
         "closeC": "16/11/2026 09:00"
       },
       {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI029",
+        "name": "XIN BEI LUN",
+        "code": "XIBE041",
+        "voyage": "290S         / 290N",
         "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
+        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
         "etb": "18/11/2026 00:00",
         "etd": "19/11/2026 00:00",
         "openstack": "13/11/2026 00:00",
         "closeC": "17/11/2026 19:00"
       },
       {
-        "name": "XIN BEI LUN",
-        "code": "XIBE041",
-        "voyage": "290S         / 290N",
+        "name": "MERATUS KAIMANA",
+        "code": "MEAI029",
         "type": "INTERNATIONAL",
-        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
+        "carrier": "PT. MERATUS LINE",
         "etb": "18/11/2026 00:00",
         "etd": "19/11/2026 00:00",
         "openstack": "13/11/2026 00:00",
