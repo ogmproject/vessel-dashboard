@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:39:43+00:00",
+  "generated_at": "2026-11-15T15:00:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -270,9 +270,9 @@
         "etd": "16/11/2026 00:00"
       },
       {
-        "name": "VI515RTN",
-        "code": "ATTVI516",
-        "carrier": "PT ALFA TRANS RAYA",
+        "name": "6626",
+        "code": "6626",
+        "carrier": "PT. TEMAS SHIPPING",
         "voyage": "ITAL BONNY / ITNY011",
         "type": "INTERNATIONAL"
       }
