@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T16:30:40+00:00",
+  "generated_at": "2026-11-15T17:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "0XLCVS / 0XLCWN",
         "atb": "15/11/2026 01:05",
         "etd": "16/11/2026 04:30",
+        "verified": false
+      },
+      {
+        "name": "I3 - SITC SHEKOU",
+        "code": "2622S / 2623N",
+        "atb": "15/11/2026 23:40",
+        "etd": "16/11/2026 16:00",
         "verified": false
       },
       {
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "SITC SHEKOU",
-        "code": "2622S / 2623N",
-        "eta": "16/11/2026 00:00",
-        "etd": "16/11/2026 16:00",
-        "openstack": "11/11/2026 00:00",
-        "closeC": "15/11/2026 18:00",
-        "closeD": "15/11/2026 21:00",
-        "verified": false
-      },
       {
         "name": "HONG TAI 656",
         "code": "646N / 646N",
@@ -233,26 +230,6 @@
         "name": "XIN YAN TIAN",
         "berth": "12/11/2026 14:50",
         "dep": "14/11/2026 05:07"
-      },
-      {
-        "name": "HONG TAI 656",
-        "berth": "12/11/2026 20:30",
-        "dep": "13/11/2026 23:03"
-      },
-      {
-        "name": "KOTA HIDAYAH",
-        "berth": "13/11/2026 06:30",
-        "dep": "13/11/2026 21:22"
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "berth": "11/11/2026 17:05",
-        "dep": "13/11/2026 18:57"
-      },
-      {
-        "name": "EVER CANDID",
-        "berth": "12/11/2026 14:00",
-        "dep": "13/11/2026 01:13"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."

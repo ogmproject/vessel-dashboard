@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T16:30:40.554990",
+  "generated_at": "2026-11-15T17:00:53.253113",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -724,6 +724,17 @@
       "avg_interval_days": 31.4,
       "interval_stddev_days": 0.2,
       "avg_dwelling_hours": 18.9,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "SITC SHEKOU",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-15T23:40:00",
+      "predicted_next_arrival": "2026-12-16T07:07:30",
+      "avg_interval_days": 30.3,
+      "interval_stddev_days": 2.6,
+      "avg_dwelling_hours": 18.3,
       "visits_recorded": 3,
       "confidence": "medium"
     },

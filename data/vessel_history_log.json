@@ -2924,5 +2924,12 @@
     "arrival": "2026-11-15T17:22:00",
     "departure": null,
     "recorded_at": "2026-11-15T11:00:44.905091"
+  },
+  {
+    "vessel_name": "SITC SHEKOU",
+    "terminal": "TPS",
+    "arrival": "2026-11-15T23:40:00",
+    "departure": null,
+    "recorded_at": "2026-11-15T17:00:53.253113"
   }
 ]
