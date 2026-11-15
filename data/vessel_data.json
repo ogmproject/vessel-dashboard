@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T04:30:40+00:00",
+  "generated_at": "2026-11-15T05:00:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -170,6 +170,26 @@
         "openstack": "15/11/2026 00:00",
         "closeC": "19/11/2026 18:00",
         "closeD": "19/11/2026 21:00",
+        "verified": false
+      },
+      {
+        "name": "SIMAG SHANGHAI",
+        "code": "2635S / 2635S",
+        "eta": "20/11/2026 14:00",
+        "etd": "21/11/2026 05:30",
+        "openstack": "15/11/2026 00:00",
+        "closeC": "20/11/2026 08:00",
+        "closeD": "20/11/2026 11:00",
+        "verified": false
+      },
+      {
+        "name": "APL JEDDAH",
+        "code": "CS20P0N / CS20P0N",
+        "eta": "21/11/2026 01:00",
+        "etd": "22/11/2026 04:30",
+        "openstack": "16/11/2026 01:00",
+        "closeC": "20/11/2026 19:00",
+        "closeD": "20/11/2026 22:00",
         "verified": false
       },
       {
