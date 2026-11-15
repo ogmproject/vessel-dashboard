@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T23:30:40.007110",
+  "generated_at": "2026-11-15T00:00:49.908894",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -735,6 +735,17 @@
       "avg_interval_days": 38.4,
       "interval_stddev_days": 5.0,
       "avg_dwelling_hours": 33.2,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "KMTC SHANGHAI",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-15T06:30:00",
+      "predicted_next_arrival": "2026-12-22T18:12:00",
+      "avg_interval_days": 37.5,
+      "interval_stddev_days": 2.7,
+      "avg_dwelling_hours": 18.1,
       "visits_recorded": 3,
       "confidence": "medium"
     },
