@@ -1,45 +1,35 @@
 {
-  "generated_at": "2026-11-15T07:30:45+00:00",
+  "generated_at": "2026-11-15T08:00:42+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - CMA CGM SAINTE ANNE",
         "code": "0XLCVS / 0XLCWN",
         "atb": "15/11/2026 01:05",
-        "etd": "16/11/2026 12:30",
+        "etd": "16/11/2026 07:00",
         "verified": false
       },
       {
         "name": "I3 - KMTC SHANGHAI",
         "code": "2609S / 2609N",
         "atb": "15/11/2026 06:30",
-        "etd": "17/11/2026 00:30",
+        "etd": "15/11/2026 19:00",
         "verified": false
       },
       {
         "name": "I1 - CONTSHIP YEN",
         "code": "2926S / 2926S",
         "atb": "15/11/2026 10:23",
-        "etd": "16/11/2026 00:30",
+        "etd": "16/11/2026 02:30",
         "verified": false
       }
     ],
     "schedule": [
       {
-        "name": "ZHONG GU FU ZHOU",
-        "code": "CHN0I0S / CHN0J0N",
-        "eta": "11/11/2026 16:00",
-        "etd": "12/11/2026 19:30",
-        "openstack": "06/11/2026 16:00",
-        "closeC": "11/11/2026 10:00",
-        "closeD": "11/11/2026 13:00",
-        "verified": false
-      },
-      {
         "name": "MARSA PRIDE",
         "code": "643S / 646N",
-        "eta": "15/11/2026 14:00",
-        "etd": "16/11/2026 07:30",
+        "eta": "15/11/2026 15:30",
+        "etd": "16/11/2026 09:00",
         "openstack": "10/11/2026 18:00",
         "closeC": "15/11/2026 12:00",
         "closeD": "15/11/2026 15:00",
@@ -49,7 +39,7 @@
         "name": "SITC SHEKOU",
         "code": "2622S / 2623N",
         "eta": "16/11/2026 00:00",
-        "etd": "16/11/2026 13:30",
+        "etd": "16/11/2026 16:00",
         "openstack": "11/11/2026 00:00",
         "closeC": "15/11/2026 18:00",
         "closeD": "15/11/2026 21:00",
@@ -58,8 +48,8 @@
       {
         "name": "HONG TAI 656",
         "code": "646N / 646N",
-        "eta": "16/11/2026 00:01",
-        "etd": "17/11/2026 00:31",
+        "eta": "16/11/2026 12:00",
+        "etd": "17/11/2026 09:00",
         "openstack": "11/11/2026 00:01",
         "closeC": "15/11/2026 18:01",
         "closeD": "15/11/2026 21:01",
@@ -68,11 +58,21 @@
       {
         "name": "SINAR SUNDA",
         "code": "249S / 249N",
-        "eta": "16/11/2026 09:00",
-        "etd": "18/11/2026 00:30",
+        "eta": "16/11/2026 17:00",
+        "etd": "18/11/2026 02:00",
         "openstack": "10/11/2026 11:00",
         "closeC": "15/11/2026 05:00",
         "closeD": "15/11/2026 08:00",
+        "verified": false
+      },
+      {
+        "name": "ZHONG GU FU ZHOU",
+        "code": "CHN0I0S / CHN0J0N",
+        "eta": "16/11/2026 18:30",
+        "etd": "17/11/2026 23:00",
+        "openstack": "06/11/2026 16:00",
+        "closeC": "11/11/2026 10:00",
+        "closeD": "11/11/2026 13:00",
         "verified": false
       },
       {
@@ -328,21 +328,21 @@
         "closeC": "16/11/2026 09:00"
       },
       {
-        "name": "XIN BEI LUN",
-        "code": "XIBE041",
-        "voyage": "290S         / 290N",
+        "name": "MERATUS KAIMANA",
+        "code": "MEAI029",
         "type": "INTERNATIONAL",
-        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
+        "carrier": "PT. MERATUS LINE",
         "etb": "18/11/2026 00:00",
         "etd": "19/11/2026 00:00",
         "openstack": "13/11/2026 00:00",
         "closeC": "17/11/2026 19:00"
       },
       {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI029",
+        "name": "XIN BEI LUN",
+        "code": "XIBE041",
+        "voyage": "290S         / 290N",
         "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
+        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
         "etb": "18/11/2026 00:00",
         "etd": "19/11/2026 00:00",
         "openstack": "13/11/2026 00:00",
