@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T21:00:49.327265",
+  "generated_at": "2026-11-15T21:30:51.093632",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -757,6 +757,17 @@
       "avg_interval_days": 34.9,
       "interval_stddev_days": 1.0,
       "avg_dwelling_hours": 17.0,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "WAN HANG HENG YUAN",
+      "terminal": "TL",
+      "last_arrival": "2026-11-16T04:22:00",
+      "predicted_next_arrival": "2026-12-22T12:18:00",
+      "avg_interval_days": 36.3,
+      "interval_stddev_days": 0.9,
+      "avg_dwelling_hours": 17.1,
       "visits_recorded": 3,
       "confidence": "medium"
     },
