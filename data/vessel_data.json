@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T17:00:53+00:00",
+  "generated_at": "2026-11-15T17:30:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,21 +13,14 @@
         "name": "I3 - SITC SHEKOU",
         "code": "2622S / 2623N",
         "atb": "15/11/2026 23:40",
-        "etd": "16/11/2026 16:00",
+        "etd": "16/11/2026 18:00",
         "verified": false
       },
       {
         "name": "I2 - MARSA PRIDE",
         "code": "643S / 646N",
         "atb": "15/11/2026 17:22",
-        "etd": "16/11/2026 08:30",
-        "verified": false
-      },
-      {
-        "name": "I1 - CONTSHIP YEN",
-        "code": "2926S / 2926S",
-        "atb": "15/11/2026 10:23",
-        "etd": "16/11/2026 00:01",
+        "etd": "17/11/2026 08:30",
         "verified": false
       }
     ],
@@ -196,6 +189,13 @@
       }
     ],
     "movement": [
+      {
+        "name": "CONTSHIP YEN",
+        "berth": "15/11/2026 10:23",
+        "dep": "16/11/2026 00:20",
+        "mmsi": "209692000",
+        "imo": "9664263"
+      },
       {
         "name": "KMTC SHANGHAI",
         "berth": "15/11/2026 06:30",

@@ -2915,8 +2915,8 @@
     "vessel_name": "CONTSHIP YEN",
     "terminal": "TPS",
     "arrival": "2026-11-15T10:23:00",
-    "departure": null,
-    "recorded_at": "2026-11-15T03:30:46.661353"
+    "departure": "2026-11-16T00:20:00",
+    "recorded_at": "2026-11-15T17:30:50.309378"
   },
   {
     "vessel_name": "MARSA PRIDE",
