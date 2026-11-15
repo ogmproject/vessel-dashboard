@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T03:00:48.384516",
+  "generated_at": "2026-11-15T03:30:46.661353",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -98,17 +98,6 @@
       "interval_stddev_days": 0.8,
       "avg_dwelling_hours": 40.5,
       "visits_recorded": 7,
-      "confidence": "high"
-    },
-    {
-      "vessel_name": "CONTSHIP YEN",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-26T12:11:00",
-      "predicted_next_arrival": "2026-11-17T14:47:00",
-      "avg_interval_days": 22.1,
-      "interval_stddev_days": 1.1,
-      "avg_dwelling_hours": 12.4,
-      "visits_recorded": 4,
       "confidence": "high"
     },
     {
@@ -549,6 +538,17 @@
       "interval_stddev_days": 1.3,
       "avg_dwelling_hours": 17.1,
       "visits_recorded": 4,
+      "confidence": "high"
+    },
+    {
+      "vessel_name": "CONTSHIP YEN",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-15T10:23:00",
+      "predicted_next_arrival": "2026-12-06T23:53:00",
+      "avg_interval_days": 21.6,
+      "interval_stddev_days": 1.3,
+      "avg_dwelling_hours": 12.4,
+      "visits_recorded": 5,
       "confidence": "high"
     },
     {
