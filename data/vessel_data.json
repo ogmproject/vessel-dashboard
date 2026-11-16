@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T02:30:47+00:00",
+  "generated_at": "2026-11-16T03:01:00+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "2622S / 2623N",
         "atb": "15/11/2026 23:40",
         "etd": "16/11/2026 15:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - MARSA PRIDE",
-        "code": "643S / 646N",
-        "atb": "15/11/2026 17:22",
-        "etd": "16/11/2026 08:00",
         "verified": false
       }
     ],
@@ -182,6 +175,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MARSA PRIDE",
+        "berth": "15/11/2026 17:22",
+        "dep": "16/11/2026 09:43"
+      },
       {
         "name": "CMA CGM SAINTE ANNE",
         "berth": "15/11/2026 01:05",

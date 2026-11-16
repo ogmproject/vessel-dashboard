@@ -2922,8 +2922,8 @@
     "vessel_name": "MARSA PRIDE",
     "terminal": "TPS",
     "arrival": "2026-11-15T17:22:00",
-    "departure": null,
-    "recorded_at": "2026-11-15T11:00:44.905091"
+    "departure": "2026-11-16T09:43:00",
+    "recorded_at": "2026-11-16T03:01:00.840723"
   },
   {
     "vessel_name": "SITC SHEKOU",
