@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T20:00:58+00:00",
+  "generated_at": "2026-11-16T20:30:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -293,26 +293,8 @@
         "etd": "18/11/2026 00:00"
       },
       {
-        "name": "SEABREEZE",
-        "code": "SEZE004",
-        "voyage": "0004S        / 0004N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "16/11/2026 07:59",
-        "etd": "17/11/2026 02:00",
-        "mmsi": "636021108",
-        "imo": "9472579"
-      },
-      {
         "name": "EVER BURLY",
         "code": "EVLY008",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "5726",
-        "code": "5726",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "SEABREEZE / SEZE004",
         "type": "INTERNATIONAL"
       }
     ],
@@ -426,6 +408,17 @@
       }
     ],
     "departed": [
+      {
+        "name": "SEABREEZE",
+        "code": "SEZE004",
+        "voyage": "0004S        / 0004N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "atb": "16/11/2026 07:59",
+        "atd": "17/11/2026 02:59",
+        "mmsi": "636021108",
+        "imo": "9472579"
+      },
       {
         "name": "WAN HANG HENG YUAN",
         "code": "WAAN007",

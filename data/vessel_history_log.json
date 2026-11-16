@@ -2943,8 +2943,8 @@
     "vessel_name": "SEABREEZE",
     "terminal": "TL",
     "arrival": "2026-11-16T07:59:00",
-    "departure": null,
-    "recorded_at": "2026-11-16T01:00:59.658839"
+    "departure": "2026-11-17T02:59:00",
+    "recorded_at": "2026-11-16T20:30:46.220640"
   },
   {
     "vessel_name": "HONG TAI 656",
