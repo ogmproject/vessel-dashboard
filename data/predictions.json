@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T00:30:47.606754",
+  "generated_at": "2026-11-16T01:00:59.658839",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -20,17 +20,6 @@
       "avg_interval_days": 21.0,
       "interval_stddev_days": 1.2,
       "avg_dwelling_hours": 15.4,
-      "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "SEABREEZE",
-      "terminal": "TL",
-      "last_arrival": "2026-10-15T15:46:00",
-      "predicted_next_arrival": "2026-10-29T11:01:30",
-      "avg_interval_days": 13.8,
-      "interval_stddev_days": 13.7,
-      "avg_dwelling_hours": 16.2,
       "visits_recorded": 3,
       "confidence": "medium"
     },
@@ -516,6 +505,17 @@
       "interval_stddev_days": 1.1,
       "avg_dwelling_hours": 18.8,
       "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "SEABREEZE",
+      "terminal": "TL",
+      "last_arrival": "2026-11-16T07:59:00",
+      "predicted_next_arrival": "2026-12-06T02:13:40",
+      "avg_interval_days": 19.8,
+      "interval_stddev_days": 14.0,
+      "avg_dwelling_hours": 16.2,
+      "visits_recorded": 4,
       "confidence": "medium"
     },
     {
