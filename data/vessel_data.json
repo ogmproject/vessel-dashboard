@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T17:31:07+00:00",
+  "generated_at": "2026-11-16T18:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -292,7 +292,7 @@
         "type": "INTERNATIONAL",
         "carrier": "HMM CO.,LTD",
         "atb": "16/11/2026 07:59",
-        "etd": "17/11/2026 03:00",
+        "etd": "17/11/2026 02:00",
         "mmsi": "636021108",
         "imo": "9472579"
       },
@@ -434,14 +434,6 @@
         "atd": "16/11/2026 19:30",
         "mmsi": "352006269",
         "imo": "1115565"
-      },
-      {
-        "name": "ITAL BONNY",
-        "code": "ITNY011",
-        "voyage": "S106         / N106",
-        "type": "INTERNATIONAL",
-        "atb": "15/11/2026 02:22",
-        "atd": "16/11/2026 00:56"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
