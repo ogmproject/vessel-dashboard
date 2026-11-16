@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T07:05:03+00:00",
+  "generated_at": "2026-11-16T07:30:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -266,7 +266,7 @@
         "voyage": "013S         / 013N",
         "type": "INTERNATIONAL",
         "atb": "16/11/2026 04:22",
-        "etd": "16/11/2026 17:00",
+        "etd": "16/11/2026 18:00",
         "mmsi": "352006269",
         "imo": "1115565"
       },
@@ -292,8 +292,8 @@
         "voyage": "S095         / N095",
         "type": "INTERNATIONAL",
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "etb": "16/11/2026 19:00",
-        "etd": "17/11/2026 20:00",
+        "etb": "16/11/2026 20:00",
+        "etd": "17/11/2026 21:00",
         "openstack": "12/11/2026 00:00",
         "closeC": "16/11/2026 09:00"
       },
@@ -371,6 +371,27 @@
         "etd": "21/11/2026 08:30",
         "openstack": "15/11/2026 08:00",
         "closeC": "20/11/2026 03:00"
+      },
+      {
+        "name": "2644S",
+        "code": "2644N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "21/11/2026 06:00",
+        "etd": "22/11/2026 03:30",
+        "openstack": "16/11/2026 06:00",
+        "closeC": "20/11/2026 18:00"
+      },
+      {
+        "name": "INTERASIA TRIUMPH",
+        "code": "INTR002",
+        "voyage": "E018         / W019",
+        "type": "INTERNATIONAL",
+        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
+        "etb": "22/11/2026 00:00",
+        "etd": "23/11/2026 01:30",
+        "openstack": "17/11/2026 00:00",
+        "closeC": "21/11/2026 07:00"
       }
     ],
     "departed": [
