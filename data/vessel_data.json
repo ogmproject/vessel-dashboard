@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:30:57+00:00",
+  "generated_at": "2026-11-16T23:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -306,7 +306,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "etb": "17/11/2026 05:00",
-        "etd": "18/11/2026 02:00",
+        "etd": "18/11/2026 05:00",
         "openstack": "10/11/2026 00:00",
         "closeC": "16/11/2026 14:30"
       },
