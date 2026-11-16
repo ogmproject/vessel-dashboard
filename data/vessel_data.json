@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T13:00:52+00:00",
+  "generated_at": "2026-11-16T13:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -258,28 +258,11 @@
         "imo": "9472579"
       },
       {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN007",
-        "voyage": "013S         / 013N",
-        "type": "INTERNATIONAL",
-        "atb": "16/11/2026 04:22",
-        "etd": "16/11/2026 18:45",
-        "mmsi": "352006269",
-        "imo": "1115565"
-      },
-      {
         "name": "SEABREEZE",
         "code": "SEZE004",
         "type": "INTERNATIONAL",
         "mmsi": "636021108",
         "imo": "9472579"
-      },
-      {
-        "name": "0004S",
-        "code": "0004N",
-        "carrier": "HMM CO.,LTD",
-        "voyage": "WAN HANG HENG YUAN / WAAN007",
-        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
@@ -403,6 +386,16 @@
       }
     ],
     "departed": [
+      {
+        "name": "WAN HANG HENG YUAN",
+        "code": "WAAN007",
+        "voyage": "013S         / 013N",
+        "type": "INTERNATIONAL",
+        "atb": "16/11/2026 04:22",
+        "atd": "16/11/2026 19:30",
+        "mmsi": "352006269",
+        "imo": "1115565"
+      },
       {
         "name": "ITAL BONNY",
         "code": "ITNY011",
