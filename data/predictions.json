@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:00:50.548700",
+  "generated_at": "2026-11-16T15:01:08.855144",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -812,6 +812,17 @@
       "avg_interval_days": 41.3,
       "interval_stddev_days": 2.5,
       "avg_dwelling_hours": 31.6,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "ZHONG GU FU ZHOU",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-16T21:22:00",
+      "predicted_next_arrival": "2026-12-31T19:33:00",
+      "avg_interval_days": 44.9,
+      "interval_stddev_days": 5.0,
+      "avg_dwelling_hours": 32.1,
       "visits_recorded": 3,
       "confidence": "medium"
     }
