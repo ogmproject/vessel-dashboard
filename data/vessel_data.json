@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T09:00:51+00:00",
+  "generated_at": "2026-11-16T09:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -331,16 +331,6 @@
         "closeC": "17/11/2026 19:00"
       },
       {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI029",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "18/11/2026 00:00",
-        "etd": "19/11/2026 00:00",
-        "openstack": "13/11/2026 00:00",
-        "closeC": "17/11/2026 19:00"
-      },
-      {
         "name": "BANGKOK RIVER",
         "code": "BARV001",
         "voyage": "2645S        / 2645N",
@@ -361,6 +351,16 @@
         "etd": "20/11/2026 16:00",
         "openstack": "14/11/2026 13:00",
         "closeC": "19/11/2026 07:00"
+      },
+      {
+        "name": "MERATUS KAIMANA",
+        "code": "MEAI029",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "20/11/2026 07:00",
+        "etd": "21/11/2026 12:00",
+        "openstack": "13/11/2026 00:00",
+        "closeC": "20/11/2026 01:00"
       },
       {
         "name": "MARINA ATHENA",
