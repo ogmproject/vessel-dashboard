@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T16:31:01+00:00",
+  "generated_at": "2026-11-16T17:00:55+00:00",
   "tps": {
     "alongside": [
       {
@@ -279,26 +279,6 @@
         "name": "EVER BIRTH",
         "berth": "14/11/2026 08:15",
         "dep": "15/11/2026 02:45"
-      },
-      {
-        "name": "KOTA GANDING",
-        "berth": "14/11/2026 02:50",
-        "dep": "14/11/2026 20:00"
-      },
-      {
-        "name": "WAN HAI 313",
-        "berth": "13/11/2026 22:56",
-        "dep": "14/11/2026 16:06"
-      },
-      {
-        "name": "BRIGHT COSMOS",
-        "berth": "13/11/2026 21:15",
-        "dep": "14/11/2026 06:22"
-      },
-      {
-        "name": "XIN YAN TIAN",
-        "berth": "12/11/2026 14:50",
-        "dep": "14/11/2026 05:07"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
