@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T11:01:02+00:00",
+  "generated_at": "2026-11-16T11:30:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -15,24 +15,21 @@
         "atb": "16/11/2026 13:25",
         "etd": "17/11/2026 09:00",
         "verified": false
+      },
+      {
+        "name": "I1 - SINAR SUNDA",
+        "code": "249S / 249N",
+        "atb": "16/11/2026 18:10",
+        "etd": "18/11/2026 21:00",
+        "verified": false
       }
     ],
     "schedule": [
       {
-        "name": "SINAR SUNDA",
-        "code": "249S / 249N",
-        "eta": "16/11/2026 17:00",
-        "etd": "18/11/2026 21:00",
-        "openstack": "10/11/2026 11:00",
-        "closeC": "15/11/2026 05:00",
-        "closeD": "15/11/2026 08:00",
-        "verified": false
-      },
-      {
         "name": "ZHONG GU FU ZHOU",
         "code": "CHN0I0S / CHN0J0N",
         "eta": "16/11/2026 19:00",
-        "etd": "17/11/2026 20:00",
+        "etd": "18/11/2026 02:00",
         "openstack": "06/11/2026 16:00",
         "closeC": "11/11/2026 10:00",
         "closeD": "11/11/2026 13:00",

@@ -2952,5 +2952,12 @@
     "arrival": "2026-11-16T13:25:00",
     "departure": null,
     "recorded_at": "2026-11-16T07:01:00.974555"
+  },
+  {
+    "vessel_name": "SINAR SUNDA",
+    "terminal": "TPS",
+    "arrival": "2026-11-16T18:10:00",
+    "departure": null,
+    "recorded_at": "2026-11-16T11:30:56.496010"
   }
 ]
