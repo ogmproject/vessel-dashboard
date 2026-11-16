@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:00:53.583798",
+  "generated_at": "2026-11-16T18:30:58.312133",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -734,7 +734,7 @@
       "predicted_next_arrival": "2026-12-16T07:07:30",
       "avg_interval_days": 30.3,
       "interval_stddev_days": 2.6,
-      "avg_dwelling_hours": 18.3,
+      "avg_dwelling_hours": 20.6,
       "visits_recorded": 3,
       "confidence": "medium"
     },
@@ -757,6 +757,17 @@
       "avg_interval_days": 34.9,
       "interval_stddev_days": 1.0,
       "avg_dwelling_hours": 16.8,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "EVER BURLY",
+      "terminal": "TL",
+      "last_arrival": "2026-11-17T01:10:00",
+      "predicted_next_arrival": "2026-12-21T02:28:00",
+      "avg_interval_days": 34.1,
+      "interval_stddev_days": 0.1,
+      "avg_dwelling_hours": 22.8,
       "visits_recorded": 3,
       "confidence": "medium"
     },

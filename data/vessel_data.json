@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:00:53+00:00",
+  "generated_at": "2026-11-16T18:30:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "CHN0I0S / CHN0J0N",
         "atb": "16/11/2026 21:22",
         "etd": "18/11/2026 02:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - SITC SHEKOU",
-        "code": "2622S / 2623N",
-        "atb": "15/11/2026 23:40",
-        "etd": "16/11/2026 21:00",
         "verified": false
       },
       {
@@ -249,6 +242,11 @@
     ],
     "movement": [
       {
+        "name": "SITC SHEKOU",
+        "berth": "15/11/2026 23:40",
+        "dep": "17/11/2026 00:56"
+      },
+      {
         "name": "MARSA PRIDE",
         "berth": "15/11/2026 17:22",
         "dep": "16/11/2026 09:43"
@@ -286,6 +284,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "EVER BURLY",
+        "code": "EVLY008",
+        "voyage": "S095         / N095",
+        "type": "INTERNATIONAL",
+        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
+        "atb": "17/11/2026 01:10",
+        "etd": "18/11/2026 00:00"
+      },
+      {
         "name": "SEABREEZE",
         "code": "SEZE004",
         "voyage": "0004S        / 0004N",
@@ -297,6 +304,11 @@
         "imo": "9472579"
       },
       {
+        "name": "EVER BURLY",
+        "code": "EVLY008",
+        "type": "INTERNATIONAL"
+      },
+      {
         "name": "SEABREEZE",
         "code": "SEZE004",
         "type": "INTERNATIONAL",
@@ -305,17 +317,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER BURLY",
-        "code": "EVLY008",
-        "voyage": "S095         / N095",
-        "type": "INTERNATIONAL",
-        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "etb": "17/11/2026 00:00",
-        "etd": "18/11/2026 00:00",
-        "openstack": "12/11/2026 00:00",
-        "closeC": "16/11/2026 09:00"
-      },
       {
         "name": "SHANGHAI VOYAGER",
         "code": "SHVO014",
