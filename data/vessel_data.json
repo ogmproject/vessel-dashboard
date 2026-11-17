@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T04:00:47+00:00",
+  "generated_at": "2026-11-17T04:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -319,7 +319,7 @@
         "type": "INTERNATIONAL",
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
         "atb": "17/11/2026 01:10",
-        "etd": "18/11/2026 03:00"
+        "etd": "18/11/2026 00:00"
       },
       {
         "name": "SHANGHAI VOYAGER",
