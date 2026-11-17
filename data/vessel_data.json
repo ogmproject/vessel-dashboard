@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:00:45+00:00",
+  "generated_at": "2026-11-17T22:30:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -323,7 +323,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "17/11/2026 07:30",
-        "etd": "18/11/2026 08:00"
+        "etd": "18/11/2026 10:00"
       },
       {
         "name": "EVER BURLY",
@@ -332,7 +332,7 @@
         "type": "INTERNATIONAL",
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
         "atb": "17/11/2026 01:10",
-        "etd": "18/11/2026 05:00"
+        "etd": "18/11/2026 06:00"
       },
       {
         "name": "SHANGHAI VOYAGER",
@@ -354,8 +354,8 @@
         "voyage": "E049         / W050",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "18/11/2026 04:00",
-        "etd": "19/11/2026 08:00",
+        "etb": "18/11/2026 07:00",
+        "etd": "19/11/2026 11:00",
         "openstack": "11/11/2026 16:00",
         "closeC": "17/11/2026 08:00"
       },
@@ -365,8 +365,8 @@
         "voyage": "290S         / 290N",
         "type": "INTERNATIONAL",
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "etb": "18/11/2026 13:00",
-        "etd": "19/11/2026 14:00",
+        "etb": "18/11/2026 18:00",
+        "etd": "19/11/2026 21:00",
         "openstack": "13/11/2026 00:00",
         "closeC": "17/11/2026 20:00"
       },
