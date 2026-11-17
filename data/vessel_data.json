@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T19:30:47+00:00",
+  "generated_at": "2026-11-17T20:00:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -325,7 +325,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "17/11/2026 07:30",
-        "etd": "18/11/2026 06:00"
+        "etd": "18/11/2026 08:00"
       },
       {
         "name": "EVER BURLY",
@@ -334,7 +334,7 @@
         "type": "INTERNATIONAL",
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
         "atb": "17/11/2026 01:10",
-        "etd": "18/11/2026 04:00"
+        "etd": "18/11/2026 06:00"
       },
       {
         "name": "SHANGHAI VOYAGER",
@@ -447,19 +447,7 @@
         "closeC": "23/11/2026 07:00"
       }
     ],
-    "departed": [
-      {
-        "name": "SEABREEZE",
-        "code": "SEZE004",
-        "voyage": "0004S        / 0004N",
-        "type": "INTERNATIONAL",
-        "carrier": "HMM CO.,LTD",
-        "atb": "16/11/2026 07:59",
-        "atd": "17/11/2026 02:59",
-        "mmsi": "636021108",
-        "imo": "9472579"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
