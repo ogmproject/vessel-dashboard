@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T16:30:56+00:00",
+  "generated_at": "2026-11-17T17:01:04+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - ZHONG GU FU ZHOU",
         "code": "CHN0I0S / CHN0J0N",
         "atb": "16/11/2026 21:22",
-        "etd": "17/11/2026 22:00",
+        "etd": "18/11/2026 00:01",
         "verified": false
       },
       {
@@ -19,16 +19,6 @@
     ],
     "schedule": [
       {
-        "name": "EVER ORIENT",
-        "code": "0499-114S / 0499-114N",
-        "eta": "17/11/2026 12:00",
-        "etd": "18/11/2026 05:00",
-        "openstack": "12/11/2026 16:00",
-        "closeC": "17/11/2026 10:00",
-        "closeD": "17/11/2026 13:00",
-        "verified": false
-      },
-      {
         "name": "WAN HAI 376",
         "code": "S036 / N037",
         "eta": "17/11/2026 21:00",
@@ -39,10 +29,20 @@
         "verified": false
       },
       {
+        "name": "EVER ORIENT",
+        "code": "0499-114S / 0499-114N",
+        "eta": "18/11/2026 00:00",
+        "etd": "18/11/2026 17:30",
+        "openstack": "12/11/2026 16:00",
+        "closeC": "17/11/2026 10:00",
+        "closeD": "17/11/2026 13:00",
+        "verified": false
+      },
+      {
         "name": "MSC SPARKLE III",
         "code": "HV647R / HV647R",
-        "eta": "18/11/2026 02:00",
-        "etd": "19/11/2026 09:30",
+        "eta": "18/11/2026 10:30",
+        "etd": "19/11/2026 10:00",
         "openstack": "13/11/2026 02:00",
         "closeC": "17/11/2026 20:00",
         "closeD": "17/11/2026 23:00",
@@ -315,21 +315,6 @@
         "dep": "16/11/2026 00:20",
         "mmsi": "209692000",
         "imo": "9664263"
-      },
-      {
-        "name": "KMTC SHANGHAI",
-        "berth": "15/11/2026 06:30",
-        "dep": "15/11/2026 22:22"
-      },
-      {
-        "name": "EVER OBEY",
-        "berth": "14/11/2026 21:15",
-        "dep": "15/11/2026 11:41"
-      },
-      {
-        "name": "EVER BIRTH",
-        "berth": "14/11/2026 08:15",
-        "dep": "15/11/2026 02:45"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
