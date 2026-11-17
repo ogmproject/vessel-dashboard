@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T12:00:57+00:00",
+  "generated_at": "2026-11-17T12:30:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -340,7 +340,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "17/11/2026 07:30",
-        "etd": "18/11/2026 04:00"
+        "etd": "18/11/2026 06:00"
       },
       {
         "name": "EVER BURLY",
@@ -349,7 +349,7 @@
         "type": "INTERNATIONAL",
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
         "atb": "17/11/2026 01:10",
-        "etd": "18/11/2026 00:00"
+        "etd": "18/11/2026 03:00"
       },
       {
         "name": "SHANGHAI VOYAGER",
@@ -371,8 +371,8 @@
         "voyage": "E049         / W050",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "18/11/2026 02:00",
-        "etd": "19/11/2026 06:00",
+        "etb": "18/11/2026 05:00",
+        "etd": "19/11/2026 09:00",
         "openstack": "11/11/2026 16:00",
         "closeC": "17/11/2026 08:00"
       },
@@ -383,7 +383,7 @@
         "type": "INTERNATIONAL",
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
         "etb": "18/11/2026 13:00",
-        "etd": "19/11/2026 13:00",
+        "etd": "19/11/2026 14:00",
         "openstack": "13/11/2026 00:00",
         "closeC": "17/11/2026 19:00"
       },
@@ -473,16 +473,6 @@
         "atd": "17/11/2026 02:59",
         "mmsi": "636021108",
         "imo": "9472579"
-      },
-      {
-        "name": "WAN HANG HENG YUAN",
-        "code": "WAAN007",
-        "voyage": "013S         / 013N",
-        "type": "INTERNATIONAL",
-        "atb": "16/11/2026 04:22",
-        "atd": "16/11/2026 19:30",
-        "mmsi": "352006269",
-        "imo": "1115565"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
