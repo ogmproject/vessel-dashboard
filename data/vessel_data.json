@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T14:00:49+00:00",
+  "generated_at": "2026-11-17T14:30:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "CHN0I0S / CHN0J0N",
         "atb": "16/11/2026 21:22",
         "etd": "17/11/2026 22:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - HONG TAI 656",
-        "code": "646N / 646N",
-        "atb": "16/11/2026 13:25",
-        "etd": "17/11/2026 19:00",
         "verified": false
       },
       {
@@ -292,6 +285,11 @@
     ],
     "movement": [
       {
+        "name": "HONG TAI 656",
+        "berth": "16/11/2026 13:25",
+        "dep": "17/11/2026 20:55"
+      },
+      {
         "name": "SITC SHEKOU",
         "berth": "15/11/2026 23:40",
         "dep": "17/11/2026 00:56"
@@ -349,7 +347,7 @@
         "type": "INTERNATIONAL",
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
         "atb": "17/11/2026 01:10",
-        "etd": "18/11/2026 03:00"
+        "etd": "18/11/2026 02:00"
       },
       {
         "name": "SHANGHAI VOYAGER",
@@ -371,8 +369,8 @@
         "voyage": "E049         / W050",
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "18/11/2026 05:00",
-        "etd": "19/11/2026 09:00",
+        "etb": "18/11/2026 04:00",
+        "etd": "19/11/2026 08:00",
         "openstack": "11/11/2026 16:00",
         "closeC": "17/11/2026 08:00"
       },

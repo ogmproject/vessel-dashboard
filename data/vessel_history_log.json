@@ -2950,8 +2950,8 @@
     "vessel_name": "HONG TAI 656",
     "terminal": "TPS",
     "arrival": "2026-11-16T13:25:00",
-    "departure": null,
-    "recorded_at": "2026-11-16T07:01:00.974555"
+    "departure": "2026-11-17T20:55:00",
+    "recorded_at": "2026-11-17T14:30:53.379734"
   },
   {
     "vessel_name": "SINAR SUNDA",
