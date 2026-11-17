@@ -2973,5 +2973,12 @@
     "arrival": "2026-11-17T01:10:00",
     "departure": null,
     "recorded_at": "2026-11-16T18:30:58.312133"
+  },
+  {
+    "vessel_name": "SHANGHAI VOYAGER",
+    "terminal": "TL",
+    "arrival": "2026-11-17T07:30:00",
+    "departure": null,
+    "recorded_at": "2026-11-17T00:58:21.959859"
   }
 ]
