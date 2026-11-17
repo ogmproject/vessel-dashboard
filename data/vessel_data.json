@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-11-17T21:00:49+00:00",
+  "generated_at": "2026-11-17T21:30:49+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - ZHONG GU FU ZHOU",
-        "code": "CHN0I0S / CHN0J0N",
-        "atb": "16/11/2026 21:22",
-        "etd": "18/11/2026 00:01",
-        "verified": false
-      },
       {
         "name": "I2 - EVER ORIENT",
         "code": "0499-114S / 0499-114N",
@@ -282,6 +275,11 @@
     ],
     "movement": [
       {
+        "name": "ZHONG GU FU ZHOU",
+        "berth": "16/11/2026 21:22",
+        "dep": "18/11/2026 01:11"
+      },
+      {
         "name": "MERATUS CIBINONG",
         "berth": "17/11/2026 05:36",
         "dep": "17/11/2026 23:10"
@@ -370,7 +368,7 @@
         "etb": "18/11/2026 13:00",
         "etd": "19/11/2026 14:00",
         "openstack": "13/11/2026 00:00",
-        "closeC": "17/11/2026 19:00"
+        "closeC": "17/11/2026 20:00"
       },
       {
         "name": "BANGKOK RIVER",
