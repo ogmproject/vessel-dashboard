@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-17T02:00:58+00:00",
+  "generated_at": "2026-11-17T02:30:47+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - ZHONG GU FU ZHOU",
         "code": "CHN0I0S / CHN0J0N",
         "atb": "16/11/2026 21:22",
-        "etd": "18/11/2026 02:00",
+        "etd": "17/11/2026 22:00",
         "verified": false
       },
       {
         "name": "I2 - HONG TAI 656",
         "code": "646N / 646N",
         "atb": "16/11/2026 13:25",
-        "etd": "17/11/2026 14:30",
+        "etd": "17/11/2026 14:00",
         "verified": false
       },
       {
         "name": "I1 - SINAR SUNDA",
         "code": "249S / 249N",
         "atb": "16/11/2026 18:10",
-        "etd": "18/11/2026 21:00",
+        "etd": "18/11/2026 13:00",
         "verified": false
       }
     ],
