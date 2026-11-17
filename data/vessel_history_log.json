@@ -2975,6 +2975,13 @@
     "recorded_at": "2026-11-16T18:30:58.312133"
   },
   {
+    "vessel_name": "MERATUS CIBINONG",
+    "terminal": "TPS",
+    "arrival": "2026-11-17T05:36:00",
+    "departure": "2026-11-17T23:10:00",
+    "recorded_at": "2026-11-17T16:30:56.960515"
+  },
+  {
     "vessel_name": "SHANGHAI VOYAGER",
     "terminal": "TL",
     "arrival": "2026-11-17T07:30:00",

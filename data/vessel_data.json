@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T16:00:59+00:00",
+  "generated_at": "2026-11-17T16:30:56+00:00",
   "tps": {
     "alongside": [
       {
@@ -285,6 +285,11 @@
     ],
     "movement": [
       {
+        "name": "MERATUS CIBINONG",
+        "berth": "17/11/2026 05:36",
+        "dep": "17/11/2026 23:10"
+      },
+      {
         "name": "HONG TAI 656",
         "berth": "16/11/2026 13:25",
         "dep": "17/11/2026 20:55"
@@ -347,7 +352,7 @@
         "type": "INTERNATIONAL",
         "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
         "atb": "17/11/2026 01:10",
-        "etd": "18/11/2026 02:00"
+        "etd": "18/11/2026 03:00"
       },
       {
         "name": "SHANGHAI VOYAGER",
