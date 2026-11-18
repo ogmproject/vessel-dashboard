@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:30:41+00:00",
+  "generated_at": "2026-11-18T12:00:54+00:00",
   "tps": {
     "alongside": [
       {
@@ -340,7 +340,7 @@
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "atb": "18/11/2026 07:32",
-        "etd": "19/11/2026 12:00"
+        "etd": "19/11/2026 08:00"
       },
       {
         "name": "WAN HAI 351",
@@ -355,8 +355,8 @@
         "voyage": "290S         / 290N",
         "type": "INTERNATIONAL",
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "etb": "18/11/2026 18:00",
-        "etd": "19/11/2026 21:00",
+        "etb": "18/11/2026 19:00",
+        "etd": "19/11/2026 22:00",
         "openstack": "13/11/2026 00:00",
         "closeC": "18/11/2026 14:00"
       },
@@ -366,8 +366,8 @@
         "voyage": "2645S        / 2645N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "19/11/2026 04:00",
-        "etd": "20/11/2026 00:30",
+        "etb": "19/11/2026 10:00",
+        "etd": "20/11/2026 05:00",
         "openstack": "14/11/2026 04:00",
         "closeC": "18/11/2026 17:00"
       },
