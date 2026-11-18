@@ -2992,8 +2992,8 @@
     "vessel_name": "EVER ORIENT",
     "terminal": "TPS",
     "arrival": "2026-11-18T00:34:00",
-    "departure": null,
-    "recorded_at": "2026-11-17T18:01:00.668274"
+    "departure": "2026-11-18T14:01:00",
+    "recorded_at": "2026-11-18T07:30:41.634208"
   },
   {
     "vessel_name": "WAN HAI 351",
