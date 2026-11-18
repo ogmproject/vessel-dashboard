@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T17:30:56+00:00",
+  "generated_at": "2026-11-18T17:50:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -332,8 +332,10 @@
         "type": "INTERNATIONAL"
       },
       {
-        "name": "WAN HAI 351",
-        "code": "WA51020",
+        "name": "6726",
+        "code": "6726",
+        "carrier": "PT. TEMAS SHIPPING",
+        "voyage": "WAN HAI 351 / WA51020",
         "type": "INTERNATIONAL"
       }
     ],
