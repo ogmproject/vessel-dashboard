@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T12:00:54.516061",
+  "generated_at": "2026-11-18T12:30:43.069214",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -228,7 +228,7 @@
       "predicted_next_arrival": "2026-11-25T13:11:08.571429",
       "avg_interval_days": 8.8,
       "interval_stddev_days": 0.8,
-      "avg_dwelling_hours": 40.5,
+      "avg_dwelling_hours": 41.6,
       "visits_recorded": 8,
       "confidence": "high"
     },
@@ -713,6 +713,17 @@
       "avg_interval_days": 27.5,
       "interval_stddev_days": 23.9,
       "avg_dwelling_hours": 17.3,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "XIN BEI LUN",
+      "terminal": "TL",
+      "last_arrival": "2026-11-18T19:00:00",
+      "predicted_next_arrival": "2026-12-15T23:37:30",
+      "avg_interval_days": 27.2,
+      "interval_stddev_days": 3.2,
+      "avg_dwelling_hours": 26.5,
       "visits_recorded": 3,
       "confidence": "medium"
     },

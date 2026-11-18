@@ -2957,8 +2957,8 @@
     "vessel_name": "SINAR SUNDA",
     "terminal": "TPS",
     "arrival": "2026-11-16T18:10:00",
-    "departure": null,
-    "recorded_at": "2026-11-16T11:30:56.496010"
+    "departure": "2026-11-18T19:22:00",
+    "recorded_at": "2026-11-18T12:30:43.069214"
   },
   {
     "vessel_name": "ZHONG GU FU ZHOU",
@@ -3022,5 +3022,12 @@
     "arrival": "2026-11-18T17:58:00",
     "departure": null,
     "recorded_at": "2026-11-18T11:30:42.057625"
+  },
+  {
+    "vessel_name": "XIN BEI LUN",
+    "terminal": "TL",
+    "arrival": "2026-11-18T19:00:00",
+    "departure": null,
+    "recorded_at": "2026-11-18T12:30:43.069214"
   }
 ]
