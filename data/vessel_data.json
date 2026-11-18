@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-11-18T04:30:40+00:00",
+  "generated_at": "2026-11-18T05:00:46+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - MSC SPARKLE III",
+        "code": "HV647R / HV647R",
+        "atb": "18/11/2026 11:30",
+        "etd": "19/11/2026 05:00",
+        "verified": false
+      },
       {
         "name": "I2 - EVER ORIENT",
         "code": "0499-114S / 0499-114N",
@@ -26,16 +33,6 @@
         "openstack": "12/11/2026 21:00",
         "closeC": "17/11/2026 15:00",
         "closeD": "17/11/2026 18:00",
-        "verified": false
-      },
-      {
-        "name": "MSC SPARKLE III",
-        "code": "HV647R / HV647R",
-        "eta": "18/11/2026 10:30",
-        "etd": "19/11/2026 05:00",
-        "openstack": "13/11/2026 02:00",
-        "closeC": "17/11/2026 20:00",
-        "closeD": "17/11/2026 23:00",
         "verified": false
       },
       {
@@ -260,6 +257,16 @@
         "openstack": "18/11/2026 12:00",
         "closeC": "23/11/2026 06:00",
         "closeD": "23/11/2026 09:00",
+        "verified": false
+      },
+      {
+        "name": "ES TREASURE",
+        "code": "647N / 647N",
+        "eta": "23/11/2026 18:00",
+        "etd": "26/11/2026 02:30",
+        "openstack": "18/11/2026 18:00",
+        "closeC": "23/11/2026 12:00",
+        "closeD": "23/11/2026 15:00",
         "verified": false
       },
       {

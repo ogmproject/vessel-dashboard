@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T04:30:40.140783",
+  "generated_at": "2026-11-18T05:00:46.637144",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -691,6 +691,17 @@
       "avg_interval_days": 34.1,
       "interval_stddev_days": 2.4,
       "avg_dwelling_hours": 24.8,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "MSC SPARKLE III",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-18T11:30:00",
+      "predicted_next_arrival": "2026-12-15T23:25:00",
+      "avg_interval_days": 27.5,
+      "interval_stddev_days": 23.9,
+      "avg_dwelling_hours": 17.3,
       "visits_recorded": 3,
       "confidence": "medium"
     },

@@ -3001,5 +3001,12 @@
     "arrival": "2026-11-18T07:32:00",
     "departure": null,
     "recorded_at": "2026-11-18T01:00:54.945227"
+  },
+  {
+    "vessel_name": "MSC SPARKLE III",
+    "terminal": "TPS",
+    "arrival": "2026-11-18T11:30:00",
+    "departure": null,
+    "recorded_at": "2026-11-18T05:00:46.637144"
   }
 ]
