@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T05:00:46+00:00",
+  "generated_at": "2026-11-18T05:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -277,6 +277,16 @@
         "openstack": "18/11/2026 23:00",
         "closeC": "23/11/2026 17:00",
         "closeD": "23/11/2026 20:00",
+        "verified": false
+      },
+      {
+        "name": "MSC VAIGA III",
+        "code": "HV648R / HV648R",
+        "eta": "24/11/2026 02:00",
+        "etd": "25/11/2026 02:30",
+        "openstack": "19/11/2026 02:00",
+        "closeC": "23/01/2027 20:00",
+        "closeD": "23/01/2027 23:00",
         "verified": false
       }
     ],
