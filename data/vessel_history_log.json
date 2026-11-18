@@ -2996,6 +2996,13 @@
     "recorded_at": "2026-11-18T07:30:41.634208"
   },
   {
+    "vessel_name": "MERATUS PROJECT TANGGUH",
+    "terminal": "TPS",
+    "arrival": "2026-11-18T06:05:00",
+    "departure": "2026-11-18T14:45:00",
+    "recorded_at": "2026-11-18T08:00:47.569711"
+  },
+  {
     "vessel_name": "WAN HAI 351",
     "terminal": "TL",
     "arrival": "2026-11-18T07:32:00",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:30:41+00:00",
+  "generated_at": "2026-11-18T08:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -284,6 +284,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "MERATUS PROJECT TANGGUH",
+        "berth": "18/11/2026 06:05",
+        "dep": "18/11/2026 14:45"
+      },
       {
         "name": "EVER ORIENT",
         "berth": "18/11/2026 00:34",
