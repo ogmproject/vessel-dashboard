@@ -2994,5 +2994,12 @@
     "arrival": "2026-11-18T00:34:00",
     "departure": null,
     "recorded_at": "2026-11-17T18:01:00.668274"
+  },
+  {
+    "vessel_name": "WAN HAI 351",
+    "terminal": "TL",
+    "arrival": "2026-11-18T07:32:00",
+    "departure": null,
+    "recorded_at": "2026-11-18T01:00:54.945227"
   }
 ]

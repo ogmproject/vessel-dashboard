@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-18T00:30:51+00:00",
+  "generated_at": "2026-11-18T01:00:54+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I2 - EVER ORIENT",
         "code": "0499-114S / 0499-114N",
         "atb": "18/11/2026 00:34",
-        "etd": "18/11/2026 17:30",
+        "etd": "18/11/2026 23:30",
         "verified": false
       },
       {
         "name": "I1 - SINAR SUNDA",
         "code": "249S / 249N",
         "atb": "16/11/2026 18:10",
-        "etd": "18/11/2026 13:00",
+        "etd": "18/11/2026 17:00",
         "verified": false
       }
     ],
@@ -317,6 +317,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "WAN HAI 351",
+        "code": "WA51020",
+        "voyage": "E049         / W050",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "atb": "18/11/2026 07:32",
+        "etd": "19/11/2026 11:00"
+      },
+      {
         "name": "SHANGHAI VOYAGER",
         "code": "SHVO014",
         "voyage": "2609S        / 2609N",
@@ -326,23 +335,17 @@
         "etd": "18/11/2026 09:00"
       },
       {
+        "name": "WAN HAI 351",
+        "code": "WA51020",
+        "type": "INTERNATIONAL"
+      },
+      {
         "name": "SHANGHAI VOYAGER",
         "code": "SHVO014",
         "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
-      {
-        "name": "WAN HAI 351",
-        "code": "WA51020",
-        "voyage": "E049         / W050",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "etb": "18/11/2026 07:00",
-        "etd": "19/11/2026 11:00",
-        "openstack": "11/11/2026 16:00",
-        "closeC": "17/11/2026 08:00"
-      },
       {
         "name": "XIN BEI LUN",
         "code": "XIBE041",
