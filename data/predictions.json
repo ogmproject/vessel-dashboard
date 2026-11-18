@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T16:00:48.960674",
+  "generated_at": "2026-11-18T16:30:47.597060",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -306,17 +306,6 @@
       "avg_interval_days": 32.5,
       "interval_stddev_days": 0.3,
       "avg_dwelling_hours": 26.6,
-      "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "WAN HAI 376",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-23T14:00:00",
-      "predicted_next_arrival": "2026-11-27T13:00:00",
-      "avg_interval_days": 35.0,
-      "interval_stddev_days": 12.8,
-      "avg_dwelling_hours": 24.9,
       "visits_recorded": 3,
       "confidence": "medium"
     },
@@ -791,6 +780,17 @@
       "interval_stddev_days": 1.0,
       "avg_dwelling_hours": 16.8,
       "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "WAN HAI 376",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-18T23:10:00",
+      "predicted_next_arrival": "2026-12-21T01:33:20",
+      "avg_interval_days": 32.1,
+      "interval_stddev_days": 11.2,
+      "avg_dwelling_hours": 24.9,
+      "visits_recorded": 4,
       "confidence": "medium"
     },
     {
