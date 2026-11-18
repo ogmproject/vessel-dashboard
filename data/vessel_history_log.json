@@ -3036,5 +3036,12 @@
     "arrival": "2026-11-18T23:10:00",
     "departure": null,
     "recorded_at": "2026-11-18T16:30:47.597060"
+  },
+  {
+    "vessel_name": "EVER OWN",
+    "terminal": "TPS",
+    "arrival": "2026-11-19T00:10:00",
+    "departure": null,
+    "recorded_at": "2026-11-18T17:30:56.781648"
   }
 ]
