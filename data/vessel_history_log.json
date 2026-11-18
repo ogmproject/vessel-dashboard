@@ -2971,8 +2971,8 @@
     "vessel_name": "EVER BURLY",
     "terminal": "TL",
     "arrival": "2026-11-17T01:10:00",
-    "departure": null,
-    "recorded_at": "2026-11-16T18:30:58.312133"
+    "departure": "2026-11-18T06:32:00",
+    "recorded_at": "2026-11-18T00:00:54.404697"
   },
   {
     "vessel_name": "MERATUS CIBINONG",

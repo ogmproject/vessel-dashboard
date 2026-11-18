@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T23:30:41+00:00",
+  "generated_at": "2026-11-18T00:00:54+00:00",
   "tps": {
     "alongside": [
       {
@@ -326,24 +326,8 @@
         "etd": "18/11/2026 09:00"
       },
       {
-        "name": "EVER BURLY",
-        "code": "EVLY008",
-        "voyage": "S095         / N095",
-        "type": "INTERNATIONAL",
-        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "atb": "17/11/2026 01:10",
-        "etd": "18/11/2026 06:00"
-      },
-      {
         "name": "SHANGHAI VOYAGER",
         "code": "SHVO014",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "2609S",
-        "code": "2609N",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "voyage": "EVER BURLY / EVLY008",
         "type": "INTERNATIONAL"
       }
     ],
@@ -445,7 +429,17 @@
         "closeC": "23/11/2026 07:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "EVER BURLY",
+        "code": "EVLY008",
+        "voyage": "S095         / N095",
+        "type": "INTERNATIONAL",
+        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
+        "atb": "17/11/2026 01:10",
+        "atd": "18/11/2026 06:32"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
