@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:00:59+00:00",
+  "generated_at": "2026-11-18T03:30:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -326,22 +326,8 @@
         "etd": "19/11/2026 11:00"
       },
       {
-        "name": "SHANGHAI VOYAGER",
-        "code": "SHVO014",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "atb": "17/11/2026 07:30",
-        "etd": "18/11/2026 09:00"
-      },
-      {
         "name": "WAN HAI 351",
         "code": "WA51020",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "SHANGHAI VOYAGER",
-        "code": "SHVO014",
         "type": "INTERNATIONAL"
       }
     ],
@@ -433,6 +419,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "SHANGHAI VOYAGER",
+        "code": "SHVO014",
+        "voyage": "2609S        / 2609N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "atb": "17/11/2026 07:30",
+        "atd": "18/11/2026 10:10"
+      },
       {
         "name": "EVER BURLY",
         "code": "EVLY008",
