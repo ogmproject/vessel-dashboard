@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T23:30:45+00:00",
+  "generated_at": "2026-11-18T23:57:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -424,15 +424,6 @@
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
         "atb": "17/11/2026 07:30",
         "atd": "18/11/2026 10:10"
-      },
-      {
-        "name": "EVER BURLY",
-        "code": "EVLY008",
-        "voyage": "S095         / N095",
-        "type": "INTERNATIONAL",
-        "carrier": "EVERGREEN MARINE (ASIA) PTE. LTD.",
-        "atb": "17/11/2026 01:10",
-        "atd": "18/11/2026 06:32"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
