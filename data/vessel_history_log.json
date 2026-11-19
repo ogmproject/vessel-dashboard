@@ -3043,5 +3043,12 @@
     "arrival": "2026-11-19T00:10:00",
     "departure": null,
     "recorded_at": "2026-11-18T17:30:56.781648"
+  },
+  {
+    "vessel_name": "BANGKOK RIVER",
+    "terminal": "TL",
+    "arrival": "2026-11-19T12:10:00",
+    "departure": null,
+    "recorded_at": "2026-11-19T05:30:36.674657"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T05:00:44+00:00",
+  "generated_at": "2026-11-19T05:30:36+00:00",
   "tps": {
     "alongside": [
       {
@@ -317,6 +317,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "BANGKOK RIVER",
+        "code": "BARV001",
+        "voyage": "2645S        / 2645N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "atb": "19/11/2026 12:10",
+        "etd": "20/11/2026 14:00"
+      },
+      {
         "name": "XIN BEI LUN",
         "code": "XIBE041",
         "voyage": "290S         / 290N",
@@ -326,23 +335,17 @@
         "etd": "19/11/2026 22:00"
       },
       {
+        "name": "BANGKOK RIVER",
+        "code": "BARV001",
+        "type": "INTERNATIONAL"
+      },
+      {
         "name": "XIN BEI LUN",
         "code": "XIBE041",
         "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
-      {
-        "name": "BANGKOK RIVER",
-        "code": "BARV001",
-        "voyage": "2645S        / 2645N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "19/11/2026 12:00",
-        "etd": "20/11/2026 14:00",
-        "openstack": "14/11/2026 12:00",
-        "closeC": "18/11/2026 17:00"
-      },
       {
         "name": "KMTC SHIMIZU",
         "code": "KMZU030",
