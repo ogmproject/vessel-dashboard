@@ -3034,8 +3034,8 @@
     "vessel_name": "WAN HAI 376",
     "terminal": "TPS",
     "arrival": "2026-11-18T23:10:00",
-    "departure": null,
-    "recorded_at": "2026-11-18T16:30:47.597060"
+    "departure": "2026-11-19T22:02:00",
+    "recorded_at": "2026-11-19T15:30:40.396989"
   },
   {
     "vessel_name": "EVER OWN",
