@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T20:30:43+00:00",
+  "generated_at": "2026-11-19T21:00:44+00:00",
   "tps": {
     "alongside": [
       {
@@ -326,26 +326,10 @@
         "etd": "20/11/2026 11:00"
       },
       {
-        "name": "XIN BEI LUN",
-        "code": "XIBE041",
-        "voyage": "290S         / 290N",
-        "type": "INTERNATIONAL",
-        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
-        "atb": "18/11/2026 19:00",
-        "etd": "20/11/2026 03:00"
-      },
-      {
         "name": "262",
         "code": "263",
         "carrier": "PT PBM TANTOKARYA UTAMA",
         "voyage": "BANGKOK RIVER / BARV001",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "6426",
-        "code": "6426",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "voyage": "XIN BEI LUN / XIBE041",
         "type": "INTERNATIONAL"
       }
     ],
@@ -425,6 +409,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "XIN BEI LUN",
+        "code": "XIBE041",
+        "voyage": "290S         / 290N",
+        "type": "INTERNATIONAL",
+        "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
+        "atb": "18/11/2026 19:00",
+        "atd": "20/11/2026 03:25"
+      },
       {
         "name": "WAN HAI 351",
         "code": "WA51020",

@@ -3027,8 +3027,8 @@
     "vessel_name": "XIN BEI LUN",
     "terminal": "TL",
     "arrival": "2026-11-18T19:00:00",
-    "departure": null,
-    "recorded_at": "2026-11-18T12:30:43.069214"
+    "departure": "2026-11-20T03:25:00",
+    "recorded_at": "2026-11-19T21:00:44.739643"
   },
   {
     "vessel_name": "WAN HAI 376",
