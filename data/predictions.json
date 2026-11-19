@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T18:00:53.378530",
+  "generated_at": "2026-11-19T18:30:43.600905",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -65,17 +65,6 @@
       "interval_stddev_days": 3.7,
       "avg_dwelling_hours": 27.8,
       "visits_recorded": 12,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "EVER BOOMY",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-22T19:55:00",
-      "predicted_next_arrival": "2026-11-17T20:25:00",
-      "avg_interval_days": 26.0,
-      "interval_stddev_days": 3.2,
-      "avg_dwelling_hours": 19.4,
-      "visits_recorded": 3,
       "confidence": "medium"
     },
     {
@@ -747,6 +736,17 @@
       "interval_stddev_days": 2.6,
       "avg_dwelling_hours": 20.6,
       "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "EVER BOOMY",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-20T00:45:00",
+      "predicted_next_arrival": "2026-12-16T18:41:40",
+      "avg_interval_days": 26.7,
+      "interval_stddev_days": 2.8,
+      "avg_dwelling_hours": 19.4,
+      "visits_recorded": 4,
       "confidence": "medium"
     },
     {

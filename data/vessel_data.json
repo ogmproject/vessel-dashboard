@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-11-19T17:00:50+00:00",
+  "generated_at": "2026-11-19T18:30:43+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - EVER BOOMY",
+        "code": "1214-094B / 1214-094B",
+        "atb": "20/11/2026 00:45",
+        "etd": "21/11/2026 01:00",
+        "verified": false
+      },
       {
         "name": "I2 - KMTC INCHEON",
         "code": "2610S / 2610N",
@@ -37,18 +44,6 @@
         "closeC": "18/11/2026 18:00",
         "closeD": "18/11/2026 21:00",
         "verified": false
-      },
-      {
-        "name": "EVER BOOMY",
-        "code": "1214-094B / 1214-094B",
-        "eta": "19/11/2026 12:00",
-        "etd": "20/11/2026 19:30",
-        "openstack": "14/11/2026 12:00",
-        "closeC": "19/11/2026 06:00",
-        "closeD": "19/11/2026 09:00",
-        "verified": false,
-        "mmsi": "370700000",
-        "imo": "9787015"
       },
       {
         "name": "SINAR SULAWESI",
@@ -337,7 +332,7 @@
         "type": "INTERNATIONAL",
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
         "atb": "18/11/2026 19:00",
-        "etd": "20/11/2026 04:00"
+        "etd": "20/11/2026 03:00"
       },
       {
         "name": "449",
