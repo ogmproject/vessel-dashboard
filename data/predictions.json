@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:00:43.820711",
+  "generated_at": "2026-11-19T10:30:40.941963",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -801,6 +801,17 @@
       "avg_interval_days": 34.1,
       "interval_stddev_days": 0.1,
       "avg_dwelling_hours": 25.0,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "KMTC INCHEON",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-19T17:20:00",
+      "predicted_next_arrival": "2026-12-21T03:30:00",
+      "avg_interval_days": 31.4,
+      "interval_stddev_days": 2.5,
+      "avg_dwelling_hours": 14.8,
       "visits_recorded": 3,
       "confidence": "medium"
     },
