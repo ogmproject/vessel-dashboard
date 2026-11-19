@@ -3055,8 +3055,8 @@
     "vessel_name": "KMTC INCHEON",
     "terminal": "TPS",
     "arrival": "2026-11-19T17:20:00",
-    "departure": null,
-    "recorded_at": "2026-11-19T10:30:40.941963"
+    "departure": "2026-11-20T05:25:00",
+    "recorded_at": "2026-11-19T23:00:43.309877"
   },
   {
     "vessel_name": "AREZOO",
