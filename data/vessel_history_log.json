@@ -3057,5 +3057,12 @@
     "arrival": "2026-11-19T17:20:00",
     "departure": null,
     "recorded_at": "2026-11-19T10:30:40.941963"
+  },
+  {
+    "vessel_name": "AREZOO",
+    "terminal": "TPS",
+    "arrival": "2026-11-19T21:50:00",
+    "departure": null,
+    "recorded_at": "2026-11-19T15:00:48.770936"
   }
 ]

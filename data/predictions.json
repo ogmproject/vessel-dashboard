@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T14:30:47.358165",
+  "generated_at": "2026-11-19T15:00:48.770936",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -900,6 +900,17 @@
       "avg_interval_days": 44.9,
       "interval_stddev_days": 5.0,
       "avg_dwelling_hours": 30.7,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "AREZOO",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-19T21:50:00",
+      "predicted_next_arrival": "2027-01-02T10:50:00",
+      "avg_interval_days": 43.5,
+      "interval_stddev_days": 26.0,
+      "avg_dwelling_hours": 11.5,
       "visits_recorded": 3,
       "confidence": "medium"
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T14:30:47+00:00",
+  "generated_at": "2026-11-19T15:00:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,6 +14,13 @@
         "code": "2610S / 2610N",
         "atb": "19/11/2026 17:20",
         "etd": "20/11/2026 03:00",
+        "verified": false
+      },
+      {
+        "name": "I1 - AREZOO",
+        "code": "SCY1204 / SCY1204",
+        "atb": "19/11/2026 21:50",
+        "etd": "20/11/2026 11:00",
         "verified": false
       }
     ],
@@ -49,16 +56,6 @@
         "verified": false,
         "mmsi": "370700000",
         "imo": "9787015"
-      },
-      {
-        "name": "AREZOO",
-        "code": "SCY1204 / SCY1204",
-        "eta": "19/11/2026 20:00",
-        "etd": "20/11/2026 11:00",
-        "openstack": "14/11/2026 10:00",
-        "closeC": "19/11/2026 04:00",
-        "closeD": "19/11/2026 07:00",
-        "verified": false
       },
       {
         "name": "SINAR SULAWESI",
