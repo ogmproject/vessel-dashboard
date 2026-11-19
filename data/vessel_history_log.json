@@ -3006,8 +3006,8 @@
     "vessel_name": "WAN HAI 351",
     "terminal": "TL",
     "arrival": "2026-11-18T07:32:00",
-    "departure": null,
-    "recorded_at": "2026-11-18T01:00:54.945227"
+    "departure": "2026-11-19T11:02:00",
+    "recorded_at": "2026-11-19T04:30:40.309240"
   },
   {
     "vessel_name": "MSC SPARKLE III",
