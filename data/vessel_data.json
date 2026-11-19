@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T16:30:43+00:00",
+  "generated_at": "2026-11-19T17:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -315,21 +315,6 @@
         "name": "ZHONG GU FU ZHOU",
         "berth": "16/11/2026 21:22",
         "dep": "18/11/2026 01:11"
-      },
-      {
-        "name": "MERATUS CIBINONG",
-        "berth": "17/11/2026 05:36",
-        "dep": "17/11/2026 23:10"
-      },
-      {
-        "name": "HONG TAI 656",
-        "berth": "16/11/2026 13:25",
-        "dep": "17/11/2026 20:55"
-      },
-      {
-        "name": "SITC SHEKOU",
-        "berth": "15/11/2026 23:40",
-        "dep": "17/11/2026 00:56"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
