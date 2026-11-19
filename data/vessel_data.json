@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T03:30:40+00:00",
+  "generated_at": "2026-11-19T04:00:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -332,7 +332,7 @@
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "atb": "18/11/2026 07:32",
-        "etd": "19/11/2026 10:00"
+        "etd": "19/11/2026 11:00"
       },
       {
         "name": "XIN BEI LUN",
@@ -355,7 +355,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "etb": "19/11/2026 12:00",
-        "etd": "20/11/2026 12:00",
+        "etd": "20/11/2026 14:00",
         "openstack": "14/11/2026 12:00",
         "closeC": "18/11/2026 17:00"
       },
@@ -385,8 +385,8 @@
         "code": "MAAT011",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "20/11/2026 08:00",
-        "etd": "21/11/2026 08:30",
+        "etb": "20/11/2026 16:00",
+        "etd": "21/11/2026 05:00",
         "openstack": "15/11/2026 08:00",
         "closeC": "20/11/2026 03:00"
       },
