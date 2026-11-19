@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T07:00:42+00:00",
+  "generated_at": "2026-11-19T07:30:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -429,8 +429,7 @@
         "etb": "24/11/2026 11:00",
         "etd": "25/11/2026 07:30",
         "openstack": "19/11/2026 11:00",
-        "closeC": "24/11/2026 06:00",
-        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
+        "closeC": "24/11/2026 06:00"
       }
     ],
     "departed": [
