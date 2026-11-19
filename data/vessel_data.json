@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T03:00:43+00:00",
+  "generated_at": "2026-11-19T03:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -354,9 +354,9 @@
         "voyage": "2645S        / 2645N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "19/11/2026 11:00",
-        "etd": "20/11/2026 06:00",
-        "openstack": "14/11/2026 04:00",
+        "etb": "19/11/2026 12:00",
+        "etd": "20/11/2026 12:00",
+        "openstack": "14/11/2026 12:00",
         "closeC": "18/11/2026 17:00"
       },
       {
@@ -434,17 +434,7 @@
         "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
       }
     ],
-    "departed": [
-      {
-        "name": "SHANGHAI VOYAGER",
-        "code": "SHVO014",
-        "voyage": "2609S        / 2609N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "atb": "17/11/2026 07:30",
-        "atd": "18/11/2026 10:10"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
