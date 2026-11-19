@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:00:43+00:00",
+  "generated_at": "2026-11-19T23:11:09+00:00",
   "tps": {
     "alongside": [
       {
@@ -315,6 +315,15 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "KMTC SHIMIZU",
+        "code": "KMZU030",
+        "voyage": "2610S        / 2610N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "20/11/2026 05:50",
+        "etd": "21/11/2026 04:00"
+      },
+      {
         "name": "BANGKOK RIVER",
         "code": "BARV001",
         "voyage": "2645S        / 2645N",
@@ -322,6 +331,11 @@
         "carrier": "SEA CONSORTIUM PTE LTD",
         "atb": "19/11/2026 12:10",
         "etd": "20/11/2026 11:00"
+      },
+      {
+        "name": "KMTC SHIMIZU",
+        "code": "KMZU030",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "262",
@@ -332,17 +346,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU030",
-        "voyage": "2610S        / 2610N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "20/11/2026 02:00",
-        "etd": "21/11/2026 04:00",
-        "openstack": "14/11/2026 13:00",
-        "closeC": "19/11/2026 16:00"
-      },
       {
         "name": "MERATUS KAIMANA",
         "code": "MEAI029",
