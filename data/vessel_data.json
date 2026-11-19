@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-19T09:00:47+00:00",
+  "generated_at": "2026-11-19T09:30:53+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I3 - WAN HAI 376",
         "code": "S036 / N037",
         "atb": "18/11/2026 23:10",
-        "etd": "19/11/2026 19:00",
+        "etd": "19/11/2026 21:00",
         "verified": false
       },
       {
         "name": "I1 - EVER OWN",
         "code": "0031-069S / 0031-069N",
         "atb": "19/11/2026 00:10",
-        "etd": "19/11/2026 16:00",
+        "etd": "19/11/2026 17:30",
         "verified": false
       }
     ],
@@ -429,7 +429,8 @@
         "etb": "24/11/2026 11:00",
         "etd": "25/11/2026 07:30",
         "openstack": "19/11/2026 11:00",
-        "closeC": "24/11/2026 06:00"
+        "closeC": "24/11/2026 06:00",
+        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
       }
     ],
     "departed": [
