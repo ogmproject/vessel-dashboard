@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T08:00:42+00:00",
+  "generated_at": "2026-11-19T08:30:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -10,17 +10,10 @@
         "verified": false
       },
       {
-        "name": "I2 - MSC COLETTE III",
-        "code": "XF645A / XF645A",
-        "atb": "18/11/2026 17:58",
-        "etd": "19/11/2026 15:00",
-        "verified": false
-      },
-      {
         "name": "I1 - EVER OWN",
         "code": "0031-069S / 0031-069N",
         "atb": "19/11/2026 00:10",
-        "etd": "20/11/2026 17:00",
+        "etd": "19/11/2026 16:00",
         "verified": false
       }
     ],
@@ -282,6 +275,11 @@
     ],
     "movement": [
       {
+        "name": "MSC COLETTE III",
+        "berth": "18/11/2026 17:58",
+        "dep": "19/11/2026 15:10"
+      },
+      {
         "name": "MSC SPARKLE III",
         "berth": "18/11/2026 11:30",
         "dep": "19/11/2026 08:06"
@@ -352,8 +350,10 @@
         "type": "INTERNATIONAL"
       },
       {
-        "name": "XIN BEI LUN",
-        "code": "XIBE041",
+        "name": "6426",
+        "code": "6426",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "XIN BEI LUN / XIBE041",
         "type": "INTERNATIONAL"
       }
     ],
