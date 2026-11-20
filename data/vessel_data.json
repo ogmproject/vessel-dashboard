@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:00:57+00:00",
+  "generated_at": "2026-11-20T00:30:38+00:00",
   "tps": {
     "alongside": [
       {
@@ -321,7 +321,7 @@
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
         "atb": "20/11/2026 05:50",
-        "etd": "21/11/2026 04:00"
+        "etd": "21/11/2026 06:00"
       },
       {
         "name": "BANGKOK RIVER",
@@ -330,7 +330,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "atb": "19/11/2026 12:10",
-        "etd": "20/11/2026 11:00"
+        "etd": "20/11/2026 15:00"
       },
       {
         "name": "KMTC SHIMIZU",
