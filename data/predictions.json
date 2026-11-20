@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T18:00:55.871458",
+  "generated_at": "2026-11-20T18:30:41.595867",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -54,17 +54,6 @@
       "interval_stddev_days": 18.5,
       "avg_dwelling_hours": 30.3,
       "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "ES TREASURE",
-      "terminal": "TPS",
-      "last_arrival": "2026-11-10T07:42:00",
-      "predicted_next_arrival": "2026-11-17T06:57:38.181818",
-      "avg_interval_days": 7.0,
-      "interval_stddev_days": 3.7,
-      "avg_dwelling_hours": 27.8,
-      "visits_recorded": 12,
       "confidence": "medium"
     },
     {
@@ -286,6 +275,17 @@
       "avg_dwelling_hours": 19.0,
       "visits_recorded": 4,
       "confidence": "high"
+    },
+    {
+      "vessel_name": "ES TREASURE",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-21T01:00:00",
+      "predicted_next_arrival": "2026-11-28T07:45:50",
+      "avg_interval_days": 7.3,
+      "interval_stddev_days": 3.7,
+      "avg_dwelling_hours": 27.8,
+      "visits_recorded": 13,
+      "confidence": "medium"
     },
     {
       "vessel_name": "EVER BEFIT",

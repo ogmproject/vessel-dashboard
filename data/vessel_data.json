@@ -1,12 +1,19 @@
 {
-  "generated_at": "2026-11-20T18:00:55+00:00",
+  "generated_at": "2026-11-20T18:30:41+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - ES TREASURE",
+        "code": "646S / 646S",
+        "atb": "21/11/2026 01:00",
+        "etd": "21/11/2026 23:30",
+        "verified": false
+      },
       {
         "name": "I3 - EVER BUILD",
         "code": "1218-090A / 1218-090A",
         "atb": "20/11/2026 08:15",
-        "etd": "21/11/2026 06:00",
+        "etd": "21/11/2026 08:00",
         "verified": false
       },
       {
@@ -20,7 +27,7 @@
         "name": "I1 - KOTA JOHAN",
         "code": "0081E / 0081W",
         "atb": "20/11/2026 16:50",
-        "etd": "21/11/2026 17:00",
+        "etd": "21/11/2026 18:00",
         "verified": false
       }
     ],
@@ -43,16 +50,6 @@
         "openstack": "15/11/2026 14:00",
         "closeC": "20/11/2026 08:00",
         "closeD": "20/11/2026 11:00",
-        "verified": false
-      },
-      {
-        "name": "ES TREASURE",
-        "code": "646S / 646S",
-        "eta": "20/11/2026 22:00",
-        "etd": "21/11/2026 23:30",
-        "openstack": "19/11/2026 18:00",
-        "closeC": "26/11/2026 12:00",
-        "closeD": "26/11/2026 15:00",
         "verified": false
       },
       {
@@ -316,7 +313,7 @@
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
         "atb": "20/11/2026 05:50",
-        "etd": "21/11/2026 06:00"
+        "etd": "21/11/2026 08:00"
       },
       {
         "name": "MARINA ATHENA",
