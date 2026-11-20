@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T05:30:36+00:00",
+  "generated_at": "2026-11-20T06:00:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -15,6 +15,13 @@
         "atb": "20/11/2026 08:15",
         "etd": "21/11/2026 08:30",
         "verified": false
+      },
+      {
+        "name": "I2 - SINAR SULAWESI",
+        "code": "103S / 103N",
+        "atb": "20/11/2026 12:20",
+        "etd": "23/11/2026 00:30",
+        "verified": false
       }
     ],
     "schedule": [
@@ -26,16 +33,6 @@
         "openstack": "14/11/2026 01:00",
         "closeC": "18/11/2026 19:00",
         "closeD": "18/11/2026 22:00",
-        "verified": false
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "code": "103S / 103N",
-        "eta": "20/11/2026 10:00",
-        "etd": "23/11/2026 00:30",
-        "openstack": "15/11/2026 00:00",
-        "closeC": "19/11/2026 18:00",
-        "closeD": "19/11/2026 21:00",
         "verified": false
       },
       {
