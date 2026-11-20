@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:00:46+00:00",
+  "generated_at": "2026-11-20T19:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -316,10 +316,11 @@
         "etd": "21/11/2026 08:00"
       },
       {
-        "name": "MARINA ATHENA",
-        "code": "MAAT011",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE"
+        "name": "2626",
+        "code": "2626",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "voyage": "MARINA ATHENA / MAAT011",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "KMTC SHIMIZU",
