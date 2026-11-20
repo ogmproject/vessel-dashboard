@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T16:30:41+00:00",
+  "generated_at": "2026-11-20T17:00:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -295,26 +295,6 @@
         "name": "MSC SPARKLE III",
         "berth": "18/11/2026 11:30",
         "dep": "19/11/2026 08:06"
-      },
-      {
-        "name": "SINAR SUNDA",
-        "berth": "16/11/2026 18:10",
-        "dep": "18/11/2026 19:22"
-      },
-      {
-        "name": "MERATUS PROJECT TANGGUH",
-        "berth": "18/11/2026 06:05",
-        "dep": "18/11/2026 14:45"
-      },
-      {
-        "name": "EVER ORIENT",
-        "berth": "18/11/2026 00:34",
-        "dep": "18/11/2026 14:01"
-      },
-      {
-        "name": "ZHONG GU FU ZHOU",
-        "berth": "16/11/2026 21:22",
-        "dep": "18/11/2026 01:11"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
