@@ -3048,8 +3048,8 @@
     "vessel_name": "BANGKOK RIVER",
     "terminal": "TL",
     "arrival": "2026-11-19T12:10:00",
-    "departure": null,
-    "recorded_at": "2026-11-19T05:30:36.674657"
+    "departure": "2026-11-20T17:54:00",
+    "recorded_at": "2026-11-20T11:00:46.306770"
   },
   {
     "vessel_name": "KMTC INCHEON",

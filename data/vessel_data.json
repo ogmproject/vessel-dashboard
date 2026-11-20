@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T10:30:37+00:00",
+  "generated_at": "2026-11-20T11:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -331,24 +331,8 @@
         "etd": "21/11/2026 06:00"
       },
       {
-        "name": "BANGKOK RIVER",
-        "code": "BARV001",
-        "voyage": "2645S        / 2645N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "19/11/2026 12:10",
-        "etd": "20/11/2026 15:00"
-      },
-      {
         "name": "KMTC SHIMIZU",
         "code": "KMZU030",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "262",
-        "code": "263",
-        "carrier": "PT PBM TANTOKARYA UTAMA",
-        "voyage": "BANGKOK RIVER / BARV001",
         "type": "INTERNATIONAL"
       }
     ],
@@ -428,6 +412,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "BANGKOK RIVER",
+        "code": "BARV001",
+        "voyage": "2645S        / 2645N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "atb": "19/11/2026 12:10",
+        "atd": "20/11/2026 17:54"
+      },
       {
         "name": "XIN BEI LUN",
         "code": "XIBE041",
