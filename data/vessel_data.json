@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:00:44+00:00",
+  "generated_at": "2026-11-20T09:30:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -223,6 +223,26 @@
         "openstack": "19/11/2026 20:00",
         "closeC": "24/11/2026 14:00",
         "closeD": "24/11/2026 17:00",
+        "verified": false
+      },
+      {
+        "name": "EVER CHASTE",
+        "code": "0562-098S / 0562-098N",
+        "eta": "25/11/2026 08:00",
+        "etd": "26/11/2026 03:30",
+        "openstack": "20/11/2026 08:00",
+        "closeC": "25/11/2026 02:00",
+        "closeD": "25/11/2026 05:00",
+        "verified": false
+      },
+      {
+        "name": "CMA CGM POINTE DU PITON",
+        "code": "KCS000S / KCS010N",
+        "eta": "25/11/2026 18:00",
+        "etd": "27/11/2026 14:30",
+        "openstack": "20/11/2026 18:00",
+        "closeC": "25/11/2026 12:00",
+        "closeD": "25/11/2026 15:00",
         "verified": false
       },
       {
