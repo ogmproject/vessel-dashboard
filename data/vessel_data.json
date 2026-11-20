@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T04:00:43+00:00",
+  "generated_at": "2026-11-20T04:10:13+00:00",
   "tps": {
     "alongside": [
       {
@@ -422,15 +422,6 @@
         "carrier": "ORIENT OVERSEAS CONTAINER LINE CO.,LTD",
         "atb": "18/11/2026 19:00",
         "atd": "20/11/2026 03:25"
-      },
-      {
-        "name": "WAN HAI 351",
-        "code": "WA51020",
-        "voyage": "E049         / W050",
-        "type": "INTERNATIONAL",
-        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
-        "atb": "18/11/2026 07:32",
-        "atd": "19/11/2026 11:02"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
