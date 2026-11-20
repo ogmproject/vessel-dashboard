@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-11-20T15:00:44+00:00",
+  "generated_at": "2026-11-20T15:30:41+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - EVER BOOMY",
-        "code": "1214-094B / 1214-094B",
-        "atb": "20/11/2026 00:45",
-        "etd": "20/11/2026 19:00",
-        "verified": false
-      },
       {
         "name": "I3 - EVER BUILD",
         "code": "1218-090A / 1218-090A",
@@ -267,6 +260,13 @@
     ],
     "movement": [
       {
+        "name": "EVER BOOMY",
+        "berth": "20/11/2026 00:45",
+        "dep": "20/11/2026 19:57",
+        "mmsi": "370700000",
+        "imo": "9787015"
+      },
+      {
         "name": "AREZOO",
         "berth": "19/11/2026 21:50",
         "dep": "20/11/2026 09:48"
@@ -322,6 +322,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "MARINA ATHENA",
+        "code": "MAAT011",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "20/11/2026 22:15",
+        "etd": "21/11/2026 08:00"
+      },
+      {
         "name": "KMTC SHIMIZU",
         "code": "KMZU030",
         "voyage": "2610S        / 2610N",
@@ -331,22 +339,18 @@
         "etd": "21/11/2026 06:00"
       },
       {
+        "name": "MARINA ATHENA",
+        "code": "MAAT011",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE"
+      },
+      {
         "name": "KMTC SHIMIZU",
         "code": "KMZU030",
         "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
-      {
-        "name": "MARINA ATHENA",
-        "code": "MAAT011",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "20/11/2026 22:00",
-        "etd": "21/11/2026 08:00",
-        "openstack": "15/11/2026 22:00",
-        "closeC": "20/11/2026 23:00"
-      },
       {
         "name": "MERATUS KAIMANA",
         "code": "MEAI029",
