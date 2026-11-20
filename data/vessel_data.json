@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T01:30:36+00:00",
+  "generated_at": "2026-11-20T02:00:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -36,20 +36,10 @@
         "verified": false
       },
       {
-        "name": "KOTA JOHAN",
-        "code": "0081E / 0081W",
-        "eta": "19/11/2026 08:00",
-        "etd": "21/11/2026 10:30",
-        "openstack": "14/11/2026 00:00",
-        "closeC": "18/11/2026 18:00",
-        "closeD": "18/11/2026 21:00",
-        "verified": false
-      },
-      {
         "name": "SINAR SULAWESI",
         "code": "103S / 103N",
-        "eta": "20/11/2026 00:01",
-        "etd": "21/11/2026 19:31",
+        "eta": "20/11/2026 10:00",
+        "etd": "23/11/2026 00:30",
         "openstack": "15/11/2026 00:00",
         "closeC": "19/11/2026 18:00",
         "closeD": "19/11/2026 21:00",
@@ -63,6 +53,16 @@
         "openstack": "15/11/2026 14:00",
         "closeC": "20/11/2026 08:00",
         "closeD": "20/11/2026 11:00",
+        "verified": false
+      },
+      {
+        "name": "KOTA JOHAN",
+        "code": "0081E / 0081W",
+        "eta": "20/11/2026 16:00",
+        "etd": "21/11/2026 20:30",
+        "openstack": "14/11/2026 00:00",
+        "closeC": "18/11/2026 18:00",
+        "closeD": "18/11/2026 21:00",
         "verified": false
       },
       {
@@ -342,34 +342,24 @@
     ],
     "schedule": [
       {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI029",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "20/11/2026 07:00",
-        "etd": "21/11/2026 12:00",
-        "openstack": "13/11/2026 00:00",
-        "closeC": "21/11/2026 08:00"
-      },
-      {
         "name": "MARINA ATHENA",
         "code": "MAAT011",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "20/11/2026 16:00",
-        "etd": "21/11/2026 05:00",
+        "etb": "21/11/2026 01:00",
+        "etd": "21/11/2026 11:00",
         "openstack": "15/11/2026 08:00",
         "closeC": "20/11/2026 23:00"
       },
       {
-        "name": "2644S",
-        "code": "2644N",
+        "name": "MERATUS KAIMANA",
+        "code": "MEAI029",
         "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "21/11/2026 06:00",
-        "etd": "22/11/2026 03:30",
-        "openstack": "16/11/2026 06:00",
-        "closeC": "20/11/2026 18:00"
+        "carrier": "PT. MERATUS LINE",
+        "etb": "21/11/2026 16:00",
+        "etd": "23/11/2026 03:00",
+        "openstack": "13/11/2026 00:00",
+        "closeC": "21/11/2026 08:00"
       },
       {
         "name": "INTERASIA TRIUMPH",
@@ -381,6 +371,16 @@
         "etd": "23/11/2026 01:30",
         "openstack": "17/11/2026 00:00",
         "closeC": "21/11/2026 07:00"
+      },
+      {
+        "name": "2644S",
+        "code": "2644N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "etb": "22/11/2026 00:59",
+        "etd": "22/11/2026 22:59",
+        "openstack": "16/11/2026 06:00",
+        "closeC": "20/11/2026 18:00"
       },
       {
         "name": "YM EFFICIENCY",
@@ -402,6 +402,17 @@
         "etd": "25/11/2026 07:30",
         "openstack": "19/11/2026 11:00",
         "closeC": "24/11/2026 06:00"
+      },
+      {
+        "name": "TIANJIN VOYAGER",
+        "code": "TIIN020",
+        "voyage": "2610S        / 2610N",
+        "type": "INTERNATIONAL",
+        "carrier": "HEUNG A LINE CO., LTD.",
+        "etb": "25/11/2026 03:00",
+        "etd": "26/11/2026 01:30",
+        "openstack": "20/11/2026 03:00",
+        "closeC": "24/11/2026 22:00"
       }
     ],
     "departed": [
