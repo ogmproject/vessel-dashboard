@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T01:00:49.521968",
+  "generated_at": "2026-11-20T01:30:36.263453",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -86,17 +86,6 @@
       "avg_interval_days": 29.2,
       "interval_stddev_days": 3.8,
       "avg_dwelling_hours": 37.5,
-      "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "EVER BUILD",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-21T10:05:00",
-      "predicted_next_arrival": "2026-11-18T23:30:00",
-      "avg_interval_days": 28.6,
-      "interval_stddev_days": 2.2,
-      "avg_dwelling_hours": 18.0,
       "visits_recorded": 3,
       "confidence": "medium"
     },
@@ -748,6 +737,17 @@
       "avg_dwelling_hours": 19.4,
       "visits_recorded": 4,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "EVER BUILD",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-20T08:15:00",
+      "predicted_next_arrival": "2026-12-19T08:35:00",
+      "avg_interval_days": 29.0,
+      "interval_stddev_days": 1.9,
+      "avg_dwelling_hours": 18.0,
+      "visits_recorded": 4,
+      "confidence": "high"
     },
     {
       "vessel_name": "CMA CGM FORT DIAMANT",
