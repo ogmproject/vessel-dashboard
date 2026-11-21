@@ -1,19 +1,12 @@
 {
-  "generated_at": "2026-11-21T14:30:42+00:00",
+  "generated_at": "2026-11-21T15:00:45+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - ES TREASURE",
-        "code": "646S / 646S",
-        "atb": "21/11/2026 01:00",
-        "etd": "21/11/2026 21:00",
-        "verified": false
-      },
       {
         "name": "I2 - SINAR SULAWESI",
         "code": "103S / 103N",
         "atb": "20/11/2026 12:20",
-        "etd": "22/11/2026 01:00",
+        "etd": "22/11/2026 00:00",
         "verified": false
       }
     ],
@@ -242,6 +235,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "ES TREASURE",
+        "berth": "21/11/2026 01:00",
+        "dep": "21/11/2026 21:46"
+      },
       {
         "name": "KOTA JOHAN",
         "berth": "20/11/2026 16:50",
