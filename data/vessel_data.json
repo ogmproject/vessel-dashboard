@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T04:00:47+00:00",
+  "generated_at": "2026-11-21T04:30:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -304,7 +304,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "20/11/2026 22:15",
-        "etd": "21/11/2026 16:00"
+        "etd": "21/11/2026 18:00"
       },
       {
         "name": "2626",
@@ -315,16 +315,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI029",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "etb": "21/11/2026 16:00",
-        "etd": "23/11/2026 03:00",
-        "openstack": "13/11/2026 00:00",
-        "closeC": "21/11/2026 16:00"
-      },
       {
         "name": "INTERASIA TRIUMPH",
         "code": "INTR002",
@@ -337,12 +327,22 @@
         "closeC": "21/11/2026 10:50"
       },
       {
+        "name": "MERATUS KAIMANA",
+        "code": "MEAI029",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "22/11/2026 08:00",
+        "etd": "23/11/2026 17:00",
+        "openstack": "13/11/2026 00:00",
+        "closeC": "21/11/2026 16:00"
+      },
+      {
         "name": "2644S",
         "code": "2644N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "22/11/2026 00:59",
-        "etd": "22/11/2026 22:59",
+        "etb": "22/11/2026 10:00",
+        "etd": "23/11/2026 00:00",
         "openstack": "16/11/2026 06:00",
         "closeC": "21/11/2026 05:00"
       },
