@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:00:51.872431",
+  "generated_at": "2026-11-21T17:30:48.435237",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -110,17 +110,6 @@
       "avg_dwelling_hours": 11.7,
       "visits_recorded": 3,
       "confidence": "medium"
-    },
-    {
-      "vessel_name": "SIMAG SHANGHAI",
-      "terminal": "TPS",
-      "last_arrival": "2026-11-02T00:55:00",
-      "predicted_next_arrival": "2026-11-22T06:30:00",
-      "avg_interval_days": 20.2,
-      "interval_stddev_days": 0.9,
-      "avg_dwelling_hours": 11.6,
-      "visits_recorded": 5,
-      "confidence": "high"
     },
     {
       "vessel_name": "INTERASIA ENGAGE",
@@ -627,6 +616,17 @@
       "avg_dwelling_hours": 27.8,
       "visits_recorded": 3,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "SIMAG SHANGHAI",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-22T00:05:00",
+      "predicted_next_arrival": "2026-12-12T04:23:00",
+      "avg_interval_days": 20.2,
+      "interval_stddev_days": 0.9,
+      "avg_dwelling_hours": 11.6,
+      "visits_recorded": 6,
+      "confidence": "high"
     },
     {
       "vessel_name": "WAN HAI 373",
