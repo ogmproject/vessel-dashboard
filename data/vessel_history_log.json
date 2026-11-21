@@ -3090,8 +3090,8 @@
     "vessel_name": "SINAR SULAWESI",
     "terminal": "TPS",
     "arrival": "2026-11-20T12:20:00",
-    "departure": null,
-    "recorded_at": "2026-11-20T06:00:42.167468"
+    "departure": "2026-11-22T00:25:00",
+    "recorded_at": "2026-11-21T19:30:40.649417"
   },
   {
     "vessel_name": "KOTA JOHAN",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:00:43+00:00",
+  "generated_at": "2026-11-21T19:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "2635S / 2635S",
         "atb": "22/11/2026 00:05",
         "etd": "22/11/2026 09:30",
-        "verified": false
-      },
-      {
-        "name": "I2 - SINAR SULAWESI",
-        "code": "103S / 103N",
-        "atb": "20/11/2026 12:20",
-        "etd": "22/11/2026 00:00",
         "verified": false
       }
     ],
@@ -232,6 +225,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SINAR SULAWESI",
+        "berth": "20/11/2026 12:20",
+        "dep": "22/11/2026 00:25"
+      },
       {
         "name": "ES TREASURE",
         "berth": "21/11/2026 01:00",
