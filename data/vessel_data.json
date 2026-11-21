@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:30:38+00:00",
+  "generated_at": "2026-11-21T10:42:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -316,17 +316,6 @@
     ],
     "schedule": [
       {
-        "name": "INTERASIA TRIUMPH",
-        "code": "INTR002",
-        "voyage": "E018         / W019",
-        "type": "INTERNATIONAL",
-        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
-        "etb": "22/11/2026 00:00",
-        "etd": "23/11/2026 01:30",
-        "openstack": "17/11/2026 00:00",
-        "closeC": "21/11/2026 15:30"
-      },
-      {
         "name": "MERATUS KAIMANA",
         "code": "MEAI029",
         "type": "INTERNATIONAL",
@@ -356,6 +345,17 @@
         "etd": "24/11/2026 12:00",
         "openstack": "18/11/2026 12:00",
         "closeC": "23/11/2026 07:00"
+      },
+      {
+        "name": "INTERASIA TRIUMPH",
+        "code": "INTR002",
+        "voyage": "E018         / W019",
+        "type": "INTERNATIONAL",
+        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
+        "etb": "23/11/2026 22:00",
+        "etd": "25/11/2026 03:00",
+        "openstack": "17/11/2026 00:00",
+        "closeC": "21/11/2026 15:30"
       },
       {
         "name": "ITAL BONUS",
