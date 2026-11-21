@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-21T22:00:42+00:00",
+  "generated_at": "2026-11-21T22:30:47+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SIMAG SHANGHAI",
         "code": "2635S / 2635S",
         "atb": "22/11/2026 00:05",
-        "etd": "22/11/2026 09:30",
+        "etd": "22/11/2026 12:00",
         "verified": false
       }
     ],
@@ -275,7 +275,7 @@
         "code": "MEAI029",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "22/11/2026 08:00",
+        "etb": "22/11/2026 08:30",
         "etd": "23/11/2026 17:00",
         "openstack": "13/11/2026 00:00",
         "closeC": "22/11/2026 08:00"
