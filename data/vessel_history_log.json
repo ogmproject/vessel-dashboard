@@ -3097,8 +3097,8 @@
     "vessel_name": "KOTA JOHAN",
     "terminal": "TPS",
     "arrival": "2026-11-20T16:50:00",
-    "departure": null,
-    "recorded_at": "2026-11-20T10:00:40.688786"
+    "departure": "2026-11-21T21:05:00",
+    "recorded_at": "2026-11-21T14:30:42.898287"
   },
   {
     "vessel_name": "MARINA ATHENA",
