@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:42:49+00:00",
+  "generated_at": "2026-11-21T11:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -323,7 +323,7 @@
         "etb": "22/11/2026 08:00",
         "etd": "23/11/2026 17:00",
         "openstack": "13/11/2026 00:00",
-        "closeC": "21/11/2026 16:00"
+        "closeC": "22/11/2026 00:00"
       },
       {
         "name": "2644S",
@@ -388,15 +388,6 @@
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
         "atb": "20/11/2026 05:50",
         "atd": "21/11/2026 10:36"
-      },
-      {
-        "name": "BANGKOK RIVER",
-        "code": "BARV001",
-        "voyage": "2645S        / 2645N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "19/11/2026 12:10",
-        "atd": "20/11/2026 17:54"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
