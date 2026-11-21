@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T03:30:46+00:00",
+  "generated_at": "2026-11-21T04:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -307,24 +307,10 @@
         "etd": "21/11/2026 16:00"
       },
       {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU030",
-        "voyage": "2610S        / 2610N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "20/11/2026 05:50",
-        "etd": "21/11/2026 10:00"
-      },
-      {
         "name": "2626",
         "code": "2626",
         "carrier": "PT. MENTARI MAS MULTIMODA",
         "voyage": "MARINA ATHENA / MAAT011",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU030",
         "type": "INTERNATIONAL"
       }
     ],
@@ -394,6 +380,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "KMTC SHIMIZU",
+        "code": "KMZU030",
+        "voyage": "2610S        / 2610N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "atb": "20/11/2026 05:50",
+        "atd": "21/11/2026 10:36"
+      },
       {
         "name": "BANGKOK RIVER",
         "code": "BARV001",
