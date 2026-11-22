@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-22T13:30:41+00:00",
+  "generated_at": "2026-11-22T14:00:53+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - SIMAG SHANGHAI",
         "code": "2635S / 2635S",
         "atb": "22/11/2026 00:05",
-        "etd": "22/11/2026 20:00",
+        "etd": "23/11/2026 00:01",
         "verified": false
       },
       {
@@ -20,7 +20,7 @@
         "name": "I2 - APL JEDDAH",
         "code": "CS20P0N / CS20P0N",
         "atb": "22/11/2026 16:55",
-        "etd": "24/11/2026 04:00",
+        "etd": "24/11/2026 10:00",
         "verified": false
       }
     ],
