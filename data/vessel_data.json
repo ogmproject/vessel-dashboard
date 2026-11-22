@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T09:00:49+00:00",
+  "generated_at": "2026-11-22T09:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,7 +13,7 @@
         "name": "I3 - NIKEN",
         "code": "644S / 647N",
         "atb": "22/11/2026 14:07",
-        "etd": "23/11/2026 03:00",
+        "etd": "23/11/2026 23:00",
         "verified": false
       }
     ],
@@ -284,7 +284,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "atb": "22/11/2026 11:50",
-        "etd": "22/11/2026 23:00"
+        "etd": "23/11/2026 00:00"
       },
       {
         "name": "MERATUS KAIMANA",
@@ -292,15 +292,13 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "22/11/2026 07:45",
-        "etd": "23/11/2026 17:00"
+        "etd": "23/11/2026 16:00"
       },
       {
-        "name": "HIJAU JELITA",
-        "code": "HIJE024",
-        "type": "INTERNATIONAL",
-        "carrier": "PT SALAM PACIFIC INDONESIA LINES",
-        "atb": "21/11/2026 14:50",
-        "etd": "22/11/2026 19:00"
+        "name": "4026",
+        "code": "4026",
+        "carrier": "PT. MENTARI MAS MULTIMODA",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "MERATUS KAIMANA",
