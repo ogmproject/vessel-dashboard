@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T12:30:41+00:00",
+  "generated_at": "2026-11-22T13:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -360,16 +360,7 @@
         "closeC": "27/11/2026 03:00"
       }
     ],
-    "departed": [
-      {
-        "name": "MARINA ATHENA",
-        "code": "MAAT011",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "20/11/2026 22:15",
-        "atd": "21/11/2026 19:52"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
