@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T19:30:41+00:00",
+  "generated_at": "2026-11-22T20:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -298,10 +298,11 @@
         "etd": "22/11/2026 22:00"
       },
       {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI029",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE"
+        "name": "2644S",
+        "code": "2644N",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "voyage": "MERATUS KAIMANA / MEAI029",
+        "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
