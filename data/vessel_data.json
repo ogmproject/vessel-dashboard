@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T16:00:46+00:00",
+  "generated_at": "2026-11-22T16:30:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -301,7 +301,7 @@
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
         "atb": "22/11/2026 11:50",
-        "etd": "23/11/2026 00:00"
+        "etd": "23/11/2026 01:00"
       },
       {
         "name": "MERATUS KAIMANA",
