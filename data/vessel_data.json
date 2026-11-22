@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T03:30:43+00:00",
+  "generated_at": "2026-11-22T04:00:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -45,7 +45,7 @@
         "name": "WAN HAI 352",
         "code": "S048 / N049",
         "eta": "22/11/2026 06:00",
-        "etd": "23/11/2026 06:30",
+        "etd": "23/11/2026 23:30",
         "openstack": "17/11/2026 06:00",
         "closeC": "22/11/2026 00:00",
         "closeD": "22/11/2026 03:00",
@@ -302,8 +302,8 @@
         "code": "2644N",
         "type": "INTERNATIONAL",
         "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "22/11/2026 10:00",
-        "etd": "23/11/2026 00:00",
+        "etb": "22/11/2026 11:00",
+        "etd": "22/11/2026 23:00",
         "openstack": "16/11/2026 06:00",
         "closeC": "21/11/2026 12:00"
       },
@@ -313,8 +313,8 @@
         "voyage": "209S         / 209N",
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "23/11/2026 12:00",
-        "etd": "24/11/2026 12:00",
+        "etb": "23/11/2026 11:00",
+        "etd": "24/11/2026 14:00",
         "openstack": "18/11/2026 12:00",
         "closeC": "23/11/2026 07:00"
       },
@@ -359,15 +359,6 @@
         "carrier": "PT. MERATUS LINE",
         "atb": "20/11/2026 22:15",
         "atd": "21/11/2026 19:52"
-      },
-      {
-        "name": "KMTC SHIMIZU",
-        "code": "KMZU030",
-        "voyage": "2610S        / 2610N",
-        "type": "INTERNATIONAL",
-        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "atb": "20/11/2026 05:50",
-        "atd": "21/11/2026 10:36"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
