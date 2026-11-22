@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:00:45+00:00",
+  "generated_at": "2026-11-22T21:30:37+00:00",
   "tps": {
     "alongside": [
       {
@@ -274,14 +274,6 @@
   "teluk_lamong": {
     "alongside": [
       {
-        "name": "2644S",
-        "code": "2644N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "22/11/2026 11:50",
-        "etd": "23/11/2026 01:00"
-      },
-      {
         "name": "MERATUS KAIMANA",
         "code": "MEAI029",
         "type": "INTERNATIONAL",
@@ -290,19 +282,10 @@
         "etd": "23/11/2026 14:00"
       },
       {
-        "name": "HIJAU JELITA",
-        "code": "HIJE024",
+        "name": "MERATUS KAIMANA",
+        "code": "MEAI029",
         "type": "INTERNATIONAL",
-        "carrier": "PT SALAM PACIFIC INDONESIA LINES",
-        "atb": "21/11/2026 14:50",
-        "etd": "22/11/2026 22:00"
-      },
-      {
-        "name": "2644S",
-        "code": "2644N",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "voyage": "MERATUS KAIMANA / MEAI029",
-        "type": "INTERNATIONAL"
+        "carrier": "PT. MERATUS LINE"
       }
     ],
     "schedule": [
@@ -361,7 +344,16 @@
         "closeC": "27/11/2026 03:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "2644S",
+        "code": "2644N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "atb": "22/11/2026 11:50",
+        "atd": "23/11/2026 03:52"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }

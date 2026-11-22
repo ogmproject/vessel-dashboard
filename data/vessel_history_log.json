@@ -3139,8 +3139,8 @@
     "vessel_name": "2644S",
     "terminal": "TL",
     "arrival": "2026-11-22T11:50:00",
-    "departure": null,
-    "recorded_at": "2026-11-22T05:00:51.364914"
+    "departure": "2026-11-23T03:52:00",
+    "recorded_at": "2026-11-22T21:30:37.765485"
   },
   {
     "vessel_name": "NIKEN",
