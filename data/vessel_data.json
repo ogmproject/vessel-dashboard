@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T14:00:53+00:00",
+  "generated_at": "2026-11-22T14:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -228,6 +228,16 @@
         "verified": false,
         "mmsi": "563124300",
         "imo": "9871490"
+      },
+      {
+        "name": "SINAR SULAWESI",
+        "code": "104S / 104N",
+        "eta": "27/11/2026 06:00",
+        "etd": "29/11/2026 00:30",
+        "openstack": "22/11/2026 06:00",
+        "closeC": "27/11/2026 00:00",
+        "closeD": "27/11/2026 03:00",
+        "verified": false
       }
     ],
     "movement": [
