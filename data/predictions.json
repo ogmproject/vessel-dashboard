@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T23:00:44.006325",
+  "generated_at": "2026-11-22T23:30:43.168543",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -933,6 +933,17 @@
       "avg_interval_days": 43.5,
       "interval_stddev_days": 26.0,
       "avg_dwelling_hours": 11.6,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "ANL DHAMBI",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-23T06:10:00",
+      "predicted_next_arrival": "2027-01-04T14:10:00",
+      "avg_interval_days": 42.3,
+      "interval_stddev_days": 2.9,
+      "avg_dwelling_hours": 6.9,
       "visits_recorded": 3,
       "confidence": "medium"
     },
