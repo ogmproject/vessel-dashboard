@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-11-22T18:00:49+00:00",
+  "generated_at": "2026-11-22T18:30:40+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - SIMAG SHANGHAI",
-        "code": "2635S / 2635S",
-        "atb": "22/11/2026 00:05",
-        "etd": "23/11/2026 00:01",
-        "verified": false
-      },
       {
         "name": "I3 - NIKEN",
         "code": "644S / 647N",
@@ -27,7 +20,7 @@
         "name": "I1 - SINAR SOLO",
         "code": "024S / 024N",
         "atb": "22/11/2026 23:30",
-        "etd": "23/11/2026 10:00",
+        "etd": "23/11/2026 09:00",
         "verified": false
       }
     ],
@@ -249,6 +242,11 @@
     ],
     "movement": [
       {
+        "name": "SIMAG SHANGHAI",
+        "berth": "22/11/2026 00:05",
+        "dep": "23/11/2026 00:48"
+      },
+      {
         "name": "SINAR SULAWESI",
         "berth": "20/11/2026 12:20",
         "dep": "22/11/2026 00:25"
@@ -292,10 +290,12 @@
         "etd": "23/11/2026 14:00"
       },
       {
-        "name": "4026",
-        "code": "4026",
-        "carrier": "PT. MENTARI MAS MULTIMODA",
-        "type": "INTERNATIONAL"
+        "name": "HIJAU JELITA",
+        "code": "HIJE024",
+        "type": "INTERNATIONAL",
+        "carrier": "PT SALAM PACIFIC INDONESIA LINES",
+        "atb": "21/11/2026 14:50",
+        "etd": "22/11/2026 22:00"
       },
       {
         "name": "MERATUS KAIMANA",

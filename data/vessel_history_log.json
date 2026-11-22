@@ -3125,8 +3125,8 @@
     "vessel_name": "SIMAG SHANGHAI",
     "terminal": "TPS",
     "arrival": "2026-11-22T00:05:00",
-    "departure": null,
-    "recorded_at": "2026-11-21T17:30:48.435237"
+    "departure": "2026-11-23T00:48:00",
+    "recorded_at": "2026-11-22T18:30:41.008517"
   },
   {
     "vessel_name": "MERATUS KAIMANA",
