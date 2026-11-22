@@ -3115,6 +3115,13 @@
     "recorded_at": "2026-11-21T15:00:45.446560"
   },
   {
+    "vessel_name": "HIJAU JELITA",
+    "terminal": "TL",
+    "arrival": "2026-11-21T14:50:00",
+    "departure": null,
+    "recorded_at": "2026-11-22T05:00:51.364914"
+  },
+  {
     "vessel_name": "SIMAG SHANGHAI",
     "terminal": "TPS",
     "arrival": "2026-11-22T00:05:00",
@@ -3127,5 +3134,12 @@
     "arrival": "2026-11-22T07:45:00",
     "departure": null,
     "recorded_at": "2026-11-22T01:00:51.554285"
+  },
+  {
+    "vessel_name": "2644S",
+    "terminal": "TL",
+    "arrival": "2026-11-22T11:50:00",
+    "departure": null,
+    "recorded_at": "2026-11-22T05:00:51.364914"
   }
 ]

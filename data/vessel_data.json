@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T04:30:44+00:00",
+  "generated_at": "2026-11-22T05:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -282,12 +282,28 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "2644S",
+        "code": "2644N",
+        "type": "INTERNATIONAL",
+        "carrier": "SEA CONSORTIUM PTE LTD",
+        "atb": "22/11/2026 11:50",
+        "etd": "22/11/2026 23:00"
+      },
+      {
         "name": "MERATUS KAIMANA",
         "code": "MEAI029",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "22/11/2026 07:45",
         "etd": "23/11/2026 17:00"
+      },
+      {
+        "name": "HIJAU JELITA",
+        "code": "HIJE024",
+        "type": "INTERNATIONAL",
+        "carrier": "PT SALAM PACIFIC INDONESIA LINES",
+        "atb": "21/11/2026 14:50",
+        "etd": "22/11/2026 19:00"
       },
       {
         "name": "MERATUS KAIMANA",
@@ -297,16 +313,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "2644S",
-        "code": "2644N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "etb": "22/11/2026 11:00",
-        "etd": "22/11/2026 23:00",
-        "openstack": "16/11/2026 06:00",
-        "closeC": "21/11/2026 12:00"
-      },
       {
         "name": "YM EFFICIENCY",
         "code": "YMYM072",
