@@ -3141,5 +3141,12 @@
     "arrival": "2026-11-22T11:50:00",
     "departure": null,
     "recorded_at": "2026-11-22T05:00:51.364914"
+  },
+  {
+    "vessel_name": "NIKEN",
+    "terminal": "TPS",
+    "arrival": "2026-11-22T14:07:00",
+    "departure": null,
+    "recorded_at": "2026-11-22T07:30:48.348561"
   }
 ]
