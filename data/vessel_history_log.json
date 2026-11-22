@@ -3155,5 +3155,12 @@
     "arrival": "2026-11-22T16:55:00",
     "departure": null,
     "recorded_at": "2026-11-22T10:00:47.980019"
+  },
+  {
+    "vessel_name": "SINAR SOLO",
+    "terminal": "TPS",
+    "arrival": "2026-11-22T23:30:00",
+    "departure": null,
+    "recorded_at": "2026-11-22T17:00:47.404910"
   }
 ]

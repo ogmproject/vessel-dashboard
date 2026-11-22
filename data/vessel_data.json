@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T16:30:48+00:00",
+  "generated_at": "2026-11-22T17:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,6 +22,13 @@
         "atb": "22/11/2026 16:55",
         "etd": "24/11/2026 10:00",
         "verified": false
+      },
+      {
+        "name": "I1 - SINAR SOLO",
+        "code": "024S / 024N",
+        "atb": "22/11/2026 23:30",
+        "etd": "23/11/2026 10:00",
+        "verified": false
       }
     ],
     "schedule": [
@@ -33,16 +40,6 @@
         "openstack": "14/11/2026 01:00",
         "closeC": "18/11/2026 19:00",
         "closeD": "18/11/2026 22:00",
-        "verified": false
-      },
-      {
-        "name": "SINAR SOLO",
-        "code": "024S / 024N",
-        "eta": "22/11/2026 22:00",
-        "etd": "23/11/2026 10:00",
-        "openstack": "17/11/2026 12:00",
-        "closeC": "22/11/2026 06:00",
-        "closeD": "22/11/2026 09:00",
         "verified": false
       },
       {
@@ -272,23 +269,6 @@
         "dep": "21/11/2026 12:23",
         "mmsi": "370616000",
         "imo": "9790062"
-      },
-      {
-        "name": "EVER BOOMY",
-        "berth": "20/11/2026 00:45",
-        "dep": "20/11/2026 19:57",
-        "mmsi": "370700000",
-        "imo": "9787015"
-      },
-      {
-        "name": "AREZOO",
-        "berth": "19/11/2026 21:50",
-        "dep": "20/11/2026 09:48"
-      },
-      {
-        "name": "KMTC INCHEON",
-        "berth": "19/11/2026 17:20",
-        "dep": "20/11/2026 05:25"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
