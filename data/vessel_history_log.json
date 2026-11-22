@@ -3120,5 +3120,12 @@
     "arrival": "2026-11-22T00:05:00",
     "departure": null,
     "recorded_at": "2026-11-21T17:30:48.435237"
+  },
+  {
+    "vessel_name": "MERATUS KAIMANA",
+    "terminal": "TL",
+    "arrival": "2026-11-22T07:45:00",
+    "departure": null,
+    "recorded_at": "2026-11-22T01:00:51.554285"
   }
 ]

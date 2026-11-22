@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T00:30:39+00:00",
+  "generated_at": "2026-11-22T01:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -222,6 +222,18 @@
         "verified": false,
         "mmsi": "538007503",
         "imo": "9793806"
+      },
+      {
+        "name": "WAN HAI 327",
+        "code": "S071 / N071",
+        "eta": "26/11/2026 16:00",
+        "etd": "27/11/2026 17:30",
+        "openstack": "21/11/2026 16:00",
+        "closeC": "26/11/2026 10:00",
+        "closeD": "26/11/2026 13:00",
+        "verified": false,
+        "mmsi": "563124300",
+        "imo": "9871490"
       }
     ],
     "movement": [
@@ -268,18 +280,23 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "MERATUS KAIMANA",
         "code": "MEAI029",
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
-        "etb": "22/11/2026 08:30",
-        "etd": "23/11/2026 17:00",
-        "openstack": "13/11/2026 00:00",
-        "closeC": "22/11/2026 08:00"
+        "atb": "22/11/2026 07:45",
+        "etd": "23/11/2026 17:00"
       },
+      {
+        "name": "MERATUS KAIMANA",
+        "code": "MEAI029",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE"
+      }
+    ],
+    "schedule": [
       {
         "name": "2644S",
         "code": "2644N",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T00:30:39.924935",
+  "generated_at": "2026-11-22T01:00:51.554285",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -43,17 +43,6 @@
       "interval_stddev_days": 7.7,
       "avg_dwelling_hours": 21.7,
       "visits_recorded": 4,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "MERATUS KAIMANA",
-      "terminal": "TL",
-      "last_arrival": "2026-10-17T10:08:00",
-      "predicted_next_arrival": "2026-11-15T02:08:00",
-      "avg_interval_days": 28.7,
-      "interval_stddev_days": 18.5,
-      "avg_dwelling_hours": 30.3,
-      "visits_recorded": 3,
       "confidence": "medium"
     },
     {
@@ -868,6 +857,17 @@
       "interval_stddev_days": 3.2,
       "avg_dwelling_hours": 19.1,
       "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "MERATUS KAIMANA",
+      "terminal": "TL",
+      "last_arrival": "2026-11-22T07:45:00",
+      "predicted_next_arrival": "2026-12-23T09:37:20",
+      "avg_interval_days": 31.1,
+      "interval_stddev_days": 15.5,
+      "avg_dwelling_hours": 30.3,
+      "visits_recorded": 4,
       "confidence": "medium"
     },
     {
