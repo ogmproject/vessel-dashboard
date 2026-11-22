@@ -3148,5 +3148,12 @@
     "arrival": "2026-11-22T14:07:00",
     "departure": null,
     "recorded_at": "2026-11-22T07:30:48.348561"
+  },
+  {
+    "vessel_name": "APL JEDDAH",
+    "terminal": "TPS",
+    "arrival": "2026-11-22T16:55:00",
+    "departure": null,
+    "recorded_at": "2026-11-22T10:00:47.980019"
   }
 ]
