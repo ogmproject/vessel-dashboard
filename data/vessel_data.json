@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T20:30:40+00:00",
+  "generated_at": "2026-11-23T21:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -365,14 +365,6 @@
       }
     ],
     "departed": [
-      {
-        "name": "2644S",
-        "code": "2644N",
-        "type": "INTERNATIONAL",
-        "carrier": "SEA CONSORTIUM PTE LTD",
-        "atb": "22/11/2026 11:50",
-        "atd": "23/11/2026 03:52"
-      },
       {
         "name": "MERATUS KAIMANA",
         "code": "MEAI029",
