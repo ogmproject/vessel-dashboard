@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T07:00:56+00:00",
+  "generated_at": "2026-11-23T07:30:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -357,6 +357,16 @@
         "closeC": "27/11/2026 03:00"
       },
       {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU009",
+        "voyage": "015S         / 015N",
+        "type": "INTERNATIONAL",
+        "etb": "28/11/2026 12:00",
+        "etd": "29/11/2026 08:30",
+        "openstack": "23/11/2026 12:00",
+        "closeC": "27/11/2026 03:00"
+      },
+      {
         "name": "CHENNAI VOYAGER",
         "code": "CHVO012",
         "voyage": "2610S        / 2610N",
@@ -368,25 +378,15 @@
         "closeC": "28/11/2026 07:00"
       },
       {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU009",
-        "voyage": "015S         / 015N",
-        "type": "INTERNATIONAL",
-        "etb": "28/11/2026 12:00",
-        "etd": "29/11/2026 08:30",
-        "openstack": "23/11/2026 12:00",
-        "closeC": "27/11/2026 03:00"
-      },
-      {
         "name": "YUAN XIANG FEN JIN",
         "code": "YUFJ001",
         "voyage": "26002        / 26002",
         "type": "INTERNATIONAL",
         "carrier": "PT. PELAYARAN KARANA LINE",
-        "etb": "29/11/2026 08:00",
-        "etd": "29/11/2026 08:30",
-        "openstack": "24/11/2026 08:00",
-        "closeC": "29/11/2026 03:00"
+        "etb": "29/11/2026 12:00",
+        "etd": "29/11/2026 23:30",
+        "openstack": "24/11/2026 12:00",
+        "closeC": "29/11/2026 07:00"
       }
     ],
     "departed": [
