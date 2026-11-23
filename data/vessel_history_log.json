@@ -3183,5 +3183,12 @@
     "arrival": "2026-11-23T13:48:00",
     "departure": null,
     "recorded_at": "2026-11-23T07:00:56.181756"
+  },
+  {
+    "vessel_name": "ZHONG GU JI NAN",
+    "terminal": "TPS",
+    "arrival": "2026-11-23T16:45:00",
+    "departure": null,
+    "recorded_at": "2026-11-23T10:00:51.511411"
   }
 ]
