@@ -3153,8 +3153,8 @@
     "vessel_name": "APL JEDDAH",
     "terminal": "TPS",
     "arrival": "2026-11-22T16:55:00",
-    "departure": null,
-    "recorded_at": "2026-11-22T10:00:47.980019"
+    "departure": "2026-11-24T04:25:00",
+    "recorded_at": "2026-11-23T22:00:47.143821"
   },
   {
     "vessel_name": "SINAR SOLO",
@@ -3197,5 +3197,12 @@
     "arrival": "2026-11-23T18:10:00",
     "departure": null,
     "recorded_at": "2026-11-23T11:30:44.557028"
+  },
+  {
+    "vessel_name": "SONGA SUCCESS",
+    "terminal": "TPS",
+    "arrival": "2026-11-24T04:35:00",
+    "departure": null,
+    "recorded_at": "2026-11-23T22:00:47.143821"
   }
 ]

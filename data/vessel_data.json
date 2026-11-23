@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-23T21:30:41+00:00",
+  "generated_at": "2026-11-23T22:00:47+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - ZHONG GU JI NAN",
         "code": "CHN0M0S / CHN0N0N",
         "atb": "23/11/2026 16:45",
-        "etd": "24/11/2026 12:00",
+        "etd": "24/11/2026 11:00",
         "verified": false
       },
       {
-        "name": "I2 - APL JEDDAH",
-        "code": "CS20P0N / CS20P0N",
-        "atb": "22/11/2026 16:55",
-        "etd": "24/11/2026 03:00",
+        "name": "I3 - SONGA SUCCESS",
+        "code": "0058S / 0058N",
+        "atb": "24/11/2026 04:35",
+        "etd": "25/11/2026 19:00",
         "verified": false
       },
       {
@@ -43,16 +43,6 @@
         "openstack": "19/11/2026 02:00",
         "closeC": "23/11/2026 20:00",
         "closeD": "23/11/2026 23:00",
-        "verified": false
-      },
-      {
-        "name": "SONGA SUCCESS",
-        "code": "0058S / 0058N",
-        "eta": "24/11/2026 03:00",
-        "etd": "25/11/2026 19:00",
-        "openstack": "18/11/2026 12:00",
-        "closeC": "23/11/2026 06:00",
-        "closeD": "23/11/2026 09:00",
         "verified": false
       },
       {
@@ -236,6 +226,11 @@
     ],
     "movement": [
       {
+        "name": "APL JEDDAH",
+        "berth": "22/11/2026 16:55",
+        "dep": "24/11/2026 04:25"
+      },
+      {
         "name": "MSC COLETTE III",
         "berth": "23/11/2026 11:45",
         "dep": "24/11/2026 00:59"
@@ -277,7 +272,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
         "atb": "23/11/2026 13:48",
-        "etd": "24/11/2026 13:00"
+        "etd": "24/11/2026 09:00"
       },
       {
         "name": "6426",
