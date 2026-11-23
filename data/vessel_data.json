@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T05:00:43+00:00",
+  "generated_at": "2026-11-23T05:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "2026S / 2026S",
         "atb": "23/11/2026 06:10",
         "etd": "23/11/2026 12:30",
+        "verified": false
+      },
+      {
+        "name": "I3 - MSC COLETTE III",
+        "code": "XF645R / XF645R",
+        "atb": "23/11/2026 11:45",
+        "etd": "23/11/2026 22:00",
         "verified": false
       },
       {
@@ -18,16 +25,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "MSC COLETTE III",
-        "code": "XF645R / XF645R",
-        "eta": "23/11/2026 08:00",
-        "etd": "23/11/2026 22:00",
-        "openstack": "17/11/2026 16:00",
-        "closeC": "22/11/2026 10:00",
-        "closeD": "22/11/2026 13:00",
-        "verified": false
-      },
       {
         "name": "ZHONG GU JI NAN",
         "code": "CHN0M0S / CHN0N0N",
