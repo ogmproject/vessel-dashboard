@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T03:30:41+00:00",
+  "generated_at": "2026-11-23T04:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -272,7 +272,7 @@
         "type": "INTERNATIONAL",
         "carrier": "PT. MERATUS LINE",
         "atb": "22/11/2026 07:45",
-        "etd": "23/11/2026 14:00"
+        "etd": "23/11/2026 16:00"
       },
       {
         "name": "MERATUS KAIMANA",
@@ -288,10 +288,20 @@
         "voyage": "209S         / 209N",
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "etb": "23/11/2026 11:00",
-        "etd": "24/11/2026 14:00",
+        "etb": "23/11/2026 14:00",
+        "etd": "24/11/2026 13:00",
         "openstack": "18/11/2026 12:00",
         "closeC": "23/11/2026 07:00"
+      },
+      {
+        "name": "ITAL BONUS",
+        "code": "ITBO011",
+        "voyage": "S127         / N127",
+        "type": "INTERNATIONAL",
+        "etb": "24/11/2026 15:00",
+        "etd": "25/11/2026 17:00",
+        "openstack": "19/11/2026 11:00",
+        "closeC": "24/11/2026 06:00"
       },
       {
         "name": "INTERASIA TRIUMPH",
@@ -299,20 +309,10 @@
         "voyage": "E018         / W019",
         "type": "INTERNATIONAL",
         "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
-        "etb": "23/11/2026 22:00",
-        "etd": "25/11/2026 03:00",
+        "etb": "24/11/2026 16:00",
+        "etd": "25/11/2026 18:00",
         "openstack": "17/11/2026 00:00",
         "closeC": "23/11/2026 08:30"
-      },
-      {
-        "name": "ITAL BONUS",
-        "code": "ITBO011",
-        "voyage": "S127         / N127",
-        "type": "INTERNATIONAL",
-        "etb": "24/11/2026 11:00",
-        "etd": "25/11/2026 07:30",
-        "openstack": "19/11/2026 11:00",
-        "closeC": "24/11/2026 06:00"
       },
       {
         "name": "TIANJIN VOYAGER",
@@ -320,8 +320,8 @@
         "voyage": "2610S        / 2610N",
         "type": "INTERNATIONAL",
         "carrier": "HEUNG A LINE CO., LTD.",
-        "etb": "26/11/2026 12:00",
-        "etd": "27/11/2026 10:30",
+        "etb": "26/11/2026 04:00",
+        "etd": "27/11/2026 02:00",
         "openstack": "21/11/2026 12:00",
         "closeC": "26/11/2026 06:00"
       },
@@ -337,6 +337,17 @@
         "closeC": "27/11/2026 03:00"
       },
       {
+        "name": "CHENNAI VOYAGER",
+        "code": "CHVO012",
+        "voyage": "2610S        / 2610N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "etb": "28/11/2026 11:00",
+        "etd": "28/11/2026 12:30",
+        "openstack": "23/11/2026 11:00",
+        "closeC": "28/11/2026 07:00"
+      },
+      {
         "name": "ERASMUS JUSTICE",
         "code": "ERJU009",
         "voyage": "015S         / 015N",
@@ -344,8 +355,7 @@
         "etb": "28/11/2026 12:00",
         "etd": "29/11/2026 08:30",
         "openstack": "23/11/2026 12:00",
-        "closeC": "27/11/2026 03:00",
-        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
+        "closeC": "27/11/2026 03:00"
       }
     ],
     "departed": [
