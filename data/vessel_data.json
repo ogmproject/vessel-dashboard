@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-23T14:30:41+00:00",
+  "generated_at": "2026-11-23T15:00:50+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - ZHONG GU JI NAN",
         "code": "CHN0M0S / CHN0N0N",
         "atb": "23/11/2026 16:45",
-        "etd": "25/11/2026 08:06",
+        "etd": "24/11/2026 12:00",
         "verified": false
       },
       {
@@ -326,7 +326,7 @@
         "etb": "24/11/2026 16:00",
         "etd": "25/11/2026 18:00",
         "openstack": "17/11/2026 00:00",
-        "closeC": "23/11/2026 14:00"
+        "closeC": "23/11/2026 22:15"
       },
       {
         "name": "TIANJIN VOYAGER",
