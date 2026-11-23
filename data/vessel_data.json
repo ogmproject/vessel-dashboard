@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T10:30:42+00:00",
+  "generated_at": "2026-11-23T11:00:57+00:00",
   "tps": {
     "alongside": [
       {
@@ -354,6 +354,16 @@
         "closeC": "27/11/2026 03:00"
       },
       {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU009",
+        "voyage": "015S         / 015N",
+        "type": "INTERNATIONAL",
+        "etb": "28/11/2026 12:00",
+        "etd": "29/11/2026 08:30",
+        "openstack": "23/11/2026 12:00",
+        "closeC": "27/11/2026 03:00"
+      },
+      {
         "name": "CHENNAI VOYAGER",
         "code": "CHVO012",
         "voyage": "2610S        / 2610N",
@@ -363,16 +373,6 @@
         "etd": "29/11/2026 12:00",
         "openstack": "23/11/2026 12:00",
         "closeC": "28/11/2026 07:00"
-      },
-      {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU009",
-        "voyage": "015S         / 015N",
-        "type": "INTERNATIONAL",
-        "etb": "28/11/2026 12:00",
-        "etd": "29/11/2026 08:30",
-        "openstack": "23/11/2026 12:00",
-        "closeC": "27/11/2026 03:00"
       },
       {
         "name": "YUAN XIANG FEN JIN",
