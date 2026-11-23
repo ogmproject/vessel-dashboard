@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:30:42+00:00",
+  "generated_at": "2026-11-23T20:00:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -280,8 +280,8 @@
         "etd": "24/11/2026 13:00"
       },
       {
-        "name": "7426",
-        "code": "7426",
+        "name": "6426",
+        "code": "6426",
         "carrier": "PT. TEMAS SHIPPING",
         "voyage": "YM EFFICIENCY / YMYM072",
         "type": "INTERNATIONAL"
