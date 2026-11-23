@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:00:57.999315",
+  "generated_at": "2026-11-23T11:30:44.557028",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -911,6 +911,17 @@
       "avg_interval_days": 41.3,
       "interval_stddev_days": 2.5,
       "avg_dwelling_hours": 31.6,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "TS NAGOYA",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-23T18:10:00",
+      "predicted_next_arrival": "2026-12-27T12:22:30",
+      "avg_interval_days": 33.8,
+      "interval_stddev_days": 3.6,
+      "avg_dwelling_hours": 22.0,
       "visits_recorded": 3,
       "confidence": "medium"
     },
