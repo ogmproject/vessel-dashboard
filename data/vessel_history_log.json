@@ -3174,8 +3174,8 @@
     "vessel_name": "MSC COLETTE III",
     "terminal": "TPS",
     "arrival": "2026-11-23T11:45:00",
-    "departure": null,
-    "recorded_at": "2026-11-23T05:30:47.775792"
+    "departure": "2026-11-24T00:59:00",
+    "recorded_at": "2026-11-23T18:30:42.750754"
   },
   {
     "vessel_name": "YM EFFICIENCY",
