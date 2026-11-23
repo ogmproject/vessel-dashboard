@@ -3146,8 +3146,8 @@
     "vessel_name": "NIKEN",
     "terminal": "TPS",
     "arrival": "2026-11-22T14:07:00",
-    "departure": null,
-    "recorded_at": "2026-11-22T07:30:48.348561"
+    "departure": "2026-11-23T07:40:00",
+    "recorded_at": "2026-11-23T01:00:46.231790"
   },
   {
     "vessel_name": "APL JEDDAH",
