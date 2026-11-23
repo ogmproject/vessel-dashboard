@@ -3176,5 +3176,12 @@
     "arrival": "2026-11-23T11:45:00",
     "departure": null,
     "recorded_at": "2026-11-23T05:30:47.775792"
+  },
+  {
+    "vessel_name": "YM EFFICIENCY",
+    "terminal": "TL",
+    "arrival": "2026-11-23T13:48:00",
+    "departure": null,
+    "recorded_at": "2026-11-23T07:00:56.181756"
   }
 ]
