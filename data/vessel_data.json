@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T09:00:49+00:00",
+  "generated_at": "2026-11-23T09:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -305,23 +305,9 @@
         "etd": "24/11/2026 13:00"
       },
       {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI029",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE",
-        "atb": "22/11/2026 07:45",
-        "etd": "23/11/2026 14:30"
-      },
-      {
         "name": "YM EFFICIENCY",
         "code": "YMYM072",
         "type": "INTERNATIONAL"
-      },
-      {
-        "name": "MERATUS KAIMANA",
-        "code": "MEAI029",
-        "type": "INTERNATIONAL",
-        "carrier": "PT. MERATUS LINE"
       }
     ],
     "schedule": [
@@ -369,16 +355,6 @@
         "closeC": "27/11/2026 03:00"
       },
       {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU009",
-        "voyage": "015S         / 015N",
-        "type": "INTERNATIONAL",
-        "etb": "28/11/2026 12:00",
-        "etd": "29/11/2026 08:30",
-        "openstack": "23/11/2026 12:00",
-        "closeC": "27/11/2026 03:00"
-      },
-      {
         "name": "CHENNAI VOYAGER",
         "code": "CHVO012",
         "voyage": "2610S        / 2610N",
@@ -388,6 +364,16 @@
         "etd": "29/11/2026 12:00",
         "openstack": "23/11/2026 12:00",
         "closeC": "28/11/2026 07:00"
+      },
+      {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU009",
+        "voyage": "015S         / 015N",
+        "type": "INTERNATIONAL",
+        "etb": "28/11/2026 12:00",
+        "etd": "29/11/2026 08:30",
+        "openstack": "23/11/2026 12:00",
+        "closeC": "27/11/2026 03:00"
       },
       {
         "name": "YUAN XIANG FEN JIN",
@@ -409,6 +395,14 @@
         "carrier": "SEA CONSORTIUM PTE LTD",
         "atb": "22/11/2026 11:50",
         "atd": "23/11/2026 03:52"
+      },
+      {
+        "name": "MERATUS KAIMANA",
+        "code": "MEAI029",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "atb": "22/11/2026 07:45",
+        "atd": "23/11/2026 15:58"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
