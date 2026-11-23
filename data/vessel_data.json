@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T16:30:45+00:00",
+  "generated_at": "2026-11-23T17:00:58+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,14 +20,14 @@
         "name": "I2 - APL JEDDAH",
         "code": "CS20P0N / CS20P0N",
         "atb": "22/11/2026 16:55",
-        "etd": "24/11/2026 04:00",
+        "etd": "24/11/2026 03:00",
         "verified": false
       },
       {
         "name": "I1 - TS NAGOYA",
         "code": "2634S / 2634N",
         "atb": "23/11/2026 18:10",
-        "etd": "24/11/2026 10:00",
+        "etd": "24/11/2026 23:00",
         "verified": false
       }
     ],
@@ -266,23 +266,6 @@
         "name": "SINAR SULAWESI",
         "berth": "20/11/2026 12:20",
         "dep": "22/11/2026 00:25"
-      },
-      {
-        "name": "ES TREASURE",
-        "berth": "21/11/2026 01:00",
-        "dep": "21/11/2026 21:46"
-      },
-      {
-        "name": "KOTA JOHAN",
-        "berth": "20/11/2026 16:50",
-        "dep": "21/11/2026 21:05"
-      },
-      {
-        "name": "EVER BUILD",
-        "berth": "20/11/2026 08:15",
-        "dep": "21/11/2026 12:23",
-        "mmsi": "370616000",
-        "imo": "9790062"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
