@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T05:00:48+00:00",
+  "generated_at": "2026-11-24T05:30:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -27,7 +27,7 @@
         "name": "I1 - TS NAGOYA",
         "code": "2634S / 2634N",
         "atb": "23/11/2026 18:10",
-        "etd": "24/11/2026 13:00",
+        "etd": "24/11/2026 16:00",
         "verified": false
       }
     ],
@@ -261,24 +261,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "YM EFFICIENCY",
-        "code": "YMYM072",
-        "voyage": "209S         / 209N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "atb": "23/11/2026 13:48",
-        "etd": "24/11/2026 12:00"
-      },
-      {
-        "name": "6426",
-        "code": "6426",
-        "carrier": "PT. TEMAS SHIPPING",
-        "voyage": "YM EFFICIENCY / YMYM072",
-        "type": "INTERNATIONAL"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "ITAL BONUS",
@@ -368,6 +351,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "YM EFFICIENCY",
+        "code": "YMYM072",
+        "voyage": "209S         / 209N",
+        "type": "INTERNATIONAL",
+        "carrier": "PT.YANG MING SHIPPING INDONESIA",
+        "atb": "23/11/2026 13:48",
+        "atd": "24/11/2026 12:17"
+      },
       {
         "name": "MERATUS KAIMANA",
         "code": "MEAI029",
