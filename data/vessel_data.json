@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T06:00:45+00:00",
+  "generated_at": "2026-11-24T06:30:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -279,8 +279,8 @@
         "voyage": "E018         / W019",
         "type": "INTERNATIONAL",
         "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
-        "etb": "24/11/2026 17:00",
-        "etd": "25/11/2026 19:00",
+        "etb": "24/11/2026 20:00",
+        "etd": "25/11/2026 22:00",
         "openstack": "17/11/2026 00:00",
         "closeC": "23/11/2026 21:57"
       },
