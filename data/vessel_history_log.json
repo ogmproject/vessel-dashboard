@@ -3232,5 +3232,12 @@
     "arrival": "2026-11-24T19:12:00",
     "departure": null,
     "recorded_at": "2026-11-24T12:30:46.445323"
+  },
+  {
+    "vessel_name": "INTERASIA TRIUMPH",
+    "terminal": "TL",
+    "arrival": "2026-11-24T20:25:00",
+    "departure": null,
+    "recorded_at": "2026-11-24T14:00:50.467246"
   }
 ]
