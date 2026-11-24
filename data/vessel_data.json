@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T01:00:46+00:00",
+  "generated_at": "2026-11-24T01:30:40+00:00",
   "tps": {
     "alongside": [
       {
@@ -269,11 +269,11 @@
         "type": "INTERNATIONAL",
         "carrier": "PT.YANG MING SHIPPING INDONESIA",
         "atb": "23/11/2026 13:48",
-        "etd": "24/11/2026 11:00"
+        "etd": "24/11/2026 12:00"
       },
       {
-        "name": "6426",
-        "code": "6426",
+        "name": "7426",
+        "code": "7426",
         "carrier": "PT. TEMAS SHIPPING",
         "voyage": "YM EFFICIENCY / YMYM072",
         "type": "INTERNATIONAL"
