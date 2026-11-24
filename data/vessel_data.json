@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T21:30:42+00:00",
+  "generated_at": "2026-11-24T22:00:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "S048 / N049",
         "atb": "24/11/2026 15:07",
         "etd": "25/11/2026 08:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - THE WHALE SHARK",
+        "code": "3026S / 3026S",
+        "atb": "25/11/2026 04:45",
+        "etd": "25/11/2026 14:00",
         "verified": false
       },
       {
@@ -33,16 +40,6 @@
         "openstack": "19/11/2026 16:00",
         "closeC": "24/11/2026 10:00",
         "closeD": "24/11/2026 13:00",
-        "verified": false
-      },
-      {
-        "name": "THE WHALE SHARK",
-        "code": "3026S / 3026S",
-        "eta": "25/11/2026 02:00",
-        "etd": "25/11/2026 14:00",
-        "openstack": "17/11/2026 00:00",
-        "closeC": "21/11/2026 18:00",
-        "closeD": "21/11/2026 21:00",
         "verified": false
       },
       {

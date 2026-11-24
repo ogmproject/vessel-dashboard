@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T21:30:42.108791",
+  "generated_at": "2026-11-24T22:00:52.259782",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -307,17 +307,6 @@
       "interval_stddev_days": 3.2,
       "avg_dwelling_hours": 30.8,
       "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "THE WHALE SHARK",
-      "terminal": "TPS",
-      "last_arrival": "2026-11-04T03:30:00",
-      "predicted_next_arrival": "2026-12-01T17:51:40",
-      "avg_interval_days": 27.6,
-      "interval_stddev_days": 9.5,
-      "avg_dwelling_hours": 16.4,
-      "visits_recorded": 4,
       "confidence": "medium"
     },
     {
@@ -802,6 +791,17 @@
       "interval_stddev_days": 2.5,
       "avg_dwelling_hours": 13.9,
       "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "THE WHALE SHARK",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-25T04:45:00",
+      "predicted_next_arrival": "2026-12-21T03:50:00",
+      "avg_interval_days": 26.0,
+      "interval_stddev_days": 8.7,
+      "avg_dwelling_hours": 16.4,
+      "visits_recorded": 5,
       "confidence": "medium"
     },
     {
