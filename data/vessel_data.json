@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-11-24T06:30:41+00:00",
+  "generated_at": "2026-11-24T07:00:50+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - ZHONG GU JI NAN",
-        "code": "CHN0M0S / CHN0N0N",
-        "atb": "23/11/2026 16:45",
-        "etd": "24/11/2026 13:00",
-        "verified": false
-      },
       {
         "name": "I3 - SONGA SUCCESS",
         "code": "0058S / 0058N",
@@ -222,6 +215,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "ZHONG GU JI NAN",
+        "berth": "23/11/2026 16:45",
+        "dep": "24/11/2026 13:50"
+      },
       {
         "name": "APL JEDDAH",
         "berth": "22/11/2026 16:55",

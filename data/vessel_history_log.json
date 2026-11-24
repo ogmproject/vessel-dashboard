@@ -3188,8 +3188,8 @@
     "vessel_name": "ZHONG GU JI NAN",
     "terminal": "TPS",
     "arrival": "2026-11-23T16:45:00",
-    "departure": null,
-    "recorded_at": "2026-11-23T10:00:51.511411"
+    "departure": "2026-11-24T13:50:00",
+    "recorded_at": "2026-11-24T07:00:50.577265"
   },
   {
     "vessel_name": "TS NAGOYA",
