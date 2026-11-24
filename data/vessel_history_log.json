@@ -3195,8 +3195,8 @@
     "vessel_name": "TS NAGOYA",
     "terminal": "TPS",
     "arrival": "2026-11-23T18:10:00",
-    "departure": null,
-    "recorded_at": "2026-11-23T11:30:44.557028"
+    "departure": "2026-11-24T18:07:00",
+    "recorded_at": "2026-11-24T11:30:45.330526"
   },
   {
     "vessel_name": "SONGA SUCCESS",
