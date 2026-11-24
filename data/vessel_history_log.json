@@ -3209,8 +3209,8 @@
     "vessel_name": "AS CASPRIA",
     "terminal": "TPS",
     "arrival": "2026-11-24T07:30:00",
-    "departure": null,
-    "recorded_at": "2026-11-24T01:00:46.704741"
+    "departure": "2026-11-25T01:28:00",
+    "recorded_at": "2026-11-24T19:00:46.905295"
   },
   {
     "vessel_name": "WAN HAI 352",

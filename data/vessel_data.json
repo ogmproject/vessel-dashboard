@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:30:43+00:00",
+  "generated_at": "2026-11-24T19:00:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,13 +13,6 @@
         "name": "I3 - SONGA SUCCESS",
         "code": "0058S / 0058N",
         "atb": "24/11/2026 04:35",
-        "etd": "25/11/2026 02:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - AS CASPRIA",
-        "code": "382S / 382N",
-        "atb": "24/11/2026 07:30",
         "etd": "25/11/2026 02:00",
         "verified": false
       },
@@ -222,6 +215,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "AS CASPRIA",
+        "berth": "24/11/2026 07:30",
+        "dep": "25/11/2026 01:28"
+      },
       {
         "name": "TS NAGOYA",
         "berth": "23/11/2026 18:10",
