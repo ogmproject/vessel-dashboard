@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T20:30:50.747174",
+  "generated_at": "2026-11-24T21:00:49.824146",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -110,17 +110,6 @@
       "avg_dwelling_hours": 19.6,
       "visits_recorded": 3,
       "confidence": "medium"
-    },
-    {
-      "vessel_name": "SINAR SUNDA",
-      "terminal": "TPS",
-      "last_arrival": "2026-11-16T18:10:00",
-      "predicted_next_arrival": "2026-11-25T13:11:08.571429",
-      "avg_interval_days": 8.8,
-      "interval_stddev_days": 0.8,
-      "avg_dwelling_hours": 41.6,
-      "visits_recorded": 8,
-      "confidence": "high"
     },
     {
       "vessel_name": "AS CAROLINA",
@@ -396,6 +385,17 @@
       "avg_dwelling_hours": 23.4,
       "visits_recorded": 3,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "SINAR SUNDA",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-25T03:45:00",
+      "predicted_next_arrival": "2026-12-03T21:35:22.500000",
+      "avg_interval_days": 8.7,
+      "interval_stddev_days": 0.7,
+      "avg_dwelling_hours": 41.6,
+      "visits_recorded": 9,
+      "confidence": "high"
     },
     {
       "vessel_name": "KMTC HOCHIMINH",
