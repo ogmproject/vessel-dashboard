@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T19:00:46+00:00",
+  "generated_at": "2026-11-24T19:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,13 +7,6 @@
         "code": "S048 / N049",
         "atb": "24/11/2026 15:07",
         "etd": "25/11/2026 08:00",
-        "verified": false
-      },
-      {
-        "name": "I3 - SONGA SUCCESS",
-        "code": "0058S / 0058N",
-        "atb": "24/11/2026 04:35",
-        "etd": "25/11/2026 02:00",
         "verified": false
       },
       {
@@ -150,6 +143,16 @@
         "verified": false
       },
       {
+        "name": "HONG TAI 656",
+        "code": "647S / 647S",
+        "eta": "27/11/2026 07:00",
+        "etd": "27/11/2026 08:30",
+        "openstack": "30/11/2026 18:00",
+        "closeC": "03/12/2026 12:00",
+        "closeD": "03/12/2026 15:00",
+        "verified": false
+      },
+      {
         "name": "APL PUSAN",
         "code": "CS20S0S / CS20T0N",
         "eta": "28/11/2026 01:00",
@@ -215,6 +218,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "SONGA SUCCESS",
+        "berth": "24/11/2026 04:35",
+        "dep": "25/11/2026 01:45"
+      },
       {
         "name": "AS CASPRIA",
         "berth": "24/11/2026 07:30",
