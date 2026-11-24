@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T16:30:43+00:00",
+  "generated_at": "2026-11-24T17:00:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -261,11 +261,6 @@
         "name": "SIMAG SHANGHAI",
         "berth": "22/11/2026 00:05",
         "dep": "23/11/2026 00:48"
-      },
-      {
-        "name": "SINAR SULAWESI",
-        "berth": "20/11/2026 12:20",
-        "dep": "22/11/2026 00:25"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
