@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:00:45+00:00",
+  "generated_at": "2026-11-24T09:30:41+00:00",
   "tps": {
     "alongside": [
       {
@@ -189,6 +189,16 @@
         "imo": "9845738"
       },
       {
+        "name": "EVER OPTIMA",
+        "code": "0502-052S / 0502-052N",
+        "eta": "28/11/2026 14:00",
+        "etd": "29/11/2026 10:30",
+        "openstack": "23/11/2026 14:00",
+        "closeC": "28/11/2026 08:00",
+        "closeD": "28/11/2026 11:00",
+        "verified": false
+      },
+      {
         "name": "INTERASIA ENGAGE",
         "code": "S046 / N046",
         "eta": "28/11/2026 14:00",
@@ -208,6 +218,16 @@
         "openstack": "23/11/2026 23:00",
         "closeC": "28/11/2026 17:00",
         "closeD": "28/11/2026 20:00",
+        "verified": false
+      },
+      {
+        "name": "KOTA HIDAYAH",
+        "code": "2636S / 2636S",
+        "eta": "02/12/2026 03:00",
+        "etd": "03/12/2026 20:30",
+        "openstack": "27/11/2026 03:00",
+        "closeC": "01/12/2026 21:00",
+        "closeD": "02/12/2026 00:00",
         "verified": false
       }
     ],
@@ -256,18 +276,22 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "ITAL BONUS",
         "code": "ITBO011",
         "voyage": "S127         / N127",
         "type": "INTERNATIONAL",
-        "etb": "24/11/2026 15:00",
-        "etd": "25/11/2026 16:00",
-        "openstack": "19/11/2026 11:00",
-        "closeC": "24/11/2026 06:00"
+        "atb": "24/11/2026 16:10",
+        "etd": "25/11/2026 16:00"
       },
+      {
+        "name": "ITAL BONUS",
+        "code": "ITBO011",
+        "type": "INTERNATIONAL"
+      }
+    ],
+    "schedule": [
       {
         "name": "INTERASIA TRIUMPH",
         "code": "INTR002",
@@ -302,16 +326,6 @@
         "closeC": "27/11/2026 03:00"
       },
       {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU009",
-        "voyage": "015S         / 015N",
-        "type": "INTERNATIONAL",
-        "etb": "28/11/2026 12:00",
-        "etd": "29/11/2026 08:30",
-        "openstack": "23/11/2026 12:00",
-        "closeC": "27/11/2026 03:00"
-      },
-      {
         "name": "CHENNAI VOYAGER",
         "code": "CHVO012",
         "voyage": "2610S        / 2610N",
@@ -321,6 +335,16 @@
         "etd": "29/11/2026 12:00",
         "openstack": "23/11/2026 12:00",
         "closeC": "28/11/2026 07:00"
+      },
+      {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU009",
+        "voyage": "015S         / 015N",
+        "type": "INTERNATIONAL",
+        "etb": "28/11/2026 12:00",
+        "etd": "29/11/2026 08:30",
+        "openstack": "23/11/2026 12:00",
+        "closeC": "27/11/2026 03:00"
       },
       {
         "name": "YUAN XIANG FEN JIN",

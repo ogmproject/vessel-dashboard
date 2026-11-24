@@ -3218,5 +3218,12 @@
     "arrival": "2026-11-24T15:07:00",
     "departure": null,
     "recorded_at": "2026-11-24T08:30:44.905250"
+  },
+  {
+    "vessel_name": "ITAL BONUS",
+    "terminal": "TL",
+    "arrival": "2026-11-24T16:10:00",
+    "departure": null,
+    "recorded_at": "2026-11-24T09:30:41.503789"
   }
 ]

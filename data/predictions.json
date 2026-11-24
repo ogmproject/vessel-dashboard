@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:00:45.823119",
+  "generated_at": "2026-11-24T09:30:41.503789",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -922,6 +922,17 @@
       "avg_interval_days": 33.8,
       "interval_stddev_days": 3.6,
       "avg_dwelling_hours": 22.0,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "ITAL BONUS",
+      "terminal": "TL",
+      "last_arrival": "2026-11-24T16:10:00",
+      "predicted_next_arrival": "2026-12-28T19:50:30",
+      "avg_interval_days": 34.2,
+      "interval_stddev_days": 0.1,
+      "avg_dwelling_hours": 24.5,
       "visits_recorded": 3,
       "confidence": "medium"
     },
