@@ -3211,5 +3211,12 @@
     "arrival": "2026-11-24T07:30:00",
     "departure": null,
     "recorded_at": "2026-11-24T01:00:46.704741"
+  },
+  {
+    "vessel_name": "WAN HAI 352",
+    "terminal": "TPS",
+    "arrival": "2026-11-24T15:07:00",
+    "departure": null,
+    "recorded_at": "2026-11-24T08:30:44.905250"
   }
 ]
