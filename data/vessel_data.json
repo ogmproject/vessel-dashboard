@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T05:00:50+00:00",
+  "generated_at": "2026-11-25T05:30:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -284,7 +284,7 @@
         "type": "INTERNATIONAL",
         "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
         "atb": "24/11/2026 20:25",
-        "etd": "25/11/2026 22:00"
+        "etd": "26/11/2026 00:00"
       },
       {
         "name": "ITAL BONUS",
@@ -314,8 +314,8 @@
         "voyage": "2610S        / 2610N",
         "type": "INTERNATIONAL",
         "carrier": "HEUNG A LINE CO., LTD.",
-        "etb": "26/11/2026 02:00",
-        "etd": "27/11/2026 05:30",
+        "etb": "26/11/2026 16:00",
+        "etd": "27/11/2026 16:00",
         "openstack": "21/11/2026 02:00",
         "closeC": "26/11/2026 23:00"
       },
@@ -374,17 +374,7 @@
         "closeC": "29/11/2026 11:00"
       }
     ],
-    "departed": [
-      {
-        "name": "YM EFFICIENCY",
-        "code": "YMYM072",
-        "voyage": "209S         / 209N",
-        "type": "INTERNATIONAL",
-        "carrier": "PT.YANG MING SHIPPING INDONESIA",
-        "atb": "23/11/2026 13:48",
-        "atd": "24/11/2026 12:17"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
