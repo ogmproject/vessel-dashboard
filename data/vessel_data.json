@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:00:51+00:00",
+  "generated_at": "2026-11-25T17:30:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -266,22 +266,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "INTERASIA TRIUMPH",
-        "code": "INTR002",
-        "voyage": "E018         / W019",
-        "type": "INTERNATIONAL",
-        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
-        "atb": "24/11/2026 20:25",
-        "etd": "25/11/2026 23:00"
-      },
-      {
-        "name": "INTERASIA TRIUMPH",
-        "code": "INTR002",
-        "type": "INTERNATIONAL"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "TIANJIN VOYAGER",
@@ -363,6 +348,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "INTERASIA TRIUMPH",
+        "code": "INTR002",
+        "voyage": "E018         / W019",
+        "type": "INTERNATIONAL",
+        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
+        "atb": "24/11/2026 20:25",
+        "atd": "26/11/2026 00:18"
+      },
       {
         "name": "ITAL BONUS",
         "code": "ITBO011",
