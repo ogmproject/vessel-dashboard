@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:16:25+00:00",
+  "generated_at": "2026-11-25T08:30:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -194,6 +194,16 @@
         "verified": false
       },
       {
+        "name": "EVER BLISS",
+        "code": "1216-117B / 1216-117B",
+        "eta": "29/11/2026 12:00",
+        "etd": "30/11/2026 18:30",
+        "openstack": "24/11/2026 12:00",
+        "closeC": "29/11/2026 06:00",
+        "closeD": "29/11/2026 09:00",
+        "verified": false
+      },
+      {
         "name": "HONG TAI 656",
         "code": "648N / 648N",
         "eta": "30/11/2026 11:00",
@@ -318,17 +328,6 @@
         "closeC": "26/11/2026 17:00"
       },
       {
-        "name": "CHENNAI VOYAGER",
-        "code": "CHVO012",
-        "voyage": "2610S        / 2610N",
-        "type": "INTERNATIONAL",
-        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "26/11/2026 23:00",
-        "etd": "27/11/2026 23:00",
-        "openstack": "21/11/2026 23:00",
-        "closeC": "28/11/2026 07:00"
-      },
-      {
         "name": "AS CAROLINA",
         "code": "ASRO010",
         "voyage": "351S         / 351N",
@@ -338,6 +337,17 @@
         "etd": "28/11/2026 08:30",
         "openstack": "22/11/2026 08:00",
         "closeC": "27/11/2026 03:00"
+      },
+      {
+        "name": "CHENNAI VOYAGER",
+        "code": "CHVO012",
+        "voyage": "2610S        / 2610N",
+        "type": "INTERNATIONAL",
+        "carrier": "SINOKOR MERCHANT MARINE CO LTD",
+        "etb": "28/11/2026 12:00",
+        "etd": "29/11/2026 16:30",
+        "openstack": "23/11/2026 12:00",
+        "closeC": "28/11/2026 07:00"
       },
       {
         "name": "ERASMUS JUSTICE",
