@@ -3223,8 +3223,8 @@
     "vessel_name": "ITAL BONUS",
     "terminal": "TL",
     "arrival": "2026-11-24T16:10:00",
-    "departure": null,
-    "recorded_at": "2026-11-24T09:30:41.503789"
+    "departure": "2026-11-25T18:12:00",
+    "recorded_at": "2026-11-25T11:30:49.626646"
   },
   {
     "vessel_name": "ES TREASURE",

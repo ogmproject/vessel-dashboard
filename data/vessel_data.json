@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:00:59+00:00",
+  "generated_at": "2026-11-25T11:30:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -300,23 +300,8 @@
         "etd": "26/11/2026 00:00"
       },
       {
-        "name": "ITAL BONUS",
-        "code": "ITBO011",
-        "voyage": "S127         / N127",
-        "type": "INTERNATIONAL",
-        "atb": "24/11/2026 16:10",
-        "etd": "25/11/2026 17:00"
-      },
-      {
         "name": "INTERASIA TRIUMPH",
         "code": "INTR002",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "E018",
-        "code": "W019",
-        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
-        "voyage": "ITAL BONUS / ITBO011",
         "type": "INTERNATIONAL"
       }
     ],
@@ -400,7 +385,16 @@
         "imo": "9314923"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "ITAL BONUS",
+        "code": "ITBO011",
+        "voyage": "S127         / N127",
+        "type": "INTERNATIONAL",
+        "atb": "24/11/2026 16:10",
+        "atd": "25/11/2026 18:12"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
