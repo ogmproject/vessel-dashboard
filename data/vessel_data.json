@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-11-25T15:30:46+00:00",
+  "generated_at": "2026-11-25T16:00:52+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - INFERRO",
         "code": "049E / 049W",
         "atb": "25/11/2026 15:40",
-        "etd": "26/11/2026 08:00",
+        "etd": "26/11/2026 10:00",
         "verified": false
       },
       {
         "name": "I3 - EVER CHASTE",
         "code": "0562-098S / 0562-098N",
         "atb": "25/11/2026 18:30",
-        "etd": "26/11/2026 07:00",
+        "etd": "26/11/2026 09:00",
         "verified": false
       },
       {
         "name": "I2 - SINAR SUNDA",
         "code": "250S / 250N",
         "atb": "25/11/2026 03:45",
-        "etd": "26/11/2026 16:00",
+        "etd": "26/11/2026 17:00",
         "verified": false
       },
       {
         "name": "I1 - ES TREASURE",
         "code": "647N / 647N",
         "atb": "24/11/2026 19:12",
-        "etd": "25/11/2026 23:00",
+        "etd": "26/11/2026 07:00",
         "verified": false
       }
     ],
