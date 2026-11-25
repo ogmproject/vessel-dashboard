@@ -3251,8 +3251,8 @@
     "vessel_name": "THE WHALE SHARK",
     "terminal": "TPS",
     "arrival": "2026-11-25T04:45:00",
-    "departure": null,
-    "recorded_at": "2026-11-24T22:00:52.259782"
+    "departure": "2026-11-25T17:12:00",
+    "recorded_at": "2026-11-25T10:30:43.975749"
   },
   {
     "vessel_name": "INFERRO",
