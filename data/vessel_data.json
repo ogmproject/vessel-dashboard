@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:30:49+00:00",
+  "generated_at": "2026-11-25T12:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "049E / 049W",
         "atb": "25/11/2026 15:40",
         "etd": "26/11/2026 08:00",
+        "verified": false
+      },
+      {
+        "name": "I3 - EVER CHASTE",
+        "code": "0562-098S / 0562-098N",
+        "atb": "25/11/2026 18:30",
+        "etd": "26/11/2026 07:00",
         "verified": false
       },
       {
@@ -25,16 +32,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "EVER CHASTE",
-        "code": "0562-098S / 0562-098N",
-        "eta": "25/11/2026 19:00",
-        "etd": "26/11/2026 07:00",
-        "openstack": "20/11/2026 08:00",
-        "closeC": "25/11/2026 02:00",
-        "closeD": "25/11/2026 05:00",
-        "verified": false
-      },
       {
         "name": "WANEN",
         "code": "IDX020N / IDX030S",

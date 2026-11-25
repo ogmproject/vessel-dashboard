@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:30:49.626646",
+  "generated_at": "2026-11-25T12:00:51.440696",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -54,17 +54,6 @@
       "interval_stddev_days": 3.8,
       "avg_dwelling_hours": 37.5,
       "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "EVER CHASTE",
-      "terminal": "TPS",
-      "last_arrival": "2026-10-27T15:55:00",
-      "predicted_next_arrival": "2026-11-21T11:41:20",
-      "avg_interval_days": 24.8,
-      "interval_stddev_days": 2.9,
-      "avg_dwelling_hours": 12.2,
-      "visits_recorded": 4,
       "confidence": "medium"
     },
     {
@@ -824,6 +813,17 @@
       "interval_stddev_days": 2.2,
       "avg_dwelling_hours": 25.7,
       "visits_recorded": 4,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "EVER CHASTE",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-25T18:30:00",
+      "predicted_next_arrival": "2026-12-21T15:58:30",
+      "avg_interval_days": 25.9,
+      "interval_stddev_days": 3.1,
+      "avg_dwelling_hours": 12.2,
+      "visits_recorded": 5,
       "confidence": "medium"
     },
     {
