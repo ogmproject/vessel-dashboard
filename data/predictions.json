@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:30:51.687268",
+  "generated_at": "2026-11-25T09:00:49.192344",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -132,17 +132,6 @@
       "avg_dwelling_hours": 24.9,
       "visits_recorded": 4,
       "confidence": "medium"
-    },
-    {
-      "vessel_name": "INFERRO",
-      "terminal": "TPS",
-      "last_arrival": "2026-11-01T01:05:00",
-      "predicted_next_arrival": "2026-11-26T17:16:00",
-      "avg_interval_days": 25.7,
-      "interval_stddev_days": 0.4,
-      "avg_dwelling_hours": 22.6,
-      "visits_recorded": 4,
-      "confidence": "high"
     },
     {
       "vessel_name": "EVER OPTIMA",
@@ -759,6 +748,17 @@
       "avg_dwelling_hours": 16.8,
       "visits_recorded": 3,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "INFERRO",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-25T15:40:00",
+      "predicted_next_arrival": "2026-12-21T01:27:00",
+      "avg_interval_days": 25.4,
+      "interval_stddev_days": 0.6,
+      "avg_dwelling_hours": 22.6,
+      "visits_recorded": 5,
+      "confidence": "high"
     },
     {
       "vessel_name": "WAN HAI 376",
