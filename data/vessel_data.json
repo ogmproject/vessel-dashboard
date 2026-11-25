@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-11-25T06:00:47+00:00",
+  "generated_at": "2026-11-25T06:30:51+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - WAN HAI 352",
-        "code": "S048 / N049",
-        "atb": "24/11/2026 15:07",
-        "etd": "25/11/2026 12:30",
-        "verified": false
-      },
       {
         "name": "I3 - THE WHALE SHARK",
         "code": "3026S / 3026S",
@@ -222,6 +215,11 @@
       }
     ],
     "movement": [
+      {
+        "name": "WAN HAI 352",
+        "berth": "24/11/2026 15:07",
+        "dep": "25/11/2026 12:47"
+      },
       {
         "name": "SONGA SUCCESS",
         "berth": "24/11/2026 04:35",
