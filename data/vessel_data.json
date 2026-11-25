@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T16:30:47+00:00",
+  "generated_at": "2026-11-25T17:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -261,26 +261,6 @@
         "name": "MSC COLETTE III",
         "berth": "23/11/2026 11:45",
         "dep": "24/11/2026 00:59"
-      },
-      {
-        "name": "ANL DHAMBI",
-        "berth": "23/11/2026 06:10",
-        "dep": "23/11/2026 13:12"
-      },
-      {
-        "name": "SINAR SOLO",
-        "berth": "22/11/2026 23:30",
-        "dep": "23/11/2026 08:46"
-      },
-      {
-        "name": "NIKEN",
-        "berth": "22/11/2026 14:07",
-        "dep": "23/11/2026 07:40"
-      },
-      {
-        "name": "SIMAG SHANGHAI",
-        "berth": "22/11/2026 00:05",
-        "dep": "23/11/2026 00:48"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
