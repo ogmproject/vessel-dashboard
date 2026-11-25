@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-11-24T23:30:42+00:00",
+  "generated_at": "2026-11-25T00:00:06+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - WAN HAI 352",
         "code": "S048 / N049",
         "atb": "24/11/2026 15:07",
-        "etd": "25/11/2026 08:00",
+        "etd": "25/11/2026 10:00",
         "verified": false
       },
       {
         "name": "I3 - THE WHALE SHARK",
         "code": "3026S / 3026S",
         "atb": "25/11/2026 04:45",
-        "etd": "25/11/2026 14:00",
+        "etd": "25/11/2026 16:00",
         "verified": false
       },
       {
         "name": "I2 - SINAR SUNDA",
         "code": "250S / 250N",
         "atb": "25/11/2026 03:45",
-        "etd": "26/11/2026 21:00",
+        "etd": "26/11/2026 16:00",
         "verified": false
       },
       {
         "name": "I1 - ES TREASURE",
         "code": "647N / 647N",
         "atb": "24/11/2026 19:12",
-        "etd": "25/11/2026 17:30",
+        "etd": "25/11/2026 20:00",
         "verified": false
       }
     ],
