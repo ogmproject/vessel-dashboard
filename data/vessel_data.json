@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T04:30:42+00:00",
+  "generated_at": "2026-11-25T05:00:50+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - WAN HAI 352",
         "code": "S048 / N049",
         "atb": "24/11/2026 15:07",
-        "etd": "25/11/2026 13:30",
+        "etd": "25/11/2026 12:30",
         "verified": false
       },
       {
@@ -300,8 +300,10 @@
         "type": "INTERNATIONAL"
       },
       {
-        "name": "ITAL BONUS",
-        "code": "ITBO011",
+        "name": "E018",
+        "code": "W019",
+        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
+        "voyage": "ITAL BONUS / ITBO011",
         "type": "INTERNATIONAL"
       }
     ],
@@ -315,7 +317,7 @@
         "etb": "26/11/2026 02:00",
         "etd": "27/11/2026 05:30",
         "openstack": "21/11/2026 02:00",
-        "closeC": "26/11/2026 17:00"
+        "closeC": "26/11/2026 23:00"
       },
       {
         "name": "AS CAROLINA",
