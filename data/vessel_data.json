@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T06:30:51+00:00",
+  "generated_at": "2026-11-25T07:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -370,6 +370,19 @@
         "etd": "30/11/2026 12:30",
         "openstack": "24/11/2026 16:00",
         "closeC": "29/11/2026 11:00"
+      },
+      {
+        "name": "KMTC HOCHIMINH",
+        "code": "KMHO013",
+        "voyage": "2611S        / 2611N",
+        "type": "INTERNATIONAL",
+        "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
+        "etb": "30/11/2026 13:30",
+        "etd": "30/11/2026 14:00",
+        "openstack": "25/11/2026 13:30",
+        "closeC": "30/11/2026 08:30",
+        "mmsi": "440147000",
+        "imo": "9314923"
       }
     ],
     "departed": [],
