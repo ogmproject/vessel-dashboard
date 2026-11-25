@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T07:00:53+00:00",
+  "generated_at": "2026-11-25T07:30:52+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I3 - THE WHALE SHARK",
         "code": "3026S / 3026S",
         "atb": "25/11/2026 04:45",
-        "etd": "25/11/2026 18:00",
+        "etd": "25/11/2026 16:00",
         "verified": false
       },
       {
@@ -377,9 +377,9 @@
         "voyage": "2611S        / 2611N",
         "type": "INTERNATIONAL",
         "carrier": "BUT. KOREA MARINE TRANSPORT CO., LTD.",
-        "etb": "30/11/2026 13:30",
-        "etd": "30/11/2026 14:00",
-        "openstack": "25/11/2026 13:30",
+        "etb": "30/11/2026 16:30",
+        "etd": "01/12/2026 15:00",
+        "openstack": "25/11/2026 16:30",
         "closeC": "30/11/2026 08:30",
         "mmsi": "440147000",
         "imo": "9314923"
