@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T16:30:46+00:00",
+  "generated_at": "2026-11-26T17:00:53+00:00",
   "tps": {
     "alongside": [
       {
@@ -244,26 +244,6 @@
         "name": "AS CASPRIA",
         "berth": "24/11/2026 07:30",
         "dep": "25/11/2026 01:28"
-      },
-      {
-        "name": "TS NAGOYA",
-        "berth": "23/11/2026 18:10",
-        "dep": "24/11/2026 18:07"
-      },
-      {
-        "name": "ZHONG GU JI NAN",
-        "berth": "23/11/2026 16:45",
-        "dep": "24/11/2026 13:50"
-      },
-      {
-        "name": "APL JEDDAH",
-        "berth": "22/11/2026 16:55",
-        "dep": "24/11/2026 04:25"
-      },
-      {
-        "name": "MSC COLETTE III",
-        "berth": "23/11/2026 11:45",
-        "dep": "24/11/2026 00:59"
       }
     ],
     "note": "TPS's public page does not label Domestic/International — verify manually."
