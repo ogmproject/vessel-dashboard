@@ -3230,8 +3230,8 @@
     "vessel_name": "ES TREASURE",
     "terminal": "TPS",
     "arrival": "2026-11-24T19:12:00",
-    "departure": null,
-    "recorded_at": "2026-11-24T12:30:46.445323"
+    "departure": "2026-11-26T08:23:00",
+    "recorded_at": "2026-11-26T02:30:53.517475"
   },
   {
     "vessel_name": "INTERASIA TRIUMPH",
