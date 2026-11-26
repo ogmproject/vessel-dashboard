@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T07:00:52+00:00",
+  "generated_at": "2026-11-26T07:30:43+00:00",
   "tps": {
     "alongside": [
       {
@@ -34,18 +34,6 @@
         "closeC": "25/11/2026 19:00",
         "closeD": "25/11/2026 22:00",
         "verified": false
-      },
-      {
-        "name": "KMTC HAIPHONG",
-        "code": "2609S / 2609N",
-        "eta": "26/11/2026 08:00",
-        "etd": "26/11/2026 21:30",
-        "openstack": "21/11/2026 08:00",
-        "closeC": "26/11/2026 02:00",
-        "closeD": "26/11/2026 05:00",
-        "verified": false,
-        "mmsi": "538007503",
-        "imo": "9793806"
       },
       {
         "name": "MSC VAIGA III",
@@ -86,6 +74,18 @@
         "closeC": "27/11/2026 00:00",
         "closeD": "27/11/2026 03:00",
         "verified": false
+      },
+      {
+        "name": "KMTC HAIPHONG",
+        "code": "2609S / 2609N",
+        "eta": "27/11/2026 12:00",
+        "etd": "28/11/2026 01:00",
+        "openstack": "21/11/2026 08:00",
+        "closeC": "26/11/2026 02:00",
+        "closeD": "26/11/2026 05:00",
+        "verified": false,
+        "mmsi": "538007503",
+        "imo": "9793806"
       },
       {
         "name": "WAN HAI 327",
