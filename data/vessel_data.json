@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:00:50+00:00",
+  "generated_at": "2026-11-26T23:30:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -248,32 +248,37 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "AS CAROLINA",
+        "code": "ASRO010",
+        "voyage": "351S         / 351N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "atb": "27/11/2026 06:10",
+        "etd": "27/11/2026 21:00"
+      },
+      {
         "name": "TIANJIN VOYAGER",
         "code": "TIIN020",
         "voyage": "2610S        / 2610N",
         "type": "INTERNATIONAL",
         "carrier": "HEUNG A LINE CO., LTD.",
         "atb": "26/11/2026 22:25",
-        "etd": "27/11/2026 21:00"
+        "etd": "27/11/2026 20:00"
       },
       {
-        "name": "TIANJIN VOYAGER",
-        "code": "TIIN020",
+        "name": "AS CAROLINA",
+        "code": "ASRO010",
+        "type": "INTERNATIONAL"
+      },
+      {
+        "name": "351S",
+        "code": "351N",
+        "carrier": "GOLD STAR LINE LTD",
+        "voyage": "TIANJIN VOYAGER / TIIN020",
         "type": "INTERNATIONAL"
       }
     ],
     "schedule": [
-      {
-        "name": "AS CAROLINA",
-        "code": "ASRO010",
-        "voyage": "351S         / 351N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "etb": "27/11/2026 05:00",
-        "etd": "27/11/2026 21:00",
-        "openstack": "22/11/2026 08:00",
-        "closeC": "27/11/2026 03:00"
-      },
       {
         "name": "ERASMUS JUSTICE",
         "code": "ERJU009",

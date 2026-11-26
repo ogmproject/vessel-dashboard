@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:00:50.495373",
+  "generated_at": "2026-11-26T23:30:52.718813",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -98,17 +98,6 @@
       "interval_stddev_days": 2.3,
       "avg_dwelling_hours": 19.6,
       "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "AS CAROLINA",
-      "terminal": "TL",
-      "last_arrival": "2026-11-06T09:30:00",
-      "predicted_next_arrival": "2026-11-25T21:27:00",
-      "avg_interval_days": 19.5,
-      "interval_stddev_days": 2.1,
-      "avg_dwelling_hours": 19.7,
-      "visits_recorded": 5,
       "confidence": "medium"
     },
     {
@@ -649,6 +638,17 @@
       "avg_dwelling_hours": 19.4,
       "visits_recorded": 4,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "AS CAROLINA",
+      "terminal": "TL",
+      "last_arrival": "2026-11-27T06:10:00",
+      "predicted_next_arrival": "2026-12-17T00:39:36",
+      "avg_interval_days": 19.8,
+      "interval_stddev_days": 2.0,
+      "avg_dwelling_hours": 19.7,
+      "visits_recorded": 6,
+      "confidence": "high"
     },
     {
       "vessel_name": "SONGA SUCCESS",
