@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:00:53+00:00",
+  "generated_at": "2026-11-26T17:30:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -355,17 +355,7 @@
         "closeC": "02/12/2026 02:00"
       }
     ],
-    "departed": [
-      {
-        "name": "INTERASIA TRIUMPH",
-        "code": "INTR002",
-        "voyage": "E018         / W019",
-        "type": "INTERNATIONAL",
-        "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
-        "atb": "24/11/2026 20:25",
-        "atd": "26/11/2026 00:18"
-      }
-    ],
+    "departed": [],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
