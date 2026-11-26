@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T20:30:44.115616",
+  "generated_at": "2026-11-26T21:00:56.640786",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -977,6 +977,17 @@
       "avg_interval_days": 45.6,
       "interval_stddev_days": 10.2,
       "avg_dwelling_hours": 8.2,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "CMA CGM POINTE DU PITON",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-27T03:30:00",
+      "predicted_next_arrival": "2027-01-08T07:03:30",
+      "avg_interval_days": 42.1,
+      "interval_stddev_days": 4.5,
+      "avg_dwelling_hours": 29.5,
       "visits_recorded": 3,
       "confidence": "medium"
     },

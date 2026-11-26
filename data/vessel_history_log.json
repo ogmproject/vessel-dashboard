@@ -3295,5 +3295,12 @@
     "arrival": "2026-11-26T22:25:00",
     "departure": null,
     "recorded_at": "2026-11-26T16:00:52.843679"
+  },
+  {
+    "vessel_name": "CMA CGM POINTE DU PITON",
+    "terminal": "TPS",
+    "arrival": "2026-11-27T03:30:00",
+    "departure": null,
+    "recorded_at": "2026-11-26T21:00:56.640786"
   }
 ]
