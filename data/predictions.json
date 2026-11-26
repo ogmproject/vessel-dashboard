@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:30:44.357244",
+  "generated_at": "2026-11-26T16:00:52.843679",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -154,17 +154,6 @@
       "avg_dwelling_hours": 12.2,
       "visits_recorded": 4,
       "confidence": "high"
-    },
-    {
-      "vessel_name": "TIANJIN VOYAGER",
-      "terminal": "TL",
-      "last_arrival": "2026-10-26T00:02:00",
-      "predicted_next_arrival": "2026-11-27T12:59:00",
-      "avg_interval_days": 32.5,
-      "interval_stddev_days": 0.3,
-      "avg_dwelling_hours": 26.6,
-      "visits_recorded": 3,
-      "confidence": "medium"
     },
     {
       "vessel_name": "WAN HAI 327",
@@ -360,7 +349,7 @@
       "predicted_next_arrival": "2026-12-03T21:35:22.500000",
       "avg_interval_days": 8.7,
       "interval_stddev_days": 0.7,
-      "avg_dwelling_hours": 41.6,
+      "avg_dwelling_hours": 41.8,
       "visits_recorded": 9,
       "confidence": "high"
     },
@@ -935,6 +924,17 @@
       "avg_dwelling_hours": 25.0,
       "visits_recorded": 3,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "TIANJIN VOYAGER",
+      "terminal": "TL",
+      "last_arrival": "2026-11-26T22:25:00",
+      "predicted_next_arrival": "2026-12-29T06:30:40",
+      "avg_interval_days": 32.3,
+      "interval_stddev_days": 0.4,
+      "avg_dwelling_hours": 26.6,
+      "visits_recorded": 4,
+      "confidence": "high"
     },
     {
       "vessel_name": "ZHONG GU FU ZHOU",

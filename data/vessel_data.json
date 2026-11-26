@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:30:44+00:00",
+  "generated_at": "2026-11-26T16:00:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -14,13 +14,6 @@
         "code": "HV648R / HV648R",
         "atb": "26/11/2026 14:40",
         "etd": "27/11/2026 10:00",
-        "verified": false
-      },
-      {
-        "name": "I2 - SINAR SUNDA",
-        "code": "250S / 250N",
-        "atb": "25/11/2026 03:45",
-        "etd": "26/11/2026 21:00",
         "verified": false
       },
       {
@@ -213,6 +206,11 @@
     ],
     "movement": [
       {
+        "name": "SINAR SUNDA",
+        "berth": "25/11/2026 03:45",
+        "dep": "26/11/2026 22:55"
+      },
+      {
         "name": "INFERRO",
         "berth": "25/11/2026 15:40",
         "dep": "26/11/2026 18:02"
@@ -271,19 +269,23 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "TIANJIN VOYAGER",
         "code": "TIIN020",
         "voyage": "2610S        / 2610N",
         "type": "INTERNATIONAL",
         "carrier": "HEUNG A LINE CO., LTD.",
-        "etb": "26/11/2026 23:00",
-        "etd": "27/11/2026 21:00",
-        "openstack": "21/11/2026 23:00",
-        "closeC": "26/11/2026 17:00"
+        "atb": "26/11/2026 22:25",
+        "etd": "27/11/2026 21:00"
       },
+      {
+        "name": "TIANJIN VOYAGER",
+        "code": "TIIN020",
+        "type": "INTERNATIONAL"
+      }
+    ],
+    "schedule": [
       {
         "name": "AS CAROLINA",
         "code": "ASRO010",

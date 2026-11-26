@@ -3244,8 +3244,8 @@
     "vessel_name": "SINAR SUNDA",
     "terminal": "TPS",
     "arrival": "2026-11-25T03:45:00",
-    "departure": null,
-    "recorded_at": "2026-11-24T21:00:49.824146"
+    "departure": "2026-11-26T22:55:00",
+    "recorded_at": "2026-11-26T16:00:52.843679"
   },
   {
     "vessel_name": "THE WHALE SHARK",
@@ -3288,5 +3288,12 @@
     "arrival": "2026-11-26T19:15:00",
     "departure": null,
     "recorded_at": "2026-11-26T13:00:51.095577"
+  },
+  {
+    "vessel_name": "TIANJIN VOYAGER",
+    "terminal": "TL",
+    "arrival": "2026-11-26T22:25:00",
+    "departure": null,
+    "recorded_at": "2026-11-26T16:00:52.843679"
   }
 ]
