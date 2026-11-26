@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-11-26T12:30:50+00:00",
+  "generated_at": "2026-11-26T13:00:51+00:00",
   "tps": {
     "alongside": [
+      {
+        "name": "I4 - MSC WIND II",
+        "code": "HF645A / HF647R",
+        "atb": "26/11/2026 19:15",
+        "etd": "27/11/2026 14:00",
+        "verified": false
+      },
       {
         "name": "I3 - MSC VAIGA III",
         "code": "HV648R / HV648R",
@@ -33,16 +40,6 @@
         "openstack": "21/11/2026 01:00",
         "closeC": "25/11/2026 19:00",
         "closeD": "25/11/2026 22:00",
-        "verified": false
-      },
-      {
-        "name": "MSC WIND II",
-        "code": "HF645A / HF647R",
-        "eta": "26/11/2026 17:00",
-        "etd": "27/11/2026 14:00",
-        "openstack": "19/11/2026 16:00",
-        "closeC": "24/11/2026 10:00",
-        "closeD": "24/11/2026 13:00",
         "verified": false
       },
       {
