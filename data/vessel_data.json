@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T13:30:47+00:00",
+  "generated_at": "2026-11-26T14:00:59+00:00",
   "tps": {
     "alongside": [
       {
@@ -280,7 +280,7 @@
         "type": "INTERNATIONAL",
         "carrier": "HEUNG A LINE CO., LTD.",
         "etb": "26/11/2026 23:00",
-        "etd": "27/11/2026 21:00",
+        "etd": "27/11/2026 20:00",
         "openstack": "21/11/2026 23:00",
         "closeC": "26/11/2026 17:00"
       },
@@ -290,7 +290,7 @@
         "voyage": "351S         / 351N",
         "type": "INTERNATIONAL",
         "carrier": "GOLD STAR LINE LTD",
-        "etb": "27/11/2026 07:00",
+        "etb": "27/11/2026 05:00",
         "etd": "27/11/2026 21:00",
         "openstack": "22/11/2026 08:00",
         "closeC": "27/11/2026 03:00"
