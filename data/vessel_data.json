@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:00:51+00:00",
+  "generated_at": "2026-11-26T08:30:46+00:00",
   "tps": {
     "alongside": [
       {
@@ -355,6 +355,27 @@
         "etd": "02/12/2026 00:30",
         "openstack": "26/11/2026 08:00",
         "closeC": "01/12/2026 02:00"
+      },
+      {
+        "name": "MERATUS KAIMANA",
+        "code": "MEAI030",
+        "type": "INTERNATIONAL",
+        "carrier": "PT. MERATUS LINE",
+        "etb": "01/12/2026 16:00",
+        "etd": "02/12/2026 18:30",
+        "openstack": "26/11/2026 16:00",
+        "closeC": "01/12/2026 03:00"
+      },
+      {
+        "name": "HMM HARVEST",
+        "code": "HMAR008",
+        "voyage": "0017S        / 0017N",
+        "type": "INTERNATIONAL",
+        "carrier": "HMM CO.,LTD",
+        "etb": "02/12/2026 08:00",
+        "etd": "03/12/2026 01:30",
+        "openstack": "27/11/2026 08:00",
+        "closeC": "01/12/2026 03:00"
       }
     ],
     "departed": [
