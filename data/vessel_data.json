@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-11-26T11:00:56+00:00",
+  "generated_at": "2026-11-26T11:18:57+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I4 - INFERRO",
-        "code": "049E / 049W",
-        "atb": "25/11/2026 15:40",
-        "etd": "26/11/2026 16:30",
-        "verified": false
-      },
       {
         "name": "I3 - MSC VAIGA III",
         "code": "HV648R / HV648R",
@@ -223,6 +216,11 @@
     ],
     "movement": [
       {
+        "name": "INFERRO",
+        "berth": "25/11/2026 15:40",
+        "dep": "26/11/2026 18:02"
+      },
+      {
         "name": "EVER CHASTE",
         "berth": "25/11/2026 18:30",
         "dep": "26/11/2026 10:06"
@@ -387,14 +385,6 @@
         "carrier": "INTERASIA LINES SINGAPORE PTE.LTD",
         "atb": "24/11/2026 20:25",
         "atd": "26/11/2026 00:18"
-      },
-      {
-        "name": "ITAL BONUS",
-        "code": "ITBO011",
-        "voyage": "S127         / N127",
-        "type": "INTERNATIONAL",
-        "atb": "24/11/2026 16:10",
-        "atd": "25/11/2026 18:12"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."

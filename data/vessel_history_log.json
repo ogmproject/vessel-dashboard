@@ -3258,8 +3258,8 @@
     "vessel_name": "INFERRO",
     "terminal": "TPS",
     "arrival": "2026-11-25T15:40:00",
-    "departure": null,
-    "recorded_at": "2026-11-25T09:00:49.192344"
+    "departure": "2026-11-26T18:02:00",
+    "recorded_at": "2026-11-26T11:18:58.039593"
   },
   {
     "vessel_name": "EVER CHASTE",
