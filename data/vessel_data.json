@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:00:56+00:00",
+  "generated_at": "2026-11-26T21:30:42+00:00",
   "tps": {
     "alongside": [
       {
@@ -20,7 +20,7 @@
         "name": "I2 - CMA CGM POINTE DU PITON",
         "code": "KCS000S / KCS010N",
         "atb": "27/11/2026 03:30",
-        "etd": "28/11/2026 19:00",
+        "etd": "28/11/2026 17:00",
         "verified": false
       },
       {
