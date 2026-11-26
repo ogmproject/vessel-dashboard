@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T07:30:43+00:00",
+  "generated_at": "2026-11-26T08:00:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -7,6 +7,13 @@
         "code": "049E / 049W",
         "atb": "25/11/2026 15:40",
         "etd": "26/11/2026 16:30",
+        "verified": false
+      },
+      {
+        "name": "I3 - MSC VAIGA III",
+        "code": "HV648R / HV648R",
+        "atb": "26/11/2026 14:40",
+        "etd": "27/11/2026 10:00",
         "verified": false
       },
       {
@@ -33,16 +40,6 @@
         "openstack": "21/11/2026 01:00",
         "closeC": "25/11/2026 19:00",
         "closeD": "25/11/2026 22:00",
-        "verified": false
-      },
-      {
-        "name": "MSC VAIGA III",
-        "code": "HV648R / HV648R",
-        "eta": "26/11/2026 13:30",
-        "etd": "27/11/2026 10:00",
-        "openstack": "19/11/2026 02:00",
-        "closeC": "23/11/2026 20:00",
-        "closeD": "23/11/2026 23:00",
         "verified": false
       },
       {
@@ -181,6 +178,16 @@
         "openstack": "25/11/2026 11:00",
         "closeC": "30/11/2026 05:00",
         "closeD": "30/11/2026 08:00",
+        "verified": false
+      },
+      {
+        "name": "EVER CONSIST",
+        "code": "0563-072S / 0563-072N",
+        "eta": "30/11/2026 16:00",
+        "etd": "01/12/2026 09:30",
+        "openstack": "25/11/2026 16:00",
+        "closeC": "30/11/2026 10:00",
+        "closeD": "30/11/2026 13:00",
         "verified": false
       },
       {
