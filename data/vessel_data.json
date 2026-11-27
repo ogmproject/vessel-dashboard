@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T20:00:57+00:00",
+  "generated_at": "2026-11-27T20:30:50+00:00",
   "tps": {
     "alongside": [
       {
@@ -247,24 +247,8 @@
         "etd": "28/11/2026 09:00"
       },
       {
-        "name": "AS CAROLINA",
-        "code": "ASRO010",
-        "voyage": "351S         / 351N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "atb": "27/11/2026 06:10",
-        "etd": "28/11/2026 01:00"
-      },
-      {
         "name": "ERASMUS JUSTICE",
         "code": "ERJU009",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "16",
-        "code": "16",
-        "carrier": "FREEPORT INDONESIA PT.",
-        "voyage": "AS CAROLINA / ASRO010",
         "type": "INTERNATIONAL"
       }
     ],
@@ -359,6 +343,15 @@
       }
     ],
     "departed": [
+      {
+        "name": "AS CAROLINA",
+        "code": "ASRO010",
+        "voyage": "351S         / 351N",
+        "type": "INTERNATIONAL",
+        "carrier": "GOLD STAR LINE LTD",
+        "atb": "27/11/2026 06:10",
+        "atd": "28/11/2026 02:51"
+      },
       {
         "name": "TIANJIN VOYAGER",
         "code": "TIIN020",

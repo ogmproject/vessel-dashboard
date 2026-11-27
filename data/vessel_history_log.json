@@ -3307,8 +3307,8 @@
     "vessel_name": "AS CAROLINA",
     "terminal": "TL",
     "arrival": "2026-11-27T06:10:00",
-    "departure": null,
-    "recorded_at": "2026-11-26T23:30:52.718813"
+    "departure": "2026-11-28T02:51:00",
+    "recorded_at": "2026-11-27T20:30:50.654007"
   },
   {
     "vessel_name": "KMTC HAIPHONG",
