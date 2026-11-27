@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-27T09:30:49+00:00",
+  "generated_at": "2026-11-27T11:30:49+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - MSC WIND II",
         "code": "HF645A / HF647R",
         "atb": "26/11/2026 19:15",
-        "etd": "27/11/2026 20:00",
+        "etd": "27/11/2026 18:30",
         "verified": false
       },
       {
         "name": "I3 - MSC VAIGA III",
         "code": "HV648R / HV648R",
         "atb": "26/11/2026 14:40",
-        "etd": "27/11/2026 20:00",
+        "etd": "27/11/2026 19:00",
         "verified": false
       },
       {
@@ -379,8 +379,18 @@
         "etb": "02/12/2026 11:00",
         "etd": "03/12/2026 22:30",
         "openstack": "27/11/2026 11:00",
-        "closeC": "02/12/2026 03:00",
-        "carrier": "Semua informasi yang diinput oleh Pengguna Jasa dalam situs https://app.teluklamong.co.id/webaccess/, dipublikasikan dengan itikad baik."
+        "closeC": "02/12/2026 03:00"
+      },
+      {
+        "name": "WAN HAI 373",
+        "code": "WA73011",
+        "voyage": "S031         / N031",
+        "type": "INTERNATIONAL",
+        "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
+        "etb": "02/12/2026 16:00",
+        "etd": "02/12/2026 03:30",
+        "openstack": "27/11/2026 16:00",
+        "closeC": "01/12/2026 22:00"
       }
     ],
     "departed": [],
