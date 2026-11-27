@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-27T08:30:41+00:00",
+  "generated_at": "2026-11-27T09:00:51+00:00",
   "tps": {
     "alongside": [
       {
         "name": "I4 - MSC WIND II",
         "code": "HF645A / HF647R",
         "atb": "26/11/2026 19:15",
-        "etd": "27/11/2026 18:00",
+        "etd": "27/11/2026 20:00",
         "verified": false
       },
       {
         "name": "I3 - MSC VAIGA III",
         "code": "HV648R / HV648R",
         "atb": "26/11/2026 14:40",
-        "etd": "27/11/2026 18:00",
+        "etd": "27/11/2026 20:00",
         "verified": false
       },
       {
