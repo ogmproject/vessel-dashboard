@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:30:44.905307",
+  "generated_at": "2026-11-27T17:01:01.821943",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -130,17 +130,6 @@
       "avg_interval_days": 20.9,
       "interval_stddev_days": 1.3,
       "avg_dwelling_hours": 12.2,
-      "visits_recorded": 4,
-      "confidence": "high"
-    },
-    {
-      "vessel_name": "WAN HAI 327",
-      "terminal": "TPS",
-      "last_arrival": "2026-11-03T21:20:00",
-      "predicted_next_arrival": "2026-11-28T06:50:00",
-      "avg_interval_days": 24.4,
-      "interval_stddev_days": 0.8,
-      "avg_dwelling_hours": 19.0,
       "visits_recorded": 4,
       "confidence": "high"
     },
@@ -814,6 +803,17 @@
       "avg_dwelling_hours": 12.9,
       "visits_recorded": 5,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "WAN HAI 327",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-27T23:20:00",
+      "predicted_next_arrival": "2026-12-22T06:57:30",
+      "avg_interval_days": 24.3,
+      "interval_stddev_days": 0.7,
+      "avg_dwelling_hours": 19.0,
+      "visits_recorded": 5,
+      "confidence": "high"
     },
     {
       "vessel_name": "WAN HANG HENG YUAN",
