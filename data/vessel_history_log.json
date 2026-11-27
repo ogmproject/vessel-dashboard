@@ -3272,8 +3272,8 @@
     "vessel_name": "WHUTTHI BHUM",
     "terminal": "TPS",
     "arrival": "2026-11-26T12:05:00",
-    "departure": null,
-    "recorded_at": "2026-11-26T05:30:50.535041"
+    "departure": "2026-11-27T10:28:00",
+    "recorded_at": "2026-11-27T04:00:48.317270"
   },
   {
     "vessel_name": "MSC VAIGA III",

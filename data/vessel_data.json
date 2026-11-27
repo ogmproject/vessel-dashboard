@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T03:30:42+00:00",
+  "generated_at": "2026-11-27T04:00:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,26 +22,9 @@
         "atb": "27/11/2026 03:30",
         "etd": "28/11/2026 18:00",
         "verified": false
-      },
-      {
-        "name": "I1 - WHUTTHI BHUM",
-        "code": "2645S / 2645N",
-        "atb": "26/11/2026 12:05",
-        "etd": "27/11/2026 10:00",
-        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "WANEN",
-        "code": "IDX020N / IDX030S",
-        "eta": "26/11/2026 01:00",
-        "etd": "27/11/2026 03:30",
-        "openstack": "21/11/2026 01:00",
-        "closeC": "25/11/2026 19:00",
-        "closeD": "25/11/2026 22:00",
-        "verified": false
-      },
       {
         "name": "SINAR SULAWESI",
         "code": "104S / 104N",
@@ -131,6 +114,16 @@
         "imo": "9771664"
       },
       {
+        "name": "WANEN",
+        "code": "IDX020N / IDX030S",
+        "eta": "28/11/2026 16:00",
+        "etd": "30/11/2026 00:01",
+        "openstack": "21/11/2026 01:00",
+        "closeC": "25/11/2026 19:00",
+        "closeD": "25/11/2026 22:00",
+        "verified": false
+      },
+      {
         "name": "SEASPAN CALICANTO",
         "code": "645S / 648N",
         "eta": "28/11/2026 23:00",
@@ -213,6 +206,11 @@
     ],
     "movement": [
       {
+        "name": "WHUTTHI BHUM",
+        "berth": "26/11/2026 12:05",
+        "dep": "27/11/2026 10:28"
+      },
+      {
         "name": "SINAR SUNDA",
         "berth": "25/11/2026 03:45",
         "dep": "26/11/2026 22:55"
@@ -273,7 +271,7 @@
         "type": "INTERNATIONAL",
         "carrier": "HEUNG A LINE CO., LTD.",
         "atb": "26/11/2026 22:25",
-        "etd": "27/11/2026 20:00"
+        "etd": "27/11/2026 17:00"
       },
       {
         "name": "16",
@@ -296,8 +294,8 @@
         "code": "ERJU009",
         "voyage": "015S         / 015N",
         "type": "INTERNATIONAL",
-        "etb": "27/11/2026 14:00",
-        "etd": "28/11/2026 20:30",
+        "etb": "27/11/2026 19:00",
+        "etd": "28/11/2026 05:00",
         "openstack": "22/11/2026 14:00",
         "closeC": "27/11/2026 03:00"
       },
@@ -307,8 +305,8 @@
         "voyage": "2610S        / 2610N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "28/11/2026 12:00",
-        "etd": "29/11/2026 16:30",
+        "etb": "28/11/2026 16:00",
+        "etd": "29/11/2026 09:00",
         "openstack": "23/11/2026 12:00",
         "closeC": "28/11/2026 07:00"
       },
