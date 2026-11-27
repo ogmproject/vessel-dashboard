@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:00:51.730125",
+  "generated_at": "2026-11-27T16:30:44.905307",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -76,17 +76,6 @@
       "interval_stddev_days": 1.4,
       "avg_dwelling_hours": 25.8,
       "visits_recorded": 3,
-      "confidence": "medium"
-    },
-    {
-      "vessel_name": "HONG TAI 656",
-      "terminal": "TPS",
-      "last_arrival": "2026-11-16T13:25:00",
-      "predicted_next_arrival": "2026-11-23T16:28:27.692308",
-      "avg_interval_days": 7.1,
-      "interval_stddev_days": 3.7,
-      "avg_dwelling_hours": 26.8,
-      "visits_recorded": 14,
       "confidence": "medium"
     },
     {
@@ -362,6 +351,17 @@
       "interval_stddev_days": 1.1,
       "avg_dwelling_hours": 18.8,
       "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "HONG TAI 656",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-27T23:02:00",
+      "predicted_next_arrival": "2026-12-05T09:25:00",
+      "avg_interval_days": 7.4,
+      "interval_stddev_days": 3.7,
+      "avg_dwelling_hours": 26.8,
+      "visits_recorded": 15,
       "confidence": "medium"
     },
     {
