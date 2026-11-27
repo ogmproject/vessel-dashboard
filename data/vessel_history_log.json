@@ -3286,8 +3286,8 @@
     "vessel_name": "MSC WIND II",
     "terminal": "TPS",
     "arrival": "2026-11-26T19:15:00",
-    "departure": null,
-    "recorded_at": "2026-11-26T13:00:51.095577"
+    "departure": "2026-11-27T20:00:00",
+    "recorded_at": "2026-11-27T13:30:45.006271"
   },
   {
     "vessel_name": "TIANJIN VOYAGER",
