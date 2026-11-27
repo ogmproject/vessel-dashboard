@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:01:01+00:00",
+  "generated_at": "2026-11-27T12:57:21+00:00",
   "tps": {
     "alongside": [
       {
@@ -27,7 +27,7 @@
         "name": "I1 - KMTC HAIPHONG",
         "code": "2609S / 2609N",
         "atb": "27/11/2026 12:50",
-        "etd": "28/11/2026 05:00",
+        "etd": "28/11/2026 03:00",
         "verified": false
       }
     ],
@@ -46,7 +46,7 @@
         "name": "WAN HAI 327",
         "code": "S071 / N071",
         "eta": "27/11/2026 12:00",
-        "etd": "28/11/2026 08:00",
+        "etd": "28/11/2026 16:00",
         "openstack": "21/11/2026 16:00",
         "closeC": "26/11/2026 10:00",
         "closeD": "26/11/2026 13:00",
@@ -280,26 +280,10 @@
         "etd": "27/11/2026 23:00"
       },
       {
-        "name": "TIANJIN VOYAGER",
-        "code": "TIIN020",
-        "voyage": "2610S        / 2610N",
-        "type": "INTERNATIONAL",
-        "carrier": "HEUNG A LINE CO., LTD.",
-        "atb": "26/11/2026 22:25",
-        "etd": "27/11/2026 17:00"
-      },
-      {
         "name": "16",
         "code": "16",
         "carrier": "FREEPORT INDONESIA PT.",
         "voyage": "AS CAROLINA / ASRO010",
-        "type": "INTERNATIONAL"
-      },
-      {
-        "name": "351S",
-        "code": "351N",
-        "carrier": "GOLD STAR LINE LTD",
-        "voyage": "TIANJIN VOYAGER / TIIN020",
         "type": "INTERNATIONAL"
       }
     ],
@@ -310,7 +294,7 @@
         "voyage": "015S         / 015N",
         "type": "INTERNATIONAL",
         "etb": "27/11/2026 19:00",
-        "etd": "28/11/2026 05:00",
+        "etd": "28/11/2026 09:00",
         "openstack": "22/11/2026 14:00",
         "closeC": "27/11/2026 03:00"
       },
@@ -403,7 +387,17 @@
         "closeC": "01/12/2026 22:00"
       }
     ],
-    "departed": [],
+    "departed": [
+      {
+        "name": "TIANJIN VOYAGER",
+        "code": "TIIN020",
+        "voyage": "2610S        / 2610N",
+        "type": "INTERNATIONAL",
+        "carrier": "HEUNG A LINE CO., LTD.",
+        "atb": "26/11/2026 22:25",
+        "atd": "27/11/2026 19:12"
+      }
+    ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
   }
 }
