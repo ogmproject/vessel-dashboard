@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T06:00:49.008781",
+  "generated_at": "2026-11-27T06:30:44.625644",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -944,6 +944,17 @@
       "avg_interval_days": 44.9,
       "interval_stddev_days": 5.0,
       "avg_dwelling_hours": 30.7,
+      "visits_recorded": 3,
+      "confidence": "medium"
+    },
+    {
+      "vessel_name": "KMTC HAIPHONG",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-27T12:50:00",
+      "predicted_next_arrival": "2027-01-01T05:10:00",
+      "avg_interval_days": 34.7,
+      "interval_stddev_days": 3.4,
+      "avg_dwelling_hours": 13.9,
       "visits_recorded": 3,
       "confidence": "medium"
     },
