@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T11:30:49+00:00",
+  "generated_at": "2026-11-27T12:01:01+00:00",
   "tps": {
     "alongside": [
       {
@@ -196,6 +196,16 @@
         "openstack": "27/11/2026 16:00",
         "closeC": "02/12/2026 10:00",
         "closeD": "02/12/2026 13:00",
+        "verified": false
+      },
+      {
+        "name": "CMA CGM INDIAN",
+        "code": "KCS020S / KCS030N",
+        "eta": "02/12/2026 18:00",
+        "etd": "04/12/2026 14:30",
+        "openstack": "27/11/2026 18:00",
+        "closeC": "02/12/2026 12:00",
+        "closeD": "02/12/2026 15:00",
         "verified": false
       },
       {
