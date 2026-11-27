@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T22:30:57+00:00",
+  "generated_at": "2026-11-27T23:01:00+00:00",
   "tps": {
     "alongside": [
       {
@@ -244,7 +244,7 @@
         "voyage": "015S         / 015N",
         "type": "INTERNATIONAL",
         "atb": "28/11/2026 00:04",
-        "etd": "28/11/2026 09:00"
+        "etd": "28/11/2026 10:00"
       },
       {
         "name": "ERASMUS JUSTICE",
@@ -259,8 +259,8 @@
         "voyage": "2610S        / 2610N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "28/11/2026 16:00",
-        "etd": "29/11/2026 09:00",
+        "etb": "28/11/2026 18:00",
+        "etd": "29/11/2026 10:52",
         "openstack": "23/11/2026 12:00",
         "closeC": "28/11/2026 07:00"
       },
