@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-11-27T15:00:54+00:00",
+  "generated_at": "2026-11-27T15:30:50+00:00",
   "tps": {
     "alongside": [
-      {
-        "name": "I3 - MSC VAIGA III",
-        "code": "HV648R / HV648R",
-        "atb": "26/11/2026 14:40",
-        "etd": "27/11/2026 19:00",
-        "verified": false
-      },
       {
         "name": "I2 - CMA CGM POINTE DU PITON",
         "code": "KCS000S / KCS010N",
@@ -214,6 +207,11 @@
     ],
     "movement": [
       {
+        "name": "MSC VAIGA III",
+        "berth": "26/11/2026 14:40",
+        "dep": "27/11/2026 22:05"
+      },
+      {
         "name": "MSC WIND II",
         "berth": "26/11/2026 19:15",
         "dep": "27/11/2026 20:00"
@@ -275,7 +273,7 @@
         "type": "INTERNATIONAL",
         "carrier": "GOLD STAR LINE LTD",
         "atb": "27/11/2026 06:10",
-        "etd": "27/11/2026 23:00"
+        "etd": "28/11/2026 01:00"
       },
       {
         "name": "16",

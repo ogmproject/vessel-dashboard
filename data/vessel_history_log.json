@@ -3279,8 +3279,8 @@
     "vessel_name": "MSC VAIGA III",
     "terminal": "TPS",
     "arrival": "2026-11-26T14:40:00",
-    "departure": null,
-    "recorded_at": "2026-11-26T08:00:51.186014"
+    "departure": "2026-11-27T22:05:00",
+    "recorded_at": "2026-11-27T15:30:50.363594"
   },
   {
     "vessel_name": "MSC WIND II",
