@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:00:55+00:00",
+  "generated_at": "2026-11-27T07:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -186,6 +186,16 @@
         "openstack": "27/11/2026 08:00",
         "closeC": "02/12/2026 02:00",
         "closeD": "02/12/2026 05:00",
+        "verified": false
+      },
+      {
+        "name": "MSC ALIZEE III",
+        "code": "HF646A / HF648R",
+        "eta": "02/12/2026 16:00",
+        "etd": "03/12/2026 22:30",
+        "openstack": "27/11/2026 16:00",
+        "closeC": "02/12/2026 10:00",
+        "closeD": "02/12/2026 13:00",
         "verified": false
       },
       {
