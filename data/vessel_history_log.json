@@ -3314,8 +3314,8 @@
     "vessel_name": "KMTC HAIPHONG",
     "terminal": "TPS",
     "arrival": "2026-11-27T12:50:00",
-    "departure": null,
-    "recorded_at": "2026-11-27T06:30:44.625644"
+    "departure": "2026-11-28T03:35:00",
+    "recorded_at": "2026-11-27T21:30:48.481265"
   },
   {
     "vessel_name": "HONG TAI 656",

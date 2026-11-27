@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T21:00:51+00:00",
+  "generated_at": "2026-11-27T21:30:48+00:00",
   "tps": {
     "alongside": [
       {
@@ -21,13 +21,6 @@
         "code": "KCS000S / KCS010N",
         "atb": "27/11/2026 03:30",
         "etd": "28/11/2026 16:00",
-        "verified": false
-      },
-      {
-        "name": "I1 - KMTC HAIPHONG",
-        "code": "2609S / 2609N",
-        "atb": "27/11/2026 12:50",
-        "etd": "28/11/2026 03:00",
         "verified": false
       }
     ],
@@ -198,6 +191,13 @@
       }
     ],
     "movement": [
+      {
+        "name": "KMTC HAIPHONG",
+        "berth": "27/11/2026 12:50",
+        "dep": "28/11/2026 03:35",
+        "mmsi": "538007503",
+        "imo": "9793806"
+      },
       {
         "name": "MSC VAIGA III",
         "berth": "26/11/2026 14:40",
