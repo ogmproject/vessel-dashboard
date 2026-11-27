@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:01:01+00:00",
+  "generated_at": "2026-11-27T17:30:47+00:00",
   "tps": {
     "alongside": [
       {
@@ -239,6 +239,14 @@
   "teluk_lamong": {
     "alongside": [
       {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU009",
+        "voyage": "015S         / 015N",
+        "type": "INTERNATIONAL",
+        "atb": "28/11/2026 00:04",
+        "etd": "28/11/2026 09:00"
+      },
+      {
         "name": "AS CAROLINA",
         "code": "ASRO010",
         "voyage": "351S         / 351N",
@@ -246,6 +254,11 @@
         "carrier": "GOLD STAR LINE LTD",
         "atb": "27/11/2026 06:10",
         "etd": "28/11/2026 01:00"
+      },
+      {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU009",
+        "type": "INTERNATIONAL"
       },
       {
         "name": "16",
@@ -256,16 +269,6 @@
       }
     ],
     "schedule": [
-      {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU009",
-        "voyage": "015S         / 015N",
-        "type": "INTERNATIONAL",
-        "etb": "27/11/2026 23:00",
-        "etd": "28/11/2026 09:00",
-        "openstack": "22/11/2026 14:00",
-        "closeC": "27/11/2026 03:00"
-      },
       {
         "name": "CHENNAI VOYAGER",
         "code": "CHVO012",
