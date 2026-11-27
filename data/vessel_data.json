@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T02:00:49+00:00",
+  "generated_at": "2026-11-27T02:30:52+00:00",
   "tps": {
     "alongside": [
       {
@@ -276,8 +276,10 @@
         "etd": "27/11/2026 20:00"
       },
       {
-        "name": "AS CAROLINA",
-        "code": "ASRO010",
+        "name": "16",
+        "code": "16",
+        "carrier": "FREEPORT INDONESIA PT.",
+        "voyage": "AS CAROLINA / ASRO010",
         "type": "INTERNATIONAL"
       },
       {
