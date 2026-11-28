@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T13:01:02+00:00",
+  "generated_at": "2026-11-28T13:30:45+00:00",
   "tps": {
     "alongside": [
       {
@@ -256,19 +256,23 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [],
-    "schedule": [
+    "alongside": [
       {
         "name": "CHENNAI VOYAGER",
         "code": "CHVO012",
         "voyage": "2610S        / 2610N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "28/11/2026 19:00",
-        "etd": "29/11/2026 14:00",
-        "openstack": "23/11/2026 12:00",
-        "closeC": "28/11/2026 12:30"
+        "atb": "28/11/2026 20:00",
+        "etd": "29/11/2026 13:00"
       },
+      {
+        "name": "CHENNAI VOYAGER",
+        "code": "CHVO012",
+        "type": "INTERNATIONAL"
+      }
+    ],
+    "schedule": [
       {
         "name": "MARINA ONE",
         "code": "MAON005",

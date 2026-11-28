@@ -3344,5 +3344,12 @@
     "arrival": "2026-11-28T07:20:00",
     "departure": null,
     "recorded_at": "2026-11-28T00:30:49.790379"
+  },
+  {
+    "vessel_name": "CHENNAI VOYAGER",
+    "terminal": "TL",
+    "arrival": "2026-11-28T20:00:00",
+    "departure": null,
+    "recorded_at": "2026-11-28T13:30:45.525722"
   }
 ]
