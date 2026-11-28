@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T12:01:02+00:00",
+  "generated_at": "2026-11-28T12:30:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -13,14 +13,14 @@
         "name": "I3 - WAN HAI 327",
         "code": "S071 / N071",
         "atb": "27/11/2026 23:20",
-        "etd": "28/11/2026 21:00",
+        "etd": "29/11/2026 08:00",
         "verified": false
       },
       {
         "name": "I2 - CMA CGM POINTE DU PITON",
         "code": "KCS000S / KCS010N",
         "atb": "27/11/2026 03:30",
-        "etd": "29/11/2026 01:30",
+        "etd": "29/11/2026 06:00",
         "verified": false
       },
       {
@@ -364,15 +364,6 @@
         "carrier": "GOLD STAR LINE LTD",
         "atb": "27/11/2026 06:10",
         "atd": "28/11/2026 02:51"
-      },
-      {
-        "name": "TIANJIN VOYAGER",
-        "code": "TIIN020",
-        "voyage": "2610S        / 2610N",
-        "type": "INTERNATIONAL",
-        "carrier": "HEUNG A LINE CO., LTD.",
-        "atb": "26/11/2026 22:25",
-        "atd": "27/11/2026 19:12"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
