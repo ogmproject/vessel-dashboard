@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T19:30:50+00:00",
+  "generated_at": "2026-11-28T20:01:08+00:00",
   "tps": {
     "alongside": [
       {
@@ -339,15 +339,6 @@
         "type": "INTERNATIONAL",
         "atb": "28/11/2026 00:04",
         "atd": "28/11/2026 10:06"
-      },
-      {
-        "name": "AS CAROLINA",
-        "code": "ASRO010",
-        "voyage": "351S         / 351N",
-        "type": "INTERNATIONAL",
-        "carrier": "GOLD STAR LINE LTD",
-        "atb": "27/11/2026 06:10",
-        "atd": "28/11/2026 02:51"
       }
     ],
     "note": "Filtered to INTERNATIONAL-labeled vessels only."
