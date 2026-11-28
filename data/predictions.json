@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T00:00:50.319068",
+  "generated_at": "2026-11-28T00:30:49.790379",
   "predictions": [
     {
       "vessel_name": "JOANNA",
@@ -154,17 +154,6 @@
       "avg_dwelling_hours": 18.3,
       "visits_recorded": 3,
       "confidence": "medium"
-    },
-    {
-      "vessel_name": "SINAR SULAWESI",
-      "terminal": "TPS",
-      "last_arrival": "2026-11-20T12:20:00",
-      "predicted_next_arrival": "2026-11-29T02:09:32.727273",
-      "avg_interval_days": 8.6,
-      "interval_stddev_days": 0.7,
-      "avg_dwelling_hours": 36.7,
-      "visits_recorded": 12,
-      "confidence": "high"
     },
     {
       "vessel_name": "EVER BLISS",
@@ -363,6 +352,17 @@
       "avg_dwelling_hours": 13.7,
       "visits_recorded": 3,
       "confidence": "medium"
+    },
+    {
+      "vessel_name": "SINAR SULAWESI",
+      "terminal": "TPS",
+      "last_arrival": "2026-11-28T07:20:00",
+      "predicted_next_arrival": "2026-12-06T19:35:25",
+      "avg_interval_days": 8.5,
+      "interval_stddev_days": 0.7,
+      "avg_dwelling_hours": 36.7,
+      "visits_recorded": 13,
+      "confidence": "high"
     },
     {
       "vessel_name": "EVER CANDID",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:01:00+00:00",
+  "generated_at": "2026-11-28T00:30:49+00:00",
   "tps": {
     "alongside": [
       {
@@ -22,19 +22,16 @@
         "atb": "27/11/2026 03:30",
         "etd": "28/11/2026 16:00",
         "verified": false
+      },
+      {
+        "name": "I1 - SINAR SULAWESI",
+        "code": "104S / 104N",
+        "atb": "28/11/2026 07:20",
+        "etd": "29/11/2026 00:30",
+        "verified": false
       }
     ],
     "schedule": [
-      {
-        "name": "SINAR SULAWESI",
-        "code": "104S / 104N",
-        "eta": "27/11/2026 06:00",
-        "etd": "29/11/2026 00:30",
-        "openstack": "22/11/2026 06:00",
-        "closeC": "27/11/2026 00:00",
-        "closeD": "27/11/2026 03:00",
-        "verified": false
-      },
       {
         "name": "APL PUSAN",
         "code": "CS20S0S / CS20T0N",
@@ -259,8 +256,8 @@
         "voyage": "2610S        / 2610N",
         "type": "INTERNATIONAL",
         "carrier": "SINOKOR MERCHANT MARINE CO LTD",
-        "etb": "28/11/2026 18:00",
-        "etd": "29/11/2026 10:52",
+        "etb": "28/11/2026 16:00",
+        "etd": "29/11/2026 09:00",
         "openstack": "23/11/2026 12:00",
         "closeC": "28/11/2026 07:00"
       },
