@@ -3335,8 +3335,8 @@
     "vessel_name": "ERASMUS JUSTICE",
     "terminal": "TL",
     "arrival": "2026-11-28T00:04:00",
-    "departure": null,
-    "recorded_at": "2026-11-27T17:30:47.913008"
+    "departure": "2026-11-28T10:06:00",
+    "recorded_at": "2026-11-28T03:30:51.891602"
   },
   {
     "vessel_name": "SINAR SULAWESI",

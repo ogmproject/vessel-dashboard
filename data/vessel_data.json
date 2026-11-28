@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T03:00:47+00:00",
+  "generated_at": "2026-11-28T03:30:51+00:00",
   "tps": {
     "alongside": [
       {
@@ -234,21 +234,7 @@
     "note": "TPS's public page does not label Domestic/International — verify manually."
   },
   "teluk_lamong": {
-    "alongside": [
-      {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU009",
-        "voyage": "015S         / 015N",
-        "type": "INTERNATIONAL",
-        "atb": "28/11/2026 00:04",
-        "etd": "28/11/2026 10:00"
-      },
-      {
-        "name": "ERASMUS JUSTICE",
-        "code": "ERJU009",
-        "type": "INTERNATIONAL"
-      }
-    ],
+    "alongside": [],
     "schedule": [
       {
         "name": "CHENNAI VOYAGER",
@@ -340,6 +326,14 @@
       }
     ],
     "departed": [
+      {
+        "name": "ERASMUS JUSTICE",
+        "code": "ERJU009",
+        "voyage": "015S         / 015N",
+        "type": "INTERNATIONAL",
+        "atb": "28/11/2026 00:04",
+        "atd": "28/11/2026 10:06"
+      },
       {
         "name": "AS CAROLINA",
         "code": "ASRO010",
