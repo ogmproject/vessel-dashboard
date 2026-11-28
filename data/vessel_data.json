@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T08:00:54+00:00",
+  "generated_at": "2026-11-28T09:01:09+00:00",
   "tps": {
     "alongside": [
       {
@@ -177,6 +177,16 @@
         "verified": false
       },
       {
+        "name": "EVER BEFIT",
+        "code": "1219-083A / 1219-083A",
+        "eta": "02/12/2026 22:00",
+        "etd": "03/12/2026 22:30",
+        "openstack": "27/11/2026 22:00",
+        "closeC": "02/12/2026 16:00",
+        "closeD": "02/12/2026 19:00",
+        "verified": false
+      },
+      {
         "name": "XIN YAN TAI",
         "code": "276S / 276N",
         "eta": "03/12/2026 00:00",
@@ -332,7 +342,7 @@
         "type": "INTERNATIONAL",
         "carrier": "WAN HAI LINES SINGAPORE PTE LTD",
         "etb": "02/12/2026 16:00",
-        "etd": "02/12/2026 03:30",
+        "etd": "03/12/2026 03:30",
         "openstack": "27/11/2026 16:00",
         "closeC": "01/12/2026 22:00"
       }
